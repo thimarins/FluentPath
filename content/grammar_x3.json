@@ -1,0 +1,208 @@
+[
+  {
+    "id": "cleft-sentences",
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It is the lack of documentation ____ slows down onboarding.",
+        "opts": ["what", "that", "who", "whom"],
+        "ans": 1,
+        "why": "Use 'that' (or 'which') for things in an it-cleft sentence, not 'what'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "____ I really appreciate about this team is their honesty.",
+        "opts": ["Which", "That", "What", "It"],
+        "ans": 2,
+        "why": "Pseudo-cleft sentences start with 'What' (= the thing that)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It was in Berlin ____ they first met at a security conference.",
+        "opts": ["where", "that", "which", "what"],
+        "ans": 1,
+        "why": "After 'It was + place/time', standard it-clefts use 'that' rather than 'where'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "All I want ____ a clear timeline before we start.",
+        "opts": ["are", "is", "were", "have been"],
+        "ans": 1,
+        "why": "'All I want' is treated as a singular unit followed by 'is'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Choose the natural cleft sentence:",
+        "opts": [
+          "What I need it is more time.",
+          "What I need is more time.",
+          "That I need is more time.",
+          "It is more time what I need."
+        ],
+        "ans": 1,
+        "why": "Do not repeat 'it' after a 'What...' clause, and do not use 'what' after 'It is...'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "____ matters most is that the service stays reliable.",
+        "ans": "What",
+        "acc": ["What", "what"],
+        "why": "Use 'What' to mean 'the thing that' at the start of the sentence."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "It was Maria ____ spotted the bug in production.",
+        "ans": "who",
+        "acc": ["who", "that"],
+        "why": "Use 'who' or 'that' when emphasizing a person."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The reason why we delayed the release ____ (be) a missing security patch.",
+        "ans": "was",
+        "acc": ["was", "is"],
+        "why": "Delayed is in the past, so 'was' matches the timeframe."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "It wasn't until Friday ____ we received the final approval.",
+        "ans": "that",
+        "acc": ["that"],
+        "why": "The pattern 'It wasn't until [time] that...' emphasizes when something finally happened."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "O que precisamos fazer agora é testar o sistema.",
+        "ans": "What we need to do now is test the system.",
+        "why": "What + subject + need to do + is + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Foi só ontem que eu percebi o erro.",
+        "ans": "It was only yesterday that I noticed the mistake.",
+        "why": "It was only + time + that + clause."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Tudo o que ela pediu foi um pouco de paciência.",
+        "ans": "All she asked for was a little patience.",
+        "why": "All + subject + verb + was + noun phrase."
+      }
+    ]
+  },
+  {
+    "id": "subjunctive-structures",
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The auditor recommended that the company ____ its access logs immediately.",
+        "opts": ["reviews", "review", "reviewed", "to review"],
+        "ans": 1,
+        "why": "After 'recommend that', formal English uses the bare infinitive (review)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It is imperative that he ____ notified as soon as the flight lands.",
+        "opts": ["is", "be", "was", "will be"],
+        "ans": 1,
+        "why": "Use 'be' after 'It is imperative that...' regardless of the subject."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "They demanded that the manager ____ an explanation.",
+        "opts": ["gives", "give", "gave", "giving"],
+        "ans": 1,
+        "why": "'Demand that' takes the base subjunctive verb without -s."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It is crucial that the report ____ published without confidential data.",
+        "opts": ["is", "be", "was", "are"],
+        "ans": 1,
+        "why": "Passive subjunctive uses 'be + past participle' after expressions like 'It is crucial that...'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Choose the correct formal subjunctive sentence:",
+        "opts": [
+          "I suggest that she stays at home today.",
+          "I suggest that she to stay at home today.",
+          "I suggest that she stay at home today.",
+          "I suggest that she staying at home today."
+        ],
+        "ans": 2,
+        "why": "After 'suggest that', use the base verb 'stay' without -s or 'to'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The policy requires that every user ____ (change) their password every 90 days.",
+        "ans": "change",
+        "acc": ["change"],
+        "why": "After 'require that', use the base verb 'change' (not changes)."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "It is important that the contract ____ (be) signed before Friday.",
+        "ans": "be",
+        "acc": ["be"],
+        "why": "Passive subjunctive uses 'be' + past participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "She requested that her name ____ (not / appear) on the public list.",
+        "ans": "not appear",
+        "acc": ["not appear"],
+        "why": "Negative subjunctive places 'not' directly before the base verb (no 'do/does')."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "We urge that the committee ____ (consider) all the security risks.",
+        "ans": "consider",
+        "acc": ["consider"],
+        "why": "After 'urge that', use the base verb 'consider'."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "É essencial que ele chegue na hora.",
+        "ans": "It is essential that he arrive on time.",
+        "why": "It is essential that + he + arrive (base verb, no -s)."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "O médico recomendou que ela descanse por uma semana.",
+        "ans": "The doctor recommended that she rest for a week.",
+        "why": "Recommended that + she + rest (base verb)."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Eles insistiram que o relatório fosse enviado hoje.",
+        "ans": "They insisted that the report be sent today.",
+        "why": "Insisted that + subject + be + past participle."
+      }
+    ]
+  }
+]
