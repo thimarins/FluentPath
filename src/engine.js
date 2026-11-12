@@ -202,9 +202,9 @@ function b2Requirements(S) {
   const skillV = k => clamp((abilityFor(S, k) - 2) / 1.9, 0, 1);
   const list = [
     { id: 'gram-b1', name: 'Core grammar (A1–B1+)', w: 1, v: clamp(cm(gramB1, 'g:') / .8, 0, 1), tip: 'Review tenses, modals, conditionals and prepositions until they feel automatic.' },
-    { id: 'gram-b2', name: 'B2 grammar', w: 1.4, v: clamp(cm(gramB2, 'g:') / .75, 0, 1), tip: 'Work on third conditional, passive, reported speech and advanced modals.' },
-    { id: 'vocab-b2', name: 'B2 vocabulary', w: 1.4, v: clamp(cm(wB2, 'w:') / .5, 0, 1), tip: 'Learn B2 words with production exercises, not only recognition.' },
-    { id: 'phr', name: 'Phrasal verbs', w: 1, v: clamp(cm(CONTENT.phr, 'p:') / .55, 0, 1), tip: 'Practice phrasal verbs in sentences you could really say.' },
+    { id: 'gram-b2', name: 'B2 grammar', w: 1.4, v: clamp(cm(gramB2, 'g:') / .65, 0, 1), tip: 'Work on third conditional, passive, reported speech and advanced modals.' },
+    { id: 'vocab-b2', name: 'B2 vocabulary', w: 1.4, v: clamp(cm(wB2, 'w:') / .38, 0, 1), tip: 'Learn B2 words with production exercises, not only recognition.' },
+    { id: 'phr', name: 'Phrasal verbs', w: 1, v: clamp(cm(CONTENT.phr, 'p:') / .45, 0, 1), tip: 'Practice phrasal verbs in sentences you could really say.' },
     { id: 'conn', name: 'Connectors & linking', w: 1.2, v: .6 * groupMastery(S, allCats, now) + .4 * connVar, tip: 'Replace "because" and "but" with since, whereas, nevertheless, due to…' },
     { id: 'nat', name: 'Natural English', w: 1, v: clamp(groupMastery(S, natKeys, now) / .6, 0, 1), tip: 'Choose the phrase a native speaker would use, not the literal translation.' },
     { id: 'read', name: 'Reading', w: .8, v: skillV('reading'), tip: 'Read one B2 text every few days and look up unknown words.' },

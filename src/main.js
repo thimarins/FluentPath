@@ -37,9 +37,9 @@ async function serverBoot() {
   document.addEventListener('visibilitychange', () => { if (document.hidden) { save(); srvPush(true); } });
   matchMedia('(prefers-color-scheme: dark)').addEventListener && matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (S.settings.theme === 'system' && $('#themeBtn')) chrome(); });
   // Acessibilidade: elementos clicáveis que não são <button>/<a> ganham foco e ativação por teclado.
-  const kbFix = root => (root.querySelectorAll ? root : document).querySelectorAll('[data-a]:not(button):not(a):not(input):not(select):not(textarea):not([tabindex])').forEach(el => { el.setAttribute('tabindex', '0'); el.setAttribute('role', 'button'); });
-  new MutationObserver(() => kbFix(document)).observe(document.body, { childList: true, subtree: true });
+  const kbFix = () => { try { document.querySelectorAll('[data-a]:not(button):not(a):not(input):not(select):not(textarea):not([tabindex])').forEach(el => { el.setAttribute('tabindex', '0'); el.setAttribute('role', 'button'); }); } catch (e) { } };
+  new MutationObserver(() => kbFix()).observe(document.body, { childList: true, subtree: true });
   document.addEventListener('keydown', e => { const t = e.target; if ((e.key === 'Enter' || e.key === ' ') && t && t.getAttribute && t.getAttribute('role') === 'button' && !/^(BUTTON|A|INPUT|TEXTAREA|SELECT)$/.test(t.tagName)) { e.preventDefault(); t.click(); } });
   render();
-  kbFix(document);
+  kbFix();
 })();
