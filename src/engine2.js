@@ -3,7 +3,8 @@
    Geradores de exercícios, análise de texto, caderno de erros
    e planejador da sessão diária.
    ============================================================ */
-const EST = { mcq: 18, cloze: 22, order: 35, typed: 35, translate: 40, produce: 55, listen: 70, speak: 80, write: 130, rp: 150 };
+/* segundos REAIS por tipo de item (medidos por leitura/escuta: 2 audições + perguntas, texto de ~200 palavras etc.) */
+const EST = { mcq: 20, cloze: 26, order: 40, typed: 40, translate: 50, produce: 90, listen: 165, read: 150, speak: 120, write: 200, rp: 240 };
 const TOPIC_MAP = { tech: ['tech'], ai: ['ai'], security: ['security'], business: ['business', 'work'], travel: ['travel'], daily: ['daily'], relationships: ['relationships'], culture: ['culture'], finance: ['finance'], science: ['science'] };
 const ptHelpOn = S => S.settings.ptHelp === 'on' ? true : S.settings.ptHelp === 'off' ? false : overallA(S) < 4;
 const mask = (s, f) => { const i = s.toLowerCase().indexOf(String(f).toLowerCase()); return i < 0 ? s + ' ____' : s.slice(0, i) + '____' + s.slice(i + f.length); };
@@ -328,7 +329,7 @@ function errorPatterns(S) {
   return Object.keys(by).map(t => ({ tag: t, n: by[t] })).sort((a, b) => b.n - a.n);
 }
 const TAG_NAME = { 'present-perfect': 'Present Perfect', preposition: 'Prepositions (in/on/at…)', article: 'Articles', 'literal-translation': 'Literal translations from Portuguese', collocation: 'Collocations', agreement: 'Subject–verb agreement', uncountable: 'Uncountable nouns', conditional: 'Conditionals', comparatives: 'Comparatives', modals: 'Modal verbs', connectors: 'Connectors', 'word-order': 'Word order', 'false-friend': 'False friends' };
-const tagName = t => TAG_NAME[t] || (IDX.gr[t] ? IDX.gr[t].name : t.replace(/^natural-/, 'Natural: ').replace(/-/g, ' '));
+const tagName = t => t === 'class' ? 'From my teacher' : TAG_NAME[t] || (IDX.gr[t] ? IDX.gr[t].name : t.replace(/^natural-/, 'Natural: ').replace(/-/g, ' '));
 
 /* ---------- construção de item a partir de um conceito ---------- */
 function buildFor(S, cid, tierOverride) {
@@ -395,7 +396,7 @@ function planSession(S, minutes, opts = {}) {
   // pesos dos blocos, influenciados por fraquezas e recência
   const W = { vocab: .26, grammar: .22, listening: .17, speaking: .2, challenge: .15 };
   W.listening += clamp((abilityFor(S, 'reading') - abilityFor(S, 'listening')) * .15, 0, .15) + Math.min(.08, dList * .02);
-  W.speaking += Math.min(.2, dSpeak * .04);
+  if (S.profile.teacher) W.speaking *= .4; else W.speaking += Math.min(.2, dSpeak * .04); // com aulas semanais, a fala fica com o professor
   if (dueW.length + dueP.length > 10) W.vocab += .08;
   if (M <= 5) { W.listening = dList > 3 ? .15 : 0; W.speaking = dSpeak > 3 ? .2 : 0; }
   if (M >= 15) { W.writing = .1 + Math.min(.1, dWrite * .02); }
@@ -406,7 +407,7 @@ function planSession(S, minutes, opts = {}) {
   const tw = Object.values(W).reduce((a, b) => a + b, 0);
   const used = new Set(); const blocks = [];
   const take = (cid, tierOver) => { if (used.has(cid)) return null; const it = buildFor(S, cid, tierOver); if (it) used.add(cid); return it; };
-  const secs = it => EST[it.type === 'mcq' && it.wtype === 'cloze' ? 'cloze' : it.type] || 25;
+  const secs = it => EST[it.type === 'mcq' && it.wtype === 'cloze' ? 'cloze' : (it.type === 'listen' && it.mode === 'read') ? 'read' : it.type] || 25;
 
   // 1) correção de erros antigos (sempre que houver algo vencido)
   const repairs = [];
@@ -423,7 +424,9 @@ function planSession(S, minutes, opts = {}) {
   if (dueMix.length > 15) nVocab += 1;
   const baseNew = clamp(Math.round(M / 3), 1, 6); const maxNew = dueMix.length > 40 ? 1 : dueMix.length > 20 ? Math.max(1, Math.round(baseNew * .6)) : baseNew;
   const reviewCap = Math.max(2, nVocab - maxNew);
-  dueMix.slice(0, reviewCap).forEach(cid => { const it = take(cid); if (it) vocabItems.push(withReason(it, `Due for review: last seen ${ago(S.c[cid].last)}. Forgetting risk ${Math.round(forgetP(S.c[cid], now) * 100)}%.`)); });
+  // revisões pedem produção cedo: depois de 2 contatos com a palavra, alterna completar (digitar) e escolher no contexto
+  const vocabTier = cid => { const c = S.c[cid]; if (!c) return undefined; const base = Math.max(0, c.tier - scaf(S)); if (scaf(S) || c.seen < 2 || c.m < .3) return base; return Math.min(2, Math.max(base, c.seen % 2 ? 1 : 2)); };
+  dueMix.slice(0, reviewCap).forEach(cid => { const it = take(cid, vocabTier(cid)); if (it) vocabItems.push(withReason(it, `Due for review: last seen ${ago(S.c[cid].last)}. Forgetting risk ${Math.round(forgetP(S.c[cid], now) * 100)}%.`)); });
   if (vocabItems.length < nVocab) {
     const nw = (M >= 8 && rnd() < .6 ? newPhrCandidates(S, 1) : []).concat(newWordCandidates(S, maxNew));
     for (const x of nw) { if (vocabItems.length >= nVocab) break; const cid = x.v ? 'p:' + x.id : 'w:' + x.id; const it = take(cid, 0); if (it) vocabItems.push(withReason(it, `New ${x.v ? 'phrasal verb' : 'word'} at your level${(x.topics || []).length ? ' · ' + x.topics[0] : ''}.`)); }
@@ -450,7 +453,7 @@ function planSession(S, minutes, opts = {}) {
   }
   // 5) speaking
   const spkItems = [];
-  if (W.speaking > .02 && CONTENT.spk.length) {
+  if (W.speaking > .02 && CONTENT.spk.length && (!S.profile.teacher || dSpeak >= 3)) {
     const target = A + .3;
     const weakConn = groupMastery(S, [...new Set(CONTENT.con.items.map(i => 'c:' + i.cat))]) < .5;
     const p = CONTENT.spk.filter(x => Date.now() - (S.seenEx[x.id] || 0) > 6 * DAY).sort((a, b) => (Math.abs(lvIdx(a.lvl) - target) - Math.abs(lvIdx(b.lvl) - target)) + (weakConn ? (/connector|however|although/i.test(b.goals.join(' ')) - /connector|however|although/i.test(a.goals.join(' '))) * .6 : 0) + (rnd() - .5))[0] || pick(CONTENT.spk);
@@ -483,7 +486,7 @@ function planSession(S, minutes, opts = {}) {
       else if (kind === 'vocab') { const dueRest = dueMix.find(c => !used.has(c)); let cand = dueRest; if (!cand) { const nw = newWordCandidates(S, 12).find(w => !used.has('w:' + w.id)); if (nw) cand = 'w:' + nw.id; } if (cand) { it = take(cand, dueRest ? undefined : 0); if (it) vocabItems.push(withReason(it, dueRest ? 'Due for review.' : 'New word at your level.')); } }
       else if (kind === 'challenge') { const key = (k % 2 ? natKeys2 : conKeys2)[Math.floor(k / 2) % natKeys2.length]; const c = S.c[key]; it = key && buildFor(S, key, c ? Math.min(c.tier, 2) : key[0] === 'n' ? 0 : 1); if (it) chItems.push(withReason(it, 'Mixed challenge: interleaving old and new content.')); }
       else if (kind === 'listening' && M >= 15 && lisItems.length < 2 && CONTENT.lis.length) { const l = CONTENT.lis.filter(x => !lisItems.some(i => i.ref === x.id) && Date.now() - (S.seenEx[x.id] || 0) > 5 * DAY).sort((a, b) => Math.abs(lvIdx(a.lvl) - A - .3) - Math.abs(lvIdx(b.lvl) - A - .3) + rnd() - .5)[0]; if (l) { it = listenItem(S, l); lisItems.push(withReason(it, 'Extra listening for a longer session.')); } }
-      else if (kind === 'speaking' && M >= 20 && spkItems.length < 2 && CONTENT.spk.length) { const p = CONTENT.spk.filter(x => !spkItems.some(i => i.ref === x.id) && Date.now() - (S.seenEx[x.id] || 0) > 6 * DAY).sort((a, b) => Math.abs(lvIdx(a.lvl) - A - .3) - Math.abs(lvIdx(b.lvl) - A - .3) + rnd() - .5)[0]; if (p) { it = speakItem(S, p); spkItems.push(withReason(it, 'Extra speaking for a longer session.')); } }
+      else if (kind === 'speaking' && !S.profile.teacher && M >= 20 && spkItems.length < 2 && CONTENT.spk.length) { const p = CONTENT.spk.filter(x => !spkItems.some(i => i.ref === x.id) && Date.now() - (S.seenEx[x.id] || 0) > 6 * DAY).sort((a, b) => Math.abs(lvIdx(a.lvl) - A - .3) - Math.abs(lvIdx(b.lvl) - A - .3) + rnd() - .5)[0]; if (p) { it = speakItem(S, p); spkItems.push(withReason(it, 'Extra speaking for a longer session.')); } }
       if (it) { total0 += secs(it); fails = 0; } else fails++;
     } }
   const put = (key, label, icon, items) => { if (items.length) blocks.push({ key, label, icon, items, est: items.reduce((s, i) => s + secs(i), 0) }); };
