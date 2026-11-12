@@ -1389,5 +1389,1784 @@
       "tech",
       "business"
     ]
+  },
+  {
+    "id": "allocate",
+    "w": "allocate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "alocar / destinar",
+    "def": "To distribute resources or duties for a particular purpose.",
+    "ipa": "/ˈæləkeɪt/",
+    "ex": "We need to allocate more budget to security testing this quarter.",
+    "form": "allocate",
+    "nat": "The manager allocated three engineers to the migration.",
+    "syn": [
+      "assign",
+      "distribute"
+    ],
+    "ant": [
+      "withhold"
+    ],
+    "col": [
+      "allocate resources",
+      "allocate budget",
+      "allocate time",
+      "allocate funds"
+    ],
+    "mis": {
+      "bad": "We need to allocate more time for the project.",
+      "good": "We need to allocate more time to the project.",
+      "why": "Use \"allocate something to\" (not for) a task or recipient."
+    },
+    "fam": [
+      "allocation (noun)",
+      "allocated (adj)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "amend",
+    "w": "amend",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "emendar / alterar",
+    "def": "To make minor changes to a text, law, or agreement to improve or update it.",
+    "ipa": "/əˈmend/",
+    "ex": "The legal team asked us to amend two clauses in the contract.",
+    "form": "amend",
+    "nat": "They amended the policy after receiving customer feedback.",
+    "syn": [
+      "revise",
+      "modify"
+    ],
+    "ant": [
+      "preserve"
+    ],
+    "col": [
+      "amend a contract",
+      "amend the law",
+      "amend a policy",
+      "amend a draft"
+    ],
+    "mis": {
+      "bad": "We need to amend about the contract.",
+      "good": "We need to amend the contract.",
+      "why": "\"Amend\" is transitive and takes a direct object without \"about\"."
+    },
+    "fam": [
+      "amendment (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "assert",
+    "w": "assert",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "afirmar com firmeza / fazer valer",
+    "def": "To state a fact or belief confidently and forcefully.",
+    "ipa": "/əˈsɜːrt/",
+    "ex": "She asserted that the new architecture would cut latency in half.",
+    "form": "asserted",
+    "nat": "He had to assert his authority during the heated meeting.",
+    "syn": [
+      "declare",
+      "maintain"
+    ],
+    "ant": [
+      "deny"
+    ],
+    "col": [
+      "assert authority",
+      "assert a right",
+      "assert that",
+      "firmly assert"
+    ],
+    "mis": {
+      "bad": "She asserted to us that it was safe.",
+      "good": "She asserted that it was safe.",
+      "why": "\"Assert\" is normally followed directly by a \"that\" clause without an indirect object."
+    },
+    "fam": [
+      "assertion (noun)",
+      "assertive (adj)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "assign",
+    "w": "assign",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "atribuir / designar",
+    "def": "To give someone a particular job, task, or responsibility.",
+    "ipa": "/əˈsaɪn/",
+    "ex": "The lead developer assigned the bug ticket to a junior engineer.",
+    "form": "assigned",
+    "nat": "Each participant was assigned a mentor for the program.",
+    "syn": [
+      "allocate",
+      "delegate"
+    ],
+    "ant": [
+      "unassign"
+    ],
+    "col": [
+      "assign a task",
+      "assign someone to",
+      "assign a role",
+      "assigned seat"
+    ],
+    "mis": {
+      "bad": "He assigned me for fixing the bug.",
+      "good": "He assigned me to fix the bug.",
+      "why": "Use \"assign someone to do something\" or \"assign a task to someone\"."
+    },
+    "fam": [
+      "assignment (noun)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "attain",
+    "w": "attain",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "alcançar / atingir",
+    "def": "To succeed in achieving something after effort.",
+    "ipa": "/əˈteɪn/",
+    "ex": "It took three years of steady practice to attain fluency in English.",
+    "form": "attain",
+    "nat": "Few startups attain profitability in their first year.",
+    "syn": [
+      "achieve",
+      "reach"
+    ],
+    "ant": [
+      "lose"
+    ],
+    "col": [
+      "attain a goal",
+      "attain fluency",
+      "attain mastery",
+      "hard to attain"
+    ],
+    "mis": {
+      "bad": "I want to attain to B2 level.",
+      "good": "I want to attain B2 level.",
+      "why": "\"Attain\" takes a direct object with no \"to\"."
+    },
+    "fam": [
+      "attainment (noun)",
+      "attainable (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "bypass",
+    "w": "bypass",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "contornar / ignorar",
+    "def": "To go around or avoid an obstacle, rule, or standard procedure.",
+    "ipa": "/ˈbaɪpæs/",
+    "ex": "Never bypass authentication checks, even in a staging environment.",
+    "form": "bypass",
+    "nat": "We can bypass the city center by taking the ring road.",
+    "syn": [
+      "circumvent",
+      "skip"
+    ],
+    "ant": [
+      "follow"
+    ],
+    "col": [
+      "bypass security",
+      "bypass a rule",
+      "bypass the queue",
+      "bypass a bottleneck"
+    ],
+    "mis": {
+      "bad": "They bypassed from the approval process.",
+      "good": "They bypassed the approval process.",
+      "why": "\"Bypass\" is transitive and does not take \"from\"."
+    },
+    "fam": [
+      "bypass (noun)"
+    ],
+    "topics": [
+      "security",
+      "tech"
+    ]
+  },
+  {
+    "id": "cease",
+    "w": "cease",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "cessar / parar",
+    "def": "To bring or come to an end.",
+    "ipa": "/siːs/",
+    "ex": "The legacy API will cease operating at the end of December.",
+    "form": "cease",
+    "nat": "The company ceased trading after the merger.",
+    "syn": [
+      "stop",
+      "halt"
+    ],
+    "ant": [
+      "continue",
+      "resume"
+    ],
+    "col": [
+      "cease operations",
+      "cease to exist",
+      "cease trading",
+      "never cease to"
+    ],
+    "mis": {
+      "bad": "The noise ceased to making sound.",
+      "good": "The noise ceased to bother us.",
+      "why": "Use \"cease + -ing\" or \"cease + to + base verb\"."
+    },
+    "fam": [
+      "ceaseless (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "business"
+    ]
+  },
+  {
+    "id": "comply",
+    "w": "comply",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "cumprir / obedecer",
+    "def": "To act in accordance with a wish, command, or set of rules.",
+    "ipa": "/kəmˈplaɪ/",
+    "ex": "All vendors must comply with local data privacy regulations.",
+    "form": "comply",
+    "nat": "Failure to comply with the policy will suspend your account.",
+    "syn": [
+      "obey",
+      "conform"
+    ],
+    "ant": [
+      "violate",
+      "defy"
+    ],
+    "col": [
+      "comply with rules",
+      "comply with regulations",
+      "fully comply",
+      "fail to comply"
+    ],
+    "mis": {
+      "bad": "We must comply the new rules.",
+      "good": "We must comply with the new rules.",
+      "why": "Always use the preposition \"with\" after \"comply\"."
+    },
+    "fam": [
+      "compliance (noun)",
+      "compliant (adj)"
+    ],
+    "topics": [
+      "security",
+      "business"
+    ]
+  },
+  {
+    "id": "compromise",
+    "w": "compromise",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "comprometer / ceder para chegar a acordo",
+    "def": "To settle a dispute by mutual concession, or to expose something to risk.",
+    "ipa": "/ˈkɑːmprəmaɪz/",
+    "ex": "A weak password can compromise the entire corporate network.",
+    "form": "compromise",
+    "nat": "Both sides had to compromise to sign the agreement.",
+    "syn": [
+      "jeopardize",
+      "negotiate"
+    ],
+    "ant": [
+      "protect",
+      "insist"
+    ],
+    "col": [
+      "compromise security",
+      "reach a compromise",
+      "compromise quality",
+      "willing to compromise"
+    ],
+    "mis": {
+      "bad": "The leak compromised with our reputation.",
+      "good": "The leak compromised our reputation.",
+      "why": "When meaning \"put at risk\", \"compromise\" takes a direct object."
+    },
+    "fam": [
+      "compromise (noun)",
+      "compromised (adj)"
+    ],
+    "topics": [
+      "security",
+      "work"
+    ]
+  },
+  {
+    "id": "conceive",
+    "w": "conceive",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "conceber / imaginar",
+    "def": "To form or devise a plan or idea in the mind.",
+    "ipa": "/kənˈsiːv/",
+    "ex": "It is hard to conceive how the system ran without monitoring for so long.",
+    "form": "conceive",
+    "nat": "The founders conceived the idea during a weekend hackathon.",
+    "syn": [
+      "envision",
+      "devise"
+    ],
+    "ant": [
+      "overlook"
+    ],
+    "col": [
+      "conceive an idea",
+      "hard to conceive",
+      "conceive of",
+      "originally conceived"
+    ],
+    "mis": {
+      "bad": "I cannot conceive to live without internet.",
+      "good": "I cannot conceive of living without internet.",
+      "why": "Use \"conceive of + -ing\" or \"conceive + noun/how-clause\"."
+    },
+    "fam": [
+      "concept (noun)",
+      "conception (noun)",
+      "conceivable (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "science"
+    ]
+  },
+  {
+    "id": "concise",
+    "w": "concise",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "conciso / objetivo",
+    "def": "Giving a lot of information clearly and in a few words.",
+    "ipa": "/kənˈsaɪs/",
+    "ex": "Keep your status update concise so everyone can read it in thirty seconds.",
+    "form": "concise",
+    "nat": "Her summary was remarkably concise and accurate.",
+    "syn": [
+      "brief",
+      "succinct"
+    ],
+    "ant": [
+      "wordy",
+      "verbose"
+    ],
+    "col": [
+      "concise summary",
+      "clear and concise",
+      "concise explanation",
+      "concise writing"
+    ],
+    "mis": {
+      "bad": "Please write a concise resume with 10 pages.",
+      "good": "Please write a concise summary in three lines.",
+      "why": "\"Concise\" specifically means brief and to the point."
+    },
+    "fam": [
+      "conciseness (noun)",
+      "concisely (adv)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "constrain",
+    "w": "constrain",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "restringir / limitar",
+    "def": "To severely restrict the scope, extent, or activity of something.",
+    "ipa": "/kənˈstreɪn/",
+    "ex": "Tight memory limits constrain how much data we can cache locally.",
+    "form": "constrain",
+    "nat": "Budget cuts constrained our ability to hire new staff.",
+    "syn": [
+      "restrict",
+      "limit"
+    ],
+    "ant": [
+      "free",
+      "expand"
+    ],
+    "col": [
+      "constrain growth",
+      "severely constrained",
+      "constrain resources",
+      "budget constraints"
+    ],
+    "mis": {
+      "bad": "The rules constrained us to do nothing.",
+      "good": "The rules constrained our options.",
+      "why": "More naturally used with nouns (\"constrain our options\") or passive (\"feel constrained\")."
+    },
+    "fam": [
+      "constraint (noun)",
+      "constrained (adj)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "consult",
+    "w": "consult",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "consultar / pedir orientação",
+    "def": "To seek information or advice from someone with expertise.",
+    "ipa": "/kənˈsʌlt/",
+    "ex": "You should consult the security team before opening that port.",
+    "form": "consult",
+    "nat": "I always consult the documentation before changing a config file.",
+    "syn": [
+      "ask",
+      "confer"
+    ],
+    "ant": [
+      "ignore"
+    ],
+    "col": [
+      "consult a specialist",
+      "consult the documentation",
+      "consult with",
+      "consult a lawyer"
+    ],
+    "mis": {
+      "bad": "Let me consult with the manual.",
+      "good": "Let me consult the manual.",
+      "why": "Use \"consult + thing\" (manual, doctor) without \"with\"; \"consult with\" is for peers/colleagues."
+    },
+    "fam": [
+      "consultant (noun)",
+      "consultation (noun)"
+    ],
+    "topics": [
+      "work",
+      "health"
+    ]
+  },
+  {
+    "id": "contemplate",
+    "w": "contemplate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "contemplar / considerar seriamente",
+    "def": "To think deeply and at length about something, or to consider doing it.",
+    "ipa": "/ˈkɑːntəmpleɪt/",
+    "ex": "She is contemplating moving abroad for a senior engineering role.",
+    "form": "contemplating",
+    "nat": "We briefly contemplated rewriting the entire module from scratch.",
+    "syn": [
+      "consider",
+      "ponder"
+    ],
+    "ant": [
+      "dismiss"
+    ],
+    "col": [
+      "contemplate leaving",
+      "contemplate a change",
+      "deeply contemplate",
+      "contemplate the future"
+    ],
+    "mis": {
+      "bad": "I am contemplating to change my job.",
+      "good": "I am contemplating changing my job.",
+      "why": "\"Contemplate\" is followed by -ing, never \"to + infinitive\"."
+    },
+    "fam": [
+      "contemplation (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "correlate",
+    "w": "correlate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "correlacionar / ter relação",
+    "def": "To have a mutual relationship or connection in which one thing affects or depends on another.",
+    "ipa": "/ˈkɔːrəleɪt/",
+    "ex": "High page load times strongly correlate with lower user retention.",
+    "form": "correlate",
+    "nat": "Test scores do not always correlate with real-world performance.",
+    "syn": [
+      "link",
+      "connect"
+    ],
+    "ant": [
+      "diverge"
+    ],
+    "col": [
+      "strongly correlate",
+      "correlate with",
+      "positively correlate",
+      "closely correlate"
+    ],
+    "mis": {
+      "bad": "Sleep correlates to productivity.",
+      "good": "Sleep correlates with productivity.",
+      "why": "Always pair \"correlate\" with \"with\", not \"to\"."
+    },
+    "fam": [
+      "correlation (noun)"
+    ],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "critique",
+    "w": "critique",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "crítica / análise crítica",
+    "def": "A detailed analysis and assessment of something, especially a theory or work.",
+    "ipa": "/krɪˈtiːk/",
+    "ex": "The architect gave a constructive critique of our database schema.",
+    "form": "critique",
+    "nat": "Her critique focused on scalability rather than code style.",
+    "syn": [
+      "review",
+      "evaluation"
+    ],
+    "ant": [
+      "praise"
+    ],
+    "col": [
+      "constructive critique",
+      "detailed critique",
+      "offer a critique",
+      "design critique"
+    ],
+    "mis": {
+      "bad": "He made a critique to my presentation.",
+      "good": "He gave a critique of my presentation.",
+      "why": "Use \"give/offer a critique of something\", not \"make a critique to\"."
+    },
+    "fam": [
+      "critique (verb)",
+      "critical (adj)"
+    ],
+    "topics": [
+      "work",
+      "culture"
+    ]
+  },
+  {
+    "id": "curtail",
+    "w": "curtail",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "reduzir / restringir",
+    "def": "To reduce in extent or quantity; to impose a restriction on.",
+    "ipa": "/kɜːrˈteɪl/",
+    "ex": "Rising cloud costs forced us to curtail non-essential background jobs.",
+    "form": "curtail",
+    "nat": "Travel restrictions curtailed international conferences for two years.",
+    "syn": [
+      "reduce",
+      "cut back"
+    ],
+    "ant": [
+      "expand",
+      "extend"
+    ],
+    "col": [
+      "curtail spending",
+      "curtail freedom",
+      "curtail activities",
+      "sharply curtail"
+    ],
+    "mis": {
+      "bad": "We must curtail down the expenses.",
+      "good": "We must curtail the expenses.",
+      "why": "Do not add \"down\" after \"curtail\"; it already means reduce."
+    },
+    "fam": [
+      "curtailment (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "deduce",
+    "w": "deduce",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "deduzir / concluir",
+    "def": "To arrive at a fact or conclusion by reasoning from available evidence.",
+    "ipa": "/dɪˈduːs/",
+    "ex": "From the stack trace, we can deduce that the token expired mid-request.",
+    "form": "deduce",
+    "nat": "Police deduced the suspect had entered through a side window.",
+    "syn": [
+      "infer",
+      "conclude"
+    ],
+    "ant": [
+      "guess"
+    ],
+    "col": [
+      "deduce from",
+      "easily deduce",
+      "logically deduce",
+      "deduce the cause"
+    ],
+    "mis": {
+      "bad": "I deduced that he left by his empty desk.",
+      "good": "I deduced from his empty desk that he had left.",
+      "why": "Use \"deduce [something] from [evidence]\"."
+    },
+    "fam": [
+      "deduction (noun)",
+      "deductive (adj)"
+    ],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "defer",
+    "w": "defer",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "adiar / postergar",
+    "def": "To put off an action or event to a later time; to postpone.",
+    "ipa": "/dɪˈfɜːr/",
+    "ex": "Let us defer that architectural decision until we have real traffic data.",
+    "form": "defer",
+    "nat": "The committee decided to defer the vote until next month.",
+    "syn": [
+      "postpone",
+      "delay"
+    ],
+    "ant": [
+      "expedite",
+      "advance"
+    ],
+    "col": [
+      "defer a decision",
+      "defer payment",
+      "defer to an expert",
+      "defer until"
+    ],
+    "mis": {
+      "bad": "We deferred the meeting for next week.",
+      "good": "We deferred the meeting until next week.",
+      "why": "Use \"until\" or \"to\" for the new date, not \"for\"."
+    },
+    "fam": [
+      "deferral (noun)",
+      "deference (noun)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "depict",
+    "w": "depict",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "retratar / descrever",
+    "def": "To represent or show something in a picture, story, or diagram.",
+    "ipa": "/dɪˈpɪkt/",
+    "ex": "The diagram depicts how requests flow from the gateway to each microservice.",
+    "form": "depicts",
+    "nat": "The documentary depicts daily life in a remote Arctic town.",
+    "syn": [
+      "portray",
+      "illustrate"
+    ],
+    "ant": [
+      "obscure"
+    ],
+    "col": [
+      "depict clearly",
+      "accurately depict",
+      "depict a scene",
+      "depict as"
+    ],
+    "mis": {
+      "bad": "The chart depicts about monthly sales.",
+      "good": "The chart depicts monthly sales.",
+      "why": "\"Depict\" is transitive and takes no \"about\"."
+    },
+    "fam": [
+      "depiction (noun)"
+    ],
+    "topics": [
+      "culture",
+      "tech"
+    ]
+  },
+  {
+    "id": "deter",
+    "w": "deter",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "dissuadir / desencorajar",
+    "def": "To discourage someone from doing something by instilling doubt or fear of consequences.",
+    "ipa": "/dɪˈtɜːr/",
+    "ex": "Multi-factor authentication helps deter automated credential attacks.",
+    "form": "deter",
+    "nat": "High fees deterred many small businesses from joining the platform.",
+    "syn": [
+      "discourage",
+      "prevent"
+    ],
+    "ant": [
+      "encourage"
+    ],
+    "col": [
+      "deter attacks",
+      "deter someone from",
+      "act as a deterrent",
+      "deter crime"
+    ],
+    "mis": {
+      "bad": "The price deterred me to buy it.",
+      "good": "The price deterred me from buying it.",
+      "why": "Always use \"deter someone from + -ing\"."
+    },
+    "fam": [
+      "deterrent (noun)",
+      "deterrence (noun)"
+    ],
+    "topics": [
+      "security",
+      "abstract"
+    ]
+  },
+  {
+    "id": "deviate",
+    "w": "deviate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "desviar-se / fugir do padrão",
+    "def": "To depart from an established course, norm, or plan.",
+    "ipa": "/ˈdiːvieɪt/",
+    "ex": "Do not deviate from the deployment checklist during a release.",
+    "form": "deviate",
+    "nat": "Temperatures rarely deviate much from the seasonal average.",
+    "syn": [
+      "diverge",
+      "stray"
+    ],
+    "ant": [
+      "conform",
+      "adhere"
+    ],
+    "col": [
+      "deviate from",
+      "deviate slightly",
+      "never deviate",
+      "deviate from the norm"
+    ],
+    "mis": {
+      "bad": "He deviated of the original plan.",
+      "good": "He deviated from the original plan.",
+      "why": "Use \"deviate from\", not \"of\"."
+    },
+    "fam": [
+      "deviation (noun)"
+    ],
+    "topics": [
+      "work",
+      "science"
+    ]
+  },
+  {
+    "id": "devise",
+    "w": "devise",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "elaborar / bolarem um plano",
+    "def": "To plan or invent a complex procedure, system, or mechanism by careful thought.",
+    "ipa": "/dɪˈvaɪz/",
+    "ex": "We need to devise a faster recovery plan for database outages.",
+    "form": "devise",
+    "nat": "Engineers devised an algorithm that predicts battery wear.",
+    "syn": [
+      "invent",
+      "formulate"
+    ],
+    "ant": [
+      "copy"
+    ],
+    "col": [
+      "devise a plan",
+      "devise a strategy",
+      "devise a method",
+      "devise a solution"
+    ],
+    "mis": {
+      "bad": "They devised to build a new tool.",
+      "good": "They devised a way to build a new tool.",
+      "why": "\"Devise\" takes a noun object (a plan, a way), not a \"to\" infinitive."
+    },
+    "fam": [
+      "device (noun)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "diminish",
+    "w": "diminish",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "diminuir / reduzir",
+    "def": "To make or become less in size, importance, or strength.",
+    "ipa": "/dɪˈmɪnɪʃ/",
+    "ex": "Repeated delays can diminish user trust in the product.",
+    "form": "diminish",
+    "nat": "His enthusiasm did not diminish despite the setbacks.",
+    "syn": [
+      "decrease",
+      "reduce"
+    ],
+    "ant": [
+      "increase",
+      "amplify"
+    ],
+    "col": [
+      "diminish trust",
+      "diminishing returns",
+      "gradually diminish",
+      "diminish the impact"
+    ],
+    "mis": {
+      "bad": "The risk diminished down over time.",
+      "good": "The risk diminished over time.",
+      "why": "Do not add \"down\" after \"diminish\"."
+    },
+    "fam": [
+      "diminished (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "business"
+    ]
+  },
+  {
+    "id": "disseminate",
+    "w": "disseminate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "disseminar / difundir",
+    "def": "To spread information, knowledge, or ideas widely.",
+    "ipa": "/dɪˈsemɪneɪt/",
+    "ex": "The security team will disseminate the updated guidelines to all offices.",
+    "form": "disseminate",
+    "nat": "Journals exist to disseminate peer-reviewed research.",
+    "syn": [
+      "spread",
+      "distribute"
+    ],
+    "ant": [
+      "conceal",
+      "suppress"
+    ],
+    "col": [
+      "disseminate information",
+      "widely disseminated",
+      "disseminate knowledge",
+      "disseminate findings"
+    ],
+    "mis": {
+      "bad": "They disseminated the news for everyone.",
+      "good": "They disseminated the news to everyone.",
+      "why": "Use \"disseminate [something] to [people]\"."
+    },
+    "fam": [
+      "dissemination (noun)"
+    ],
+    "topics": [
+      "science",
+      "work"
+    ]
+  },
+  {
+    "id": "distort",
+    "w": "distort",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "distorcer / deturpar",
+    "def": "To pull or twist out of shape, or give a misleading account of facts.",
+    "ipa": "/dɪˈstɔːrt/",
+    "ex": "Outliers can easily distort the average response time in your metrics.",
+    "form": "distort",
+    "nat": "The article distorted his remarks by quoting them out of context.",
+    "syn": [
+      "twist",
+      "misrepresent"
+    ],
+    "ant": [
+      "clarify"
+    ],
+    "col": [
+      "distort the truth",
+      "distort data",
+      "distort reality",
+      "heavily distorted"
+    ],
+    "mis": {
+      "bad": "The microphone distorted with my voice.",
+      "good": "The microphone distorted my voice.",
+      "why": "\"Distort\" is transitive; omit \"with\"."
+    },
+    "fam": [
+      "distortion (noun)",
+      "distorted (adj)"
+    ],
+    "topics": [
+      "science",
+      "culture"
+    ]
+  },
+  {
+    "id": "divert",
+    "w": "divert",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "desviar / redirecionar",
+    "def": "To cause someone or something to change course or turn from one use to another.",
+    "ipa": "/daɪˈvɜːrt/",
+    "ex": "During maintenance, we divert all incoming traffic to the backup region.",
+    "form": "divert",
+    "nat": "The flight was diverted to Manchester due to heavy fog.",
+    "syn": [
+      "redirect",
+      "deflect"
+    ],
+    "ant": [
+      "maintain"
+    ],
+    "col": [
+      "divert traffic",
+      "divert attention",
+      "divert funds",
+      "divert a flight"
+    ],
+    "mis": {
+      "bad": "They diverted the budget for marketing.",
+      "good": "They diverted the budget to marketing.",
+      "why": "Use \"divert [something] from X to Y\"."
+    },
+    "fam": [
+      "diversion (noun)"
+    ],
+    "topics": [
+      "tech",
+      "travel"
+    ]
+  },
+  {
+    "id": "domain",
+    "w": "domain",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "domínio / área de atuação",
+    "def": "A specified sphere of activity, knowledge, or internet address space.",
+    "ipa": "/doʊˈmeɪn/",
+    "ex": "Natural language processing is a fast-moving domain within AI.",
+    "form": "domain",
+    "nat": "This question falls outside my domain of expertise.",
+    "syn": [
+      "field",
+      "area"
+    ],
+    "ant": [
+      "ignorance"
+    ],
+    "col": [
+      "domain knowledge",
+      "public domain",
+      "domain name",
+      "domain expert"
+    ],
+    "mis": {
+      "bad": "That topic is not of my domain.",
+      "good": "That topic is outside my domain.",
+      "why": "Say \"outside my domain\" or \"within my domain\"."
+    },
+    "fam": [
+      "domain-specific (adj)"
+    ],
+    "topics": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "id": "durable",
+    "w": "durable",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "durável / resistente",
+    "def": "Able to withstand wear, pressure, or damage over a long time.",
+    "ipa": "/ˈdʊrəbl/",
+    "ex": "Invest in durable hardware if the team travels every week.",
+    "form": "durable",
+    "nat": "Stainless steel is far more durable than cheap plastic.",
+    "syn": [
+      "sturdy",
+      "long-lasting"
+    ],
+    "ant": [
+      "fragile",
+      "flimsy"
+    ],
+    "col": [
+      "durable goods",
+      "durable material",
+      "durable solution",
+      "highly durable"
+    ],
+    "mis": {
+      "bad": "This battery is very durable for years.",
+      "good": "This battery is durable and lasts for years.",
+      "why": "\"Durable\" describes inherent quality, not duration with \"for\"."
+    },
+    "fam": [
+      "durability (noun)"
+    ],
+    "topics": [
+      "daily",
+      "business"
+    ]
+  },
+  {
+    "id": "elaborate",
+    "w": "elaborate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "elaborar / detalhar",
+    "def": "To develop or present a theory, policy, or system in further detail.",
+    "ipa": "/ɪˈlæbəreɪt/",
+    "ex": "Could you elaborate on why the migration took twice as long?",
+    "form": "elaborate",
+    "nat": "She promised to elaborate on the proposal during tomorrow's call.",
+    "syn": [
+      "expand",
+      "explain"
+    ],
+    "ant": [
+      "summarize"
+    ],
+    "col": [
+      "elaborate on",
+      "elaborate further",
+      "carefully elaborate",
+      "elaborate plan"
+    ],
+    "mis": {
+      "bad": "Could you elaborate more about your point?",
+      "good": "Could you elaborate on your point?",
+      "why": "Always use \"elaborate on [something]\", not \"about\"."
+    },
+    "fam": [
+      "elaboration (noun)",
+      "elaborate (adj)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "elicit",
+    "w": "elicit",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "provocar / extrair resposta",
+    "def": "To evoke or draw out a reaction, answer, or fact from someone.",
+    "ipa": "/ɪˈlɪsɪt/",
+    "ex": "Open-ended questions help elicit honest feedback from users.",
+    "form": "elicit",
+    "nat": "The announcement elicited strong reactions from the community.",
+    "syn": [
+      "evoke",
+      "draw out"
+    ],
+    "ant": [
+      "suppress"
+    ],
+    "col": [
+      "elicit feedback",
+      "elicit a response",
+      "elicit information",
+      "elicit laughter"
+    ],
+    "mis": {
+      "bad": "The survey elicited for honest opinions.",
+      "good": "The survey elicited honest opinions.",
+      "why": "\"Elicit\" is transitive (no \"for\"); do not confuse with \"illicit\" (illegal)."
+    },
+    "fam": [
+      "elicitation (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "embed",
+    "w": "embed",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "incorporar / embutir",
+    "def": "To fix an object or piece of code firmly and deeply into a surrounding mass or system.",
+    "ipa": "/ɪmˈbed/",
+    "ex": "You can embed the analytics widget directly inside the dashboard.",
+    "form": "embed",
+    "nat": "Security checks should be embedded into every stage of delivery.",
+    "syn": [
+      "integrate",
+      "insert"
+    ],
+    "ant": [
+      "extract",
+      "remove"
+    ],
+    "col": [
+      "embed code",
+      "deeply embedded",
+      "embed a video",
+      "embed security"
+    ],
+    "mis": {
+      "bad": "We embedded the script inside of the page.",
+      "good": "We embedded the script in the page.",
+      "why": "Use \"embed [something] in/into [something]\"."
+    },
+    "fam": [
+      "embedded (adj)"
+    ],
+    "topics": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "id": "emerge",
+    "w": "emerge",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "emergir / surgir",
+    "def": "To move out of or away from something and become visible or known.",
+    "ipa": "/ɪˈmɜːrdʒ/",
+    "ex": "New AI safety frameworks continue to emerge every few months.",
+    "form": "emerge",
+    "nat": "A clear pattern began to emerge once we plotted the errors.",
+    "syn": [
+      "appear",
+      "surface"
+    ],
+    "ant": [
+      "disappear",
+      "vanish"
+    ],
+    "col": [
+      "emerge from",
+      "newly emerging",
+      "emerge as a leader",
+      "facts emerge"
+    ],
+    "mis": {
+      "bad": "A new problem was emerged yesterday.",
+      "good": "A new problem emerged yesterday.",
+      "why": "\"Emerge\" is intransitive; never use it in the passive (\"was emerged\")."
+    },
+    "fam": [
+      "emergence (noun)",
+      "emerging (adj)"
+    ],
+    "topics": [
+      "ai",
+      "science"
+    ]
+  },
+  {
+    "id": "empirical",
+    "w": "empirical",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "empírico",
+    "def": "Based on, concerned with, or verifiable by observation or experience rather than theory alone.",
+    "ipa": "/ɪmˈpɪrɪkl/",
+    "ex": "We need empirical evidence before rolling out this change to all users.",
+    "form": "empirical",
+    "nat": "The study provides strong empirical support for spaced repetition.",
+    "syn": [
+      "experimental",
+      "observed"
+    ],
+    "ant": [
+      "theoretical"
+    ],
+    "col": [
+      "empirical evidence",
+      "empirical data",
+      "empirical study",
+      "empirical research"
+    ],
+    "mis": {
+      "bad": "That is just an empirical guess without proof.",
+      "good": "That is a theoretical guess without empirical proof.",
+      "why": "\"Empirical\" means backed by real observation/data, the opposite of a guess."
+    },
+    "fam": [
+      "empirically (adv)"
+    ],
+    "topics": [
+      "science",
+      "ai"
+    ]
+  },
+  {
+    "id": "endorse",
+    "w": "endorse",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "endossar / apoiar publicamente",
+    "def": "To declare one's public approval or support of someone or something.",
+    "ipa": "/ɪnˈdɔːrs/",
+    "ex": "The security board refused to endorse the unencrypted protocol.",
+    "form": "endorse",
+    "nat": "Several industry leaders endorsed the open-source standard.",
+    "syn": [
+      "support",
+      "approve"
+    ],
+    "ant": [
+      "oppose",
+      "reject"
+    ],
+    "col": [
+      "publicly endorse",
+      "endorse a proposal",
+      "endorse a candidate",
+      "officially endorse"
+    ],
+    "mis": {
+      "bad": "The team endorsed with the new policy.",
+      "good": "The team endorsed the new policy.",
+      "why": "\"Endorse\" takes a direct object with no \"with\"."
+    },
+    "fam": [
+      "endorsement (noun)"
+    ],
+    "topics": [
+      "business",
+      "culture"
+    ]
+  },
+  {
+    "id": "enforce",
+    "w": "enforce",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "fazer cumprir / aplicar regra",
+    "def": "To compel observance of or compliance with a law, rule, or obligation.",
+    "ipa": "/ɪnˈfɔːrs/",
+    "ex": "The gateway will automatically enforce rate limits on public endpoints.",
+    "form": "enforce",
+    "nat": "Rules are useless if nobody enforces them consistently.",
+    "syn": [
+      "impose",
+      "apply"
+    ],
+    "ant": [
+      "ignore",
+      "waive"
+    ],
+    "col": [
+      "enforce a rule",
+      "strictly enforce",
+      "enforce security",
+      "law enforcement"
+    ],
+    "mis": {
+      "bad": "We need to reinforce the password rules.",
+      "good": "We need to enforce the password rules.",
+      "why": "\"Reinforce\" means strengthen; \"enforce\" means make sure a rule is obeyed."
+    },
+    "fam": [
+      "enforcement (noun)"
+    ],
+    "topics": [
+      "security",
+      "work"
+    ]
+  },
+  {
+    "id": "entail",
+    "w": "entail",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "acarretar / envolver necessariamente",
+    "def": "To involve something as a necessary or inevitable part or consequence.",
+    "ipa": "/ɪnˈteɪl/",
+    "ex": "Migrating to a new cloud provider will entail weeks of regression testing.",
+    "form": "entail",
+    "nat": "What does the senior architect role actually entail?",
+    "syn": [
+      "involve",
+      "require"
+    ],
+    "ant": [
+      "exclude"
+    ],
+    "col": [
+      "entail risk",
+      "entail significant cost",
+      "what it entails",
+      "necessarily entail"
+    ],
+    "mis": {
+      "bad": "This job entails to travel frequently.",
+      "good": "This job entails traveling frequently.",
+      "why": "\"Entail\" takes a noun or -ing form, not \"to + infinitive\"."
+    },
+    "fam": [
+      "entailment (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "erratic",
+    "w": "erratic",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "errático / irregular",
+    "def": "Not even or regular in pattern or movement; unpredictable.",
+    "ipa": "/ɪˈrætɪk/",
+    "ex": "Users complained about erratic network speeds throughout the afternoon.",
+    "form": "erratic",
+    "nat": "His sleep schedule became erratic during the product launch.",
+    "syn": [
+      "unpredictable",
+      "irregular"
+    ],
+    "ant": [
+      "consistent",
+      "steady"
+    ],
+    "col": [
+      "erratic behavior",
+      "erratic performance",
+      "erratic connection",
+      "become erratic"
+    ],
+    "mis": {
+      "bad": "The server had an errant response time.",
+      "good": "The server had erratic response times.",
+      "why": "\"Errant\" means straying/misbehaving; \"erratic\" means irregular/unpredictable."
+    },
+    "fam": [
+      "erratically (adv)"
+    ],
+    "topics": [
+      "tech",
+      "science"
+    ]
+  },
+  {
+    "id": "evade",
+    "w": "evade",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "evadir / escapar de",
+    "def": "To escape or avoid something, especially by cleverness or trickery.",
+    "ipa": "/ɪˈveɪd/",
+    "ex": "Attackers tried to evade detection by splitting the payload across requests.",
+    "form": "evade",
+    "nat": "He skillfully evaded every direct question during the interview.",
+    "syn": [
+      "avoid",
+      "dodge"
+    ],
+    "ant": [
+      "confront",
+      "face"
+    ],
+    "col": [
+      "evade detection",
+      "evade taxes",
+      "evade a question",
+      "evade responsibility"
+    ],
+    "mis": {
+      "bad": "The malware evaded from the antivirus.",
+      "good": "The malware evaded the antivirus.",
+      "why": "\"Evade\" is transitive; do not use \"from\"."
+    },
+    "fam": [
+      "evasion (noun)",
+      "evasive (adj)"
+    ],
+    "topics": [
+      "security",
+      "abstract"
+    ]
+  },
+  {
+    "id": "exacerbate",
+    "w": "exacerbate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "exacerbar / agravar",
+    "def": "To make a problem, bad situation, or negative feeling worse.",
+    "ipa": "/ɪɡˈzæsərbeɪt/",
+    "ex": "Running heavy batch jobs at noon will only exacerbate the database bottleneck.",
+    "form": "exacerbate",
+    "nat": "Lack of sleep often exacerbates stress at work.",
+    "syn": [
+      "worsen",
+      "aggravate"
+    ],
+    "ant": [
+      "alleviate",
+      "improve"
+    ],
+    "col": [
+      "exacerbate a problem",
+      "exacerbate the crisis",
+      "further exacerbate",
+      "exacerbate symptoms"
+    ],
+    "mis": {
+      "bad": "The delay exacerbated more the conflict.",
+      "good": "The delay exacerbated the conflict even further.",
+      "why": "\"Exacerbate\" already means make worse; never pair it with \"more\"."
+    },
+    "fam": [
+      "exacerbation (noun)"
+    ],
+    "topics": [
+      "work",
+      "health"
+    ]
+  },
+  {
+    "id": "explicit",
+    "w": "explicit",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "explícito / claro e direto",
+    "def": "Stated clearly and in detail, leaving no room for confusion or doubt.",
+    "ipa": "/ɪkˈsplɪsɪt/",
+    "ex": "The API requires explicit user consent before accessing location data.",
+    "form": "explicit",
+    "nat": "She gave explicit instructions on how to rotate the keys.",
+    "syn": [
+      "clear",
+      "unambiguous"
+    ],
+    "ant": [
+      "implicit",
+      "vague"
+    ],
+    "col": [
+      "explicit consent",
+      "explicit instructions",
+      "be explicit about",
+      "explicitly stated"
+    ],
+    "mis": {
+      "bad": "He was explicit with his expectations.",
+      "good": "He was explicit about his expectations.",
+      "why": "Use \"explicit about [something]\"."
+    },
+    "fam": [
+      "explicitly (adv)",
+      "explicitness (noun)"
+    ],
+    "topics": [
+      "security",
+      "work"
+    ]
+  },
+  {
+    "id": "forgo",
+    "w": "forgo",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "abrir mão de / renunciar a",
+    "def": "To omit or decline to take something pleasant or valuable; to go without.",
+    "ipa": "/fɔːrˈɡoʊ/",
+    "ex": "The startup decided to forgo short-term profits to invest in reliability.",
+    "form": "forgo",
+    "nat": "I had to forgo lunch to finish the incident report on time.",
+    "syn": [
+      "give up",
+      "waive"
+    ],
+    "ant": [
+      "claim",
+      "keep"
+    ],
+    "col": [
+      "forgo profits",
+      "forgo a salary",
+      "forgo the chance",
+      "willing to forgo"
+    ],
+    "mis": {
+      "bad": "I decided to forgo from the bonus.",
+      "good": "I decided to forgo the bonus.",
+      "why": "\"Forgo\" is transitive and takes no \"from\"."
+    },
+    "fam": [],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "friction",
+    "w": "friction",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "atrito / dificuldade no processo",
+    "def": "Conflict or resistance that slows down a process or interaction.",
+    "ipa": "/ˈfrɪkʃn/",
+    "ex": "Removing extra form fields reduced signup friction by thirty percent.",
+    "form": "friction",
+    "nat": "Poor handoffs create unnecessary friction between product and QA.",
+    "syn": [
+      "resistance",
+      "conflict"
+    ],
+    "ant": [
+      "harmony",
+      "ease"
+    ],
+    "col": [
+      "reduce friction",
+      "cause friction",
+      "frictionless experience",
+      "team friction"
+    ],
+    "mis": {
+      "bad": "There are many frictions in the checkout.",
+      "good": "There is a lot of friction in the checkout.",
+      "why": "\"Friction\" is uncountable in English."
+    },
+    "fam": [
+      "frictionless (adj)"
+    ],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "gauge",
+    "w": "gauge",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "medir / avaliar",
+    "def": "To estimate or determine the magnitude, amount, or volume of something.",
+    "ipa": "/ɡeɪdʒ/",
+    "ex": "We ran a quick survey to gauge customer satisfaction after the redesign.",
+    "form": "gauge",
+    "nat": "It is hard to gauge how long a legacy refactor will take.",
+    "syn": [
+      "measure",
+      "assess"
+    ],
+    "ant": [
+      "guess"
+    ],
+    "col": [
+      "gauge interest",
+      "gauge the impact",
+      "gauge reaction",
+      "hard to gauge"
+    ],
+    "mis": {
+      "bad": "Let us gauge about user feedback.",
+      "good": "Let us gauge user feedback.",
+      "why": "\"Gauge\" is transitive (no \"about\"); note the spelling \"-au-\"."
+    },
+    "fam": [
+      "gauge (noun)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "granular",
+    "w": "granular",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "granular / bem detalhado",
+    "def": "Characterized by a high level of detail or small, distinct components.",
+    "ipa": "/ˈɡrænjələr/",
+    "ex": "Role-based access gives us granular control over who can export reports.",
+    "form": "granular",
+    "nat": "The new dashboard offers a much more granular view of daily traffic.",
+    "syn": [
+      "detailed",
+      "fine-grained"
+    ],
+    "ant": [
+      "broad",
+      "coarse"
+    ],
+    "col": [
+      "granular control",
+      "granular data",
+      "granular level",
+      "granular permissions"
+    ],
+    "mis": {
+      "bad": "We need a granularly control of permissions.",
+      "good": "We need granular control over permissions.",
+      "why": "Use the adjective \"granular\" before a noun, not the adverb."
+    },
+    "fam": [
+      "granularity (noun)"
+    ],
+    "topics": [
+      "security",
+      "tech"
+    ]
+  },
+  {
+    "id": "harness",
+    "w": "harness",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "aproveitar / canalizar",
+    "def": "To control and make use of a resource or force to produce power or results.",
+    "ipa": "/ˈhɑːrnɪs/",
+    "ex": "Modern teams harness automation to eliminate repetitive manual checks.",
+    "form": "harness",
+    "nat": "Coastal regions can harness wind energy all year round.",
+    "syn": [
+      "utilize",
+      "leverage"
+    ],
+    "ant": [
+      "waste"
+    ],
+    "col": [
+      "harness the power",
+      "harness technology",
+      "harness energy",
+      "harness data"
+    ],
+    "mis": {
+      "bad": "We should harness with AI tools.",
+      "good": "We should harness AI tools.",
+      "why": "\"Harness\" takes a direct object without \"with\"."
+    },
+    "fam": [
+      "harness (noun)"
+    ],
+    "topics": [
+      "ai",
+      "science"
+    ]
+  },
+  {
+    "id": "hinder",
+    "w": "hinder",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "atrapalhar / dificultar",
+    "def": "To create difficulties for someone or something, resulting in delay or obstruction.",
+    "ipa": "/ˈhɪndər/",
+    "ex": "Outdated tooling can severely hinder a team's ability to ship safely.",
+    "form": "hinder",
+    "nat": "Heavy snow hindered rescue efforts overnight.",
+    "syn": [
+      "impede",
+      "obstruct"
+    ],
+    "ant": [
+      "help",
+      "facilitate"
+    ],
+    "col": [
+      "hinder progress",
+      "hinder growth",
+      "severely hinder",
+      "hinder someone from"
+    ],
+    "mis": {
+      "bad": "Slow tests hinder us to deploy fast.",
+      "good": "Slow tests hinder us from deploying fast.",
+      "why": "Use \"hinder [someone/something] from + -ing\", or \"hinder [noun]\"."
+    },
+    "fam": [
+      "hindrance (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
   }
 ]
