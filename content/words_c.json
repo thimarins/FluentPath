@@ -1,0 +1,4293 @@
+[
+  {
+    "id": "persuade",
+    "w": "persuade",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "persuadir, convencer",
+    "def": "To make someone agree to do something by giving reasons.",
+    "ipa": "/pərˈsweɪd/",
+    "ex": "It took an hour, but I finally persuaded my boss to let me work from home.",
+    "form": "persuaded",
+    "nat": "She tried to persuade him to apply for the job, but he said no.",
+    "syn": [
+      "convince",
+      "talk into"
+    ],
+    "ant": [
+      "discourage"
+    ],
+    "col": [
+      "persuade someone to do",
+      "try to persuade",
+      "easily persuaded",
+      "persuade the jury"
+    ],
+    "mis": {
+      "bad": "I persuaded that he was right.",
+      "good": "I convinced him that he was right.",
+      "why": "Persuade is for getting someone to act (persuade him to leave); for belief with \"that\", use convince."
+    },
+    "fam": [
+      "persuasion (noun)",
+      "persuasive (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "convince",
+    "w": "convince",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "convencer (de que)",
+    "def": "To make someone believe that something is true.",
+    "ipa": "/kənˈvɪns/",
+    "ex": "Her honest speech convinced me that the project was worth the risk.",
+    "form": "convinced",
+    "nat": "I'm not convinced this is the best plan.",
+    "syn": [
+      "persuade",
+      "satisfy"
+    ],
+    "ant": [
+      "dissuade"
+    ],
+    "col": [
+      "convince someone of",
+      "fully convinced",
+      "be convinced that",
+      "hard to convince"
+    ],
+    "mis": {
+      "bad": "I am convinced of that he is right.",
+      "good": "I am convinced that he is right.",
+      "why": "Use \"convinced of + noun\" or \"convinced that + clause\", never \"of that\"."
+    },
+    "fam": [
+      "conviction (noun)",
+      "convincing (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "imply",
+    "w": "imply",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "insinuar, dar a entender",
+    "def": "To suggest something without saying it directly.",
+    "ipa": "/ɪmˈplaɪ/",
+    "ex": "I don't mean to imply that you made a mistake, but let's check the numbers.",
+    "form": "imply",
+    "nat": "Her silence seemed to imply that she disagreed.",
+    "syn": [
+      "suggest",
+      "hint"
+    ],
+    "ant": [
+      "state"
+    ],
+    "col": [
+      "imply that",
+      "strongly imply",
+      "seem to imply",
+      "are you implying"
+    ],
+    "mis": {
+      "bad": "The job implies me to travel a lot.",
+      "good": "The job involves a lot of travel.",
+      "why": "Portuguese \"implicar\" often means \"involve\"; English \"imply\" means to suggest something indirectly."
+    },
+    "fam": [
+      "implication (noun)",
+      "implied (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "emphasize",
+    "w": "emphasize",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "enfatizar, ressaltar",
+    "def": "To show that something is especially important.",
+    "ipa": "/ˈɛmfəˌsaɪz/",
+    "ex": "The teacher emphasized that the exam would cover the whole book.",
+    "form": "emphasized",
+    "nat": "I want to emphasize how much your help means to us.",
+    "syn": [
+      "stress",
+      "highlight"
+    ],
+    "ant": [
+      "downplay"
+    ],
+    "col": [
+      "emphasize the importance of",
+      "strongly emphasize",
+      "emphasize the need",
+      "worth emphasizing"
+    ],
+    "mis": {
+      "bad": "She emphasized on the deadline.",
+      "good": "She emphasized the deadline.",
+      "why": "Emphasize is transitive: no \"on\" after it."
+    },
+    "fam": [
+      "emphasis (noun)",
+      "emphatic (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "insist",
+    "w": "insist",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "insistir, fazer questão",
+    "def": "To say firmly that something must happen or is true.",
+    "ipa": "/ɪnˈsɪst/",
+    "ex": "He insisted on paying for dinner, even though we had agreed to split it.",
+    "form": "insisted",
+    "nat": "My sister insists that she locked the door.",
+    "syn": [
+      "demand",
+      "maintain"
+    ],
+    "ant": [
+      "give in"
+    ],
+    "col": [
+      "insist on",
+      "insist that",
+      "keep insisting",
+      "absolutely insist"
+    ],
+    "mis": {
+      "bad": "He insisted me to stay.",
+      "good": "He insisted that I stay.",
+      "why": "After insist, use \"on + -ing\" or \"that + clause\", not object + \"to\"."
+    },
+    "fam": [
+      "insistence (noun)",
+      "insistent (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "interrupt",
+    "w": "interrupt",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "interromper",
+    "def": "To stop someone while they are speaking or doing something.",
+    "ipa": "/ˌɪntəˈrʌpt/",
+    "ex": "Please don't interrupt me while I'm explaining the problem.",
+    "form": "interrupt",
+    "nat": "Sorry to interrupt, but your taxi is here.",
+    "syn": [
+      "cut in",
+      "break in"
+    ],
+    "ant": [],
+    "col": [
+      "interrupt a meeting",
+      "rudely interrupt",
+      "sorry to interrupt",
+      "constantly interrupted"
+    ],
+    "mis": {
+      "bad": "Don't interrupt to me.",
+      "good": "Don't interrupt me.",
+      "why": "Interrupt is transitive: no \"to\" before the person."
+    },
+    "fam": [
+      "interruption (noun)",
+      "uninterrupted (adj)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hesitate",
+    "w": "hesitate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "hesitar",
+    "def": "To pause before doing or saying something because you are unsure.",
+    "ipa": "/ˈhɛzəˌteɪt/",
+    "ex": "Don't hesitate to call me if anything goes wrong during the trip.",
+    "form": "hesitate",
+    "nat": "He hesitated for a moment before answering the question.",
+    "syn": [
+      "pause",
+      "waver"
+    ],
+    "ant": [
+      "rush"
+    ],
+    "col": [
+      "hesitate to ask",
+      "without hesitation",
+      "briefly hesitate",
+      "don't hesitate to"
+    ],
+    "mis": {
+      "bad": "Don't hesitate in calling me.",
+      "good": "Don't hesitate to call me.",
+      "why": "Hesitate is followed by \"to + verb\"."
+    },
+    "fam": [
+      "hesitation (noun)",
+      "hesitant (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "convey",
+    "w": "convey",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "transmitir, expressar",
+    "def": "To communicate an idea or feeling clearly.",
+    "ipa": "/kənˈveɪ/",
+    "ex": "It's hard to convey how grateful I am for everything you did.",
+    "form": "convey",
+    "nat": "The photo conveys the loneliness of the city at night.",
+    "syn": [
+      "communicate",
+      "express"
+    ],
+    "ant": [],
+    "col": [
+      "convey a message",
+      "convey meaning",
+      "convey emotion",
+      "hard to convey"
+    ],
+    "mis": {
+      "bad": "I want to convey my ideas for the audience.",
+      "good": "I want to convey my ideas to the audience.",
+      "why": "Convey takes \"to\" before the receiver."
+    },
+    "fam": [
+      "conveyance (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "culture"
+    ]
+  },
+  {
+    "id": "reasonable",
+    "w": "reasonable",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "razoável, sensato",
+    "def": "Fair, sensible, or not extreme.",
+    "ipa": "/ˈrizənəbəl/",
+    "ex": "The restaurant serves excellent food at reasonable prices.",
+    "form": "reasonable",
+    "nat": "It's reasonable to expect an answer within a week.",
+    "syn": [
+      "fair",
+      "sensible"
+    ],
+    "ant": [
+      "unreasonable"
+    ],
+    "col": [
+      "a reasonable price",
+      "perfectly reasonable",
+      "reasonable doubt",
+      "be reasonable"
+    ],
+    "mis": {
+      "bad": "The movie was reasonable, nothing special.",
+      "good": "The movie was okay, nothing special.",
+      "why": "Portuguese \"razoável\" can mean \"so-so\"; English \"reasonable\" means fair or sensible."
+    },
+    "fam": [
+      "reason (noun)",
+      "reasonably (adv)",
+      "unreasonable (adj)"
+    ],
+    "topics": [
+      "daily",
+      "abstract"
+    ]
+  },
+  {
+    "id": "blunt",
+    "w": "blunt",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "direto demais, ríspido",
+    "def": "Speaking in a very direct way that may sound rude.",
+    "ipa": "/blʌnt/",
+    "ex": "To be blunt, your presentation needs a lot more work.",
+    "form": "blunt",
+    "nat": "My grandfather is blunt, but he always tells the truth.",
+    "syn": [
+      "direct",
+      "frank"
+    ],
+    "ant": [
+      "tactful"
+    ],
+    "col": [
+      "to be blunt",
+      "a blunt answer",
+      "brutally blunt",
+      "blunt criticism"
+    ],
+    "fam": [
+      "bluntly (adv)",
+      "bluntness (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "He was very blunt to me.",
+      "good": "He was very blunt with me.",
+      "why": "Use \"blunt with\" a person or \"blunt about\" a topic."
+    }
+  },
+  {
+    "id": "tactful",
+    "w": "tactful",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "diplomático, discreto",
+    "def": "Careful not to upset people when you speak.",
+    "ipa": "/ˈtæktfəl/",
+    "ex": "She gave a tactful answer so that nobody felt offended.",
+    "form": "tactful",
+    "nat": "It wasn't very tactful to ask her age.",
+    "syn": [
+      "diplomatic",
+      "discreet"
+    ],
+    "ant": [
+      "blunt",
+      "tactless"
+    ],
+    "col": [
+      "a tactful way",
+      "tactful reply",
+      "remain tactful",
+      "tactful about"
+    ],
+    "mis": {
+      "bad": "She was very tactic when she told him.",
+      "good": "She was very tactful when she told him.",
+      "why": "\"Tactic\" is a plan (tática); the adjective for careful, polite behavior is \"tactful\"."
+    },
+    "fam": [
+      "tact (noun)",
+      "tactfully (adv)",
+      "tactless (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "abstract"
+    ]
+  },
+  {
+    "id": "vague",
+    "w": "vague",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "vago, impreciso",
+    "def": "Not clear or exact.",
+    "ipa": "/veɪɡ/",
+    "ex": "His instructions were so vague that nobody knew what to do.",
+    "form": "vague",
+    "nat": "I have a vague memory of meeting her years ago.",
+    "syn": [
+      "unclear",
+      "imprecise"
+    ],
+    "ant": [
+      "specific",
+      "precise"
+    ],
+    "col": [
+      "a vague idea",
+      "vague answer",
+      "deliberately vague",
+      "vague memory"
+    ],
+    "mis": {
+      "bad": "He was vague in the details.",
+      "good": "He was vague about the details.",
+      "why": "Use \"vague about\" a topic."
+    },
+    "fam": [
+      "vaguely (adv)",
+      "vagueness (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "daily"
+    ]
+  },
+  {
+    "id": "sarcastic",
+    "w": "sarcastic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "sarcástico",
+    "def": "Saying the opposite of what you mean to mock or annoy someone.",
+    "ipa": "/sɑrˈkæstɪk/",
+    "ex": "Don't be so sarcastic; I'm trying to help you.",
+    "form": "sarcastic",
+    "nat": "He made a sarcastic comment about my new haircut.",
+    "syn": [
+      "mocking",
+      "ironic"
+    ],
+    "ant": [
+      "sincere"
+    ],
+    "col": [
+      "sarcastic comment",
+      "sarcastic tone",
+      "be sarcastic",
+      "a sarcastic remark"
+    ],
+    "fam": [
+      "sarcasm (noun)",
+      "sarcastically (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ],
+    "mis": {
+      "bad": "It was sarcastic that the fire station burned down.",
+      "good": "It was ironic that the fire station burned down.",
+      "why": "Sarcastic describes a mocking tone; for an unexpected situation use \"ironic\"."
+    }
+  },
+  {
+    "id": "outspoken",
+    "w": "outspoken",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "franco, sem papas na língua",
+    "def": "Saying what you think openly, even if people disagree.",
+    "ipa": "/aʊtˈspoʊkən/",
+    "ex": "She is an outspoken critic of the new tax policy.",
+    "form": "outspoken",
+    "nat": "My aunt is very outspoken at family dinners.",
+    "syn": [
+      "frank",
+      "vocal"
+    ],
+    "ant": [
+      "reserved"
+    ],
+    "col": [
+      "an outspoken critic",
+      "outspoken views",
+      "very outspoken",
+      "outspoken about"
+    ],
+    "fam": [
+      "outspokenness (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "My brother is very outspoken; he loves parties and meeting people.",
+      "good": "My brother is very outgoing; he loves parties and meeting people.",
+      "why": "Outspoken means openly giving strong opinions, not being sociable (extrovertido = outgoing)."
+    }
+  },
+  {
+    "id": "objection",
+    "w": "objection",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "objeção, oposição",
+    "def": "A reason you give for disagreeing with something.",
+    "ipa": "/əbˈdʒɛkʃən/",
+    "ex": "Does anyone have an objection to moving the meeting to Friday?",
+    "form": "objection",
+    "nat": "There was a strong objection from the neighbors.",
+    "syn": [
+      "protest",
+      "complaint"
+    ],
+    "ant": [
+      "approval"
+    ],
+    "col": [
+      "raise an objection",
+      "strong objection",
+      "have no objection",
+      "voice an objection"
+    ],
+    "mis": {
+      "bad": "I have no objection about the plan.",
+      "good": "I have no objection to the plan.",
+      "why": "Objection is followed by \"to\"."
+    },
+    "fam": [
+      "object (verb)",
+      "objectionable (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "viewpoint",
+    "w": "viewpoint",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ponto de vista",
+    "def": "A particular way of thinking about a subject.",
+    "ipa": "/ˈvjuˌpɔɪnt/",
+    "ex": "From my viewpoint, working fewer hours would improve productivity.",
+    "form": "viewpoint",
+    "nat": "It helps to see the problem from another viewpoint.",
+    "syn": [
+      "perspective",
+      "opinion"
+    ],
+    "ant": [],
+    "col": [
+      "from my viewpoint",
+      "a different viewpoint",
+      "a personal viewpoint",
+      "share a viewpoint"
+    ],
+    "mis": {
+      "bad": "In my point of view, the plan is bad.",
+      "good": "From my point of view, the plan is bad.",
+      "why": "Use \"from my point of view\", not \"in my point of view\"."
+    },
+    "fam": [
+      "point of view (phrase)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "compliment",
+    "w": "compliment",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "elogio",
+    "def": "A kind remark that shows you admire something.",
+    "ipa": "/ˈkɑmpləmənt/",
+    "ex": "She gave me a nice compliment about my presentation.",
+    "form": "compliment",
+    "nat": "Thank you for the compliment; it made my day.",
+    "syn": [
+      "praise"
+    ],
+    "ant": [
+      "insult"
+    ],
+    "col": [
+      "pay a compliment",
+      "a nice compliment",
+      "return the compliment",
+      "fish for compliments"
+    ],
+    "mis": {
+      "bad": "I did a compliment to him.",
+      "good": "I paid him a compliment.",
+      "why": "The natural verbs are \"pay\" or \"give\", not \"do\"."
+    },
+    "fam": [
+      "complimentary (adj)",
+      "compliment (verb)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "rumor",
+    "w": "rumor",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "boato, rumor",
+    "def": "A story people share that may not be true.",
+    "ipa": "/ˈrumər/",
+    "ex": "There is a rumor that the company will close next year.",
+    "form": "rumor",
+    "nat": "I don't believe rumors until I see proof.",
+    "syn": [
+      "gossip",
+      "hearsay"
+    ],
+    "ant": [
+      "fact"
+    ],
+    "col": [
+      "spread a rumor",
+      "a rumor that",
+      "rumor has it",
+      "start a rumor"
+    ],
+    "mis": {
+      "bad": "People are rumoring that he is leaving.",
+      "good": "There is a rumor that he is leaving. / He is rumored to be leaving.",
+      "why": "Rumor is mainly a noun; the verb is used only in the passive (\"is rumored to\")."
+    },
+    "fam": [
+      "rumored (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "misleading",
+    "w": "misleading",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "enganoso",
+    "def": "Giving a wrong idea of something.",
+    "ipa": "/mɪsˈlidɪŋ/",
+    "ex": "The advertisement was misleading because it hid the extra fees.",
+    "form": "misleading",
+    "nat": "The title is misleading; the book is about cooking.",
+    "syn": [
+      "deceptive"
+    ],
+    "ant": [
+      "accurate"
+    ],
+    "col": [
+      "misleading information",
+      "highly misleading",
+      "a misleading headline",
+      "misleading advertising"
+    ],
+    "fam": [
+      "mislead (verb)",
+      "misled (verb)"
+    ],
+    "topics": [
+      "abstract",
+      "culture"
+    ],
+    "mis": {
+      "bad": "The ad was mislead.",
+      "good": "The ad was misleading.",
+      "why": "Use -ing for the thing that gives a wrong idea; \"misled\" is the past of mislead (people are misled)."
+    }
+  },
+  {
+    "id": "rephrase",
+    "w": "rephrase",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "reformular, dizer de outro modo",
+    "def": "To say something again using different words.",
+    "ipa": "/riˈfreɪz/",
+    "ex": "Let me rephrase the question so it's easier to answer.",
+    "form": "rephrase",
+    "nat": "Could you rephrase that? I didn't quite follow.",
+    "syn": [
+      "reword",
+      "restate"
+    ],
+    "ant": [],
+    "col": [
+      "rephrase a question",
+      "let me rephrase",
+      "rephrase the sentence",
+      "try to rephrase"
+    ],
+    "fam": [
+      "phrase (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "daily"
+    ],
+    "mis": {
+      "bad": "Can you repeat in other words?",
+      "good": "Can you rephrase that?",
+      "why": "Natural ways to ask are \"rephrase that\" or \"put it another way\"."
+    }
+  },
+  {
+    "id": "scholarship",
+    "w": "scholarship",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "bolsa de estudos",
+    "def": "Money given to a student to pay for education.",
+    "ipa": "/ˈskɑlərˌʃɪp/",
+    "ex": "She won a scholarship to study engineering in Canada.",
+    "form": "scholarship",
+    "nat": "He studied in London on a full scholarship.",
+    "syn": [
+      "grant",
+      "bursary"
+    ],
+    "ant": [],
+    "col": [
+      "win a scholarship",
+      "apply for a scholarship",
+      "a full scholarship",
+      "scholarship student"
+    ],
+    "mis": {
+      "bad": "She studies in a scholarship in Canada.",
+      "good": "She studies in Canada on a scholarship.",
+      "why": "A scholarship is financial aid, not a school."
+    },
+    "fam": [
+      "scholar (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "curriculum",
+    "w": "curriculum",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "grade curricular, currículo escolar",
+    "def": "The subjects taught in a school or course.",
+    "ipa": "/kəˈrɪkjələm/",
+    "ex": "Financial education should be part of the school curriculum.",
+    "form": "curriculum",
+    "nat": "The new curriculum includes more practical projects.",
+    "syn": [
+      "syllabus",
+      "program"
+    ],
+    "ant": [],
+    "col": [
+      "school curriculum",
+      "national curriculum",
+      "part of the curriculum",
+      "revise the curriculum"
+    ],
+    "mis": {
+      "bad": "Send me your curriculum for the job.",
+      "good": "Send me your resume (or CV) for the job.",
+      "why": "Curriculum means the courses of study; for a job use \"resume\" or \"CV\"."
+    },
+    "fam": [
+      "curricula (plural)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "tuition",
+    "w": "tuition",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "mensalidade, anuidade escolar",
+    "def": "Money paid for teaching, especially at a university.",
+    "ipa": "/tuˈɪʃən/",
+    "ex": "Tuition at private universities has increased every year.",
+    "form": "Tuition",
+    "nat": "My parents helped me pay the tuition during my first year.",
+    "syn": [
+      "school fees"
+    ],
+    "ant": [],
+    "col": [
+      "tuition fees",
+      "pay tuition",
+      "free tuition",
+      "rising tuition"
+    ],
+    "mis": {
+      "bad": "I pay the tuition of English every day.",
+      "good": "I pay tuition fees for the course.",
+      "why": "Tuition is the money paid, not the lessons themselves."
+    },
+    "fam": [],
+    "topics": [
+      "finance",
+      "work"
+    ]
+  },
+  {
+    "id": "enroll",
+    "w": "enroll",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "matricular-se, inscrever",
+    "def": "To officially join a course or school.",
+    "ipa": "/ɪnˈroʊl/",
+    "ex": "I enrolled in an evening course to improve my English.",
+    "form": "enrolled",
+    "nat": "She enrolled her son in a nearby school.",
+    "syn": [
+      "register",
+      "sign up"
+    ],
+    "ant": [
+      "drop out"
+    ],
+    "col": [
+      "enroll in",
+      "enroll at",
+      "enroll students",
+      "open enrollment"
+    ],
+    "mis": {
+      "bad": "I matriculated in a course.",
+      "good": "I enrolled in a course.",
+      "why": "\"Matriculate\" is rare in English; use \"enroll\"."
+    },
+    "fam": [
+      "enrollment (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "assignment",
+    "w": "assignment",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "trabalho, tarefa",
+    "def": "A piece of work given to a student or employee.",
+    "ipa": "/əˈsaɪnmənt/",
+    "ex": "I have to finish this assignment before midnight.",
+    "form": "assignment",
+    "nat": "Our first assignment was to interview a stranger.",
+    "syn": [
+      "task",
+      "homework"
+    ],
+    "ant": [],
+    "col": [
+      "finish an assignment",
+      "hand in an assignment",
+      "a written assignment",
+      "a tough assignment"
+    ],
+    "fam": [
+      "assign (verb)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ],
+    "mis": {
+      "bad": "I have a work to deliver tomorrow.",
+      "good": "I have an assignment due tomorrow.",
+      "why": "\"Work\" is uncountable; a school or job task is an \"assignment\"."
+    }
+  },
+  {
+    "id": "qualification",
+    "w": "qualification",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "qualificação, diploma",
+    "def": "A skill, degree, or exam result needed for a job.",
+    "ipa": "/ˌkwɑləfɪˈkeɪʃən/",
+    "ex": "You need a teaching qualification to work in a public school.",
+    "form": "qualification",
+    "nat": "Experience matters more than qualifications in this field.",
+    "syn": [
+      "credential",
+      "certificate"
+    ],
+    "ant": [],
+    "col": [
+      "academic qualifications",
+      "a professional qualification",
+      "meet the qualifications",
+      "relevant qualification"
+    ],
+    "mis": {
+      "bad": "She has many qualifications as a person, very kind.",
+      "good": "She has the right qualifications for the job.",
+      "why": "Qualifications are formal skills or certificates, not personal qualities."
+    },
+    "fam": [
+      "qualify (verb)",
+      "qualified (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "internship",
+    "w": "internship",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "estágio",
+    "def": "A short period of work experience, often for students.",
+    "ipa": "/ˈɪntərnˌʃɪp/",
+    "ex": "He got an internship at a bank during the summer.",
+    "form": "internship",
+    "nat": "Her internship turned into a full-time job.",
+    "syn": [
+      "work placement"
+    ],
+    "ant": [],
+    "col": [
+      "do an internship",
+      "paid internship",
+      "summer internship",
+      "land an internship"
+    ],
+    "mis": {
+      "bad": "I made an internship in a bank.",
+      "good": "I did an internship at a bank.",
+      "why": "Use \"do\" an internship, not \"make\"."
+    },
+    "fam": [
+      "intern (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "vacancy",
+    "w": "vacancy",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "vaga (de emprego)",
+    "def": "A job that is available and needs someone to fill it.",
+    "ipa": "/ˈveɪkənsi/",
+    "ex": "The company has a vacancy for a sales assistant.",
+    "form": "vacancy",
+    "nat": "There are no vacancies at the moment, but we keep CVs on file.",
+    "syn": [
+      "opening",
+      "opportunity"
+    ],
+    "ant": [],
+    "col": [
+      "fill a vacancy",
+      "a job vacancy",
+      "no vacancies",
+      "advertise a vacancy"
+    ],
+    "mis": {
+      "bad": "There is a vague at the bank.",
+      "good": "There is a vacancy at the bank.",
+      "why": "\"Vague\" means unclear; a job opening is a \"vacancy\"."
+    },
+    "fam": [
+      "vacant (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "promotion",
+    "w": "promotion",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "promoção (no emprego)",
+    "def": "Moving to a higher position at work.",
+    "ipa": "/prəˈmoʊʃən/",
+    "ex": "After five years, she finally got a promotion to manager.",
+    "form": "promotion",
+    "nat": "He's hoping for a promotion before the end of the year.",
+    "syn": [
+      "advancement"
+    ],
+    "ant": [
+      "demotion"
+    ],
+    "col": [
+      "get a promotion",
+      "a promotion to",
+      "a job promotion",
+      "chances of promotion"
+    ],
+    "fam": [
+      "promote (verb)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "These shoes are in promotion.",
+      "good": "These shoes are on sale.",
+      "why": "\"Promotion\" at work means a higher position; a lower price is \"on sale\"."
+    }
+  },
+  {
+    "id": "resign",
+    "w": "resign",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "pedir demissão",
+    "def": "To officially leave your job.",
+    "ipa": "/rɪˈzaɪn/",
+    "ex": "He resigned after the company ignored his complaints.",
+    "form": "resigned",
+    "nat": "She resigned from her post as head teacher last week.",
+    "syn": [
+      "quit",
+      "step down"
+    ],
+    "ant": [
+      "hire"
+    ],
+    "col": [
+      "resign from",
+      "resign as",
+      "threaten to resign",
+      "hand in your resignation"
+    ],
+    "mis": {
+      "bad": "I asked for dismissal from my job.",
+      "good": "I resigned from my job.",
+      "why": "\"Dismissal\" means being fired; to leave voluntarily, use \"resign\" or \"quit\"."
+    },
+    "fam": [
+      "resignation (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "retire",
+    "w": "retire",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "aposentar-se",
+    "def": "To stop working permanently, usually because of age.",
+    "ipa": "/rɪˈtaɪər/",
+    "ex": "My father plans to retire when he turns sixty-five.",
+    "form": "retire",
+    "nat": "Many people retire earlier than they expected.",
+    "syn": [
+      "stop working"
+    ],
+    "ant": [],
+    "col": [
+      "retire from",
+      "early retirement",
+      "retire at sixty",
+      "about to retire"
+    ],
+    "mis": {
+      "bad": "He retired the money from the bank.",
+      "good": "He took the money out of the bank.",
+      "why": "\"Retire\" means to stop working; it does not mean to take something out."
+    },
+    "fam": [
+      "retirement (noun)",
+      "retired (adj)"
+    ],
+    "topics": [
+      "work",
+      "finance"
+    ]
+  },
+  {
+    "id": "mentor",
+    "w": "mentor",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "mentor",
+    "def": "An experienced person who gives advice to a less experienced one.",
+    "ipa": "/ˈmɛnˌtɔr/",
+    "ex": "My mentor taught me how to handle difficult clients.",
+    "form": "mentor",
+    "nat": "She has been a mentor to many young engineers.",
+    "syn": [
+      "guide",
+      "advisor"
+    ],
+    "ant": [],
+    "col": [
+      "find a mentor",
+      "a trusted mentor",
+      "act as a mentor",
+      "mentor program"
+    ],
+    "fam": [
+      "mentor (verb)",
+      "mentoring (noun)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ],
+    "mis": {
+      "bad": "She mentors me since 2020.",
+      "good": "She has been mentoring me since 2020.",
+      "why": "With \"since\" use the present perfect (continuous), not the simple present."
+    }
+  },
+  {
+    "id": "competent",
+    "w": "competent",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "competente, capaz",
+    "def": "Having the skills needed to do something well.",
+    "ipa": "/ˈkɑmpətənt/",
+    "ex": "She is a competent engineer who rarely makes mistakes.",
+    "form": "competent",
+    "nat": "You need a competent lawyer for a case like this.",
+    "syn": [
+      "capable",
+      "skilled"
+    ],
+    "ant": [
+      "incompetent"
+    ],
+    "col": [
+      "a competent teacher",
+      "perfectly competent",
+      "competent at",
+      "highly competent"
+    ],
+    "mis": {
+      "bad": "The market is very competent.",
+      "good": "The market is very competitive.",
+      "why": "Competent means skilled; \"competitive\" relates to competition."
+    },
+    "fam": [
+      "competence (noun)",
+      "incompetent (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "rewarding",
+    "w": "rewarding",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "gratificante",
+    "def": "Giving you satisfaction because it is worthwhile.",
+    "ipa": "/rɪˈwɔrdɪŋ/",
+    "ex": "Teaching is tiring, but it is also incredibly rewarding.",
+    "form": "rewarding",
+    "nat": "Volunteering at the shelter was a rewarding experience.",
+    "syn": [
+      "fulfilling",
+      "satisfying"
+    ],
+    "ant": [
+      "pointless"
+    ],
+    "col": [
+      "a rewarding career",
+      "rewarding experience",
+      "deeply rewarding",
+      "financially rewarding"
+    ],
+    "fam": [
+      "reward (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "The trip was rewarded.",
+      "good": "The trip was rewarding.",
+      "why": "\"Rewarded\" means given a prize; -ing describes an experience that satisfies you."
+    }
+  },
+  {
+    "id": "undergraduate",
+    "w": "undergraduate",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "estudante de graduação",
+    "def": "A university student studying for a first degree.",
+    "ipa": "/ˌʌndərˈɡrædʒuət/",
+    "ex": "As an undergraduate, he spent a year studying abroad.",
+    "form": "undergraduate",
+    "nat": "Most undergraduates live on campus in their first year.",
+    "syn": [
+      "student"
+    ],
+    "ant": [
+      "graduate"
+    ],
+    "col": [
+      "an undergraduate degree",
+      "undergraduate student",
+      "undergraduate course",
+      "as an undergraduate"
+    ],
+    "mis": {
+      "bad": "I'm a graduate student; I'm in my second year of a bachelor's.",
+      "good": "I'm an undergraduate; I'm in my second year of a bachelor's.",
+      "why": "In US English, a graduate student is doing a master's or PhD; a bachelor's student is an undergraduate."
+    },
+    "fam": [
+      "graduate (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "pollution",
+    "w": "pollution",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "poluição",
+    "def": "Harmful substances that damage air, water, or land.",
+    "ipa": "/pəˈluʃən/",
+    "ex": "Air pollution is a serious problem in many big cities.",
+    "form": "pollution",
+    "nat": "Plastic pollution is killing sea animals around the world.",
+    "syn": [
+      "contamination"
+    ],
+    "ant": [],
+    "col": [
+      "air pollution",
+      "reduce pollution",
+      "noise pollution",
+      "water pollution"
+    ],
+    "fam": [
+      "pollute (verb)",
+      "pollutant (noun)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "The pollution of the air is high.",
+      "good": "Air pollution is high.",
+      "why": "English uses the noun adjunct \"air pollution\" instead of \"pollution of the air\"."
+    }
+  },
+  {
+    "id": "landfill",
+    "w": "landfill",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "aterro sanitário",
+    "def": "A large place where rubbish is buried.",
+    "ipa": "/ˈlændˌfɪl/",
+    "ex": "Most of our household waste ends up in a landfill.",
+    "form": "landfill",
+    "nat": "The old landfill outside town will close next year.",
+    "syn": [
+      "dump"
+    ],
+    "ant": [],
+    "col": [
+      "a landfill site",
+      "end up in landfill",
+      "landfill waste",
+      "send to landfill"
+    ],
+    "fam": [],
+    "topics": [
+      "science",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "The garbage goes to the sanitary landfill.",
+      "good": "The garbage goes to a landfill.",
+      "why": "\"Sanitary landfill\" is a technical term; in everyday English just say \"landfill\"."
+    }
+  },
+  {
+    "id": "wildlife",
+    "w": "wildlife",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "vida selvagem, fauna",
+    "def": "Animals and plants living in natural conditions.",
+    "ipa": "/ˈwaɪldˌlaɪf/",
+    "ex": "The reserve protects wildlife from illegal hunting.",
+    "form": "wildlife",
+    "nat": "We saw amazing wildlife on our safari.",
+    "syn": [
+      "fauna"
+    ],
+    "ant": [],
+    "col": [
+      "protect wildlife",
+      "wildlife reserve",
+      "local wildlife",
+      "wildlife documentary"
+    ],
+    "mis": {
+      "bad": "The wildlifes of Brazil are diverse.",
+      "good": "The wildlife of Brazil is diverse.",
+      "why": "Wildlife is uncountable and has no plural."
+    },
+    "fam": [],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "endangered",
+    "w": "endangered",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "em extinção, ameaçado",
+    "def": "At risk of disappearing completely.",
+    "ipa": "/ɪnˈdeɪndʒərd/",
+    "ex": "The golden lion tamarin is an endangered species.",
+    "form": "endangered",
+    "nat": "Many endangered animals live in this rainforest.",
+    "syn": [
+      "threatened"
+    ],
+    "ant": [
+      "thriving"
+    ],
+    "col": [
+      "endangered species",
+      "critically endangered",
+      "an endangered language",
+      "protect endangered animals"
+    ],
+    "mis": {
+      "bad": "It is an extinction animal.",
+      "good": "It is an endangered animal.",
+      "why": "\"Extinct\" means already gone; an animal at risk is \"endangered\"."
+    },
+    "fam": [
+      "endanger (verb)",
+      "danger (noun)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "sustainable",
+    "w": "sustainable",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "sustentável",
+    "def": "Able to continue without harming the environment.",
+    "ipa": "/səˈsteɪnəbəl/",
+    "ex": "The company aims to use only sustainable materials by 2030.",
+    "form": "sustainable",
+    "nat": "Fast fashion is not a sustainable way to dress.",
+    "syn": [
+      "eco-friendly"
+    ],
+    "ant": [
+      "wasteful"
+    ],
+    "col": [
+      "sustainable development",
+      "sustainable energy",
+      "a sustainable future",
+      "environmentally sustainable"
+    ],
+    "mis": {
+      "bad": "It is a sustentable project.",
+      "good": "It is a sustainable project.",
+      "why": "The English form is \"sustainable\", not \"sustentable\"."
+    },
+    "fam": [
+      "sustain (verb)",
+      "sustainability (noun)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "emissions",
+    "w": "emissions",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "emissões (de gases)",
+    "def": "Gases or substances released into the air.",
+    "ipa": "/ɪˈmɪʃənz/",
+    "ex": "The city wants to cut carbon emissions by half within ten years.",
+    "form": "emissions",
+    "nat": "Car emissions are a major source of air pollution.",
+    "syn": [
+      "discharge",
+      "release"
+    ],
+    "ant": [],
+    "col": [
+      "carbon emissions",
+      "cut emissions",
+      "reduce emissions",
+      "greenhouse gas emissions"
+    ],
+    "fam": [
+      "emit (verb)",
+      "emission (noun)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "The emission of carbon is rising.",
+      "good": "Carbon emissions are rising.",
+      "why": "Use the plural \"emissions\" with a noun adjunct."
+    }
+  },
+  {
+    "id": "drought",
+    "w": "drought",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "seca",
+    "def": "A long period with very little rain.",
+    "ipa": "/draʊt/",
+    "ex": "The drought destroyed most of the crops last summer.",
+    "form": "drought",
+    "nat": "Farmers are struggling after three years of drought.",
+    "syn": [
+      "dry spell"
+    ],
+    "ant": [
+      "flood"
+    ],
+    "col": [
+      "severe drought",
+      "a long drought",
+      "drought conditions",
+      "drought-resistant"
+    ],
+    "mis": {
+      "bad": "The drought is a hot day.",
+      "good": "The drought lasted three months.",
+      "why": "Drought means a long lack of rain, not hot weather."
+    },
+    "fam": [],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "deforestation",
+    "w": "deforestation",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "desmatamento",
+    "def": "The cutting down of large areas of forest.",
+    "ipa": "/diˌfɔrɪˈsteɪʃən/",
+    "ex": "Deforestation in the Amazon has slowed down in recent years.",
+    "form": "Deforestation",
+    "nat": "Illegal logging is the main cause of deforestation here.",
+    "syn": [
+      "clearing"
+    ],
+    "ant": [
+      "reforestation"
+    ],
+    "col": [
+      "stop deforestation",
+      "rapid deforestation",
+      "illegal deforestation",
+      "tropical deforestation"
+    ],
+    "fam": [
+      "deforest (verb)",
+      "forest (noun)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "The deforestation is growing in the Amazon.",
+      "good": "Deforestation is growing in the Amazon.",
+      "why": "No article before a general uncountable noun."
+    }
+  },
+  {
+    "id": "inequality",
+    "w": "inequality",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "desigualdade",
+    "def": "An unfair difference in wealth or opportunity.",
+    "ipa": "/ˌɪnɪˈkwɑləti/",
+    "ex": "Income inequality has grown in many countries.",
+    "form": "inequality",
+    "nat": "The report highlights inequality in access to education.",
+    "syn": [
+      "disparity"
+    ],
+    "ant": [
+      "equality"
+    ],
+    "col": [
+      "income inequality",
+      "social inequality",
+      "reduce inequality",
+      "gender inequality"
+    ],
+    "mis": {
+      "bad": "The inequalities is big in Brazil.",
+      "good": "Inequality is big in Brazil.",
+      "why": "In this sense, inequality is usually uncountable."
+    },
+    "fam": [
+      "unequal (adj)",
+      "equality (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "finance"
+    ]
+  },
+  {
+    "id": "poverty",
+    "w": "poverty",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "pobreza",
+    "def": "The state of being very poor.",
+    "ipa": "/ˈpɑvərti/",
+    "ex": "Millions of people still live in poverty.",
+    "form": "poverty",
+    "nat": "She grew up in poverty but became a successful doctor.",
+    "syn": [
+      "hardship"
+    ],
+    "ant": [
+      "wealth"
+    ],
+    "col": [
+      "live in poverty",
+      "poverty line",
+      "fight poverty",
+      "extreme poverty"
+    ],
+    "mis": {
+      "bad": "They live in the poverty.",
+      "good": "They live in poverty.",
+      "why": "No article before \"poverty\" in this sense."
+    },
+    "fam": [
+      "poor (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "finance"
+    ]
+  },
+  {
+    "id": "volunteer",
+    "w": "volunteer",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "ser voluntário, oferecer-se",
+    "def": "To offer to do something without being paid or forced.",
+    "ipa": "/ˌvɑlənˈtɪr/",
+    "ex": "I volunteer at an animal shelter every Saturday.",
+    "form": "volunteer",
+    "nat": "Nobody volunteered to clean the kitchen.",
+    "syn": [
+      "offer"
+    ],
+    "ant": [],
+    "col": [
+      "volunteer to",
+      "volunteer for",
+      "volunteer work",
+      "volunteer your time"
+    ],
+    "mis": {
+      "bad": "I made a voluntary work at the school.",
+      "good": "I do volunteer work at the school.",
+      "why": "Use \"do volunteer work\", not \"make voluntary work\"."
+    },
+    "fam": [
+      "volunteer (noun)",
+      "voluntary (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "donate",
+    "w": "donate",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "doar",
+    "def": "To give money or goods to help others.",
+    "ipa": "/ˈdoʊˌneɪt/",
+    "ex": "Many people donated clothes after the flood.",
+    "form": "donated",
+    "nat": "He donates part of his salary to charity every month.",
+    "syn": [
+      "give",
+      "contribute"
+    ],
+    "ant": [
+      "keep"
+    ],
+    "col": [
+      "donate to",
+      "donate money",
+      "donate blood",
+      "generously donate"
+    ],
+    "fam": [
+      "donation (noun)",
+      "donor (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ],
+    "mis": {
+      "bad": "She donated the charity some money.",
+      "good": "She donated some money to the charity.",
+      "why": "Donate cannot take two objects; use \"to\"."
+    }
+  },
+  {
+    "id": "discrimination",
+    "w": "discrimination",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "discriminação",
+    "def": "Unfair treatment of people because of who they are.",
+    "ipa": "/dɪˌskrɪməˈneɪʃən/",
+    "ex": "The law bans discrimination based on age or gender.",
+    "form": "discrimination",
+    "nat": "Many workers face discrimination because of their accent.",
+    "syn": [
+      "prejudice",
+      "bias"
+    ],
+    "ant": [
+      "equality"
+    ],
+    "col": [
+      "face discrimination",
+      "racial discrimination",
+      "discrimination against",
+      "fight discrimination"
+    ],
+    "mis": {
+      "bad": "There is a lot of discrimination to women.",
+      "good": "There is a lot of discrimination against women.",
+      "why": "The preposition is \"against\"."
+    },
+    "fam": [
+      "discriminate (verb)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "unemployment",
+    "w": "unemployment",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "desemprego",
+    "def": "The state of having no job.",
+    "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+    "ex": "Youth unemployment is a major concern in the region.",
+    "form": "unemployment",
+    "nat": "Unemployment fell to its lowest level in ten years.",
+    "syn": [
+      "joblessness"
+    ],
+    "ant": [
+      "employment"
+    ],
+    "col": [
+      "high unemployment",
+      "unemployment rate",
+      "unemployment benefit",
+      "reduce unemployment"
+    ],
+    "mis": {
+      "bad": "The unemployment is high.",
+      "good": "Unemployment is high.",
+      "why": "No article before the general noun."
+    },
+    "fam": [
+      "unemployed (adj)"
+    ],
+    "topics": [
+      "finance",
+      "abstract"
+    ]
+  },
+  {
+    "id": "anxious",
+    "w": "anxious",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "ansioso, apreensivo",
+    "def": "Worried and nervous about something uncertain.",
+    "ipa": "/ˈæŋkʃəs/",
+    "ex": "I felt anxious before my job interview.",
+    "form": "anxious",
+    "nat": "He is anxious about the test results.",
+    "syn": [
+      "worried",
+      "nervous"
+    ],
+    "ant": [
+      "calm"
+    ],
+    "col": [
+      "feel anxious",
+      "anxious about",
+      "an anxious wait",
+      "anxious to know"
+    ],
+    "mis": {
+      "bad": "I am anxious to go on vacation tomorrow.",
+      "good": "I am excited to go on vacation tomorrow.",
+      "why": "\"Anxious\" suggests worry, not simple excitement."
+    },
+    "fam": [
+      "anxiety (noun)"
+    ],
+    "topics": [
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "ambitious",
+    "w": "ambitious",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "ambicioso",
+    "def": "Having a strong wish to succeed.",
+    "ipa": "/æmˈbɪʃəs/",
+    "ex": "She is an ambitious young lawyer who wants to become a judge.",
+    "form": "ambitious",
+    "nat": "They have ambitious plans to open ten new stores.",
+    "syn": [
+      "driven"
+    ],
+    "ant": [
+      "lazy"
+    ],
+    "col": [
+      "ambitious plan",
+      "highly ambitious",
+      "ambitious goal",
+      "young and ambitious"
+    ],
+    "fam": [
+      "ambition (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ],
+    "mis": {
+      "bad": "I am ambitious of becoming a manager.",
+      "good": "I am ambitious and want to become a manager.",
+      "why": "\"Ambitious of\" is not used; ambitious describes character."
+    }
+  },
+  {
+    "id": "insecure",
+    "w": "insecure",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "inseguro (emocionalmente)",
+    "def": "Not confident about yourself.",
+    "ipa": "/ˌɪnsɪˈkjʊr/",
+    "ex": "He felt insecure about his accent at first.",
+    "form": "insecure",
+    "nat": "Constant criticism can make anyone feel insecure.",
+    "syn": [
+      "self-doubting"
+    ],
+    "ant": [
+      "confident"
+    ],
+    "col": [
+      "feel insecure",
+      "insecure about",
+      "deeply insecure",
+      "insecure teenager"
+    ],
+    "mis": {
+      "bad": "I am insecure to walk at night.",
+      "good": "I feel unsafe walking at night.",
+      "why": "\"Insecure\" describes lack of confidence; for danger use \"unsafe\"."
+    },
+    "fam": [
+      "insecurity (noun)"
+    ],
+    "topics": [
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "thoughtful",
+    "w": "thoughtful",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "atencioso, cuidadoso com os outros",
+    "def": "Showing care for other people's feelings.",
+    "ipa": "/ˈθɔtfəl/",
+    "ex": "It was thoughtful of you to bring flowers.",
+    "form": "thoughtful",
+    "nat": "She sent a thoughtful message when I was sick.",
+    "syn": [
+      "considerate",
+      "kind"
+    ],
+    "ant": [
+      "thoughtless"
+    ],
+    "col": [
+      "a thoughtful gift",
+      "thoughtful of you",
+      "thoughtful gesture",
+      "very thoughtful"
+    ],
+    "mis": {
+      "bad": "It was very thoughtful from you.",
+      "good": "It was very thoughtful of you.",
+      "why": "Use \"of you\" after adjectives describing behavior (thoughtful, kind, nice)."
+    },
+    "fam": [
+      "thought (noun)",
+      "thoughtfully (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "generous",
+    "w": "generous",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "generoso",
+    "def": "Willing to give more than is expected.",
+    "ipa": "/ˈdʒɛnərəs/",
+    "ex": "My uncle is generous and always pays for everyone.",
+    "form": "generous",
+    "nat": "That's a very generous offer; thank you.",
+    "syn": [
+      "giving"
+    ],
+    "ant": [
+      "stingy",
+      "selfish"
+    ],
+    "col": [
+      "generous donation",
+      "a generous offer",
+      "generous portion",
+      "be generous with"
+    ],
+    "fam": [
+      "generosity (noun)",
+      "generously (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ],
+    "mis": {
+      "bad": "He is generous of money.",
+      "good": "He is generous with his money.",
+      "why": "Use \"generous with\" something."
+    }
+  },
+  {
+    "id": "moody",
+    "w": "moody",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "de humor instável",
+    "def": "Having moods that change quickly, often to bad ones.",
+    "ipa": "/ˈmudi/",
+    "ex": "He gets moody when he doesn't sleep enough.",
+    "form": "moody",
+    "nat": "Teenagers can be moody at times.",
+    "syn": [
+      "temperamental"
+    ],
+    "ant": [
+      "even-tempered"
+    ],
+    "col": [
+      "a moody teenager",
+      "feel moody",
+      "moody and quiet",
+      "get moody"
+    ],
+    "fam": [
+      "mood (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "health"
+    ],
+    "mis": {
+      "bad": "I am moody to travel.",
+      "good": "I am in the mood to travel.",
+      "why": "\"Moody\" means changeable in mood; the wish to do something is \"in the mood for/to\"."
+    }
+  },
+  {
+    "id": "easygoing",
+    "w": "easygoing",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "tranquilo, de boa convivência",
+    "def": "Relaxed and not easily upset.",
+    "ipa": "/ˌizɪˈɡoʊɪŋ/",
+    "ex": "My boss is easygoing, so the office is a pleasant place.",
+    "form": "easygoing",
+    "nat": "She is easygoing and gets along with everyone.",
+    "syn": [
+      "relaxed",
+      "laid-back"
+    ],
+    "ant": [
+      "uptight"
+    ],
+    "col": [
+      "an easygoing person",
+      "easygoing attitude",
+      "very easygoing",
+      "easygoing manner"
+    ],
+    "fam": [],
+    "topics": [
+      "relationships"
+    ],
+    "mis": {
+      "bad": "She is very easy going with everyone.",
+      "good": "She is very easygoing with everyone.",
+      "why": "It is one word (or hyphenated: easy-going), not two."
+    }
+  },
+  {
+    "id": "selfish",
+    "w": "selfish",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "egoísta",
+    "def": "Caring only about yourself.",
+    "ipa": "/ˈsɛlfɪʃ/",
+    "ex": "It was selfish of him to take the last piece without asking.",
+    "form": "selfish",
+    "nat": "Don't be selfish; share your toys.",
+    "syn": [
+      "self-centered"
+    ],
+    "ant": [
+      "generous",
+      "selfless"
+    ],
+    "col": [
+      "selfish behavior",
+      "a selfish person",
+      "selfish reasons",
+      "it's selfish to"
+    ],
+    "fam": [
+      "selfishness (noun)",
+      "selfless (adj)"
+    ],
+    "topics": [
+      "relationships"
+    ],
+    "mis": {
+      "bad": "He is very selfish person.",
+      "good": "He is a very selfish person.",
+      "why": "Singular countable nouns need an article."
+    }
+  },
+  {
+    "id": "humble",
+    "w": "humble",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "humilde, modesto",
+    "def": "Not proud and not thinking you are better than others.",
+    "ipa": "/ˈhʌmbəl/",
+    "ex": "Despite his fame, he stays humble and kind.",
+    "form": "humble",
+    "nat": "She comes from a humble background.",
+    "syn": [
+      "modest"
+    ],
+    "ant": [
+      "arrogant"
+    ],
+    "col": [
+      "humble background",
+      "stay humble",
+      "a humble person",
+      "in my humble opinion"
+    ],
+    "fam": [
+      "humility (noun)",
+      "humbly (adv)"
+    ],
+    "topics": [
+      "relationships"
+    ],
+    "mis": {
+      "bad": "He is very humiliated about his success.",
+      "good": "He is very humble about his success.",
+      "why": "\"Humiliated\" means shamed by others; \"humble\" (humilde) means modest."
+    }
+  },
+  {
+    "id": "disappointed",
+    "w": "disappointed",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "decepcionado, desapontado",
+    "def": "Sad because something was not as good as you hoped.",
+    "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+    "ex": "I was disappointed with the final episode of the series.",
+    "form": "disappointed",
+    "nat": "They were disappointed that the concert was cancelled.",
+    "syn": [
+      "let down",
+      "dissatisfied"
+    ],
+    "ant": [
+      "delighted"
+    ],
+    "col": [
+      "disappointed with",
+      "disappointed that",
+      "deeply disappointed",
+      "feel disappointed"
+    ],
+    "mis": {
+      "bad": "I am disappointed of you.",
+      "good": "I am disappointed with you.",
+      "why": "Use \"with\" or \"in\" after disappointed, not \"of\"."
+    },
+    "fam": [
+      "disappoint (verb)",
+      "disappointment (noun)"
+    ],
+    "topics": [
+      "relationships"
+    ]
+  },
+  {
+    "id": "relieved",
+    "w": "relieved",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "aliviado",
+    "def": "Happy because something bad did not happen.",
+    "ipa": "/rɪˈlivd/",
+    "ex": "I was so relieved when the test results came back negative.",
+    "form": "relieved",
+    "nat": "She looked relieved to hear that everyone was safe.",
+    "syn": [
+      "reassured"
+    ],
+    "ant": [
+      "worried"
+    ],
+    "col": [
+      "feel relieved",
+      "relieved to hear",
+      "hugely relieved",
+      "relieved that"
+    ],
+    "fam": [
+      "relief (noun)",
+      "relieve (verb)"
+    ],
+    "topics": [
+      "relationships",
+      "health"
+    ],
+    "mis": {
+      "bad": "I'm very relief that you are safe.",
+      "good": "I'm very relieved that you are safe.",
+      "why": "Use the adjective \"relieved\", not the noun \"relief\"."
+    }
+  },
+  {
+    "id": "embarrassed",
+    "w": "embarrassed",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "constrangido, com vergonha",
+    "def": "Feeling awkward or ashamed in front of others.",
+    "ipa": "/ɪmˈbɛrəst/",
+    "ex": "I felt embarrassed when I forgot his name.",
+    "form": "embarrassed",
+    "nat": "He was too embarrassed to ask for help.",
+    "syn": [
+      "ashamed",
+      "awkward"
+    ],
+    "ant": [
+      "proud"
+    ],
+    "col": [
+      "feel embarrassed",
+      "embarrassed about",
+      "too embarrassed to",
+      "deeply embarrassed"
+    ],
+    "mis": {
+      "bad": "I was embarassed because I forgot his name.",
+      "good": "I was embarrassed because I forgot his name.",
+      "why": "Mind the spelling: double r and double s. Also, it never means \"pregnant\", unlike \"embaraçada\"."
+    },
+    "fam": [
+      "embarrass (verb)",
+      "embarrassment (noun)"
+    ],
+    "topics": [
+      "relationships"
+    ]
+  },
+  {
+    "id": "enthusiastic",
+    "w": "enthusiastic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "entusiasmado",
+    "def": "Very excited and interested in something.",
+    "ipa": "/ɪnˌθuziˈæstɪk/",
+    "ex": "The students were enthusiastic about the new project.",
+    "form": "enthusiastic",
+    "nat": "He wasn't very enthusiastic about moving to another city.",
+    "syn": [
+      "eager",
+      "keen"
+    ],
+    "ant": [
+      "apathetic"
+    ],
+    "col": [
+      "enthusiastic about",
+      "an enthusiastic response",
+      "highly enthusiastic",
+      "enthusiastic supporter"
+    ],
+    "mis": {
+      "bad": "She is enthusiastic of the idea.",
+      "good": "She is enthusiastic about the idea.",
+      "why": "Use \"about\" after enthusiastic."
+    },
+    "fam": [
+      "enthusiasm (noun)",
+      "enthusiastically (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "impatient",
+    "w": "impatient",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "impaciente",
+    "def": "Annoyed because you have to wait or because things are slow.",
+    "ipa": "/ɪmˈpeɪʃənt/",
+    "ex": "I get impatient when the line moves slowly.",
+    "form": "impatient",
+    "nat": "He was impatient to start the new job.",
+    "syn": [
+      "restless"
+    ],
+    "ant": [
+      "patient"
+    ],
+    "col": [
+      "grow impatient",
+      "impatient with",
+      "impatient to",
+      "get impatient"
+    ],
+    "fam": [
+      "impatience (noun)",
+      "impatiently (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ],
+    "mis": {
+      "bad": "She is impatient for her kids.",
+      "good": "She is impatient with her kids.",
+      "why": "Use \"impatient with\" a person."
+    }
+  },
+  {
+    "id": "sympathetic",
+    "w": "sympathetic",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "compreensivo, solidário",
+    "def": "Showing that you understand and care about someone's problems.",
+    "ipa": "/ˌsɪmpəˈθɛtɪk/",
+    "ex": "My manager was sympathetic when I explained my situation.",
+    "form": "sympathetic",
+    "nat": "She gave me a sympathetic smile.",
+    "syn": [
+      "understanding",
+      "compassionate"
+    ],
+    "ant": [
+      "unsympathetic"
+    ],
+    "col": [
+      "sympathetic ear",
+      "sympathetic to",
+      "a sympathetic smile",
+      "sympathetic towards"
+    ],
+    "mis": {
+      "bad": "He is very sympathetic with everybody, always smiling.",
+      "good": "He is very friendly with everybody, always smiling.",
+      "why": "\"Sympathetic\" means understanding of suffering; \"simpático\" is \"nice\" or \"friendly\"."
+    },
+    "fam": [
+      "sympathy (noun)",
+      "sympathize (verb)"
+    ],
+    "topics": [
+      "relationships",
+      "health"
+    ]
+  },
+  {
+    "id": "procrastinate",
+    "w": "procrastinate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "procrastinar",
+    "def": "To delay doing something that you should do.",
+    "ipa": "/proʊˈkræstəˌneɪt/",
+    "ex": "I always procrastinate when I have to write reports.",
+    "form": "procrastinate",
+    "nat": "Stop procrastinating and start your homework.",
+    "syn": [
+      "delay",
+      "put off"
+    ],
+    "ant": [
+      "get on with"
+    ],
+    "col": [
+      "tend to procrastinate",
+      "stop procrastinating",
+      "procrastinate for hours",
+      "chronic procrastination"
+    ],
+    "fam": [
+      "procrastination (noun)"
+    ],
+    "topics": [
+      "health",
+      "work"
+    ],
+    "mis": {
+      "bad": "I procrastinated to study.",
+      "good": "I procrastinated instead of studying.",
+      "why": "Procrastinate is intransitive and is not followed by \"to + verb\"."
+    }
+  },
+  {
+    "id": "mindfulness",
+    "w": "mindfulness",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "atenção plena, mindfulness",
+    "def": "The practice of paying full attention to the present moment.",
+    "ipa": "/ˈmaɪndfəlnəs/",
+    "ex": "Ten minutes of mindfulness each morning helps me stay calm.",
+    "form": "mindfulness",
+    "nat": "She teaches mindfulness at a local clinic.",
+    "syn": [
+      "awareness"
+    ],
+    "ant": [],
+    "col": [
+      "practice mindfulness",
+      "mindfulness exercise",
+      "mindfulness meditation",
+      "mindfulness app"
+    ],
+    "fam": [
+      "mindful (adj)"
+    ],
+    "topics": [
+      "health"
+    ],
+    "mis": {
+      "bad": "I practice a mindfulness every day.",
+      "good": "I practice mindfulness every day.",
+      "why": "Mindfulness is uncountable."
+    }
+  },
+  {
+    "id": "routine",
+    "w": "routine",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "rotina",
+    "def": "The usual way you do things every day.",
+    "ipa": "/ruˈtin/",
+    "ex": "My morning routine includes a short walk and a cup of coffee.",
+    "form": "routine",
+    "nat": "Travelling disrupted my sleep routine.",
+    "syn": [
+      "habit",
+      "schedule"
+    ],
+    "ant": [],
+    "col": [
+      "daily routine",
+      "a bedtime routine",
+      "stick to a routine",
+      "break the routine"
+    ],
+    "mis": {
+      "bad": "I have a busy routine of work.",
+      "good": "I have a busy daily routine.",
+      "why": "The usual phrase is \"daily routine\"."
+    },
+    "fam": [
+      "routinely (adv)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "distraction",
+    "w": "distraction",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "distração, o que desvia a atenção",
+    "def": "Something that takes your attention away from what you are doing.",
+    "ipa": "/dɪˈstrækʃən/",
+    "ex": "My phone is the biggest distraction when I study.",
+    "form": "distraction",
+    "nat": "Turn off the TV; it's a distraction.",
+    "syn": [
+      "interruption"
+    ],
+    "ant": [
+      "focus"
+    ],
+    "col": [
+      "a major distraction",
+      "avoid distractions",
+      "easily distracted",
+      "source of distraction"
+    ],
+    "mis": {
+      "bad": "I am a distraction person, I forget everything.",
+      "good": "I am easily distracted, so I forget things.",
+      "why": "\"Distraction\" is something that diverts attention; it does not describe a personality."
+    },
+    "fam": [
+      "distract (verb)",
+      "distracted (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "self-esteem",
+    "w": "self-esteem",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "autoestima",
+    "def": "How much you value yourself.",
+    "ipa": "/ˌsɛlf ɪˈstim/",
+    "ex": "Positive feedback can raise a child's self-esteem.",
+    "form": "self-esteem",
+    "nat": "Social media can damage teenagers' self-esteem.",
+    "syn": [
+      "self-respect",
+      "self-worth"
+    ],
+    "ant": [],
+    "col": [
+      "low self-esteem",
+      "boost your self-esteem",
+      "build self-esteem",
+      "damage self-esteem"
+    ],
+    "mis": {
+      "bad": "I have a low self-esteem.",
+      "good": "I have low self-esteem.",
+      "why": "Self-esteem is uncountable: no article."
+    },
+    "fam": [],
+    "topics": [
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "overthink",
+    "w": "overthink",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "pensar demais, remoer",
+    "def": "To think too much about something so that it causes stress.",
+    "ipa": "/ˌoʊvərˈθɪŋk/",
+    "ex": "Stop overthinking; it was just a short message.",
+    "form": "overthinking",
+    "nat": "I tend to overthink small decisions.",
+    "syn": [
+      "dwell on"
+    ],
+    "ant": [],
+    "col": [
+      "tend to overthink",
+      "stop overthinking",
+      "overthink things",
+      "overthink a situation"
+    ],
+    "fam": [],
+    "topics": [
+      "health"
+    ],
+    "mis": {
+      "bad": "I overthink too much about everything.",
+      "good": "I overthink everything.",
+      "why": "The prefix \"over-\" already means \"too much\"."
+    }
+  },
+  {
+    "id": "unwind",
+    "w": "unwind",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "relaxar, desestressar",
+    "def": "To relax after a period of work or stress.",
+    "ipa": "/ʌnˈwaɪnd/",
+    "ex": "I like to unwind with a book after a long day.",
+    "form": "unwind",
+    "nat": "We went to the beach to unwind for the weekend.",
+    "syn": [
+      "relax",
+      "chill out"
+    ],
+    "ant": [
+      "tense up"
+    ],
+    "col": [
+      "unwind after work",
+      "a way to unwind",
+      "time to unwind",
+      "unwind with"
+    ],
+    "mis": {
+      "bad": "I unwinded on the sofa.",
+      "good": "I unwound on the sofa.",
+      "why": "The past of unwind is irregular: unwound."
+    },
+    "fam": [],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "exhausted",
+    "w": "exhausted",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "exausto",
+    "def": "Extremely tired.",
+    "ipa": "/ɪɡˈzɔstɪd/",
+    "ex": "After the long flight, I was completely exhausted.",
+    "form": "exhausted",
+    "nat": "She looked exhausted after working two shifts.",
+    "syn": [
+      "drained",
+      "worn out"
+    ],
+    "ant": [
+      "energetic"
+    ],
+    "col": [
+      "completely exhausted",
+      "physically exhausted",
+      "feel exhausted",
+      "mentally exhausted"
+    ],
+    "fam": [
+      "exhaust (verb)",
+      "exhaustion (noun)"
+    ],
+    "topics": [
+      "health"
+    ],
+    "mis": {
+      "bad": "I am exhausting after work.",
+      "good": "I am exhausted after work.",
+      "why": "Use -ed for how you feel; \"exhausting\" describes what causes it."
+    }
+  },
+  {
+    "id": "reassure",
+    "w": "reassure",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "tranquilizar, acalmar",
+    "def": "To say or do something that makes someone feel less worried.",
+    "ipa": "/ˌriəˈʃʊr/",
+    "ex": "The doctor reassured her that the test was routine.",
+    "form": "reassured",
+    "nat": "His calm voice reassured the nervous passengers.",
+    "syn": [
+      "comfort",
+      "calm"
+    ],
+    "ant": [
+      "alarm"
+    ],
+    "col": [
+      "reassure someone that",
+      "feel reassured",
+      "reassure the public",
+      "be reassured"
+    ],
+    "fam": [
+      "reassurance (noun)",
+      "reassuring (adj)"
+    ],
+    "topics": [
+      "health",
+      "relationships"
+    ],
+    "mis": {
+      "bad": "He reassured me to not worry.",
+      "good": "He reassured me that there was nothing to worry about.",
+      "why": "Reassure takes an object plus \"that + clause\", not \"to + verb\"."
+    }
+  },
+  {
+    "id": "discipline",
+    "w": "discipline",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "disciplina, autocontrole",
+    "def": "The ability to control yourself and keep doing something.",
+    "ipa": "/ˈdɪsəplɪn/",
+    "ex": "Learning a language takes discipline, not just talent.",
+    "form": "discipline",
+    "nat": "He has the discipline to train every morning.",
+    "syn": [
+      "self-control"
+    ],
+    "ant": [
+      "laziness"
+    ],
+    "col": [
+      "self-discipline",
+      "strict discipline",
+      "require discipline",
+      "lack of discipline"
+    ],
+    "mis": {
+      "bad": "I study discipline English at school.",
+      "good": "I study English as a subject at school.",
+      "why": "\"Discipline\" means self-control or order; a school subject is better called \"subject\"."
+    },
+    "fam": [
+      "disciplined (adj)"
+    ],
+    "topics": [
+      "health",
+      "abstract"
+    ]
+  },
+  {
+    "id": "notification",
+    "w": "notification",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "notificação",
+    "def": "A message from an app or phone telling you something new happened.",
+    "ipa": "/ˌnoʊtəfɪˈkeɪʃən/",
+    "ex": "I turned off notifications so I could focus on my work.",
+    "form": "notifications",
+    "nat": "You'll get a notification when your order ships.",
+    "syn": [
+      "alert"
+    ],
+    "ant": [],
+    "col": [
+      "turn off notifications",
+      "push notification",
+      "receive a notification",
+      "email notification"
+    ],
+    "fam": [
+      "notify (verb)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ],
+    "mis": {
+      "bad": "I received a notification of the app.",
+      "good": "I received a notification from the app.",
+      "why": "The sender is introduced with \"from\"."
+    }
+  },
+  {
+    "id": "subscription",
+    "w": "subscription",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "assinatura",
+    "def": "A regular payment to receive a service or product.",
+    "ipa": "/səbˈskrɪpʃən/",
+    "ex": "I cancelled my streaming subscription because I never used it.",
+    "form": "subscription",
+    "nat": "A yearly subscription is cheaper than paying monthly.",
+    "syn": [
+      "membership"
+    ],
+    "ant": [],
+    "col": [
+      "cancel a subscription",
+      "monthly subscription",
+      "renew a subscription",
+      "a free subscription"
+    ],
+    "mis": {
+      "bad": "I made a signature of the magazine.",
+      "good": "I took out a subscription to the magazine.",
+      "why": "\"Signature\" is a handwritten name; for a service, use \"subscription\"."
+    },
+    "fam": [
+      "subscribe (verb)",
+      "subscriber (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "streaming",
+    "w": "streaming",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "streaming, transmissão online",
+    "def": "Watching or listening online without downloading.",
+    "ipa": "/ˈstrimɪŋ/",
+    "ex": "Streaming has changed the way people watch films.",
+    "form": "Streaming",
+    "nat": "Most of my friends use streaming services instead of cable TV.",
+    "syn": [
+      "online viewing"
+    ],
+    "ant": [],
+    "col": [
+      "a streaming service",
+      "music streaming",
+      "live streaming",
+      "streaming platform"
+    ],
+    "fam": [
+      "stream (verb)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ],
+    "mis": {
+      "bad": "I watch series in streaming.",
+      "good": "I watch series on a streaming service.",
+      "why": "English does not say \"in streaming\"; use \"streaming service\" or the verb \"stream\"."
+    }
+  },
+  {
+    "id": "headline",
+    "w": "headline",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "manchete",
+    "def": "The title of a news story, usually in large letters.",
+    "ipa": "/ˈhɛdˌlaɪn/",
+    "ex": "The headline made the story sound far worse than it was.",
+    "form": "headline",
+    "nat": "I only read the headlines on my phone each morning.",
+    "syn": [
+      "title"
+    ],
+    "ant": [],
+    "col": [
+      "make headlines",
+      "a front-page headline",
+      "a catchy headline",
+      "read the headlines"
+    ],
+    "fam": [],
+    "topics": [
+      "culture",
+      "daily"
+    ],
+    "mis": {
+      "bad": "The newspaper's head was misleading.",
+      "good": "The newspaper's headline was misleading.",
+      "why": "A news title is a \"headline\", not a \"head\"."
+    }
+  },
+  {
+    "id": "influencer",
+    "w": "influencer",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "influenciador digital",
+    "def": "A person who affects what others buy or do through social media.",
+    "ipa": "/ˈɪnfluənsər/",
+    "ex": "The brand paid an influencer to promote its new sneakers.",
+    "form": "influencer",
+    "nat": "My cousin wants to become a full-time influencer.",
+    "syn": [
+      "content creator"
+    ],
+    "ant": [],
+    "col": [
+      "a social media influencer",
+      "travel influencer",
+      "influencer marketing",
+      "become an influencer"
+    ],
+    "fam": [
+      "influence (noun)"
+    ],
+    "topics": [
+      "culture",
+      "business"
+    ],
+    "mis": {
+      "bad": "She is a digital influencer.",
+      "good": "She is a social media influencer.",
+      "why": "\"Digital influencer\" is a Portuguese pattern; English says \"social media influencer\" or just \"influencer\"."
+    }
+  },
+  {
+    "id": "viral",
+    "w": "viral",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "viral",
+    "def": "Spreading very quickly on the internet.",
+    "ipa": "/ˈvaɪrəl/",
+    "ex": "The video went viral and got ten million views in a day.",
+    "form": "viral",
+    "nat": "A viral post turned the small bakery into a local celebrity.",
+    "syn": [
+      "widely shared"
+    ],
+    "ant": [],
+    "col": [
+      "go viral",
+      "a viral video",
+      "viral marketing",
+      "a viral trend"
+    ],
+    "mis": {
+      "bad": "The video became viral.",
+      "good": "The video went viral.",
+      "why": "The natural collocation is \"go viral\"."
+    },
+    "fam": [
+      "virus (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "addictive",
+    "w": "addictive",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "viciante",
+    "def": "Making you want to do or use something again and again.",
+    "ipa": "/əˈdɪktɪv/",
+    "ex": "This game is so addictive that I lose track of time.",
+    "form": "addictive",
+    "nat": "Sugar can be as addictive as some drugs, researchers say.",
+    "syn": [
+      "habit-forming"
+    ],
+    "ant": [],
+    "col": [
+      "highly addictive",
+      "addictive game",
+      "addictive personality",
+      "become addictive"
+    ],
+    "fam": [
+      "addict (noun)",
+      "addiction (noun)"
+    ],
+    "topics": [
+      "health",
+      "culture"
+    ],
+    "mis": {
+      "bad": "This game is very vicious.",
+      "good": "This game is very addictive.",
+      "why": "\"Viciante\" is \"addictive\"; \"vicious\" means cruel or violent."
+    }
+  },
+  {
+    "id": "misinformation",
+    "w": "misinformation",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "desinformação",
+    "def": "False information shared without necessarily meaning to deceive.",
+    "ipa": "/ˌmɪsɪnfərˈmeɪʃən/",
+    "ex": "Misinformation spread quickly during the election.",
+    "form": "Misinformation",
+    "nat": "Always check the source to avoid sharing misinformation.",
+    "syn": [
+      "false information"
+    ],
+    "ant": [
+      "facts"
+    ],
+    "col": [
+      "spread misinformation",
+      "fight misinformation",
+      "online misinformation",
+      "health misinformation"
+    ],
+    "mis": {
+      "bad": "There are many misinformations online.",
+      "good": "There is a lot of misinformation online.",
+      "why": "Misinformation is uncountable."
+    },
+    "fam": [
+      "misinform (verb)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "scroll",
+    "w": "scroll",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "rolar a tela",
+    "def": "To move text or images up and down on a screen.",
+    "ipa": "/skroʊl/",
+    "ex": "I scrolled through my feed for an hour without noticing.",
+    "form": "scrolled",
+    "nat": "Scroll down to see the full list of prices.",
+    "syn": [
+      "swipe"
+    ],
+    "ant": [],
+    "col": [
+      "scroll down",
+      "scroll through",
+      "keep scrolling",
+      "scroll up"
+    ],
+    "fam": [
+      "scroll (noun)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ],
+    "mis": {
+      "bad": "I made scroll on the page.",
+      "good": "I scrolled down the page.",
+      "why": "Scroll is a verb itself; do not use \"make scroll\"."
+    }
+  },
+  {
+    "id": "browse",
+    "w": "browse",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "navegar, dar uma olhada",
+    "def": "To look at things online or in a shop without a fixed aim.",
+    "ipa": "/braʊz/",
+    "ex": "I browsed the website for an hour before buying anything.",
+    "form": "browsed",
+    "nat": "I like to browse in bookstores on Saturdays.",
+    "syn": [
+      "look around",
+      "surf"
+    ],
+    "ant": [],
+    "col": [
+      "browse the web",
+      "browse online",
+      "just browsing",
+      "browse through"
+    ],
+    "mis": {
+      "bad": "I navigate on the internet every night.",
+      "good": "I browse the internet every night.",
+      "why": "\"Navigate\" is for finding your way; for casual web use, say \"browse\"."
+    },
+    "fam": [
+      "browser (noun)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ]
+  },
+  {
+    "id": "glitch",
+    "w": "glitch",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "falha, pane",
+    "def": "A small problem that stops something from working properly.",
+    "ipa": "/ɡlɪtʃ/",
+    "ex": "A software glitch delayed all flights this morning.",
+    "form": "glitch",
+    "nat": "There was a glitch in the video, so it kept freezing.",
+    "syn": [
+      "bug",
+      "fault"
+    ],
+    "ant": [],
+    "col": [
+      "a technical glitch",
+      "a minor glitch",
+      "software glitch",
+      "fix a glitch"
+    ],
+    "fam": [],
+    "topics": [
+      "science",
+      "daily"
+    ],
+    "mis": {
+      "bad": "The system had a glitch of connection.",
+      "good": "The system had a connection glitch.",
+      "why": "Put the noun before \"glitch\" (a connection glitch) instead of using \"of\"."
+    }
+  },
+  {
+    "id": "unplug",
+    "w": "unplug",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "desconectar, tirar da tomada",
+    "def": "To disconnect a device from the power, or to take a break from technology.",
+    "ipa": "/ʌnˈplʌɡ/",
+    "ex": "I unplugged the router and waited a minute before restarting it.",
+    "form": "unplugged",
+    "nat": "We go to a cabin every summer to unplug from our phones.",
+    "syn": [
+      "disconnect"
+    ],
+    "ant": [
+      "plug in"
+    ],
+    "col": [
+      "unplug a device",
+      "unplug from technology",
+      "unplug the charger",
+      "need to unplug"
+    ],
+    "fam": [
+      "plug (noun)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ],
+    "mis": {
+      "bad": "Please unplug the light.",
+      "good": "Please turn off the light.",
+      "why": "Unplug means to pull a plug from a socket; lights are turned off."
+    }
+  },
+  {
+    "id": "censorship",
+    "w": "censorship",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "censura",
+    "def": "The control of what people can say, read, or see.",
+    "ipa": "/ˈsɛnsərˌʃɪp/",
+    "ex": "The government introduced strict censorship of the press.",
+    "form": "censorship",
+    "nat": "Online censorship makes it hard to get honest news.",
+    "syn": [
+      "suppression"
+    ],
+    "ant": [
+      "free speech"
+    ],
+    "col": [
+      "press censorship",
+      "strict censorship",
+      "fight censorship",
+      "internet censorship"
+    ],
+    "fam": [
+      "censor (verb)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "There is a censorship in that country.",
+      "good": "There is censorship in that country.",
+      "why": "Censorship is uncountable."
+    }
+  },
+  {
+    "id": "journalist",
+    "w": "journalist",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "jornalista",
+    "def": "A person who writes or reports news.",
+    "ipa": "/ˈdʒɜrnəlɪst/",
+    "ex": "The journalist interviewed several witnesses about the accident.",
+    "form": "journalist",
+    "nat": "My sister is a journalist for a local newspaper.",
+    "syn": [
+      "reporter"
+    ],
+    "ant": [],
+    "col": [
+      "an investigative journalist",
+      "a freelance journalist",
+      "a sports journalist",
+      "a journalist covering"
+    ],
+    "fam": [
+      "journalism (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ],
+    "mis": {
+      "bad": "She works as a journalist in the journal of the city.",
+      "good": "She works as a journalist for the city newspaper.",
+      "why": "False friend: \"journal\" is a specialist or academic publication; a daily is a \"newspaper\" (jornal)."
+    }
+  },
+  {
+    "id": "sponsor",
+    "w": "sponsor",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "patrocinar",
+    "def": "To give money to support an event or team in return for advertising.",
+    "ipa": "/ˈspɑnsər/",
+    "ex": "A local bank sponsors the youth football team.",
+    "form": "sponsors",
+    "nat": "The festival is sponsored by several large companies.",
+    "syn": [
+      "fund",
+      "back"
+    ],
+    "ant": [],
+    "col": [
+      "sponsored by",
+      "sponsor an event",
+      "official sponsor",
+      "sponsor a team"
+    ],
+    "fam": [
+      "sponsor (noun)",
+      "sponsorship (noun)"
+    ],
+    "topics": [
+      "business",
+      "culture"
+    ],
+    "mis": {
+      "bad": "The company patronizes the festival.",
+      "good": "The company sponsors the festival.",
+      "why": "\"Patronize\" means to treat someone as inferior; use \"sponsor\" for funding."
+    }
+  },
+  {
+    "id": "supervise",
+    "w": "supervise",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "supervisionar",
+    "def": "To watch and direct people or work to make sure it is done well.",
+    "ipa": "/ˈsupərˌvaɪz/",
+    "ex": "She supervises a team of twelve technicians.",
+    "form": "supervises",
+    "nat": "A teacher must supervise the students on the trip.",
+    "syn": [
+      "oversee",
+      "manage"
+    ],
+    "ant": [],
+    "col": [
+      "supervise a team",
+      "closely supervised",
+      "supervise the work",
+      "supervise staff"
+    ],
+    "fam": [
+      "supervisor (noun)",
+      "supervision (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "I supervise to the team.",
+      "good": "I supervise the team.",
+      "why": "Supervise is transitive, with no preposition."
+    }
+  },
+  {
+    "id": "coordinate",
+    "w": "coordinate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "coordenar, organizar",
+    "def": "To organize different people or tasks so they work well together.",
+    "ipa": "/koʊˈɔrdəˌneɪt/",
+    "ex": "Someone has to coordinate the schedules of all the speakers.",
+    "form": "coordinate",
+    "nat": "He coordinates volunteers at the city's food bank.",
+    "syn": [
+      "organize",
+      "arrange"
+    ],
+    "ant": [],
+    "col": [
+      "coordinate efforts",
+      "coordinate with",
+      "coordinate activities",
+      "well coordinated"
+    ],
+    "fam": [
+      "coordinator (noun)",
+      "coordination (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "She coordinates to the project.",
+      "good": "She coordinates the project.",
+      "why": "Coordinate is transitive; use \"coordinate with\" only for working together with someone."
+    }
+  },
+  {
+    "id": "brainstorm",
+    "w": "brainstorm",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "fazer um brainstorm",
+    "def": "To produce many ideas quickly in a group.",
+    "ipa": "/ˈbreɪnˌstɔrm/",
+    "ex": "We brainstormed names for the new product for an hour.",
+    "form": "brainstormed",
+    "nat": "Let's brainstorm some solutions before the meeting ends.",
+    "syn": [
+      "generate ideas"
+    ],
+    "ant": [],
+    "col": [
+      "brainstorm ideas",
+      "brainstorm solutions",
+      "brainstorming session",
+      "brainstorm together"
+    ],
+    "fam": [
+      "brainstorming (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "We made a brainstorm to find ideas.",
+      "good": "We brainstormed ideas.",
+      "why": "Brainstorm is mainly a verb; as a noun say \"brainstorming session\"."
+    }
+  },
+  {
+    "id": "feedback",
+    "w": "feedback",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "retorno, feedback",
+    "def": "Comments about how well someone is doing.",
+    "ipa": "/ˈfidˌbæk/",
+    "ex": "My manager gave me useful feedback on the report.",
+    "form": "feedback",
+    "nat": "We welcome feedback from our customers.",
+    "syn": [
+      "comments",
+      "input"
+    ],
+    "ant": [],
+    "col": [
+      "give feedback",
+      "positive feedback",
+      "constructive feedback",
+      "ask for feedback"
+    ],
+    "mis": {
+      "bad": "I got many feedbacks from my boss.",
+      "good": "I got a lot of feedback from my boss.",
+      "why": "Feedback is uncountable."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "cooperate",
+    "w": "cooperate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "cooperar",
+    "def": "To work together to achieve something.",
+    "ipa": "/koʊˈɑpəˌreɪt/",
+    "ex": "The two departments need to cooperate to solve this issue.",
+    "form": "cooperate",
+    "nat": "The suspect refused to cooperate with the police.",
+    "syn": [
+      "collaborate"
+    ],
+    "ant": [
+      "compete"
+    ],
+    "col": [
+      "cooperate with",
+      "fully cooperate",
+      "refuse to cooperate",
+      "willing to cooperate"
+    ],
+    "fam": [
+      "cooperation (noun)",
+      "cooperative (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "We cooperate to each other.",
+      "good": "We cooperate with each other.",
+      "why": "Cooperate takes \"with\"."
+    }
+  },
+  {
+    "id": "consensus",
+    "w": "consensus",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "consenso",
+    "def": "An opinion that all members of a group agree on.",
+    "ipa": "/kənˈsɛnsəs/",
+    "ex": "After a long discussion, the team reached a consensus.",
+    "form": "consensus",
+    "nat": "There is no consensus among scientists on this issue.",
+    "syn": [
+      "agreement"
+    ],
+    "ant": [
+      "disagreement"
+    ],
+    "col": [
+      "reach a consensus",
+      "general consensus",
+      "build consensus",
+      "consensus on"
+    ],
+    "mis": {
+      "bad": "We made a consensus.",
+      "good": "We reached a consensus.",
+      "why": "The collocation is \"reach\" (or \"build\") a consensus."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "initiative",
+    "w": "initiative",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "iniciativa",
+    "def": "The ability to start something without being told.",
+    "ipa": "/ɪˈnɪʃətɪv/",
+    "ex": "She took the initiative and organized the training herself.",
+    "form": "initiative",
+    "nat": "He shows a lot of initiative for a new employee.",
+    "syn": [
+      "drive"
+    ],
+    "ant": [],
+    "col": [
+      "take the initiative",
+      "show initiative",
+      "on your own initiative",
+      "a new initiative"
+    ],
+    "mis": {
+      "bad": "She made the initiative to start the project.",
+      "good": "She took the initiative to start the project.",
+      "why": "Use \"take the initiative\", not \"make\"."
+    },
+    "fam": [
+      "initiate (verb)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "motivate",
+    "w": "motivate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "motivar",
+    "def": "To make someone want to do something.",
+    "ipa": "/ˈmoʊtəˌveɪt/",
+    "ex": "A good leader knows how to motivate the team.",
+    "form": "motivate",
+    "nat": "Money alone doesn't motivate most people.",
+    "syn": [
+      "inspire",
+      "encourage"
+    ],
+    "ant": [
+      "discourage"
+    ],
+    "col": [
+      "motivate employees",
+      "highly motivated",
+      "motivate someone to",
+      "self-motivated"
+    ],
+    "fam": [
+      "motivation (noun)",
+      "motivated (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "She is very motivate.",
+      "good": "She is very motivated.",
+      "why": "Use the adjective \"motivated\"."
+    }
+  },
+  {
+    "id": "empower",
+    "w": "empower",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "dar autonomia a, capacitar",
+    "def": "To give people the confidence or authority to make decisions.",
+    "ipa": "/ɪmˈpaʊər/",
+    "ex": "Good managers empower their staff to solve problems on their own.",
+    "form": "empower",
+    "nat": "The program empowers women to start their own businesses.",
+    "syn": [
+      "authorize",
+      "enable"
+    ],
+    "ant": [
+      "restrict"
+    ],
+    "col": [
+      "empower employees",
+      "empower women",
+      "feel empowered",
+      "empower people to"
+    ],
+    "fam": [
+      "empowerment (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "The company empowers to employees.",
+      "good": "The company empowers employees.",
+      "why": "Empower is transitive: no \"to\" before the object."
+    }
+  },
+  {
+    "id": "micromanage",
+    "w": "micromanage",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "microgerenciar",
+    "def": "To control every small detail of other people's work.",
+    "ipa": "/ˈmaɪkroʊˌmænɪdʒ/",
+    "ex": "Our boss micromanages everything, so nobody feels trusted.",
+    "form": "micromanages",
+    "nat": "I hate it when someone micromanages me.",
+    "syn": [
+      "control"
+    ],
+    "ant": [
+      "delegate"
+    ],
+    "col": [
+      "tend to micromanage",
+      "a micromanaging boss",
+      "stop micromanaging",
+      "micromanage a project"
+    ],
+    "fam": [
+      "micromanagement (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "My boss is very micromanage.",
+      "good": "My boss is a micromanager.",
+      "why": "Micromanage is a verb; the person is a \"micromanager\"."
+    }
+  },
+  {
+    "id": "recognition",
+    "w": "recognition",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "reconhecimento",
+    "def": "Praise or credit given for good work.",
+    "ipa": "/ˌrɛkɪɡˈnɪʃən/",
+    "ex": "She finally received recognition for her years of hard work.",
+    "form": "recognition",
+    "nat": "Employees need recognition to stay motivated.",
+    "syn": [
+      "credit",
+      "acknowledgment"
+    ],
+    "ant": [],
+    "col": [
+      "receive recognition",
+      "gain recognition",
+      "in recognition of",
+      "public recognition"
+    ],
+    "fam": [
+      "recognize (verb)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "He got recognition of the boss.",
+      "good": "He got recognition from the boss.",
+      "why": "Use \"from\" for the source of the recognition."
+    }
+  },
+  {
+    "id": "undermine",
+    "w": "undermine",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "minar, enfraquecer",
+    "def": "To weaken something gradually.",
+    "ipa": "/ˌʌndərˈmaɪn/",
+    "ex": "Constant gossip can undermine trust within a team.",
+    "form": "undermine",
+    "nat": "His rude comments undermined my confidence.",
+    "syn": [
+      "weaken"
+    ],
+    "ant": [
+      "strengthen"
+    ],
+    "col": [
+      "undermine confidence",
+      "undermine authority",
+      "undermine trust",
+      "seriously undermine"
+    ],
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ],
+    "mis": {
+      "bad": "Gossip undermines to the team.",
+      "good": "Gossip undermines the team.",
+      "why": "Undermine is transitive: no preposition before the object."
+    }
+  },
+  {
+    "id": "contribute",
+    "w": "contribute",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "contribuir",
+    "def": "To give something, such as ideas or money, to help achieve something.",
+    "ipa": "/kənˈtrɪbjut/",
+    "ex": "Everyone contributed ideas during the workshop.",
+    "form": "contributed",
+    "nat": "Stress contributes to many health problems.",
+    "syn": [
+      "add",
+      "help"
+    ],
+    "ant": [
+      "take away"
+    ],
+    "col": [
+      "contribute to",
+      "contribute ideas",
+      "contribute money",
+      "contribute significantly"
+    ],
+    "mis": {
+      "bad": "He contributed for the project.",
+      "good": "He contributed to the project.",
+      "why": "Use \"to\" after contribute."
+    },
+    "fam": [
+      "contribution (noun)",
+      "contributor (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "rapport",
+    "w": "rapport",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "afinidade, bom relacionamento",
+    "def": "A friendly relationship in which people understand each other.",
+    "ipa": "/ræˈpɔr/",
+    "ex": "The new coach quickly built rapport with the players.",
+    "form": "rapport",
+    "nat": "Good rapport with clients can lead to repeat business.",
+    "syn": [
+      "connection"
+    ],
+    "ant": [],
+    "col": [
+      "build rapport",
+      "good rapport",
+      "establish rapport",
+      "rapport with"
+    ],
+    "fam": [],
+    "topics": [
+      "relationships",
+      "work"
+    ],
+    "mis": {
+      "bad": "I have a good rapport of him.",
+      "good": "I have a good rapport with him.",
+      "why": "Use \"rapport with\" a person."
+    }
+  },
+  {
+    "id": "dispute",
+    "w": "dispute",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "disputa, desavença",
+    "def": "A serious disagreement between people or groups.",
+    "ipa": "/dɪˈspjut/",
+    "ex": "The two neighbors are in a long dispute over the fence.",
+    "form": "dispute",
+    "nat": "A pay dispute led to a strike at the factory.",
+    "syn": [
+      "conflict",
+      "quarrel"
+    ],
+    "ant": [
+      "agreement"
+    ],
+    "col": [
+      "settle a dispute",
+      "a legal dispute",
+      "resolve a dispute",
+      "dispute over"
+    ],
+    "fam": [
+      "dispute (verb)",
+      "disputed (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ],
+    "mis": {
+      "bad": "The two teams are in a dispute for the title.",
+      "good": "The two teams are competing for the title.",
+      "why": "\"Disputa\" can mean competition; English \"dispute\" is a disagreement or argument."
+    }
+  },
+  {
+    "id": "receipt",
+    "w": "receipt",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "recibo, nota fiscal",
+    "def": "A piece of paper that shows you paid for something.",
+    "ipa": "/rɪˈsit/",
+    "ex": "Keep the receipt in case you need to return the shirt.",
+    "form": "receipt",
+    "nat": "Can I have the receipt, please?",
+    "syn": [
+      "proof of purchase"
+    ],
+    "ant": [],
+    "col": [
+      "keep the receipt",
+      "ask for a receipt",
+      "a receipt for",
+      "print a receipt"
+    ],
+    "mis": {
+      "bad": "Can you give me the recipe of the purchase?",
+      "good": "Can I have the receipt?",
+      "why": "Recipe is for cooking; the paper for a purchase is a receipt."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "discount",
+    "w": "discount",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "desconto",
+    "def": "A lower price than normal.",
+    "ipa": "/ˈdɪsˌkaʊnt/",
+    "ex": "They gave us a ten percent discount for paying in cash.",
+    "form": "discount",
+    "nat": "Students get a discount at the cinema.",
+    "syn": [
+      "reduction"
+    ],
+    "ant": [
+      "surcharge"
+    ],
+    "col": [
+      "a ten percent discount",
+      "offer a discount",
+      "get a discount",
+      "student discount"
+    ],
+    "mis": {
+      "bad": "They made a discount of ten percent to me.",
+      "good": "They gave me a ten percent discount.",
+      "why": "The natural verbs are \"give\" or \"offer\" a discount."
+    },
+    "fam": [
+      "discount (verb)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "warranty",
+    "w": "warranty",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "garantia (do produto)",
+    "def": "A promise by a company to repair a product if it breaks.",
+    "ipa": "/ˈwɔrənti/",
+    "ex": "The laptop comes with a two-year warranty.",
+    "form": "warranty",
+    "nat": "The warranty expired last month, so we have to pay for repairs.",
+    "syn": [
+      "guarantee"
+    ],
+    "ant": [],
+    "col": [
+      "under warranty",
+      "a two-year warranty",
+      "extended warranty",
+      "warranty expires"
+    ],
+    "mis": {
+      "bad": "The product has a garantee of two years.",
+      "good": "The product has a two-year warranty.",
+      "why": "For a product, \"warranty\" is more common than \"guarantee\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "cashier",
+    "w": "cashier",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "caixa (de loja)",
+    "def": "A person who takes payment in a shop.",
+    "ipa": "/kæˈʃɪr/",
+    "ex": "The cashier gave me the wrong change.",
+    "form": "cashier",
+    "nat": "Please pay the cashier on your way out.",
+    "syn": [
+      "checkout clerk"
+    ],
+    "ant": [],
+    "col": [
+      "pay the cashier",
+      "a bank cashier",
+      "ask the cashier",
+      "cashier's check"
+    ],
+    "fam": [
+      "cash (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ],
+    "mis": {
+      "bad": "I paid in the cashier.",
+      "good": "I paid the cashier.",
+      "why": "You pay a person; at the till you say \"at the checkout\"."
+    }
+  },
+  {
+    "id": "overpriced",
+    "w": "overpriced",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "caro demais, superfaturado",
+    "def": "Costing more than it is worth.",
+    "ipa": "/ˌoʊvərˈpraɪst/",
+    "ex": "The food was good but overpriced for such a small portion.",
+    "form": "overpriced",
+    "nat": "I think these sneakers are overpriced.",
+    "syn": [
+      "expensive"
+    ],
+    "ant": [
+      "underpriced"
+    ],
+    "col": [
+      "hopelessly overpriced",
+      "overpriced food",
+      "totally overpriced",
+      "overpriced for"
+    ],
+    "fam": [
+      "price (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ],
+    "mis": {
+      "bad": "This shirt is too much expensive.",
+      "good": "This shirt is overpriced.",
+      "why": "\"Too much\" is not used before an adjective; say \"too expensive\" or \"overpriced\"."
+    }
+  },
+  {
+    "id": "landlord",
+    "w": "landlord",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "proprietário (de imóvel alugado), senhorio",
+    "def": "A person who owns a property and rents it to others.",
+    "ipa": "/ˈlændˌlɔrd/",
+    "ex": "Our landlord is fixing the heating this week.",
+    "form": "landlord",
+    "nat": "I pay my rent to the landlord on the first of each month.",
+    "syn": [
+      "owner"
+    ],
+    "ant": [
+      "tenant"
+    ],
+    "col": [
+      "a good landlord",
+      "rent from a landlord",
+      "landlord and tenant",
+      "contact the landlord"
+    ],
+    "mis": {
+      "bad": "My proprietary raised the rent.",
+      "good": "My landlord raised the rent.",
+      "why": "\"Proprietary\" means owned by a company; the person who rents out a home is a \"landlord\"."
+    },
+    "fam": [
+      "landlady (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "tenant",
+    "w": "tenant",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "inquilino",
+    "def": "A person who pays rent to live in or use a property.",
+    "ipa": "/ˈtɛnənt/",
+    "ex": "The tenant complained about the broken elevator.",
+    "form": "tenant",
+    "nat": "The tenants have to leave by the end of June.",
+    "syn": [
+      "renter"
+    ],
+    "ant": [
+      "landlord"
+    ],
+    "col": [
+      "a long-term tenant",
+      "tenant rights",
+      "a new tenant",
+      "evict a tenant"
+    ],
+    "fam": [
+      "tenancy (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ],
+    "mis": {
+      "bad": "He is a tenent in my building.",
+      "good": "He is a tenant in my building.",
+      "why": "Spelling: tenant ends in -ant."
+    }
+  },
+  {
+    "id": "rent",
+    "w": "rent",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "alugar (como inquilino)",
+    "def": "To pay money regularly to use a house, flat, or car.",
+    "ipa": "/rɛnt/",
+    "ex": "We rent a small apartment close to the subway.",
+    "form": "rent",
+    "nat": "Many young people can't afford to buy a house, so they rent.",
+    "syn": [
+      "lease"
+    ],
+    "ant": [
+      "buy"
+    ],
+    "col": [
+      "rent a flat",
+      "rent a car",
+      "for rent",
+      "pay rent"
+    ],
+    "mis": {
+      "bad": "The rent of a car costs a lot.",
+      "good": "Renting a car costs a lot.",
+      "why": "As a noun, \"rent\" is the regular payment for housing; for the action use the verb or \"car rental\"."
+    },
+    "fam": [
+      "rent (noun)",
+      "rental (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "furnished",
+    "w": "furnished",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "mobiliado",
+    "def": "Having furniture already inside.",
+    "ipa": "/ˈfɜrnɪʃt/",
+    "ex": "They found a furnished apartment near the university.",
+    "form": "furnished",
+    "nat": "The flat is fully furnished, so you only need to bring clothes.",
+    "syn": [
+      "equipped"
+    ],
+    "ant": [
+      "unfurnished"
+    ],
+    "col": [
+      "fully furnished",
+      "a furnished flat",
+      "furnished room",
+      "partly furnished"
+    ],
+    "fam": [
+      "furniture (noun)",
+      "furnish (verb)"
+    ],
+    "topics": [
+      "daily"
+    ],
+    "mis": {
+      "bad": "I'm looking for a furnitured apartment.",
+      "good": "I'm looking for a furnished apartment.",
+      "why": "The adjective is \"furnished\" (from furnish), not \"furnitured\"."
+    }
+  },
+  {
+    "id": "renovate",
+    "w": "renovate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "reformar, renovar (um imóvel)",
+    "def": "To repair and improve an old building.",
+    "ipa": "/ˈrɛnəˌveɪt/",
+    "ex": "They renovated the old house before moving in.",
+    "form": "renovated",
+    "nat": "We plan to renovate the kitchen next spring.",
+    "syn": [
+      "refurbish"
+    ],
+    "ant": [],
+    "col": [
+      "renovate a house",
+      "fully renovated",
+      "renovate the kitchen",
+      "recently renovated"
+    ],
+    "mis": {
+      "bad": "I am doing a reform in my house.",
+      "good": "I am renovating my house.",
+      "why": "\"Reform\" in English means to change laws or behavior, not to renovate a building."
+    },
+    "fam": [
+      "renovation (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "appliance",
+    "w": "appliance",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "eletrodoméstico",
+    "def": "A machine used at home, such as a fridge or washing machine.",
+    "ipa": "/əˈplaɪəns/",
+    "ex": "Most kitchen appliances are cheaper during the holiday sales.",
+    "form": "appliances",
+    "nat": "This appliance uses a lot of electricity.",
+    "syn": [
+      "machine"
+    ],
+    "ant": [],
+    "col": [
+      "kitchen appliance",
+      "household appliance",
+      "electrical appliance",
+      "energy-efficient appliance"
+    ],
+    "mis": {
+      "bad": "I bought a new electrodomestic.",
+      "good": "I bought a new appliance.",
+      "why": "The English word is \"appliance\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "neighborhood",
+    "w": "neighborhood",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "bairro, vizinhança",
+    "def": "A part of a town where people live.",
+    "ipa": "/ˈneɪbərˌhʊd/",
+    "ex": "It is a quiet neighborhood with lots of parks.",
+    "form": "neighborhood",
+    "nat": "We moved to a nicer neighborhood last year.",
+    "syn": [
+      "district",
+      "area"
+    ],
+    "ant": [],
+    "col": [
+      "a quiet neighborhood",
+      "a safe neighborhood",
+      "in the neighborhood",
+      "a rough neighborhood"
+    ],
+    "fam": [
+      "neighbor (noun)"
+    ],
+    "topics": [
+      "daily"
+    ],
+    "mis": {
+      "bad": "I live in the neighborhood Savassi.",
+      "good": "I live in the Savassi neighborhood.",
+      "why": "English puts the name before \"neighborhood\"; Portuguese puts \"bairro\" first."
+    }
+  },
+  {
+    "id": "suburb",
+    "w": "suburb",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "subúrbio, bairro afastado",
+    "def": "An area outside the center of a city where people live.",
+    "ipa": "/ˈsʌˌbɜrb/",
+    "ex": "They live in a green suburb about twenty minutes from downtown.",
+    "form": "suburb",
+    "nat": "Many families move to the suburbs for more space.",
+    "syn": [
+      "residential area"
+    ],
+    "ant": [
+      "city center"
+    ],
+    "col": [
+      "live in the suburbs",
+      "a quiet suburb",
+      "suburb of",
+      "suburban life"
+    ],
+    "mis": {
+      "bad": "I live in a poor suburb with no buildings.",
+      "good": "I live in a suburb outside the city.",
+      "why": "In English, suburbs are often comfortable residential areas, not necessarily poor."
+    },
+    "fam": [
+      "suburban (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "pedestrian",
+    "w": "pedestrian",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "pedestre",
+    "def": "A person walking rather than driving.",
+    "ipa": "/pəˈdɛstriən/",
+    "ex": "A car hit a pedestrian near the crossing.",
+    "form": "pedestrian",
+    "nat": "The street is closed to traffic and open only to pedestrians.",
+    "syn": [
+      "walker"
+    ],
+    "ant": [
+      "driver"
+    ],
+    "col": [
+      "pedestrian crossing",
+      "pedestrian street",
+      "a careless pedestrian",
+      "pedestrian zone"
+    ],
+    "fam": [
+      "pedestrian (adj)"
+    ],
+    "topics": [
+      "daily"
+    ],
+    "mis": {
+      "bad": "The pedestrian cross is closed.",
+      "good": "The pedestrian crossing is closed.",
+      "why": "The phrase is \"pedestrian crossing\" (US: crosswalk)."
+    }
+  },
+  {
+    "id": "downtown",
+    "w": "downtown",
+    "pos": "adv",
+    "lvl": "B2",
+    "pt": "no centro (da cidade)",
+    "def": "In or toward the main business area of a city.",
+    "ipa": "/ˌdaʊnˈtaʊn/",
+    "ex": "I work downtown, so I take the subway every day.",
+    "form": "downtown",
+    "nat": "We went downtown for dinner and a movie.",
+    "syn": [
+      "in the city center"
+    ],
+    "ant": [
+      "uptown"
+    ],
+    "col": [
+      "go downtown",
+      "live downtown",
+      "head downtown",
+      "downtown area"
+    ],
+    "mis": {
+      "bad": "I live in the downtown of the city.",
+      "good": "I live downtown.",
+      "why": "\"Downtown\" is usually an adverb or adjective in American English."
+    },
+    "fam": [
+      "downtown (adj)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "increasingly",
+    "w": "increasingly",
+    "pos": "adv",
+    "lvl": "B2",
+    "pt": "cada vez mais",
+    "def": "More and more as time goes on.",
+    "ipa": "/ɪnˈkrisɪŋli/",
+    "ex": "Increasingly, cities are banning single-use plastic bags.",
+    "form": "Increasingly",
+    "nat": "Remote work is increasingly common in my industry.",
+    "syn": [
+      "more and more"
+    ],
+    "ant": [],
+    "col": [
+      "increasingly common",
+      "increasingly difficult",
+      "increasingly important",
+      "increasingly popular"
+    ],
+    "mis": {
+      "bad": "Each time more people work from home.",
+      "good": "Increasingly, more people work from home.",
+      "why": "\"Cada vez mais\" is \"increasingly\" or \"more and more\", not \"each time more\"."
+    },
+    "fam": [
+      "increase (verb)",
+      "increasing (adj)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  }
+]

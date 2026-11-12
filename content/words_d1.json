@@ -1,0 +1,1393 @@
+[
+  {
+    "id": "ambiguity",
+    "w": "ambiguity",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "ambiguidade; falta de clareza",
+    "def": "The state of having more than one possible meaning or being open to multiple interpretations.",
+    "ipa": "/ˌæm.bɪˈɡjuː.ə.ti/",
+    "ex": "There is some ambiguity in the contract regarding payment terms.",
+    "form": "ambiguity",
+    "nat": "Clear documentation reduces ambiguity across distributed teams.",
+    "syn": [
+      "vagueness",
+      "uncertainty"
+    ],
+    "ant": [
+      "clarity",
+      "certainty"
+    ],
+    "col": [
+      "resolve ambiguity",
+      "avoid ambiguity",
+      "moral ambiguity",
+      "inherent ambiguity"
+    ],
+    "mis": {
+      "bad": "The text has double sense.",
+      "good": "The text is ambiguous / has some ambiguity.",
+      "why": "In English, \"double sense\" is a false friend for \"duplo sentido\"; use ambiguity or double meaning."
+    },
+    "fam": [
+      "ambiguous (adj)",
+      "ambiguously (adv)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "feasible",
+    "w": "feasible",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "viável, exequível",
+    "def": "Possible to do easily or conveniently.",
+    "ipa": "/ˈfiː.zə.bəl/",
+    "ex": "The architect confirmed that the project is technically feasible.",
+    "form": "feasible",
+    "nat": "Given our current budget, this solution seems much more feasible.",
+    "syn": [
+      "viable",
+      "achievable",
+      "practical"
+    ],
+    "ant": [
+      "unfeasible",
+      "impossible",
+      "impractical"
+    ],
+    "col": [
+      "financially feasible",
+      "technically feasible",
+      "feasible solution",
+      "feasible option"
+    ],
+    "mis": {
+      "bad": "This project is very viabilized.",
+      "good": "This project is very feasible.",
+      "why": "English does not use \"viabilize\"; use feasible or viable."
+    },
+    "fam": [
+      "feasibility (noun)",
+      "feasibly (adv)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "comprehensive",
+    "w": "comprehensive",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "abrangente, completo",
+    "def": "Including or dealing with all or nearly all elements or aspects of something.",
+    "ipa": "/ˌkɑːm.prəˈhen.sɪv/",
+    "ex": "We conducted a comprehensive review of all company policies.",
+    "form": "comprehensive",
+    "nat": "The onboarding guide gives new hires a comprehensive overview of the product.",
+    "syn": [
+      "exhaustive",
+      "thorough",
+      "complete"
+    ],
+    "ant": [
+      "limited",
+      "partial",
+      "incomplete"
+    ],
+    "col": [
+      "comprehensive study",
+      "comprehensive guide",
+      "comprehensive list",
+      "comprehensive coverage"
+    ],
+    "mis": {
+      "bad": "He is very comprehensive with my mistakes.",
+      "good": "He is very understanding of my mistakes.",
+      "why": "False friend: \"comprehensive\" means broad/inclusive; \"compreensivo\" is understanding."
+    },
+    "fam": [
+      "comprehensiveness (noun)",
+      "comprehensively (adv)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "counterpart",
+    "w": "counterpart",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "homólogo, contraparte equivalente",
+    "def": "A person or thing holding a corresponding position or performing a similar function in another place.",
+    "ipa": "/ˈkaʊn.tər.pɑːrt/",
+    "ex": "The Brazilian CEO met with her European counterpart in Paris.",
+    "form": "counterpart",
+    "nat": "I often coordinate features with my counterparts in the design department.",
+    "syn": [
+      "equivalent",
+      "peer"
+    ],
+    "ant": [],
+    "col": [
+      "foreign counterpart",
+      "industry counterpart",
+      "female counterpart",
+      "meet with counterparts"
+    ],
+    "mis": {
+      "bad": "My homologue in the US team agreed.",
+      "good": "My counterpart in the US team agreed.",
+      "why": "\"Homologue\" is rare/technical; in business and professional English, use \"counterpart\"."
+    },
+    "fam": [
+      "counterparts (plural)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "stagnant",
+    "w": "stagnant",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "estagnado, parado",
+    "def": "Showing no activity, growth, or development.",
+    "ipa": "/ˈstæɡ.nənt/",
+    "ex": "Wages have remained stagnant despite rising inflation.",
+    "form": "stagnant",
+    "nat": "Without innovation, products quickly become stagnant in competitive markets.",
+    "syn": [
+      "inactive",
+      "sluggish",
+      "static"
+    ],
+    "ant": [
+      "dynamic",
+      "growing",
+      "booming"
+    ],
+    "col": [
+      "stagnant economy",
+      "stagnant market",
+      "remain stagnant",
+      "stagnant water"
+    ],
+    "mis": {
+      "bad": "The career became stopped.",
+      "good": "My career became stagnant.",
+      "why": "Use \"stagnant\" to describe lack of economic or career growth."
+    },
+    "fam": [
+      "stagnate (verb)",
+      "stagnation (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "scrutiny",
+    "w": "scrutiny",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "escrutínio, exame minucioso",
+    "def": "Critical observation or examination.",
+    "ipa": "/ˈskruː.tən.i/",
+    "ex": "Public figures face intense scrutiny from the press and social media.",
+    "form": "scrutiny",
+    "nat": "Every line of security code underwent strict scrutiny before release.",
+    "syn": [
+      "inspection",
+      "examination",
+      "audit"
+    ],
+    "ant": [
+      "neglect",
+      "oversight"
+    ],
+    "col": [
+      "under scrutiny",
+      "close scrutiny",
+      "public scrutiny",
+      "withstand scrutiny"
+    ],
+    "mis": {
+      "bad": "The code passed for a big verification.",
+      "good": "The code came under close scrutiny.",
+      "why": "\"Under scrutiny\" is the high-level natural idiom for rigorous inspection."
+    },
+    "fam": [
+      "scrutinize (verb)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "versatile",
+    "w": "versatile",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "versátil, multifuncional",
+    "def": "Able to adapt or be adapted to many different functions or activities.",
+    "ipa": "/ˈvɜːr.sə.təl/",
+    "ex": "Python is a versatile programming language used for both web dev and data science.",
+    "form": "versatile",
+    "nat": "She is a versatile professional who handles both sales and engineering calls.",
+    "syn": [
+      "adaptable",
+      "flexible",
+      "multipurpose"
+    ],
+    "ant": [
+      "inflexible",
+      "limited"
+    ],
+    "col": [
+      "highly versatile",
+      "versatile tool",
+      "versatile actor",
+      "versatile platform"
+    ],
+    "mis": {
+      "bad": "He is very polivalent in his job.",
+      "good": "He is very versatile in his job.",
+      "why": "\"Polivalente\" translates naturally as \"versatile\" or \"multiskilled\", not polivalent."
+    },
+    "fam": [
+      "versatility (noun)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "discrepancy",
+    "w": "discrepancy",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "divergência, discrepância",
+    "def": "A lack of compatibility or similarity between two or more facts or numbers.",
+    "ipa": "/dɪˈskrep.ən.si/",
+    "ex": "The auditor found a discrepancy between the receipts and bank statements.",
+    "form": "discrepancy",
+    "nat": "There was a noticeable discrepancy between what was promised and what was delivered.",
+    "syn": [
+      "inconsistency",
+      "divergence",
+      "variance"
+    ],
+    "ant": [
+      "consistency",
+      "correspondence",
+      "agreement"
+    ],
+    "col": [
+      "major discrepancy",
+      "explain a discrepancy",
+      "reconcile discrepancies",
+      "glaring discrepancy"
+    ],
+    "mis": {
+      "bad": "There was a divergence in the accounts.",
+      "good": "There was a discrepancy in the accounts.",
+      "why": "When accounting numbers or metrics do not match, use \"discrepancy\"."
+    },
+    "fam": [
+      "discrepant (adj)",
+      "discrepancies (plural)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "stringent",
+    "w": "stringent",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "rigoroso, estrito",
+    "def": "Strict, precise, and exacting (of regulations, requirements, or conditions).",
+    "ipa": "/ˈstrɪn.dʒənt/",
+    "ex": "Aviation security is subject to stringent international regulations.",
+    "form": "stringent",
+    "nat": "Our team adheres to stringent data protection policies.",
+    "syn": [
+      "strict",
+      "rigorous",
+      "tight"
+    ],
+    "ant": [
+      "lenient",
+      "lax",
+      "loose"
+    ],
+    "col": [
+      "stringent requirements",
+      "stringent standards",
+      "stringent laws",
+      "stringent measures"
+    ],
+    "mis": {
+      "bad": "The company has very rigid laws.",
+      "good": "The company has stringent rules / regulations.",
+      "why": "For compliance, laws, and professional standards, \"stringent\" is the idiomatic B2+/C1 adjective."
+    },
+    "fam": [
+      "stringency (noun)",
+      "stringently (adv)"
+    ],
+    "topics": [
+      "security",
+      "business"
+    ]
+  },
+  {
+    "id": "preliminary",
+    "w": "preliminary",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "preliminar, inicial",
+    "def": "Denoting an action or event preceding or preparing for something fuller or more important.",
+    "ipa": "/prɪˈlɪm.ə.ner.i/",
+    "ex": "Preliminary results suggest the vaccine is both safe and effective.",
+    "form": "preliminary",
+    "nat": "We had a preliminary discussion before presenting the proposal to stakeholders.",
+    "syn": [
+      "initial",
+      "introductory",
+      "exploratory"
+    ],
+    "ant": [
+      "final",
+      "conclusive"
+    ],
+    "col": [
+      "preliminary results",
+      "preliminary investigation",
+      "preliminary findings",
+      "preliminary stage"
+    ],
+    "mis": {
+      "bad": "We made a preview analysis.",
+      "good": "We conducted a preliminary analysis.",
+      "why": "\"Preview\" is a sneak peek or trailer; for early phases of analysis/results, use \"preliminary\"."
+    },
+    "fam": [
+      "preliminaries (plural noun)"
+    ],
+    "topics": [
+      "work",
+      "science"
+    ]
+  },
+  {
+    "id": "consolidate",
+    "w": "consolidate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "consolidar, unificar, fortalecer",
+    "def": "Combine a number of things into a single more effective whole, or make something firmer.",
+    "ipa": "/kənˈsɑː.lɪ.deɪt/",
+    "ex": "The merger helped the tech startup consolidate its market position.",
+    "form": "consolidated",
+    "nat": "We decided to consolidate all our cloud servers into one unified platform.",
+    "syn": [
+      "merge",
+      "unify",
+      "strengthen"
+    ],
+    "ant": [
+      "disperse",
+      "fragment",
+      "separate"
+    ],
+    "col": [
+      "consolidate debt",
+      "consolidate power",
+      "consolidate market position",
+      "consolidate resources"
+    ],
+    "mis": {
+      "bad": "We joined all databases in one.",
+      "good": "We consolidated all databases into one.",
+      "why": "In professional and tech environments, use \"consolidate\" for merging disparate systems."
+    },
+    "fam": [
+      "consolidation (noun)",
+      "consolidated (adj)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "unprecedented",
+    "w": "unprecedented",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "sem precedentes, inédito",
+    "def": "Never done or known before.",
+    "ipa": "/ʌnˈpres.ə.den.tɪd/",
+    "ex": "The tech sector experienced unprecedented growth during the digital boom.",
+    "form": "unprecedented",
+    "nat": "Facing an unprecedented surge in server traffic, our engineers worked around the clock.",
+    "syn": [
+      "unparalleled",
+      "historic",
+      "groundbreaking"
+    ],
+    "ant": [
+      "commonplace",
+      "routine",
+      "precedented"
+    ],
+    "col": [
+      "unprecedented growth",
+      "unprecedented scale",
+      "unprecedented challenge",
+      "unprecedented demand"
+    ],
+    "mis": {
+      "bad": "It was a thing never seen before in history.",
+      "good": "It was an unprecedented event.",
+      "why": "\"Unprecedented\" is concise, elegant, and native for historic first-time occurrences."
+    },
+    "fam": [
+      "precedent (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "business"
+    ]
+  },
+  {
+    "id": "deteriorate",
+    "w": "deteriorate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "deteriorar-se, piorar",
+    "def": "Become progressively worse in quality or condition.",
+    "ipa": "/dɪˈtɪr.i.ə.reɪt/",
+    "ex": "Customer relations began to deteriorate after the prolonged service outage.",
+    "form": "deteriorated",
+    "nat": "Without regular updates, software performance will gradually deteriorate.",
+    "syn": [
+      "worsen",
+      "decline",
+      "decay"
+    ],
+    "ant": [
+      "improve",
+      "strengthen",
+      "flourish"
+    ],
+    "col": [
+      "rapidly deteriorate",
+      "deteriorating conditions",
+      "deteriorate over time",
+      "relations deteriorate"
+    ],
+    "mis": {
+      "bad": "The situation was getting more bad.",
+      "good": "The situation was deteriorating / getting worse.",
+      "why": "\"More bad\" is grammatically incorrect; use \"deteriorate\" for formal progressive decline."
+    },
+    "fam": [
+      "deterioration (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "health"
+    ]
+  },
+  {
+    "id": "subtle",
+    "w": "subtle",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "sutil, imperceptível à primeira vista",
+    "def": "So delicate or precise as to be difficult to analyze or describe; not obvious.",
+    "ipa": "/ˈsʌt.əl/",
+    "ex": "There is a subtle difference in meaning between these two English words.",
+    "form": "subtle",
+    "nat": "Good UI designers pay attention to subtle cues like animations and spacing.",
+    "syn": [
+      "nuanced",
+      "understated",
+      "delicate"
+    ],
+    "ant": [
+      "blatant",
+      "obvious",
+      "crude"
+    ],
+    "col": [
+      "subtle difference",
+      "subtle shift",
+      "subtle nuance",
+      "subtle hint"
+    ],
+    "mis": {
+      "bad": "The \"b\" is pronounced in subtle.",
+      "good": "Pronounce it /ˈsʌt.əl/ — the \"b\" is silent!",
+      "why": "Crucial pronunciation trap: \"subtle\" is pronounced /SUT-ul/, the \"b\" is completely silent."
+    },
+    "fam": [
+      "subtly (adv)",
+      "subtlety (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "culture"
+    ]
+  },
+  {
+    "id": "plausible",
+    "w": "plausible",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "plausível, verossímil",
+    "def": "Seeming reasonable, probable, or believable.",
+    "ipa": "/ˈplɑː.zə.bəl/",
+    "ex": "The engineer offered a plausible explanation for why the database had crashed.",
+    "form": "plausible",
+    "nat": "His theory sounds plausible, but we need hard metrics to confirm it.",
+    "syn": [
+      "credible",
+      "believable",
+      "reasonable"
+    ],
+    "ant": [
+      "implausible",
+      "unbelievable",
+      "far-fetched"
+    ],
+    "col": [
+      "plausible explanation",
+      "plausible deniability",
+      "sound plausible",
+      "perfectly plausible"
+    ],
+    "mis": {
+      "bad": "That makes sense so it is possible true.",
+      "good": "That explanation is entirely plausible.",
+      "why": "\"Plausible\" specifically denotes an explanation or claim that sounds believable and likely."
+    },
+    "fam": [
+      "plausibility (noun)",
+      "plausibly (adv)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "inevitable",
+    "w": "inevitable",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "inevitável",
+    "def": "Certain to happen; unavoidable.",
+    "ipa": "/ɪnˈev.ə.t̬ə.bəl/",
+    "ex": "With the company expanding so fast, hiring more managers was inevitable.",
+    "form": "inevitable",
+    "nat": "Change is inevitable in technology; adaptability is what keeps businesses alive.",
+    "syn": [
+      "unavoidable",
+      "inescapable",
+      "fated"
+    ],
+    "ant": [
+      "avoidable",
+      "preventable",
+      "uncertain"
+    ],
+    "col": [
+      "inevitable outcome",
+      "inevitable delay",
+      "accept the inevitable",
+      "almost inevitable"
+    ],
+    "mis": {
+      "bad": "It was without escape.",
+      "good": "It was inevitable.",
+      "why": "Use \"inevitable\" to express events that could not be prevented or avoided."
+    },
+    "fam": [
+      "inevitably (adv)",
+      "inevitability (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "business"
+    ]
+  },
+  {
+    "id": "lucrative",
+    "w": "lucrative",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "lucrativo, rentável",
+    "def": "Producing a great deal of profit.",
+    "ipa": "/ˈluː.krə.t̬ɪv/",
+    "ex": "Cloud consulting has turned into an extremely lucrative industry.",
+    "form": "lucrative",
+    "nat": "She left her corporate role after landing several lucrative freelance contracts.",
+    "syn": [
+      "profitable",
+      "rewarding",
+      "high-yielding"
+    ],
+    "ant": [
+      "unprofitable",
+      "loss-making"
+    ],
+    "col": [
+      "lucrative deal",
+      "lucrative market",
+      "lucrative business",
+      "highly lucrative"
+    ],
+    "mis": {
+      "bad": "It is a very profitable contract (not wrong, but lucrative adds nuance).",
+      "good": "It is a highly lucrative contract.",
+      "why": "\"Lucrative\" emphasizes generating substantial wealth or financial returns."
+    },
+    "fam": [
+      "lucratively (adv)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "pragmatic",
+    "w": "pragmatic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "pragmático, prático",
+    "def": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+    "ipa": "/præɡˈmæt̬.ɪk/",
+    "ex": "Instead of searching for a perfect solution, the tech lead took a pragmatic approach.",
+    "form": "pragmatic",
+    "nat": "Good managers strike a balance between visionary ideals and pragmatic execution.",
+    "syn": [
+      "practical",
+      "realistic",
+      "matter-of-fact"
+    ],
+    "ant": [
+      "idealistic",
+      "impractical",
+      "dogmatic"
+    ],
+    "col": [
+      "pragmatic approach",
+      "pragmatic solution",
+      "pragmatic decision",
+      "highly pragmatic"
+    ],
+    "mis": {
+      "bad": "He is very practical (often misses the nuance of realistic problem-solving).",
+      "good": "He took a pragmatic stance on the budget cut.",
+      "why": "\"Pragmatic\" implies making realistic decisions despite constraints or imperfect conditions."
+    },
+    "fam": [
+      "pragmatism (noun)",
+      "pragmatically (adv)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "volatile",
+    "w": "volatile",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "volátil, instável, imprevisível",
+    "def": "Liable to change rapidly and unpredictably, especially for the worse.",
+    "ipa": "/ˈvɑː.lə.t̬əl/",
+    "ex": "Cryptocurrency markets are notoriously volatile and carry high risk.",
+    "form": "volatile",
+    "nat": "In a volatile macroeconomic environment, companies build cash reserves.",
+    "syn": [
+      "erratic",
+      "unstable",
+      "turbulent"
+    ],
+    "ant": [
+      "stable",
+      "steady",
+      "constant"
+    ],
+    "col": [
+      "volatile market",
+      "volatile situation",
+      "highly volatile",
+      "volatile commodity"
+    ],
+    "mis": {
+      "bad": "The prices are very instable.",
+      "good": "The prices are highly volatile.",
+      "why": "\"Instable\" is incorrect in standard English; use \"unstable\" or \"volatile\"."
+    },
+    "fam": [
+      "volatility (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "tangible",
+    "w": "tangible",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "tangível, concreto, palpável",
+    "def": "Perceptible by touch, or clear and definite; real.",
+    "ipa": "/ˈtæn.dʒə.bəl/",
+    "ex": "We need to see tangible results before investing additional capital.",
+    "form": "tangible",
+    "nat": "Automating customer support delivered tangible cost savings within three months.",
+    "syn": [
+      "concrete",
+      "measurable",
+      "palpable"
+    ],
+    "ant": [
+      "intangible",
+      "abstract",
+      "theoretical"
+    ],
+    "col": [
+      "tangible benefits",
+      "tangible results",
+      "tangible evidence",
+      "tangible assets"
+    ],
+    "mis": {
+      "bad": "We want to see concrete proofs.",
+      "good": "We want to see tangible evidence / results.",
+      "why": "In English, evidence is uncountable, and \"tangible results\" is the standard business collocation."
+    },
+    "fam": [
+      "tangibly (adv)",
+      "tangibility (noun)"
+    ],
+    "topics": [
+      "business",
+      "abstract"
+    ]
+  },
+  {
+    "id": "adversity",
+    "w": "adversity",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "adversidade, dificuldades",
+    "def": "A difficult or unpleasant situation or state of misfortune.",
+    "ipa": "/ədˈvɜːr.sə.t̬i/",
+    "ex": "Great leaders inspire confidence and resilience in times of adversity.",
+    "form": "adversity",
+    "nat": "Overcoming adversity early in life shaped her entrepreneurial determination.",
+    "syn": [
+      "hardship",
+      "misfortune",
+      "struggle"
+    ],
+    "ant": [
+      "prosperity",
+      "good fortune"
+    ],
+    "col": [
+      "in the face of adversity",
+      "overcome adversity",
+      "face adversity",
+      "times of adversity"
+    ],
+    "mis": {
+      "bad": "She suffered many bad lucks.",
+      "good": "She faced severe adversity.",
+      "why": "\"Luck\" is uncountable; use \"adversity\" or \"misfortune\" to express serious hardship."
+    },
+    "fam": [
+      "adverse (adj)",
+      "adversary (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "contingency",
+    "w": "contingency",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "contingência, plano de emergência",
+    "def": "A future event or circumstance which is possible but cannot be predicted with certainty.",
+    "ipa": "/kənˈtɪn.dʒən.si/",
+    "ex": "Every major launch should have a contingency plan in case of outage.",
+    "form": "contingency",
+    "nat": "We allocated 10% of the project budget for unexpected contingencies.",
+    "syn": [
+      "backup plan",
+      "emergency measure",
+      "eventuality"
+    ],
+    "ant": [],
+    "col": [
+      "contingency plan",
+      "contingency fund",
+      "plan for contingencies",
+      "unforeseen contingency"
+    ],
+    "mis": {
+      "bad": "We need a emergency plan B.",
+      "good": "We need a contingency plan.",
+      "why": "\"Contingency plan\" is the professional B2/C1 standard term in engineering and management."
+    },
+    "fam": [
+      "contingent (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "paradigm",
+    "w": "paradigm",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "paradigma, modelo conceitual",
+    "def": "A typical example or pattern of something; a distinct set of concepts or thought patterns.",
+    "ipa": "/ˈper.ə.daɪm/",
+    "ex": "Cloud computing triggered a fundamental paradigm shift in enterprise software.",
+    "form": "paradigm",
+    "nat": "Microservices represent a different architectural paradigm from monolithic apps.",
+    "syn": [
+      "model",
+      "framework",
+      "archetype"
+    ],
+    "ant": [],
+    "col": [
+      "paradigm shift",
+      "dominant paradigm",
+      "new paradigm",
+      "programming paradigm"
+    ],
+    "mis": {
+      "bad": "The \"g\" is sounded: /paradig-m/.",
+      "good": "Pronounce it /ˈper.ə.daɪm/ — the \"g\" is silent!",
+      "why": "Pronunciation trap: \"paradigm\" rhymes with time/dime; never pronounce the \"g\"."
+    },
+    "fam": [
+      "paradigmatic (adj)"
+    ],
+    "topics": [
+      "tech",
+      "abstract"
+    ]
+  },
+  {
+    "id": "unanimous",
+    "w": "unanimous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "unânime",
+    "def": "Held or arrived at by the agreement of all people involved.",
+    "ipa": "/juːˈnæn.ə.məs/",
+    "ex": "The board was unanimous in its decision to approve the acquisition.",
+    "form": "unanimous",
+    "nat": "After an intense debate, the committee reached a unanimous agreement.",
+    "syn": [
+      "undivided",
+      "solid",
+      "in full accord"
+    ],
+    "ant": [
+      "divided",
+      "split"
+    ],
+    "col": [
+      "unanimous decision",
+      "unanimous agreement",
+      "unanimous vote",
+      "unanimous support"
+    ],
+    "mis": {
+      "bad": "The decision was unanimated.",
+      "good": "The decision was unanimous.",
+      "why": "False friend: \"unanimated\" means without life/spirit; \"unânime\" is unanimous."
+    },
+    "fam": [
+      "unanimously (adv)",
+      "unanimity (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "exponential",
+    "w": "exponential",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "exponencial",
+    "def": "Becoming more and more rapid (of an increase).",
+    "ipa": "/ˌek.spəˈnen.ʃəl/",
+    "ex": "Mobile adoption experienced exponential growth over the past decade.",
+    "form": "exponential",
+    "nat": "AI computing power has expanded at an exponential rate in recent years.",
+    "syn": [
+      "rapid",
+      "snowballing",
+      "soaring"
+    ],
+    "ant": [
+      "linear",
+      "stagnant",
+      "gradual"
+    ],
+    "col": [
+      "exponential growth",
+      "exponential increase",
+      "exponential rate",
+      "grow exponentially"
+    ],
+    "mis": {
+      "bad": "The user count grew in exponent.",
+      "good": "The user count grew exponentially.",
+      "why": "Use the adverb \"exponentially\" or the adjective \"exponential growth\"."
+    },
+    "fam": [
+      "exponentially (adv)",
+      "exponent (noun)"
+    ],
+    "topics": [
+      "tech",
+      "science"
+    ]
+  },
+  {
+    "id": "incentive",
+    "w": "incentive",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "incentivo, estímulo financeiro ou prático",
+    "def": "A thing that motivates or encourages someone to do something.",
+    "ipa": "/ɪnˈsen.t̬ɪv/",
+    "ex": "Annual performance bonuses provide a strong financial incentive for salespeople.",
+    "form": "incentive",
+    "nat": "Tax incentives have encouraged many green energy startups to open factories here.",
+    "syn": [
+      "inducement",
+      "motivation",
+      "stimulus"
+    ],
+    "ant": [
+      "disincentive",
+      "deterrent"
+    ],
+    "col": [
+      "financial incentive",
+      "tax incentive",
+      "offer an incentive",
+      "strong incentive"
+    ],
+    "mis": {
+      "bad": "The company gave an incentivization.",
+      "good": "The company offered an incentive.",
+      "why": "In English, use the noun \"incentive\" rather than \"incentivization\"."
+    },
+    "fam": [
+      "incentivize (verb)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "tradeoff",
+    "w": "trade-off",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "concessão mútua, compromisso, escolha entre vantagens",
+    "def": "A balance achieved between two desirable but incompatible features; a compromise.",
+    "ipa": "/ˈtreɪd.ɑːf/",
+    "ex": "In software development, there is often a trade-off between speed and code quality.",
+    "form": "trade-off",
+    "nat": "Choosing remote work involves a trade-off between flexibility and face-to-face networking.",
+    "syn": [
+      "compromise",
+      "balance",
+      "give-and-take"
+    ],
+    "ant": [],
+    "col": [
+      "make a trade-off",
+      "inevitable trade-off",
+      "weigh the trade-offs",
+      "trade-off between"
+    ],
+    "mis": {
+      "bad": "We have to make a concession between speed and cost.",
+      "good": "We have to evaluate the trade-off between speed and cost.",
+      "why": "When choosing between two desirable engineering or life attributes, use \"trade-off\"."
+    },
+    "fam": [
+      "trade off (phrasal verb)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "nuance",
+    "w": "nuance",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "nuance, sutileza",
+    "def": "A subtle difference in or shade of meaning, expression, or sound.",
+    "ipa": "/ˈnuː.ɑːns/",
+    "ex": "At an advanced level of English, understanding nuance is vital for diplomatic communication.",
+    "form": "nuance",
+    "nat": "Machine translation often misses the cultural nuances of colloquial speech.",
+    "syn": [
+      "subtlety",
+      "shade",
+      "refinement"
+    ],
+    "ant": [],
+    "col": [
+      "cultural nuance",
+      "subtle nuance",
+      "grasp the nuances",
+      "full of nuance"
+    ],
+    "mis": {
+      "bad": "The text has delicate tones of sense.",
+      "good": "The text captures subtle nuances of meaning.",
+      "why": "\"Nuance\" is the precise term for subtle shades of meaning or tone."
+    },
+    "fam": [
+      "nuanced (adj)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "prevalent",
+    "w": "prevalent",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "prevalente, predominante, comum",
+    "def": "Widespread in a particular area or at a particular time.",
+    "ipa": "/ˈprev.əl.ənt/",
+    "ex": "Burnout is increasingly prevalent among technology professionals working remote hours.",
+    "form": "prevalent",
+    "nat": "The belief that multitasking boosts productivity is still prevalent despite research.",
+    "syn": [
+      "widespread",
+      "common",
+      "pervasive"
+    ],
+    "ant": [
+      "rare",
+      "uncommon",
+      "isolated"
+    ],
+    "col": [
+      "widely prevalent",
+      "prevalent belief",
+      "prevalent among",
+      "become prevalent"
+    ],
+    "mis": {
+      "bad": "This behavior is very predominant in society.",
+      "good": "This behavior is prevalent in society.",
+      "why": "\"Prevalent\" is natural when describing widespread habits, illnesses, or beliefs."
+    },
+    "fam": [
+      "prevalence (noun)"
+    ],
+    "topics": [
+      "health",
+      "society"
+    ]
+  },
+  {
+    "id": "coherent",
+    "w": "coherent",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "coerente, articulado, com lógica interna",
+    "def": "Logical and consistent; able to speak clearly and logically.",
+    "ipa": "/koʊˈhɪr.ənt/",
+    "ex": "The candidate presented a coherent strategy for growing the company revenue.",
+    "form": "coherent",
+    "nat": "After an all-night coding sprint, he was barely coherent during the morning meeting.",
+    "syn": [
+      "lucid",
+      "logical",
+      "consistent"
+    ],
+    "ant": [
+      "incoherent",
+      "disjointed",
+      "confused"
+    ],
+    "col": [
+      "coherent strategy",
+      "coherent argument",
+      "coherent explanation",
+      "remain coherent"
+    ],
+    "mis": {
+      "bad": "The explanation was without connection.",
+      "good": "The explanation was not coherent / lacked coherence.",
+      "why": "Use \"coherent\" for arguments, texts, or speech that follow clear logic."
+    },
+    "fam": [
+      "coherence (noun)",
+      "coherently (adv)",
+      "incoherent (adj)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "arbitrary",
+    "w": "arbitrary",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "arbitrário, sem critério objetivo",
+    "def": "Based on random choice or personal whim, rather than any reason or system.",
+    "ipa": "/ˈɑːr.bə.trer.i/",
+    "ex": "Setting a 30-day deadline without assessing the scope seemed completely arbitrary.",
+    "form": "arbitrary",
+    "nat": "The rules felt arbitrary because they were never clearly explained or justified.",
+    "syn": [
+      "random",
+      "unpredictable",
+      "capricious"
+    ],
+    "ant": [
+      "systematic",
+      "reasoned",
+      "rational"
+    ],
+    "col": [
+      "arbitrary decision",
+      "arbitrary rule",
+      "seem arbitrary",
+      "arbitrary choice"
+    ],
+    "mis": {
+      "bad": "He decided by head without reason.",
+      "good": "His decision seemed completely arbitrary.",
+      "why": "\"Arbitrary\" describes actions taken without objective rules or evidence."
+    },
+    "fam": [
+      "arbitrarily (adv)",
+      "arbitrariness (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "rigorous",
+    "w": "rigorous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "rigoroso, metódico, detalhado",
+    "def": "Extremely thorough, exhaustive, or accurate.",
+    "ipa": "/ˈrɪɡ.ər.əs/",
+    "ex": "All medical equipment must pass rigorous laboratory testing before public release.",
+    "form": "rigorous",
+    "nat": "The team applied rigorous benchmarks to test system load and memory usage.",
+    "syn": [
+      "thorough",
+      "exacting",
+      "meticulous"
+    ],
+    "ant": [
+      "lax",
+      "sloppy",
+      "careless"
+    ],
+    "col": [
+      "rigorous testing",
+      "rigorous methodology",
+      "rigorous standards",
+      "rigorous analysis"
+    ],
+    "mis": {
+      "bad": "The test was made with big rigor.",
+      "good": "The test was conducted with rigorous precision.",
+      "why": "Use the adjective \"rigorous testing\" or \"rigorous analysis\" in technical writing."
+    },
+    "fam": [
+      "rigor (noun)",
+      "rigorously (adv)"
+    ],
+    "topics": [
+      "science",
+      "work"
+    ]
+  },
+  {
+    "id": "tentative",
+    "w": "tentative",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "provisório, sujeito a alterações, hesitante",
+    "def": "Not certain or fixed; provisional; done without confidence.",
+    "ipa": "/ˈten.t̬ə.t̬ɪv/",
+    "ex": "We reached a tentative agreement, pending final approval from legal counsel.",
+    "form": "tentative",
+    "nat": "Let us set a tentative date for next Thursday and confirm early next week.",
+    "syn": [
+      "provisional",
+      "unconfirmed",
+      "preliminary"
+    ],
+    "ant": [
+      "definite",
+      "conclusive",
+      "firm"
+    ],
+    "col": [
+      "tentative schedule",
+      "tentative agreement",
+      "tentative conclusion",
+      "tentative date"
+    ],
+    "mis": {
+      "bad": "We marked an appointment for test.",
+      "good": "We scheduled a tentative meeting for Thursday.",
+      "why": "For business dates or agreements that are subject to confirmation, use \"tentative\"."
+    },
+    "fam": [
+      "tentatively (adv)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "frictionless",
+    "w": "frictionless",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "sem atrito, fluido, descomplicado",
+    "def": "Smooth and effortless; having or creating no impediments or resistance.",
+    "ipa": "/ˈfrɪk.ʃən.ləs/",
+    "ex": "Fintech apps aim to make online payments completely frictionless.",
+    "form": "frictionless",
+    "nat": "Our primary design objective is delivering a frictionless onboarding experience.",
+    "syn": [
+      "seamless",
+      "effortless",
+      "smooth"
+    ],
+    "ant": [
+      "cumbersome",
+      "friction-heavy",
+      "clunky"
+    ],
+    "col": [
+      "frictionless experience",
+      "frictionless payments",
+      "frictionless checkout",
+      "frictionless integration"
+    ],
+    "mis": {
+      "bad": "The experience had no friction points (not wrong, but frictionless is standard).",
+      "good": "The user enjoyed a frictionless payment process.",
+      "why": "\"Frictionless\" is the dominant B2+/C1 tech and product term for seamless user flows."
+    },
+    "fam": [
+      "friction (noun)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "disruptive",
+    "w": "disruptive",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "disruptivo, transformador de mercado",
+    "def": "Innovatively altering or destroying an existing business model or market structure.",
+    "ipa": "/dɪsˈrʌp.tɪv/",
+    "ex": "Ride-sharing proved to be a highly disruptive technology for urban transportation.",
+    "form": "disruptive",
+    "nat": "Generative AI represents the most disruptive innovation of this decade.",
+    "syn": [
+      "revolutionary",
+      "groundbreaking",
+      "game-changing"
+    ],
+    "ant": [
+      "traditional",
+      "conservative",
+      "incremental"
+    ],
+    "col": [
+      "disruptive technology",
+      "disruptive innovation",
+      "disruptive business model",
+      "disruptive impact"
+    ],
+    "mis": {
+      "bad": "It disrupted everything so it was disruptor.",
+      "good": "It was a highly disruptive innovation.",
+      "why": "Use \"disruptive\" as the adjective and \"disruptor\" as the person/company doing the disruption."
+    },
+    "fam": [
+      "disrupt (verb)",
+      "disruption (noun)",
+      "disruptor (noun)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  }
+]

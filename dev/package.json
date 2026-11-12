@@ -1,0 +1,8 @@
+{
+  "name": "fluentpath-dev",
+  "private": true,
+  "description": "Testes automaticos (npm i; depois node test.js | test4.js | test6.js | test7.js)",
+  "devDependencies": {
+    "jsdom": "^26.0.0"
+  }
+}

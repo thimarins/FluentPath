@@ -1,0 +1,6842 @@
+[
+ {
+  "id": "diagnose",
+  "w": "diagnose",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "diagnosticar",
+  "def": "To identify an illness by examining a patient.",
+  "ipa": "/ˌdaɪəɡˈnoʊs/",
+  "ex": "The doctor diagnosed her with a mild allergy after running several simple tests.",
+  "form": "diagnosed",
+  "nat": "He was diagnosed with diabetes when he was only twenty.",
+  "syn": [
+   "identify",
+   "detect"
+  ],
+  "ant": [
+   "overlook"
+  ],
+  "col": [
+   "be diagnosed with",
+   "diagnose a problem",
+   "correctly diagnosed",
+   "diagnose early"
+  ],
+  "mis": {
+   "bad": "I was diagnosticated with asthma last year.",
+   "good": "I was diagnosed with asthma last year.",
+   "why": "The verb is diagnose; 'diagnosticate' does not exist in English."
+  },
+  "fam": [
+   "diagnosis (noun)",
+   "diagnostic (adj)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "infection",
+  "w": "infection",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "infecção",
+  "def": "An illness caused by bacteria or a virus entering the body.",
+  "ipa": "/ɪnˈfekʃən/",
+  "ex": "She stayed home for a week because of a serious throat infection.",
+  "form": "infection",
+  "nat": "The nurse cleaned the cut to prevent an infection.",
+  "syn": [
+   "illness",
+   "disease"
+  ],
+  "ant": [],
+  "col": [
+   "a bacterial infection",
+   "ear infection",
+   "catch an infection",
+   "spread of infection"
+  ],
+  "mis": {
+   "bad": "I have an infection in the stomach.",
+   "good": "I have a stomach infection.",
+   "why": "English usually puts the body part before infection instead of using 'in the + body part'."
+  },
+  "fam": [
+   "infect (verb)",
+   "infectious (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "inflammation",
+  "w": "inflammation",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "inflamação",
+  "def": "Redness, heat and swelling in a part of the body, often caused by injury or infection.",
+  "ipa": "/ˌɪnfləˈmeɪʃən/",
+  "ex": "The doctor said the pain in my knee was caused by inflammation.",
+  "form": "inflammation",
+  "nat": "Ice can help reduce inflammation after a sports injury.",
+  "syn": [
+   "swelling"
+  ],
+  "ant": [],
+  "col": [
+   "reduce inflammation",
+   "chronic inflammation",
+   "joint inflammation",
+   "signs of inflammation"
+  ],
+  "mis": {
+   "bad": "My knee has an inflammation.",
+   "good": "My knee is inflamed.",
+   "why": "In English you usually say a body part is inflamed, or you talk about inflammation in general; 'an inflammation' sounds unnatural."
+  },
+  "fam": [
+   "inflame (verb)",
+   "inflamed (adj)",
+   "inflammatory (adj)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "chronic",
+  "w": "chronic",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "crônico",
+  "def": "Lasting for a very long time or happening again and again.",
+  "ipa": "/ˈkrɑːnɪk/",
+  "ex": "Many people with chronic back pain find that gentle exercise helps.",
+  "form": "chronic",
+  "nat": "He suffers from chronic fatigue and often feels tired all day.",
+  "syn": [
+   "long-term",
+   "persistent"
+  ],
+  "ant": [
+   "acute",
+   "temporary"
+  ],
+  "col": [
+   "chronic pain",
+   "chronic illness",
+   "chronic disease",
+   "chronic condition"
+  ],
+  "mis": {
+   "bad": "My boss is chronic late to meetings.",
+   "good": "My boss is chronically late to meetings.",
+   "why": "Chronic is an adjective; use the adverb chronically to describe a verb or adjective."
+  },
+  "fam": [
+   "chronically (adv)",
+   "chronicle (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "acute",
+  "w": "acute",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "agudo",
+  "def": "Very serious or severe, and developing suddenly.",
+  "ipa": "/əˈkjuːt/",
+  "ex": "She was taken to hospital with acute pain in her stomach.",
+  "form": "acute",
+  "nat": "There is an acute shortage of nurses in many rural areas.",
+  "syn": [
+   "severe",
+   "intense"
+  ],
+  "ant": [
+   "chronic",
+   "mild"
+  ],
+  "col": [
+   "acute pain",
+   "acute shortage",
+   "acute infection",
+   "acute angle"
+  ],
+  "mis": {
+   "bad": "The pain was acute during three years.",
+   "good": "The pain was chronic for three years.",
+   "why": "Acute describes sudden, severe problems; for something lasting a long time, use chronic."
+  },
+  "fam": [
+   "acutely (adv)",
+   "acuteness (noun)"
+  ],
+  "topics": [
+   "health",
+   "abstract"
+  ]
+ },
+ {
+  "id": "surgery",
+  "w": "surgery",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "cirurgia",
+  "def": "A medical operation in which a doctor cuts into the body to repair or remove something.",
+  "ipa": "/ˈsɜːrdʒəri/",
+  "ex": "My grandfather needed surgery on his heart last spring, and he recovered well.",
+  "form": "surgery",
+  "nat": "The surgery went well, and she left the hospital two days later.",
+  "syn": [
+   "operation"
+  ],
+  "ant": [],
+  "col": [
+   "undergo surgery",
+   "heart surgery",
+   "plastic surgery",
+   "recover from surgery"
+  ],
+  "mis": {
+   "bad": "I will do a surgery next week.",
+   "good": "I will have surgery next week.",
+   "why": "Patients 'have' or 'undergo' surgery; doctors 'perform' it. Surgery is also usually uncountable."
+  },
+  "fam": [
+   "surgeon (noun)",
+   "surgical (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "surgeon",
+  "w": "surgeon",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "cirurgião",
+  "def": "A doctor who is trained to perform operations.",
+  "ipa": "/ˈsɜːrdʒən/",
+  "ex": "The surgeon explained all the risks to the family before the long operation began.",
+  "form": "surgeon",
+  "nat": "Her father is a famous heart surgeon in Chicago.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "brain surgeon",
+   "plastic surgeon",
+   "skilled surgeon",
+   "surgeon general"
+  ],
+  "mis": {
+   "bad": "My brother is a doctor surgeon.",
+   "good": "My brother is a surgeon.",
+   "why": "Surgeon already means a type of doctor, so do not add 'doctor'."
+  },
+  "fam": [
+   "surgery (noun)",
+   "surgical (adj)"
+  ],
+  "topics": [
+   "health",
+   "work"
+  ]
+ },
+ {
+  "id": "dose",
+  "w": "dose",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "dose",
+  "def": "The amount of a medicine that you take at one time.",
+  "ipa": "/doʊs/",
+  "ex": "Take the recommended dose and never exceed it without asking your doctor.",
+  "form": "dose",
+  "nat": "A single dose of this medicine lasts for about twelve hours.",
+  "syn": [
+   "amount",
+   "measure"
+  ],
+  "ant": [],
+  "col": [
+   "a high dose",
+   "a daily dose",
+   "recommended dose",
+   "lethal dose"
+  ],
+  "mis": {
+   "bad": "The doctor told me to take two doses by day.",
+   "good": "The doctor told me to take two doses a day.",
+   "why": "Use 'a day', not 'by day', to talk about frequency."
+  },
+  "fam": [
+   "dosage (noun)",
+   "overdose (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "therapy",
+  "w": "therapy",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "terapia",
+  "def": "Treatment that helps someone recover from an illness or a problem.",
+  "ipa": "/ˈθerəpi/",
+  "ex": "After the accident, she started physical therapy to walk again.",
+  "form": "therapy",
+  "nat": "He has been in therapy for a year to manage his stress.",
+  "syn": [
+   "treatment"
+  ],
+  "ant": [],
+  "col": [
+   "physical therapy",
+   "speech therapy",
+   "go to therapy",
+   "therapy session"
+  ],
+  "mis": {
+   "bad": "I do therapy since March.",
+   "good": "I have been in therapy since March.",
+   "why": "Use the present perfect with since, and say 'be in therapy' or 'go to therapy'."
+  },
+  "fam": [
+   "therapist (noun)",
+   "therapeutic (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "therapist",
+  "w": "therapist",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "terapeuta",
+  "def": "A professional who treats physical or mental problems without using surgery.",
+  "ipa": "/ˈθerəpɪst/",
+  "ex": "My therapist taught me simple breathing exercises to calm down.",
+  "form": "therapist",
+  "nat": "She works as a speech therapist at a children's hospital.",
+  "syn": [
+   "counselor"
+  ],
+  "ant": [],
+  "col": [
+   "see a therapist",
+   "physical therapist",
+   "family therapist",
+   "qualified therapist"
+  ],
+  "mis": {
+   "bad": "I have a therapeut who helps me.",
+   "good": "I have a therapist who helps me.",
+   "why": "The English word is therapist; 'therapeut' is not used."
+  },
+  "fam": [
+   "therapy (noun)",
+   "therapeutic (adj)"
+  ],
+  "topics": [
+   "health",
+   "work"
+  ]
+ },
+ {
+  "id": "rehabilitation",
+  "w": "rehabilitation",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "reabilitação",
+  "def": "The process of helping someone return to normal health after an illness or injury.",
+  "ipa": "/ˌriːəˌbɪlɪˈteɪʃən/",
+  "ex": "His rehabilitation after the knee operation took almost six months.",
+  "form": "rehabilitation",
+  "nat": "The center offers rehabilitation for people with drug problems.",
+  "syn": [
+   "recovery"
+  ],
+  "ant": [],
+  "col": [
+   "a rehabilitation center",
+   "physical rehabilitation",
+   "go through rehabilitation",
+   "rehabilitation program"
+  ],
+  "mis": {
+   "bad": "I did a rehabilitation of my knee.",
+   "good": "I did rehabilitation for my knee.",
+   "why": "Rehabilitation is uncountable here, so do not use 'a' with 'of'."
+  },
+  "fam": [
+   "rehabilitate (verb)",
+   "rehab (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "fracture",
+  "w": "fracture",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "fratura",
+  "def": "A break in a bone.",
+  "ipa": "/ˈfræktʃər/",
+  "ex": "The X-ray showed a small fracture in his left wrist.",
+  "form": "fracture",
+  "nat": "She suffered a fracture while skiing in the mountains.",
+  "syn": [
+   "break",
+   "crack"
+  ],
+  "ant": [],
+  "col": [
+   "a bone fracture",
+   "suffer a fracture",
+   "stress fracture",
+   "hairline fracture"
+  ],
+  "mis": {
+   "bad": "He fractured the arm in the fall.",
+   "good": "He fractured his arm in the fall.",
+   "why": "Use a possessive, not 'the', with parts of the body."
+  },
+  "fam": [
+   "fractured (adj)",
+   "fracture (verb)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "sprain",
+  "w": "sprain",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "torcer",
+  "def": "To injure a joint by twisting it suddenly.",
+  "ipa": "/spreɪn/",
+  "ex": "He sprained his ankle while running down the stairs to catch the bus.",
+  "form": "sprained",
+  "nat": "I think I sprained my wrist when I fell off the bike.",
+  "syn": [
+   "twist"
+  ],
+  "ant": [],
+  "col": [
+   "sprain an ankle",
+   "badly sprained",
+   "a sprained wrist",
+   "a minor sprain"
+  ],
+  "mis": {
+   "bad": "I sprained my knee bone yesterday.",
+   "good": "I sprained my knee yesterday.",
+   "why": "A sprain affects ligaments, not bones; a broken bone is a fracture."
+  },
+  "fam": [
+   "sprain (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "bruise",
+  "w": "bruise",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "hematoma, roxo",
+  "def": "A dark mark on the skin caused by a hit or a fall.",
+  "ipa": "/bruːz/",
+  "ex": "The fall left a large purple bruise on her leg that lasted for weeks.",
+  "form": "bruise",
+  "nat": "I have a bruise on my arm, but it doesn't hurt.",
+  "syn": [
+   "mark"
+  ],
+  "ant": [],
+  "col": [
+   "a nasty bruise",
+   "bruise easily",
+   "black and blue",
+   "get a bruise"
+  ],
+  "mis": {
+   "bad": "I have a purple on my leg.",
+   "good": "I have a bruise on my leg.",
+   "why": "The noun for the dark mark on the skin is bruise, not 'purple'."
+  },
+  "fam": [
+   "bruise (verb)",
+   "bruised (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "injury",
+  "w": "injury",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "lesão, ferimento",
+  "def": "Physical harm to a person's body.",
+  "ipa": "/ˈɪndʒəri/",
+  "ex": "The player missed the final because of a serious knee injury.",
+  "form": "injury",
+  "nat": "Wearing a helmet can prevent a head injury.",
+  "syn": [
+   "wound",
+   "harm"
+  ],
+  "ant": [],
+  "col": [
+   "a serious injury",
+   "suffer an injury",
+   "sports injury",
+   "prevent injury"
+  ],
+  "mis": {
+   "bad": "I made an injury in my foot.",
+   "good": "I got an injury in my foot.",
+   "why": "Use get, suffer or have with injury; we do not 'make' an injury."
+  },
+  "fam": [
+   "injure (verb)",
+   "injured (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "wound",
+  "w": "wound",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "ferida",
+  "def": "An injury in which the skin is cut or broken.",
+  "ipa": "/wuːnd/",
+  "ex": "The nurse cleaned the wound and covered it with a bandage.",
+  "form": "wound",
+  "nat": "The soldier had a deep wound on his shoulder.",
+  "syn": [
+   "cut",
+   "injury"
+  ],
+  "ant": [],
+  "col": [
+   "a deep wound",
+   "heal a wound",
+   "clean a wound",
+   "gunshot wound"
+  ],
+  "mis": {
+   "bad": "The wound is hurting me since Monday.",
+   "good": "The wound has been hurting since Monday.",
+   "why": "Use the present perfect continuous with since."
+  },
+  "fam": [
+   "wound (verb)",
+   "wounded (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "heal",
+  "w": "heal",
+  "pos": "verb",
+  "lvl": "B1",
+  "pt": "curar, cicatrizar",
+  "def": "To become healthy again, or to make something healthy again.",
+  "ipa": "/hiːl/",
+  "ex": "It took three weeks for the cut on my finger to heal.",
+  "form": "heal",
+  "nat": "Time heals most wounds, even emotional ones.",
+  "syn": [
+   "recover",
+   "cure"
+  ],
+  "ant": [],
+  "col": [
+   "heal quickly",
+   "heal a wound",
+   "heal completely",
+   "time heals"
+  ],
+  "mis": {
+   "bad": "The doctor healed me of the flu in two days.",
+   "good": "The doctor cured my flu in two days.",
+   "why": "Heal is mostly used for wounds and injuries that get better; cure is for treating an illness."
+  },
+  "fam": [
+   "healing (noun)",
+   "healer (noun)",
+   "health (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "dizzy",
+  "w": "dizzy",
+  "pos": "adj",
+  "lvl": "B1",
+  "pt": "tonto, com tontura",
+  "def": "Feeling that everything is moving around you, as if you might fall.",
+  "ipa": "/ˈdɪzi/",
+  "ex": "I felt dizzy when I stood up too fast after lying on the sofa.",
+  "form": "dizzy",
+  "nat": "The heat made him so dizzy that he had to sit down.",
+  "syn": [
+   "lightheaded"
+  ],
+  "ant": [],
+  "col": [
+   "feel dizzy",
+   "a dizzy spell",
+   "make someone dizzy",
+   "dizzy with joy"
+  ],
+  "mis": {
+   "bad": "I am with dizzy since this morning.",
+   "good": "I have been dizzy since this morning.",
+   "why": "Use the verb be or feel with dizzy; do not use 'with' before it."
+  },
+  "fam": [
+   "dizziness (noun)",
+   "dizzily (adv)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "nausea",
+  "w": "nausea",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "náusea",
+  "def": "A feeling that you are going to vomit.",
+  "ipa": "/ˈnɔːziə/",
+  "ex": "The medicine can cause nausea, so take it after eating.",
+  "form": "nausea",
+  "nat": "She felt a wave of nausea during the boat trip.",
+  "syn": [
+   "sickness"
+  ],
+  "ant": [],
+  "col": [
+   "feel nausea",
+   "wave of nausea",
+   "cause nausea",
+   "nausea and vomiting"
+  ],
+  "mis": {
+   "bad": "I have nauseas every morning.",
+   "good": "I have nausea every morning.",
+   "why": "Nausea is uncountable in English, so it has no plural here."
+  },
+  "fam": [
+   "nauseous (adj)",
+   "nauseating (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "fever",
+  "w": "fever",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "febre",
+  "def": "A high body temperature caused by illness.",
+  "ipa": "/ˈfiːvər/",
+  "ex": "The child had a high fever and a bad cough.",
+  "form": "fever",
+  "nat": "If your fever doesn't go down, call the doctor.",
+  "syn": [
+   "temperature"
+  ],
+  "ant": [],
+  "col": [
+   "a high fever",
+   "run a fever",
+   "reduce a fever",
+   "fever breaks"
+  ],
+  "mis": {
+   "bad": "I am with fever since yesterday.",
+   "good": "I have had a fever since yesterday.",
+   "why": "Use have with fever, and the present perfect with since."
+  },
+  "fam": [
+   "feverish (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "cough",
+  "w": "cough",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "tosse",
+  "def": "The sudden noise you make when you push air out of your throat.",
+  "ipa": "/kɔːf/",
+  "ex": "I've had a dry cough for almost two weeks now.",
+  "form": "cough",
+  "nat": "Cover your mouth when you cough or sneeze.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "a dry cough",
+   "a bad cough",
+   "cough syrup",
+   "a persistent cough"
+  ],
+  "mis": {
+   "bad": "I am coughing since three days.",
+   "good": "I have had a cough for three days.",
+   "why": "Use the present perfect with for, and the noun cough describes the illness."
+  },
+  "fam": [
+   "cough (verb)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "immune",
+  "w": "immune",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "imune",
+  "def": "Protected against a disease because your body can fight it.",
+  "ipa": "/ɪˈmjuːn/",
+  "ex": "After the first infection, most people are immune to the virus for a while.",
+  "form": "immune",
+  "nat": "A healthy diet helps keep your immune system strong.",
+  "syn": [
+   "protected",
+   "resistant"
+  ],
+  "ant": [
+   "vulnerable",
+   "susceptible"
+  ],
+  "col": [
+   "immune system",
+   "immune to",
+   "become immune",
+   "immune response"
+  ],
+  "mis": {
+   "bad": "I am immune of this disease.",
+   "good": "I am immune to this disease.",
+   "why": "The correct preposition after immune is 'to'."
+  },
+  "fam": [
+   "immunity (noun)",
+   "immunize (verb)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "antibiotic",
+  "w": "antibiotic",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "antibiótico",
+  "def": "A medicine that kills bacteria and cures infections.",
+  "ipa": "/ˌæntibaɪˈɑːtɪk/",
+  "ex": "The doctor prescribed an antibiotic for my ear infection and told me to rest.",
+  "form": "antibiotic",
+  "nat": "Antibiotics do not work against viruses such as the common cold.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "take antibiotics",
+   "a course of antibiotics",
+   "antibiotic resistance",
+   "prescribe antibiotics"
+  ],
+  "mis": {
+   "bad": "I took a antibiotic for ten days.",
+   "good": "I took an antibiotic for ten days.",
+   "why": "Use 'an' before a vowel sound, and note that antibiotic starts with the vowel sound /æ/."
+  },
+  "fam": [
+   "antibiotic (adj)",
+   "antibacterial (adj)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "painkiller",
+  "w": "painkiller",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "analgésico",
+  "def": "A medicine that reduces or removes pain.",
+  "ipa": "/ˈpeɪnˌkɪlər/",
+  "ex": "I took a painkiller and went to bed early because my head hurt so much.",
+  "form": "painkiller",
+  "nat": "The dentist gave me painkillers to take after the operation.",
+  "syn": [
+   "analgesic"
+  ],
+  "ant": [],
+  "col": [
+   "take a painkiller",
+   "strong painkillers",
+   "over-the-counter painkiller",
+   "painkiller tablet"
+  ],
+  "mis": {
+   "bad": "I took an anti-pain for my headache.",
+   "good": "I took a painkiller for my headache.",
+   "why": "The common English word is painkiller, not 'anti-pain'."
+  },
+  "fam": [
+   "pain (noun)",
+   "painful (adj)",
+   "painless (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "bandage",
+  "w": "bandage",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "curativo, atadura",
+  "def": "A strip of cloth used to cover and protect an injury.",
+  "ipa": "/ˈbændɪdʒ/",
+  "ex": "The nurse wrapped a clean bandage around his injured hand.",
+  "form": "bandage",
+  "nat": "Keep the bandage dry and change it every day.",
+  "syn": [
+   "dressing"
+  ],
+  "ant": [],
+  "col": [
+   "wrap a bandage",
+   "apply a bandage",
+   "remove a bandage",
+   "elastic bandage"
+  ],
+  "mis": {
+   "bad": "She put a bandage in the cut.",
+   "good": "She put a bandage on the cut.",
+   "why": "Use 'on' for something placed on the skin."
+  },
+  "fam": [
+   "bandage (verb)",
+   "bandaged (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "cholesterol",
+  "w": "cholesterol",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "colesterol",
+  "def": "A fatty substance in the blood that can cause heart problems when levels are too high.",
+  "ipa": "/kəˈlestərɔːl/",
+  "ex": "My doctor told me to eat less fried food to lower my cholesterol.",
+  "form": "cholesterol",
+  "nat": "High cholesterol can increase the risk of heart disease.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "high cholesterol",
+   "lower cholesterol",
+   "cholesterol level",
+   "bad cholesterol"
+  ],
+  "mis": {
+   "bad": "My cholesterol are high.",
+   "good": "My cholesterol is high.",
+   "why": "Cholesterol is uncountable and takes a singular verb."
+  },
+  "fam": [
+   "cholesterol-free (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "obesity",
+  "w": "obesity",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "obesidade",
+  "def": "A condition in which a person is extremely overweight in a way that harms health.",
+  "ipa": "/oʊˈbiːsəti/",
+  "ex": "Childhood obesity has become a serious problem in many countries.",
+  "form": "obesity",
+  "nat": "Doctors link obesity with a higher risk of diabetes.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "childhood obesity",
+   "obesity rate",
+   "fight obesity",
+   "obesity epidemic"
+  ],
+  "mis": {
+   "bad": "Obesity are growing in my country.",
+   "good": "Obesity is growing in my country.",
+   "why": "Obesity is an uncountable noun and takes a singular verb."
+  },
+  "fam": [
+   "obese (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "diabetes",
+  "w": "diabetes",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "diabetes",
+  "def": "A disease in which the body cannot control the level of sugar in the blood.",
+  "ipa": "/ˌdaɪəˈbiːtiːz/",
+  "ex": "My uncle has diabetes, so he checks his blood sugar every morning.",
+  "form": "diabetes",
+  "nat": "Regular exercise can lower the risk of type two diabetes.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "type 2 diabetes",
+   "develop diabetes",
+   "manage diabetes",
+   "diabetes patient"
+  ],
+  "mis": {
+   "bad": "Diabetes are common in my family.",
+   "good": "Diabetes is common in my family.",
+   "why": "Diabetes ends in -s but is a singular, uncountable noun."
+  },
+  "fam": [
+   "diabetic (adj/noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "ambulance",
+  "w": "ambulance",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "ambulância",
+  "def": "A vehicle that takes sick or injured people to the hospital.",
+  "ipa": "/ˈæmbjələns/",
+  "ex": "Someone called an ambulance as soon as the accident happened.",
+  "form": "ambulance",
+  "nat": "The ambulance arrived within five minutes.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "call an ambulance",
+   "ambulance driver",
+   "ambulance service",
+   "in an ambulance"
+  ],
+  "mis": {
+   "bad": "Call to the ambulance, please!",
+   "good": "Call an ambulance, please!",
+   "why": "The verb call takes the object directly, without 'to', when you summon someone."
+  },
+  "fam": [
+   "paramedic (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "emergency",
+  "w": "emergency",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "emergência",
+  "def": "A sudden serious situation that needs immediate action.",
+  "ipa": "/ɪˈmɜːrdʒənsi/",
+  "ex": "In an emergency, dial the number on the card next to the phone.",
+  "form": "emergency",
+  "nat": "The hospital's emergency room was full on Friday night.",
+  "syn": [
+   "crisis"
+  ],
+  "ant": [],
+  "col": [
+   "in case of emergency",
+   "emergency room",
+   "emergency exit",
+   "state of emergency"
+  ],
+  "mis": {
+   "bad": "It is an emergence, call the doctor!",
+   "good": "It is an emergency, call the doctor!",
+   "why": "Emergence means 'coming out'; the word for a crisis is emergency."
+  },
+  "fam": [
+   "emergent (adj)",
+   "emerge (verb)"
+  ],
+  "topics": [
+   "health",
+   "daily"
+  ]
+ },
+ {
+  "id": "checkup",
+  "w": "checkup",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "check-up, consulta de rotina",
+  "def": "A routine medical examination to check that you are healthy.",
+  "ipa": "/ˈtʃekʌp/",
+  "ex": "I have a medical checkup every year, just to be safe.",
+  "form": "checkup",
+  "nat": "The dentist said everything looked fine at my last checkup.",
+  "syn": [
+   "examination"
+  ],
+  "ant": [],
+  "col": [
+   "annual checkup",
+   "go for a checkup",
+   "routine checkup",
+   "have a checkup"
+  ],
+  "mis": {
+   "bad": "I made a check-up of my health yesterday.",
+   "good": "I had a checkup yesterday.",
+   "why": "We 'have' or 'get' a checkup; we do not 'make' one of our health."
+  },
+  "fam": [
+   "check up (phrasal verb)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "treatment",
+  "w": "treatment",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "tratamento",
+  "def": "Medical care given to a patient for an illness or injury.",
+  "ipa": "/ˈtriːtmənt/",
+  "ex": "The treatment lasted six months, but she made a full recovery.",
+  "form": "treatment",
+  "nat": "He is receiving treatment for a heart problem.",
+  "syn": [
+   "therapy",
+   "care"
+  ],
+  "ant": [],
+  "col": [
+   "receive treatment",
+   "medical treatment",
+   "respond to treatment",
+   "treatment plan"
+  ],
+  "mis": {
+   "bad": "I am in treatment of a cold.",
+   "good": "I am getting treatment for a cold.",
+   "why": "Use treatment for an illness, not 'of'."
+  },
+  "fam": [
+   "treat (verb)",
+   "treatable (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "recovery",
+  "w": "recovery",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "recuperação",
+  "def": "The process of getting better after an illness or a difficult period.",
+  "ipa": "/rɪˈkʌvəri/",
+  "ex": "His recovery after the operation was faster than the doctors expected.",
+  "form": "recovery",
+  "nat": "We wish you a quick recovery and hope to see you soon.",
+  "syn": [
+   "healing"
+  ],
+  "ant": [
+   "relapse"
+  ],
+  "col": [
+   "a full recovery",
+   "make a recovery",
+   "speedy recovery",
+   "economic recovery"
+  ],
+  "mis": {
+   "bad": "I wish you a fast recuperation.",
+   "good": "I wish you a quick recovery.",
+   "why": "'Recuperation' is rare in English; recovery is the natural word, usually with quick or full."
+  },
+  "fam": [
+   "recover (verb)",
+   "recoverable (adj)"
+  ],
+  "topics": [
+   "health",
+   "abstract"
+  ]
+ },
+ {
+  "id": "stamina",
+  "w": "stamina",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "resistência, fôlego",
+  "def": "The physical or mental strength that lets you keep doing something for a long time.",
+  "ipa": "/ˈstæmɪnə/",
+  "ex": "Marathon runners need great stamina to finish the race without stopping to rest.",
+  "form": "stamina",
+  "nat": "I don't have the stamina to work twelve hours a day.",
+  "syn": [
+   "endurance"
+  ],
+  "ant": [],
+  "col": [
+   "build stamina",
+   "physical stamina",
+   "lack stamina",
+   "great stamina"
+  ],
+  "mis": {
+   "bad": "I don't have the resistance to run for an hour.",
+   "good": "I don't have the stamina to run for an hour.",
+   "why": "For lasting physical energy use stamina or endurance, not 'resistance'."
+  },
+  "fam": [],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "dehydrated",
+  "w": "dehydrated",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "desidratado",
+  "def": "Having lost too much water from the body.",
+  "ipa": "/ˌdiːhaɪˈdreɪtɪd/",
+  "ex": "The hikers were dehydrated after walking all day in the sun.",
+  "form": "dehydrated",
+  "nat": "Drink more water, because you look slightly dehydrated.",
+  "syn": [],
+  "ant": [
+   "hydrated"
+  ],
+  "col": [
+   "become dehydrated",
+   "severely dehydrated",
+   "feel dehydrated",
+   "dehydrated skin"
+  ],
+  "mis": {
+   "bad": "I am desidrated after the run.",
+   "good": "I am dehydrated after the run.",
+   "why": "The English word is dehydrated, spelled with a 'y'."
+  },
+  "fam": [
+   "dehydration (noun)",
+   "dehydrate (verb)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "nutrient",
+  "w": "nutrient",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "nutriente",
+  "def": "A substance that plants or animals need to live and grow.",
+  "ipa": "/ˈnuːtriənt/",
+  "ex": "Fresh vegetables are full of important nutrients that help your body stay strong and healthy.",
+  "form": "nutrients",
+  "nat": "The soil lacks nutrients, so the plants grow slowly.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "essential nutrients",
+   "absorb nutrients",
+   "rich in nutrients",
+   "nutrient content"
+  ],
+  "mis": {
+   "bad": "This food has many nutrients substances.",
+   "good": "This food is rich in nutrients.",
+   "why": "Nutrient already means a substance, so do not add 'substances'."
+  },
+  "fam": [
+   "nutrition (noun)",
+   "nutritious (adj)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "calorie",
+  "w": "calorie",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "caloria",
+  "def": "A unit that measures the energy in food.",
+  "ipa": "/ˈkæləri/",
+  "ex": "One small chocolate bar has about two hundred calories, which is quite a lot.",
+  "form": "calories",
+  "nat": "If you want to lose weight, you should count calories.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "count calories",
+   "burn calories",
+   "low in calories",
+   "calorie intake"
+  ],
+  "mis": {
+   "bad": "This cake has much calories.",
+   "good": "This cake has a lot of calories.",
+   "why": "Calories is countable, so use many or a lot of, not much."
+  },
+  "fam": [
+   "caloric (adj)"
+  ],
+  "topics": [
+   "health",
+   "daily"
+  ]
+ },
+ {
+  "id": "protein",
+  "w": "protein",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "proteína",
+  "def": "A substance in food such as meat, eggs and beans that helps the body grow.",
+  "ipa": "/ˈproʊtiːn/",
+  "ex": "Eggs, beans and fish are all good sources of protein for a healthy diet.",
+  "form": "protein",
+  "nat": "Athletes often eat extra protein after training.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "rich in protein",
+   "protein shake",
+   "high-protein diet",
+   "plant protein"
+  ],
+  "mis": {
+   "bad": "Eggs are a good source of proteine.",
+   "good": "Eggs are a good source of protein.",
+   "why": "The English spelling is protein, with no final -e."
+  },
+  "fam": [
+   "proteins (noun)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "metabolism",
+  "w": "metabolism",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "metabolismo",
+  "def": "The chemical processes in the body that change food into energy.",
+  "ipa": "/məˈtæbəlɪzəm/",
+  "ex": "Some people have a fast metabolism and can eat a lot without gaining weight.",
+  "form": "metabolism",
+  "nat": "Exercise can speed up your metabolism.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "slow metabolism",
+   "boost your metabolism",
+   "fast metabolism",
+   "metabolism rate"
+  ],
+  "mis": {
+   "bad": "My metabolic is very slow.",
+   "good": "My metabolism is very slow.",
+   "why": "Metabolic is an adjective; the noun is metabolism."
+  },
+  "fam": [
+   "metabolic (adj)",
+   "metabolize (verb)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "posture",
+  "w": "posture",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "postura",
+  "def": "The way you hold your body when you sit or stand.",
+  "ipa": "/ˈpɑːstʃər/",
+  "ex": "Sitting at a desk all day can ruin your posture.",
+  "form": "posture",
+  "nat": "Good posture helps prevent back pain.",
+  "syn": [
+   "stance"
+  ],
+  "ant": [],
+  "col": [
+   "good posture",
+   "bad posture",
+   "improve your posture",
+   "sit with good posture"
+  ],
+  "mis": {
+   "bad": "I need to correct my position when I sit.",
+   "good": "I need to correct my posture when I sit.",
+   "why": "For the way you hold your body, use posture, not 'position'."
+  },
+  "fam": [
+   "postural (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "endurance",
+  "w": "endurance",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "resistência, resistência física",
+  "def": "The ability to continue doing something difficult for a long time.",
+  "ipa": "/ɪnˈdʊrəns/",
+  "ex": "Long-distance swimming requires great endurance, patience and months of regular training in the pool.",
+  "form": "endurance",
+  "nat": "Cycling every day will improve your endurance.",
+  "syn": [
+   "stamina"
+  ],
+  "ant": [],
+  "col": [
+   "build endurance",
+   "endurance training",
+   "great endurance",
+   "test of endurance"
+  ],
+  "mis": {
+   "bad": "He has a big resistance in the race.",
+   "good": "He has great endurance in the race.",
+   "why": "For long physical effort use endurance; 'resistance' means opposing something."
+  },
+  "fam": [
+   "endure (verb)",
+   "enduring (adj)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "sedentary",
+  "w": "sedentary",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "sedentário",
+  "def": "Spending a lot of time sitting down and not being physically active.",
+  "ipa": "/ˈsedənteri/",
+  "ex": "A sedentary lifestyle can lead to serious health problems later in life.",
+  "form": "sedentary",
+  "nat": "Office workers often have sedentary jobs.",
+  "syn": [
+   "inactive"
+  ],
+  "ant": [
+   "active"
+  ],
+  "col": [
+   "sedentary lifestyle",
+   "sedentary job",
+   "sedentary behavior",
+   "lead a sedentary life"
+  ],
+  "mis": {
+   "bad": "I have a sedentarian life.",
+   "good": "I have a sedentary life.",
+   "why": "The adjective is sedentary; 'sedentarian' is not used."
+  },
+  "fam": [
+   "sedentarism (noun, rare)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "wellbeing",
+  "w": "wellbeing",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "bem-estar",
+  "def": "The state of being healthy, comfortable and happy.",
+  "ipa": "/ˌwelˈbiːɪŋ/",
+  "ex": "Regular sleep is essential for your physical and mental wellbeing.",
+  "form": "wellbeing",
+  "nat": "The company cares about the wellbeing of its employees.",
+  "syn": [
+   "welfare"
+  ],
+  "ant": [],
+  "col": [
+   "mental wellbeing",
+   "emotional wellbeing",
+   "sense of wellbeing",
+   "improve your wellbeing"
+  ],
+  "mis": {
+   "bad": "I want to promote my well-being state.",
+   "good": "I want to promote my wellbeing.",
+   "why": "Wellbeing already means a state; do not add 'state'."
+  },
+  "fam": [
+   "well-being (spelling variant)"
+  ],
+  "topics": [
+   "health",
+   "daily"
+  ]
+ },
+ {
+  "id": "relapse",
+  "w": "relapse",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "recaída",
+  "def": "A return of an illness after a period of improvement.",
+  "ipa": "/ˈriːlæps/",
+  "ex": "He had a relapse and had to go back to the hospital.",
+  "form": "relapse",
+  "nat": "The doctor warned her that a relapse was possible.",
+  "syn": [
+   "setback"
+  ],
+  "ant": [
+   "recovery"
+  ],
+  "col": [
+   "suffer a relapse",
+   "avoid a relapse",
+   "risk of relapse",
+   "have a relapse"
+  ],
+  "mis": {
+   "bad": "I had a recaid last week.",
+   "good": "I had a relapse last week.",
+   "why": "The English noun for recaída is relapse."
+  },
+  "fam": [
+   "relapse (verb)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "contagious",
+  "w": "contagious",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "contagioso",
+  "def": "Able to be passed from one person to another by touch or close contact.",
+  "ipa": "/kənˈteɪdʒəs/",
+  "ex": "The flu is highly contagious, so please stay at home.",
+  "form": "contagious",
+  "nat": "Her laugh was so contagious that everyone started laughing.",
+  "syn": [
+   "infectious"
+  ],
+  "ant": [],
+  "col": [
+   "highly contagious",
+   "contagious disease",
+   "contagious laughter",
+   "stay contagious"
+  ],
+  "mis": {
+   "bad": "The cold is contagiosa.",
+   "good": "The cold is contagious.",
+   "why": "English adjectives do not change for gender, so contagious has one form."
+  },
+  "fam": [
+   "contagion (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "hygiene",
+  "w": "hygiene",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "higiene",
+  "def": "Practices such as washing that keep you clean and healthy.",
+  "ipa": "/ˈhaɪdʒiːn/",
+  "ex": "Good hand hygiene can stop the spread of many diseases.",
+  "form": "hygiene",
+  "nat": "Restaurants must follow strict rules on food hygiene.",
+  "syn": [
+   "cleanliness"
+  ],
+  "ant": [],
+  "col": [
+   "personal hygiene",
+   "good hygiene",
+   "food hygiene",
+   "dental hygiene"
+  ],
+  "mis": {
+   "bad": "I follow the hygienic of my body.",
+   "good": "I follow good personal hygiene.",
+   "why": "Hygiene is the noun; hygienic is an adjective."
+  },
+  "fam": [
+   "hygienic (adj)",
+   "hygienist (noun)"
+  ],
+  "topics": [
+   "health",
+   "daily"
+  ]
+ },
+ {
+  "id": "quarantine",
+  "w": "quarantine",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "quarentena",
+  "def": "A period of isolation to stop a disease from spreading.",
+  "ipa": "/ˈkwɔːrəntiːn/",
+  "ex": "Travelers had to stay in quarantine for ten days after arriving in the country.",
+  "form": "quarantine",
+  "nat": "Several students are in quarantine after the outbreak.",
+  "syn": [
+   "isolation"
+  ],
+  "ant": [],
+  "col": [
+   "be in quarantine",
+   "go into quarantine",
+   "quarantine period",
+   "break quarantine"
+  ],
+  "mis": {
+   "bad": "I stayed in quarentena for two weeks.",
+   "good": "I stayed in quarantine for two weeks.",
+   "why": "The English spelling is quarantine, with an 'a' in the second syllable."
+  },
+  "fam": [
+   "quarantine (verb)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "epidemic",
+  "w": "epidemic",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "epidemia",
+  "def": "A sudden widespread outbreak of a disease in a community.",
+  "ipa": "/ˌepɪˈdemɪk/",
+  "ex": "The city launched a campaign to stop the flu epidemic.",
+  "form": "epidemic",
+  "nat": "Experts fear an epidemic of obesity in the next decade.",
+  "syn": [
+   "outbreak"
+  ],
+  "ant": [],
+  "col": [
+   "a flu epidemic",
+   "an epidemic of",
+   "stop an epidemic",
+   "spread rapidly"
+  ],
+  "mis": {
+   "bad": "There is an epidemy in the region.",
+   "good": "There is an epidemic in the region.",
+   "why": "The noun is epidemic; 'epidemy' is not used."
+  },
+  "fam": [
+   "epidemic (adj)",
+   "epidemiology (noun)"
+  ],
+  "topics": [
+   "health"
+  ]
+ },
+ {
+  "id": "pandemic",
+  "w": "pandemic",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "pandemia",
+  "def": "A disease that spreads across many countries at the same time.",
+  "ipa": "/pænˈdemɪk/",
+  "ex": "The pandemic changed the way many companies think about remote work.",
+  "form": "pandemic",
+  "nat": "Scientists are studying how the pandemic started.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "global pandemic",
+   "during the pandemic",
+   "pandemic response",
+   "declare a pandemic"
+  ],
+  "mis": {
+   "bad": "In the pandemia, I worked from home.",
+   "good": "During the pandemic, I worked from home.",
+   "why": "Say pandemic in English, and use 'during' for the period of time."
+  },
+  "fam": [
+   "pandemic (adj)"
+  ],
+  "topics": [
+   "health",
+   "science"
+  ]
+ },
+ {
+  "id": "hypothesis",
+  "w": "hypothesis",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "hipótese",
+  "def": "An idea that is suggested as an explanation and that must be tested.",
+  "ipa": "/haɪˈpɑːθəsɪs/",
+  "ex": "The scientists tested their hypothesis with a series of careful experiments.",
+  "form": "hypothesis",
+  "nat": "Her hypothesis was that plants grow faster with more light.",
+  "syn": [
+   "theory",
+   "assumption"
+  ],
+  "ant": [
+   "fact"
+  ],
+  "col": [
+   "test a hypothesis",
+   "form a hypothesis",
+   "prove a hypothesis",
+   "working hypothesis"
+  ],
+  "mis": {
+   "bad": "We have two hypothesis to test.",
+   "good": "We have two hypotheses to test.",
+   "why": "The plural of hypothesis is hypotheses, with a change in the ending."
+  },
+  "fam": [
+   "hypotheses (plural)",
+   "hypothetical (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "experiment",
+  "w": "experiment",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "experimento",
+  "def": "A scientific test done to learn something or to prove an idea.",
+  "ipa": "/ɪkˈsperɪmənt/",
+  "ex": "In class, we did an experiment to see how salt affects ice.",
+  "form": "experiment",
+  "nat": "The experiment failed, but we learned something important.",
+  "syn": [
+   "test",
+   "trial"
+  ],
+  "ant": [],
+  "col": [
+   "carry out an experiment",
+   "conduct an experiment",
+   "a controlled experiment",
+   "experiment with"
+  ],
+  "mis": {
+   "bad": "We made an experiment in the lab.",
+   "good": "We did an experiment in the lab.",
+   "why": "The usual verbs with experiment are do, carry out or conduct, not 'make'."
+  },
+  "fam": [
+   "experiment (verb)",
+   "experimental (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "laboratory",
+  "w": "laboratory",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "laboratório",
+  "def": "A room or building with equipment for scientific work.",
+  "ipa": "/ˈlæbrətɔːri/",
+  "ex": "The new vaccine was developed in a university laboratory over several difficult years.",
+  "form": "laboratory",
+  "nat": "She spends most of her day working in the laboratory.",
+  "syn": [
+   "lab"
+  ],
+  "ant": [],
+  "col": [
+   "a research laboratory",
+   "laboratory test",
+   "laboratory equipment",
+   "in the laboratory"
+  ],
+  "mis": {
+   "bad": "I work in a laboratorium.",
+   "good": "I work in a laboratory.",
+   "why": "The English word is laboratory, often shortened to lab."
+  },
+  "fam": [
+   "lab (informal)"
+  ],
+  "topics": [
+   "science",
+   "work"
+  ]
+ },
+ {
+  "id": "theory",
+  "w": "theory",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "teoria",
+  "def": "An idea or set of ideas that explains something.",
+  "ipa": "/ˈθɪri/",
+  "ex": "Einstein's theory of relativity changed the way we understand space and time.",
+  "form": "theory",
+  "nat": "In theory, the plan should work, but we need to test it.",
+  "syn": [
+   "idea",
+   "principle"
+  ],
+  "ant": [
+   "practice",
+   "fact"
+  ],
+  "col": [
+   "in theory",
+   "develop a theory",
+   "a popular theory",
+   "conspiracy theory"
+  ],
+  "mis": {
+   "bad": "I read a very interesting theorie about the origin of the universe.",
+   "good": "I read a very interesting theory about the origin of the universe.",
+   "why": "The English spelling is theory, ending in -y; the plural is theories."
+  },
+  "fam": [
+   "theoretical (adj)",
+   "theorize (verb)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "researcher",
+  "w": "researcher",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "pesquisador",
+  "def": "A person who studies a subject carefully to discover new facts.",
+  "ipa": "/rɪˈsɜːrtʃər/",
+  "ex": "The researchers published their results in a well-known science magazine.",
+  "form": "researchers",
+  "nat": "She works as a researcher at the national space agency.",
+  "syn": [
+   "scientist",
+   "scholar"
+  ],
+  "ant": [],
+  "col": [
+   "a leading researcher",
+   "medical researcher",
+   "team of researchers",
+   "researchers found"
+  ],
+  "mis": {
+   "bad": "The researchers says that the results are clear.",
+   "good": "The researchers say that the results are clear.",
+   "why": "A plural subject like researchers needs the plural verb form 'say'."
+  },
+  "fam": [
+   "research (noun/verb)"
+  ],
+  "topics": [
+   "science",
+   "work"
+  ]
+ },
+ {
+  "id": "molecule",
+  "w": "molecule",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "molécula",
+  "def": "The smallest unit of a substance, made of two or more atoms.",
+  "ipa": "/ˈmɑːləkjuːl/",
+  "ex": "A water molecule contains two hydrogen atoms and one oxygen atom.",
+  "form": "molecule",
+  "nat": "Scientists can now see individual molecules with powerful microscopes.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "a water molecule",
+   "complex molecule",
+   "molecule of",
+   "protein molecule"
+  ],
+  "mis": {
+   "bad": "A molecule of water have three atoms.",
+   "good": "A molecule of water has three atoms.",
+   "why": "The subject molecule is singular, so use 'has'."
+  },
+  "fam": [
+   "molecular (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "atom",
+  "w": "atom",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "átomo",
+  "def": "The smallest part of a chemical element.",
+  "ipa": "/ˈætəm/",
+  "ex": "An atom is so small that you cannot see it with the naked eye.",
+  "form": "atom",
+  "nat": "Everything around us is made of atoms.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "hydrogen atom",
+   "split the atom",
+   "atom bomb",
+   "atoms and molecules"
+  ],
+  "mis": {
+   "bad": "The atoms is very small.",
+   "good": "Atoms are very small.",
+   "why": "The plural noun atoms takes the plural verb are."
+  },
+  "fam": [
+   "atomic (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "gravity",
+  "w": "gravity",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "gravidade",
+  "def": "The force that pulls objects toward the earth.",
+  "ipa": "/ˈɡrævəti/",
+  "ex": "Without gravity, we would all float away from the ground and into space.",
+  "form": "gravity",
+  "nat": "The moon has less gravity than the Earth.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "the force of gravity",
+   "defy gravity",
+   "zero gravity",
+   "law of gravity"
+  ],
+  "mis": {
+   "bad": "The gravity of Moon is weaker.",
+   "good": "The gravity of the Moon is weaker.",
+   "why": "Names like the Moon, the Earth and the Sun usually take 'the'."
+  },
+  "fam": [
+   "gravitational (adj)",
+   "gravitate (verb)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "chemical",
+  "w": "chemical",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "produto químico",
+  "def": "A substance that is made by or used in chemistry.",
+  "ipa": "/ˈkemɪkəl/",
+  "ex": "Some cleaning products contain dangerous chemicals, so you should always read the labels carefully.",
+  "form": "chemicals",
+  "nat": "The factory was fined for releasing toxic chemicals into the river.",
+  "syn": [
+   "substance"
+  ],
+  "ant": [],
+  "col": [
+   "toxic chemical",
+   "harmful chemicals",
+   "chemical reaction",
+   "chemical weapon"
+  ],
+  "mis": {
+   "bad": "I am allergic to chemic products.",
+   "good": "I am allergic to chemical products.",
+   "why": "The word is chemical; 'chemic' does not exist."
+  },
+  "fam": [
+   "chemistry (noun)",
+   "chemist (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "reaction",
+  "w": "reaction",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "reação",
+  "def": "What happens when substances combine, or how someone responds to something.",
+  "ipa": "/riˈækʃən/",
+  "ex": "My first reaction to the news was surprise, and then I felt very happy.",
+  "form": "reaction",
+  "nat": "Mixing these two liquids causes a strong chemical reaction.",
+  "syn": [
+   "response"
+  ],
+  "ant": [
+   "action"
+  ],
+  "col": [
+   "a chemical reaction",
+   "allergic reaction",
+   "strong reaction",
+   "react to"
+  ],
+  "mis": {
+   "bad": "I had a reaction of the medicine.",
+   "good": "I had a reaction to the medicine.",
+   "why": "Reaction is followed by 'to', not 'of'."
+  },
+  "fam": [
+   "react (verb)",
+   "reactive (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "evolution",
+  "w": "evolution",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "evolução",
+  "def": "The slow change of living things over many generations.",
+  "ipa": "/ˌevəˈluːʃən/",
+  "ex": "Darwin's work explained the evolution of species over millions of years.",
+  "form": "evolution",
+  "nat": "The evolution of mobile phones has been amazing.",
+  "syn": [
+   "development",
+   "progress"
+  ],
+  "ant": [],
+  "col": [
+   "theory of evolution",
+   "rapid evolution",
+   "human evolution",
+   "evolution of"
+  ],
+  "mis": {
+   "bad": "I study the Evolution of animals in the school.",
+   "good": "I study the evolution of animals at school.",
+   "why": "Evolution is not capitalized in the middle of a sentence."
+  },
+  "fam": [
+   "evolve (verb)",
+   "evolutionary (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "fossil",
+  "w": "fossil",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "fóssil",
+  "def": "The remains of an ancient plant or animal that have turned into rock.",
+  "ipa": "/ˈfɑːsəl/",
+  "ex": "Scientists found a fossil of a giant bird in the desert.",
+  "form": "fossil",
+  "nat": "Fossils help us understand life on Earth millions of years ago.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "fossil fuel",
+   "a dinosaur fossil",
+   "fossil record",
+   "discover a fossil"
+  ],
+  "mis": {
+   "bad": "I saw a fossile in the museum.",
+   "good": "I saw a fossil in the museum.",
+   "why": "The English spelling is fossil, with no final -e."
+  },
+  "fam": [
+   "fossilize (verb)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "organism",
+  "w": "organism",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "organismo",
+  "def": "A living thing, especially a very small one.",
+  "ipa": "/ˈɔːrɡənɪzəm/",
+  "ex": "Bacteria are tiny organisms that can live almost anywhere on Earth, even in boiling water.",
+  "form": "organisms",
+  "nat": "This organism lives in the deep ocean.",
+  "syn": [
+   "creature"
+  ],
+  "ant": [],
+  "col": [
+   "living organism",
+   "single-celled organism",
+   "microscopic organisms",
+   "genetically modified organism"
+  ],
+  "mis": {
+   "bad": "The organisms live in water since millions of years.",
+   "good": "The organisms have lived in water for millions of years.",
+   "why": "Use the present perfect with for and a period of time."
+  },
+  "fam": [
+   "organic (adj)",
+   "organ (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "bacteria",
+  "w": "bacteria",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "bactérias",
+  "def": "Very small living things that can cause disease or be useful.",
+  "ipa": "/bækˈtɪriə/",
+  "ex": "Some bacteria are harmful, but others help us digest food.",
+  "form": "bacteria",
+  "nat": "Heat kills most bacteria in food.",
+  "syn": [
+   "germs"
+  ],
+  "ant": [],
+  "col": [
+   "harmful bacteria",
+   "kill bacteria",
+   "bacteria grow",
+   "bacteria in"
+  ],
+  "mis": {
+   "bad": "A bacteria can cause an infection.",
+   "good": "A bacterium can cause an infection.",
+   "why": "Bacteria is the plural; the singular is bacterium."
+  },
+  "fam": [
+   "bacterium (singular)",
+   "bacterial (adj)"
+  ],
+  "topics": [
+   "science",
+   "health"
+  ]
+ },
+ {
+  "id": "virus",
+  "w": "virus",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "vírus",
+  "def": "A tiny living thing that causes diseases and spreads from one person to another.",
+  "ipa": "/ˈvaɪrəs/",
+  "ex": "The virus spread quickly through the small town, and the schools had to close.",
+  "form": "virus",
+  "nat": "Washing your hands can protect you from the virus.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "catch a virus",
+   "computer virus",
+   "spread of the virus",
+   "flu virus"
+  ],
+  "mis": {
+   "bad": "I have caught a virus of the flu.",
+   "good": "I have caught the flu virus.",
+   "why": "Say flu virus, putting the noun flu before virus."
+  },
+  "fam": [
+   "viral (adj)",
+   "antivirus (noun)"
+  ],
+  "topics": [
+   "science",
+   "health",
+   "tech"
+  ]
+ },
+ {
+  "id": "gene",
+  "w": "gene",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "gene",
+  "def": "A part of a cell that controls a physical characteristic passed from parents to children.",
+  "ipa": "/dʒiːn/",
+  "ex": "Scientists found a gene that makes some people more likely to get this disease.",
+  "form": "gene",
+  "nat": "She has inherited the gene for red hair from her grandmother.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "inherit a gene",
+   "a defective gene",
+   "gene therapy",
+   "gene mutation"
+  ],
+  "mis": {
+   "bad": "I have the gens of my father.",
+   "good": "I have my father's genes.",
+   "why": "The English word is gene, and its plural is genes."
+  },
+  "fam": [
+   "genetic (adj)",
+   "genetics (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "telescope",
+  "w": "telescope",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "telescópio",
+  "def": "A tool shaped like a tube that makes distant objects look closer.",
+  "ipa": "/ˈteləskoʊp/",
+  "ex": "He looked at the moon through his new telescope and could see the craters clearly.",
+  "form": "telescope",
+  "nat": "The space telescope sent back amazing pictures of distant galaxies.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "through a telescope",
+   "space telescope",
+   "powerful telescope",
+   "point a telescope"
+  ],
+  "mis": {
+   "bad": "I saw the stars with a telescopy.",
+   "good": "I saw the stars with a telescope.",
+   "why": "The noun is telescope; 'telescopy' is a rare technical word."
+  },
+  "fam": [
+   "telescopic (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "galaxy",
+  "w": "galaxy",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "galáxia",
+  "def": "A very large group of stars and planets.",
+  "ipa": "/ˈɡæləksi/",
+  "ex": "Our solar system is part of a galaxy called the Milky Way.",
+  "form": "galaxy",
+  "nat": "Astronomers have discovered thousands of new galaxies this year.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "distant galaxy",
+   "spiral galaxy",
+   "galaxy of stars",
+   "the Milky Way galaxy"
+  ],
+  "mis": {
+   "bad": "The galaxy are very far from us.",
+   "good": "The galaxies are very far from us.",
+   "why": "The singular galaxy needs 'is'; with are you must use the plural galaxies."
+  },
+  "fam": [
+   "galactic (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "orbit",
+  "w": "orbit",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "orbitar",
+  "def": "To move around a larger object such as a planet or the sun.",
+  "ipa": "/ˈɔːrbɪt/",
+  "ex": "The Earth orbits the sun once every year, which is why we have seasons.",
+  "form": "orbits",
+  "nat": "The space station orbits our planet every ninety minutes.",
+  "syn": [
+   "circle"
+  ],
+  "ant": [],
+  "col": [
+   "orbit the Earth",
+   "in orbit",
+   "orbit around",
+   "enter orbit"
+  ],
+  "mis": {
+   "bad": "The Earth orbits around of the sun.",
+   "good": "The Earth orbits the sun.",
+   "why": "Orbit takes a direct object, and 'around of' is not correct English."
+  },
+  "fam": [
+   "orbit (noun)",
+   "orbital (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "planet",
+  "w": "planet",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "planeta",
+  "def": "A large round object in space that moves around a star.",
+  "ipa": "/ˈplænɪt/",
+  "ex": "Mars is often called the red planet because of its color.",
+  "form": "planet",
+  "nat": "We must protect our planet for future generations.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "the red planet",
+   "planet Earth",
+   "distant planet",
+   "save the planet"
+  ],
+  "mis": {
+   "bad": "Mars is a planet more small than the Earth.",
+   "good": "Mars is a smaller planet than the Earth.",
+   "why": "Short adjectives take -er, and the comparative adjective goes before the noun."
+  },
+  "fam": [
+   "planetary (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "microscope",
+  "w": "microscope",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "microscópio",
+  "def": "A piece of equipment that makes very small things look bigger.",
+  "ipa": "/ˈmaɪkrəskoʊp/",
+  "ex": "Under the microscope, the cells looked like tiny green dots.",
+  "form": "microscope",
+  "nat": "The students used a microscope to look at a drop of water.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "under a microscope",
+   "electron microscope",
+   "look through a microscope",
+   "microscopic"
+  ],
+  "mis": {
+   "bad": "I looked at it on the microscope.",
+   "good": "I looked at it under the microscope.",
+   "why": "We look at things 'under' a microscope, not 'on' it."
+  },
+  "fam": [
+   "microscopic (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "observe",
+  "w": "observe",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "observar",
+  "def": "To watch something carefully in order to learn about it.",
+  "ipa": "/əbˈzɜːrv/",
+  "ex": "The scientists observed the animals for six months before writing their report.",
+  "form": "observed",
+  "nat": "Children often learn by observing adults.",
+  "syn": [
+   "watch",
+   "notice"
+  ],
+  "ant": [
+   "ignore"
+  ],
+  "col": [
+   "observe closely",
+   "observe a rule",
+   "observe behavior",
+   "carefully observed"
+  ],
+  "mis": {
+   "bad": "He observed me that the door was open.",
+   "good": "He pointed out to me that the door was open.",
+   "why": "Observe means watch or notice; it does not take a person as an indirect object like 'tell'."
+  },
+  "fam": [
+   "observation (noun)",
+   "observer (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "calculate",
+  "w": "calculate",
+  "pos": "verb",
+  "lvl": "B1",
+  "pt": "calcular",
+  "def": "To find a number or an amount by using mathematics.",
+  "ipa": "/ˈkælkjuleɪt/",
+  "ex": "Can you calculate how much we will spend on the trip?",
+  "form": "calculate",
+  "nat": "The program can calculate your taxes in a few seconds.",
+  "syn": [
+   "work out",
+   "compute"
+  ],
+  "ant": [],
+  "col": [
+   "calculate the cost",
+   "calculate the risk",
+   "carefully calculated",
+   "calculate the average"
+  ],
+  "mis": {
+   "bad": "I calculated wrong the bill.",
+   "good": "I calculated the bill wrong.",
+   "why": "The object of the verb comes right after it, before an adverb like wrong."
+  },
+  "fam": [
+   "calculation (noun)",
+   "calculator (noun)"
+  ],
+  "topics": [
+   "science",
+   "finance"
+  ]
+ },
+ {
+  "id": "analyze",
+  "w": "analyze",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "analisar",
+  "def": "To examine something carefully in order to understand it.",
+  "ipa": "/ˈænəlaɪz/",
+  "ex": "The team analyzed the data before they made a final decision.",
+  "form": "analyzed",
+  "nat": "We need to analyze why sales fell last month.",
+  "syn": [
+   "examine",
+   "study"
+  ],
+  "ant": [],
+  "col": [
+   "analyze data",
+   "carefully analyze",
+   "analyze the results",
+   "analyze a problem"
+  ],
+  "mis": {
+   "bad": "We need to analyse about the problem.",
+   "good": "We need to analyze the problem.",
+   "why": "Analyze is transitive, so do not use 'about' after it."
+  },
+  "fam": [
+   "analysis (noun)",
+   "analyst (noun)",
+   "analytical (adj)"
+  ],
+  "topics": [
+   "science",
+   "business"
+  ]
+ },
+ {
+  "id": "variable",
+  "w": "variable",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "variável",
+  "def": "A factor that can change in an experiment or a calculation.",
+  "ipa": "/ˈveriəbəl/",
+  "ex": "In the experiment, temperature was the only variable that we changed.",
+  "form": "variable",
+  "nat": "There are too many variables to predict the result.",
+  "syn": [
+   "factor"
+  ],
+  "ant": [
+   "constant"
+  ],
+  "col": [
+   "key variable",
+   "control a variable",
+   "unknown variable",
+   "variable cost"
+  ],
+  "mis": {
+   "bad": "The weather is one variable that we cannot control it.",
+   "good": "The weather is one variable that we cannot control.",
+   "why": "Do not repeat the object with 'it' inside the relative clause."
+  },
+  "fam": [
+   "vary (verb)",
+   "variation (noun)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "sample",
+  "w": "sample",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "amostra",
+  "def": "A small amount of something used to test or show what the whole is like.",
+  "ipa": "/ˈsæmpəl/",
+  "ex": "The nurse took a blood sample to check for infections.",
+  "form": "sample",
+  "nat": "A larger sample would give us more reliable results.",
+  "syn": [
+   "specimen"
+  ],
+  "ant": [],
+  "col": [
+   "a blood sample",
+   "take a sample",
+   "sample size",
+   "random sample"
+  ],
+  "mis": {
+   "bad": "The nurse took a sample of my blood sample.",
+   "good": "The nurse took a sample of my blood.",
+   "why": "Do not repeat sample; say a blood sample or a sample of blood."
+  },
+  "fam": [
+   "sample (verb)"
+  ],
+  "topics": [
+   "science",
+   "health"
+  ]
+ },
+ {
+  "id": "accurate",
+  "w": "accurate",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "preciso, exato",
+  "def": "Correct and without mistakes.",
+  "ipa": "/ˈækjərət/",
+  "ex": "The weather forecast was accurate, so we took our umbrellas.",
+  "form": "accurate",
+  "nat": "Please make sure that the numbers in the report are accurate.",
+  "syn": [
+   "correct",
+   "exact"
+  ],
+  "ant": [
+   "inaccurate",
+   "wrong"
+  ],
+  "col": [
+   "highly accurate",
+   "accurate information",
+   "an accurate description",
+   "accurate to"
+  ],
+  "mis": {
+   "bad": "The clock is accurated.",
+   "good": "The clock is accurate.",
+   "why": "Accurate is already an adjective; it has no -ed form."
+  },
+  "fam": [
+   "accurately (adv)",
+   "accuracy (noun)"
+  ],
+  "topics": [
+   "science",
+   "work"
+  ]
+ },
+ {
+  "id": "precise",
+  "w": "precise",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "preciso, exato",
+  "def": "Exact and clear in every detail.",
+  "ipa": "/prɪˈsaɪs/",
+  "ex": "The instructions were so precise that anyone could follow them.",
+  "form": "precise",
+  "nat": "Can you be more precise about the time of the meeting?",
+  "syn": [
+   "exact",
+   "specific"
+  ],
+  "ant": [
+   "vague"
+  ],
+  "col": [
+   "precise instructions",
+   "precise measurement",
+   "more precise",
+   "to be precise"
+  ],
+  "mis": {
+   "bad": "I need a precise of the time.",
+   "good": "I need the precise time.",
+   "why": "Precise is an adjective, so use it before a noun, not as a noun."
+  },
+  "fam": [
+   "precisely (adv)",
+   "precision (noun)"
+  ],
+  "topics": [
+   "science",
+   "work"
+  ]
+ },
+ {
+  "id": "invention",
+  "w": "invention",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "invenção",
+  "def": "A new thing that someone has made for the first time.",
+  "ipa": "/ɪnˈvenʃən/",
+  "ex": "The invention of the printing press changed the world and made books much cheaper.",
+  "form": "invention",
+  "nat": "The telephone was one of the greatest inventions of the nineteenth century.",
+  "syn": [
+   "creation"
+  ],
+  "ant": [],
+  "col": [
+   "a great invention",
+   "the invention of",
+   "patent an invention",
+   "necessity is the mother of invention"
+  ],
+  "mis": {
+   "bad": "The inventation of the wheel changed human history.",
+   "good": "The invention of the wheel changed human history.",
+   "why": "The noun is invention; there is no word 'inventation'."
+  },
+  "fam": [
+   "invent (verb)",
+   "inventor (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "invent",
+  "w": "invent",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "inventar",
+  "def": "To create something that did not exist before.",
+  "ipa": "/ɪnˈvent/",
+  "ex": "Who invented the first telephone, and how did people react to it at the time?",
+  "form": "invented",
+  "nat": "He invented a simple tool to open bottles.",
+  "syn": [
+   "create",
+   "devise"
+  ],
+  "ant": [],
+  "col": [
+   "invent a machine",
+   "invent an excuse",
+   "invent a story",
+   "newly invented"
+  ],
+  "mis": {
+   "bad": "He discovered the telephone in 1876.",
+   "good": "He invented the telephone in 1876.",
+   "why": "You invent something new, but you discover something that already existed."
+  },
+  "fam": [
+   "invention (noun)",
+   "inventor (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "measure",
+  "w": "measure",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "medir",
+  "def": "To find the size, amount or degree of something.",
+  "ipa": "/ˈmeʒər/",
+  "ex": "We measured the room carefully before buying the new sofa for the living room.",
+  "form": "measured",
+  "nat": "This tool measures the temperature of the air.",
+  "syn": [
+   "gauge",
+   "assess"
+  ],
+  "ant": [],
+  "col": [
+   "measure the length",
+   "accurately measured",
+   "measure progress",
+   "measure up"
+  ],
+  "mis": {
+   "bad": "I measure 1.80 meters of height.",
+   "good": "I am 1.80 meters tall.",
+   "why": "To give a person's height, use be + tall; measure is not used like this."
+  },
+  "fam": [
+   "measurement (noun)",
+   "measure (noun)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "evaporate",
+  "w": "evaporate",
+  "pos": "verb",
+  "lvl": "B2+",
+  "pt": "evaporar",
+  "def": "To change from a liquid into a gas.",
+  "ipa": "/ɪˈvæpəreɪt/",
+  "ex": "The water slowly evaporated from the pan in the sun.",
+  "form": "evaporated",
+  "nat": "Leave the plate in the sun and the water will evaporate.",
+  "syn": [
+   "dry up"
+  ],
+  "ant": [
+   "condense"
+  ],
+  "col": [
+   "evaporate quickly",
+   "water evaporates",
+   "evaporate into the air",
+   "evaporated milk"
+  ],
+  "mis": {
+   "bad": "The water evaporated for the air.",
+   "good": "The water evaporated into the air.",
+   "why": "The right preposition after evaporate is 'into'."
+  },
+  "fam": [
+   "evaporation (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "oxygen",
+  "w": "oxygen",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "oxigênio",
+  "def": "A gas in the air that people and animals need to breathe.",
+  "ipa": "/ˈɑːksɪdʒən/",
+  "ex": "Plants produce oxygen during the day, and we need it to breathe and stay alive.",
+  "form": "oxygen",
+  "nat": "Climbers carry extra oxygen when they climb very high mountains.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "oxygen level",
+   "oxygen mask",
+   "lack of oxygen",
+   "breathe oxygen"
+  ],
+  "mis": {
+   "bad": "The oxigen is necessary for life.",
+   "good": "Oxygen is necessary for life.",
+   "why": "The spelling is oxygen, with a 'y', and no article is needed in this general statement."
+  },
+  "fam": [
+   "oxidize (verb)"
+  ],
+  "topics": [
+   "science",
+   "health"
+  ]
+ },
+ {
+  "id": "radiation",
+  "w": "radiation",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "radiação",
+  "def": "Energy sent out in the form of waves or small particles.",
+  "ipa": "/ˌreɪdiˈeɪʃən/",
+  "ex": "The doctor explained that X-rays use a very small amount of radiation.",
+  "form": "radiation",
+  "nat": "Sunscreen protects your skin from harmful radiation.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "solar radiation",
+   "radiation therapy",
+   "radiation level",
+   "exposure to radiation"
+  ],
+  "mis": {
+   "bad": "I was exposed to the radiations.",
+   "good": "I was exposed to radiation.",
+   "why": "In this meaning radiation is uncountable and has no plural."
+  },
+  "fam": [
+   "radiate (verb)",
+   "radioactive (adj)"
+  ],
+  "topics": [
+   "science",
+   "health"
+  ]
+ },
+ {
+  "id": "equation",
+  "w": "equation",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "equação",
+  "def": "A mathematical statement that two things are equal.",
+  "ipa": "/ɪˈkweɪʒən/",
+  "ex": "She solved the equation in less than a minute, and the whole class was impressed.",
+  "form": "equation",
+  "nat": "Money is only one part of the equation when you choose a job.",
+  "syn": [
+   "formula"
+  ],
+  "ant": [],
+  "col": [
+   "solve an equation",
+   "a simple equation",
+   "part of the equation",
+   "chemical equation"
+  ],
+  "mis": {
+   "bad": "I didn't understand the equacion.",
+   "good": "I didn't understand the equation.",
+   "why": "The English word ends in -tion, not -cion."
+  },
+  "fam": [
+   "equate (verb)",
+   "equal (adj)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "formula",
+  "w": "formula",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "fórmula",
+  "def": "A set of letters or numbers that shows a rule in mathematics or science.",
+  "ipa": "/ˈfɔːrmjələ/",
+  "ex": "The chemical formula for water is H2O, and every student learns it at school.",
+  "form": "formula",
+  "nat": "There is no simple formula for success.",
+  "syn": [
+   "recipe",
+   "method"
+  ],
+  "ant": [],
+  "col": [
+   "chemical formula",
+   "magic formula",
+   "baby formula",
+   "a winning formula"
+  ],
+  "mis": {
+   "bad": "The formula of the water is H2O.",
+   "good": "The formula for water is H2O.",
+   "why": "Use 'formula for' with a substance, and no article before water in general."
+  },
+  "fam": [
+   "formulate (verb)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "scientist",
+  "w": "scientist",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "cientista",
+  "def": "A person who studies science and does scientific research.",
+  "ipa": "/ˈsaɪəntɪst/",
+  "ex": "The scientist explained her discovery in simple language so that everyone could understand it.",
+  "form": "scientist",
+  "nat": "My cousin wants to become a scientist when she grows up.",
+  "syn": [
+   "researcher"
+  ],
+  "ant": [],
+  "col": [
+   "a leading scientist",
+   "social scientist",
+   "research scientist",
+   "computer scientist"
+  ],
+  "mis": {
+   "bad": "My sister is scientific and works in a lab.",
+   "good": "My sister is a scientist and works in a lab.",
+   "why": "Scientific is an adjective; the person is a scientist."
+  },
+  "fam": [
+   "science (noun)",
+   "scientific (adj)"
+  ],
+  "topics": [
+   "science",
+   "work"
+  ]
+ },
+ {
+  "id": "magnet",
+  "w": "magnet",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "ímã",
+  "def": "An object that attracts iron and some other metals.",
+  "ipa": "/ˈmæɡnɪt/",
+  "ex": "The child picked up the nails with a small magnet.",
+  "form": "magnet",
+  "nat": "Cities with good jobs act as a magnet for young people.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "a strong magnet",
+   "fridge magnet",
+   "act as a magnet",
+   "magnet for"
+  ],
+  "mis": {
+   "bad": "I put an iman on the fridge.",
+   "good": "I put a magnet on the fridge.",
+   "why": "The English word is magnet, not 'iman'."
+  },
+  "fam": [
+   "magnetic (adj)",
+   "magnetism (noun)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "lecture",
+  "w": "lecture",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "palestra, aula expositiva",
+  "def": "A talk given to a group of students or an audience about a subject.",
+  "ipa": "/ˈlektʃər/",
+  "ex": "The professor gave an interesting lecture about modern architecture, and many students took notes.",
+  "form": "lecture",
+  "nat": "I missed the lecture because my bus was late.",
+  "syn": [
+   "talk",
+   "presentation"
+  ],
+  "ant": [],
+  "col": [
+   "attend a lecture",
+   "give a lecture",
+   "guest lecture",
+   "lecture hall"
+  ],
+  "mis": {
+   "bad": "I assisted the lecture yesterday.",
+   "good": "I attended the lecture yesterday.",
+   "why": "'Assist' means to help; to be present at an event, use attend."
+  },
+  "fam": [
+   "lecture (verb)",
+   "lecturer (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "lecturer",
+  "w": "lecturer",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "professor universitário, palestrante",
+  "def": "A teacher at a university or college.",
+  "ipa": "/ˈlektʃərər/",
+  "ex": "Our lecturer gave us extra time to finish the project.",
+  "form": "lecturer",
+  "nat": "She is a lecturer in economics at a large university.",
+  "syn": [
+   "teacher",
+   "instructor"
+  ],
+  "ant": [],
+  "col": [
+   "guest lecturer",
+   "senior lecturer",
+   "university lecturer",
+   "lecturer in"
+  ],
+  "mis": {
+   "bad": "My lecturer of history is very strict.",
+   "good": "My history lecturer is very strict.",
+   "why": "Put the subject before the noun: history lecturer, not 'lecturer of history'."
+  },
+  "fam": [
+   "lecture (noun)",
+   "lecture (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "seminar",
+  "w": "seminar",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "seminário",
+  "def": "A small class where students discuss a subject with a teacher.",
+  "ipa": "/ˈsemɪnɑːr/",
+  "ex": "We had a seminar on climate change at the end of the semester.",
+  "form": "seminar",
+  "nat": "The company organizes a seminar on safety every year.",
+  "syn": [
+   "workshop"
+  ],
+  "ant": [],
+  "col": [
+   "attend a seminar",
+   "hold a seminar",
+   "a weekly seminar",
+   "seminar room"
+  ],
+  "mis": {
+   "bad": "I presented a seminary at the university.",
+   "good": "I presented a seminar at the university.",
+   "why": "A seminary is a school for training priests; the word for a class is seminar."
+  },
+  "fam": [
+   "seminary (different meaning)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "semester",
+  "w": "semester",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "semestre",
+  "def": "One of two periods into which a school or university year is divided.",
+  "ipa": "/səˈmestər/",
+  "ex": "I will study abroad during the next semester, so I am saving some money.",
+  "form": "semester",
+  "nat": "He failed two classes in his first semester.",
+  "syn": [
+   "term"
+  ],
+  "ant": [],
+  "col": [
+   "first semester",
+   "spring semester",
+   "this semester",
+   "end of the semester"
+  ],
+  "mis": {
+   "bad": "I will graduate in the second semester of the next year.",
+   "good": "I will graduate in the second semester of next year.",
+   "why": "Do not use 'the' before 'next year'."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "graduate",
+  "w": "graduate",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "formar-se",
+  "def": "To finish your studies at a school or university and receive a degree.",
+  "ipa": "/ˈɡrædʒueɪt/",
+  "ex": "She graduated from the university with a degree in biology.",
+  "form": "graduated",
+  "nat": "He will graduate next year and start looking for a job.",
+  "syn": [
+   "finish"
+  ],
+  "ant": [
+   "drop out"
+  ],
+  "col": [
+   "graduate from",
+   "graduate with honors",
+   "graduate in",
+   "recently graduated"
+  ],
+  "mis": {
+   "bad": "I graduated in the University of Texas.",
+   "good": "I graduated from the University of Texas.",
+   "why": "The preposition after graduate is 'from', not 'in'."
+  },
+  "fam": [
+   "graduate (noun)",
+   "graduation (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "diploma",
+  "w": "diploma",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "diploma",
+  "def": "An official paper that shows you have finished a course of study.",
+  "ipa": "/dɪˈploʊmə/",
+  "ex": "He proudly showed his diploma to his parents on the day of the ceremony.",
+  "form": "diploma",
+  "nat": "You need a high school diploma to apply for this job.",
+  "syn": [
+   "certificate"
+  ],
+  "ant": [],
+  "col": [
+   "earn a diploma",
+   "high school diploma",
+   "receive a diploma",
+   "diploma in"
+  ],
+  "mis": {
+   "bad": "I have a diploma of engineer.",
+   "good": "I have a diploma in engineering.",
+   "why": "Use 'diploma in' + the subject, not 'of' + a person."
+  },
+  "fam": [
+   "diplomatic (adj)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "dissertation",
+  "w": "dissertation",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "dissertação",
+  "def": "A long piece of writing on a subject, done for a university degree.",
+  "ipa": "/ˌdɪsərˈteɪʃən/",
+  "ex": "She spent a year writing her dissertation on renewable energy.",
+  "form": "dissertation",
+  "nat": "He has to hand in his dissertation by the end of May.",
+  "syn": [
+   "thesis"
+  ],
+  "ant": [],
+  "col": [
+   "write a dissertation",
+   "defend a dissertation",
+   "dissertation topic",
+   "master's dissertation"
+  ],
+  "mis": {
+   "bad": "I presented my dissertation with the committee.",
+   "good": "I presented my dissertation to the committee.",
+   "why": "You present something to a person or group, not 'with' them."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "thesis",
+  "w": "thesis",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "tese",
+  "def": "A long piece of research written for a university degree, or the main idea of an argument.",
+  "ipa": "/ˈθiːsɪs/",
+  "ex": "His thesis argues that cities should invest more in public transport.",
+  "form": "thesis",
+  "nat": "She is writing a thesis about animal behavior.",
+  "syn": [
+   "dissertation"
+  ],
+  "ant": [],
+  "col": [
+   "doctoral thesis",
+   "write a thesis",
+   "thesis statement",
+   "defend a thesis"
+  ],
+  "mis": {
+   "bad": "The thesis of my sister is about birds.",
+   "good": "My sister's thesis is about birds.",
+   "why": "With people, English prefers the possessive form: my sister's thesis."
+  },
+  "fam": [
+   "theses (plural)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "plagiarism",
+  "w": "plagiarism",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "plágio",
+  "def": "Copying someone else's work and saying that it is your own.",
+  "ipa": "/ˈpleɪdʒərɪzəm/",
+  "ex": "The student failed the whole course because of plagiarism in her final essay.",
+  "form": "plagiarism",
+  "nat": "Universities use software to detect plagiarism in essays.",
+  "syn": [
+   "copying"
+  ],
+  "ant": [
+   "originality"
+  ],
+  "col": [
+   "commit plagiarism",
+   "accuse of plagiarism",
+   "detect plagiarism",
+   "plagiarism checker"
+  ],
+  "mis": {
+   "bad": "He was accused of plagiarize.",
+   "good": "He was accused of plagiarism.",
+   "why": "After the preposition 'of', use the noun plagiarism, not the verb."
+  },
+  "fam": [
+   "plagiarize (verb)",
+   "plagiarist (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "syllabus",
+  "w": "syllabus",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "programa da disciplina",
+  "def": "A list of the subjects that will be studied in a course.",
+  "ipa": "/ˈsɪləbəs/",
+  "ex": "The syllabus includes ten books and three written exams, so we have a lot of work.",
+  "form": "syllabus",
+  "nat": "Please read the syllabus before the first class.",
+  "syn": [
+   "course outline"
+  ],
+  "ant": [],
+  "col": [
+   "follow the syllabus",
+   "course syllabus",
+   "on the syllabus",
+   "school syllabus"
+  ],
+  "mis": {
+   "bad": "The syllabus of the exam was very long.",
+   "good": "The syllabus for the course was very long.",
+   "why": "A syllabus belongs to a course, not to an exam."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "tutor",
+  "w": "tutor",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "professor particular, tutor",
+  "def": "A teacher who gives extra lessons to one student or a small group.",
+  "ipa": "/ˈtuːtər/",
+  "ex": "I hired a tutor to help me prepare for the math exam.",
+  "form": "tutor",
+  "nat": "My tutor explained the problem in a much simpler way.",
+  "syn": [
+   "teacher"
+  ],
+  "ant": [],
+  "col": [
+   "private tutor",
+   "hire a tutor",
+   "personal tutor",
+   "math tutor"
+  ],
+  "mis": {
+   "bad": "I need a particular teacher for English.",
+   "good": "I need a private tutor for English.",
+   "why": "'Particular' does not mean private; say private tutor or private teacher."
+  },
+  "fam": [
+   "tutor (verb)",
+   "tutorial (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "literacy",
+  "w": "literacy",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "alfabetização",
+  "def": "The ability to read and write.",
+  "ipa": "/ˈlɪtərəsi/",
+  "ex": "The government started a program to improve literacy in rural areas.",
+  "form": "literacy",
+  "nat": "Digital literacy is now an important skill for most jobs.",
+  "syn": [],
+  "ant": [
+   "illiteracy"
+  ],
+  "col": [
+   "literacy rate",
+   "digital literacy",
+   "improve literacy",
+   "adult literacy"
+  ],
+  "mis": {
+   "bad": "The literacy is low in my city.",
+   "good": "Literacy is low in my city.",
+   "why": "Use no article before general uncountable nouns like literacy."
+  },
+  "fam": [
+   "literate (adj)",
+   "illiterate (adj)"
+  ],
+  "topics": [
+   "culture",
+   "abstract"
+  ]
+ },
+ {
+  "id": "grade",
+  "w": "grade",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "nota, série",
+  "def": "A mark that shows how well a student has done.",
+  "ipa": "/ɡreɪd/",
+  "ex": "I got a very good grade on my history test, and my parents were proud.",
+  "form": "grade",
+  "nat": "Her grades improved a lot after she started studying every day.",
+  "syn": [
+   "mark",
+   "score"
+  ],
+  "ant": [],
+  "col": [
+   "get a good grade",
+   "final grade",
+   "pass a grade",
+   "grade point average"
+  ],
+  "mis": {
+   "bad": "I took a good note in the exam.",
+   "good": "I got a good grade on the exam.",
+   "why": "In English, school marks are called grades; 'note' is a false friend of 'nota'."
+  },
+  "fam": [
+   "grade (verb)",
+   "graded (adj)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "essay",
+  "w": "essay",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "redação, ensaio",
+  "def": "A short piece of writing on a particular subject.",
+  "ipa": "/ˈeseɪ/",
+  "ex": "We have to write a five-hundred-word essay about the environment by next Friday.",
+  "form": "essay",
+  "nat": "The teacher said my essay was clear and well organized.",
+  "syn": [
+   "composition"
+  ],
+  "ant": [],
+  "col": [
+   "write an essay",
+   "essay question",
+   "hand in an essay",
+   "a short essay"
+  ],
+  "mis": {
+   "bad": "I did a redaction for my English class.",
+   "good": "I wrote an essay for my English class.",
+   "why": "'Redaction' means editing; a school writing task is an essay."
+  },
+  "fam": [
+   "essayist (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "exam",
+  "w": "exam",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "prova, exame",
+  "def": "A formal test of what you have learned.",
+  "ipa": "/ɪɡˈzæm/",
+  "ex": "The final exam covers everything we studied this year, so I need to start revising.",
+  "form": "exam",
+  "nat": "I stayed up all night studying for my chemistry exam.",
+  "syn": [
+   "test"
+  ],
+  "ant": [],
+  "col": [
+   "take an exam",
+   "pass an exam",
+   "fail an exam",
+   "study for an exam"
+  ],
+  "mis": {
+   "bad": "I did an exam yesterday and I passed.",
+   "good": "I took an exam yesterday and I passed.",
+   "why": "We take or sit an exam; 'make' or 'do' an exam sounds like you wrote it."
+  },
+  "fam": [
+   "examine (verb)",
+   "examination (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "revise",
+  "w": "revise",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "revisar, estudar de novo",
+  "def": "To study again what you have already learned before an exam.",
+  "ipa": "/rɪˈvaɪz/",
+  "ex": "She revised all her notes before the exam and felt much more confident afterwards.",
+  "form": "revised",
+  "nat": "I need to revise the whole chapter tonight.",
+  "syn": [
+   "review",
+   "study"
+  ],
+  "ant": [],
+  "col": [
+   "revise for an exam",
+   "revise your notes",
+   "revise a text",
+   "revised edition"
+  ],
+  "mis": {
+   "bad": "I need to revise for the test the whole day.",
+   "good": "I need to revise for the test all day.",
+   "why": "Use 'all day', not 'the whole day', after a time expression of that type."
+  },
+  "fam": [
+   "revision (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "memorize",
+  "w": "memorize",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "memorizar, decorar",
+  "def": "To learn something so well that you can remember it exactly.",
+  "ipa": "/ˈmeməraɪz/",
+  "ex": "I memorized twenty new words before the test, but I forgot half of them later.",
+  "form": "memorized",
+  "nat": "Actors have to memorize a lot of lines.",
+  "syn": [
+   "learn by heart"
+  ],
+  "ant": [
+   "forget"
+  ],
+  "col": [
+   "memorize a poem",
+   "memorize a number",
+   "try to memorize",
+   "memorize by heart"
+  ],
+  "mis": {
+   "bad": "I memorized by heart the poem.",
+   "good": "I memorized the poem.",
+   "why": "Memorize already means learn by heart, so 'by heart' is redundant."
+  },
+  "fam": [
+   "memory (noun)",
+   "memorable (adj)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "comprehension",
+  "w": "comprehension",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "compreensão",
+  "def": "The ability to understand something.",
+  "ipa": "/ˌkɑːmprɪˈhenʃən/",
+  "ex": "The test has a reading comprehension section with five short texts.",
+  "form": "comprehension",
+  "nat": "His comprehension of the topic was excellent.",
+  "syn": [
+   "understanding"
+  ],
+  "ant": [],
+  "col": [
+   "reading comprehension",
+   "listening comprehension",
+   "beyond comprehension",
+   "comprehension test"
+  ],
+  "mis": {
+   "bad": "I have a good understanding of reading.",
+   "good": "I have good reading comprehension.",
+   "why": "Reading comprehension is the usual phrase for the skill of understanding a text."
+  },
+  "fam": [
+   "comprehend (verb)",
+   "comprehensive (adj)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "vocabulary",
+  "w": "vocabulary",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "vocabulário",
+  "def": "All the words that a person knows or uses in a language.",
+  "ipa": "/voʊˈkæbjəleri/",
+  "ex": "Reading every day is a great way to expand your vocabulary.",
+  "form": "vocabulary",
+  "nat": "My vocabulary in Spanish is still very limited.",
+  "syn": [
+   "words"
+  ],
+  "ant": [],
+  "col": [
+   "expand your vocabulary",
+   "build vocabulary",
+   "rich vocabulary",
+   "active vocabulary"
+  ],
+  "mis": {
+   "bad": "I need to learn more vocabularies.",
+   "good": "I need to learn more vocabulary.",
+   "why": "Vocabulary is uncountable in this sense, so it has no plural."
+  },
+  "fam": [
+   "vocabularies (plural, different lists)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "fluency",
+  "w": "fluency",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "fluência",
+  "def": "The ability to speak or write a language easily and well.",
+  "ipa": "/ˈfluːənsi/",
+  "ex": "Daily practice will help you reach fluency in English faster than you expect.",
+  "form": "fluency",
+  "nat": "Her fluency in three languages impressed the interviewers.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "reach fluency",
+   "fluency in",
+   "achieve fluency",
+   "fluency level"
+  ],
+  "mis": {
+   "bad": "I have fluence in English.",
+   "good": "I have fluency in English.",
+   "why": "The correct spelling is fluency, ending in -cy."
+  },
+  "fam": [
+   "fluent (adj)",
+   "fluently (adv)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "assess",
+  "w": "assess",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "avaliar",
+  "def": "To judge the quality, amount or value of something.",
+  "ipa": "/əˈses/",
+  "ex": "Teachers assess students through tests, class projects and oral presentations throughout the school year.",
+  "form": "assess",
+  "nat": "We need to assess the risks before we start the project.",
+  "syn": [
+   "evaluate",
+   "judge"
+  ],
+  "ant": [],
+  "col": [
+   "assess the situation",
+   "assess the damage",
+   "carefully assess",
+   "assess a student"
+  ],
+  "mis": {
+   "bad": "The teacher assessed me to sit down.",
+   "good": "The teacher told me to sit down.",
+   "why": "Assess means to judge or evaluate; it cannot be followed by an infinitive like 'tell'."
+  },
+  "fam": [
+   "assessment (noun)",
+   "assessor (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "assessment",
+  "w": "assessment",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "avaliação",
+  "def": "A judgment about the quality or value of something.",
+  "ipa": "/əˈsesmənt/",
+  "ex": "The final assessment includes a written test and an oral presentation.",
+  "form": "assessment",
+  "nat": "The company made an honest assessment of its financial situation.",
+  "syn": [
+   "evaluation"
+  ],
+  "ant": [],
+  "col": [
+   "risk assessment",
+   "carry out an assessment",
+   "continuous assessment",
+   "make an assessment"
+  ],
+  "mis": {
+   "bad": "I fear the assessments of the school.",
+   "good": "I am nervous about the school assessments.",
+   "why": "Be nervous about something; this is more natural than 'fear' here."
+  },
+  "fam": [
+   "assess (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "attendance",
+  "w": "attendance",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "presença, frequência",
+  "def": "The fact of being present at a place or an event.",
+  "ipa": "/əˈtendəns/",
+  "ex": "Attendance at the lectures is not compulsory, but most students go to every one.",
+  "form": "Attendance",
+  "nat": "Our teacher checks attendance at the start of every class.",
+  "syn": [
+   "presence"
+  ],
+  "ant": [
+   "absence"
+  ],
+  "col": [
+   "regular attendance",
+   "attendance record",
+   "poor attendance",
+   "attendance at"
+  ],
+  "mis": {
+   "bad": "My attendance in the course is low.",
+   "good": "My attendance at the course is low.",
+   "why": "The usual preposition after attendance is 'at'."
+  },
+  "fam": [
+   "attend (verb)",
+   "attendee (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "campus",
+  "w": "campus",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "campus",
+  "def": "The land and buildings of a university or college.",
+  "ipa": "/ˈkæmpəs/",
+  "ex": "The campus has a library, a gym and several cafés.",
+  "form": "campus",
+  "nat": "Most first-year students live on campus.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "on campus",
+   "university campus",
+   "campus life",
+   "off campus"
+  ],
+  "mis": {
+   "bad": "I study in the campus of USP.",
+   "good": "I study at the USP campus.",
+   "why": "Use 'at the' campus, and put the name before campus."
+  },
+  "fam": [],
+  "topics": [
+   "culture",
+   "work"
+  ]
+ },
+ {
+  "id": "faculty",
+  "w": "faculty",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "corpo docente, faculdade",
+  "def": "All the teachers at a university or college.",
+  "ipa": "/ˈfæklti/",
+  "ex": "The faculty voted to change the exam schedule after hearing the students' complaints.",
+  "form": "faculty",
+  "nat": "She is a member of the faculty at the school of medicine.",
+  "syn": [
+   "teaching staff"
+  ],
+  "ant": [
+   "students"
+  ],
+  "col": [
+   "faculty member",
+   "faculty meeting",
+   "the faculty of",
+   "a faculty of law"
+  ],
+  "mis": {
+   "bad": "I study in the faculty of law.",
+   "good": "I study law at university.",
+   "why": "In English faculty means the teachers, not the school building where you study."
+  },
+  "fam": [
+   "faculties (plural)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "academic",
+  "w": "academic",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "acadêmico",
+  "def": "Connected with education, especially at a college or university.",
+  "ipa": "/ˌækəˈdemɪk/",
+  "ex": "Her academic record is excellent, with top grades in every subject.",
+  "form": "academic",
+  "nat": "The academic year starts in September in most countries.",
+  "syn": [
+   "scholarly"
+  ],
+  "ant": [
+   "practical"
+  ],
+  "col": [
+   "academic year",
+   "academic performance",
+   "academic research",
+   "academic degree"
+  ],
+  "mis": {
+   "bad": "I have a good academical performance.",
+   "good": "I have a good academic performance.",
+   "why": "The adjective is academic; 'academical' is rare and sounds wrong here."
+  },
+  "fam": [
+   "academy (noun)",
+   "academically (adv)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "quiz",
+  "w": "quiz",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "teste rápido",
+  "def": "A short test or a game in which you answer questions.",
+  "ipa": "/kwɪz/",
+  "ex": "The teacher gave us a short quiz at the start of the lesson.",
+  "form": "quiz",
+  "nat": "We watched a TV quiz about world history.",
+  "syn": [
+   "test"
+  ],
+  "ant": [],
+  "col": [
+   "a pop quiz",
+   "take a quiz",
+   "quiz show",
+   "online quiz"
+  ],
+  "mis": {
+   "bad": "The quizz was easy.",
+   "good": "The quiz was easy.",
+   "why": "The spelling is quiz, with one z in the singular."
+  },
+  "fam": [
+   "quiz (verb)",
+   "quizzes (plural)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "handout",
+  "w": "handout",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "material impresso distribuído",
+  "def": "A printed paper that a teacher or speaker gives to each person.",
+  "ipa": "/ˈhændaʊt/",
+  "ex": "The professor gave us a handout with the main points.",
+  "form": "handout",
+  "nat": "Please take a handout and pass the rest along.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "a class handout",
+   "print a handout",
+   "distribute handouts",
+   "handout for"
+  ],
+  "mis": {
+   "bad": "The teacher gave a handout to us.",
+   "good": "The teacher gave us a handout.",
+   "why": "With give, the pattern 'give someone something' is more natural."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "postgraduate",
+  "w": "postgraduate",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "pós-graduado, de pós-graduação",
+  "def": "Relating to a course taken after a first university degree.",
+  "ipa": "/ˌpoʊstˈɡrædʒuət/",
+  "ex": "She is taking a postgraduate course in public health at a university in Lisbon.",
+  "form": "postgraduate",
+  "nat": "He applied for a postgraduate degree in London.",
+  "syn": [],
+  "ant": [
+   "undergraduate"
+  ],
+  "col": [
+   "postgraduate degree",
+   "postgraduate student",
+   "postgraduate course",
+   "postgraduate study"
+  ],
+  "mis": {
+   "bad": "I am doing a pos-graduation course.",
+   "good": "I am doing a postgraduate course.",
+   "why": "The English adjective is postgraduate, written as one word."
+  },
+  "fam": [
+   "graduate (verb)",
+   "postgraduate (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "dropout",
+  "w": "dropout",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "evasão, desistente",
+  "def": "A person who leaves school or university before finishing.",
+  "ipa": "/ˈdrɑːpaʊt/",
+  "ex": "The school is trying to reduce its dropout rate by offering extra support to students.",
+  "form": "dropout",
+  "nat": "He was a college dropout, but he built a successful company.",
+  "syn": [],
+  "ant": [
+   "graduate"
+  ],
+  "col": [
+   "school dropout",
+   "dropout rate",
+   "college dropout",
+   "high school dropout"
+  ],
+  "mis": {
+   "bad": "The dropout of students is high.",
+   "good": "The student dropout rate is high.",
+   "why": "Say dropout rate, with the noun rate, when you talk about a percentage."
+  },
+  "fam": [
+   "drop out (phrasal verb)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "scholar",
+  "w": "scholar",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "estudioso, acadêmico",
+  "def": "An expert who has studied a subject in great detail.",
+  "ipa": "/ˈskɑːlər/",
+  "ex": "The book was written by a respected scholar of ancient history.",
+  "form": "scholar",
+  "nat": "Many scholars believe that the poem was written in the tenth century.",
+  "syn": [
+   "academic",
+   "expert"
+  ],
+  "ant": [],
+  "col": [
+   "a leading scholar",
+   "a respected scholar",
+   "legal scholar",
+   "scholar of"
+  ],
+  "mis": {
+   "bad": "He is a scholar of the school.",
+   "good": "He is a pupil at the school.",
+   "why": "A scholar is an expert; a young person who attends school is a pupil."
+  },
+  "fam": [
+   "scholarly (adj)",
+   "scholarship (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "textbook",
+  "w": "textbook",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "livro didático",
+  "def": "A book that teaches a particular subject.",
+  "ipa": "/ˈtekstbʊk/",
+  "ex": "The textbook explains the rules clearly and gives many examples.",
+  "form": "textbook",
+  "nat": "I left my math textbook at home again.",
+  "syn": [
+   "coursebook"
+  ],
+  "ant": [],
+  "col": [
+   "a science textbook",
+   "open your textbook",
+   "textbook example",
+   "school textbook"
+  ],
+  "mis": {
+   "bad": "I bought a book text for the course.",
+   "good": "I bought a textbook for the course.",
+   "why": "The compound noun is textbook, with 'text' first and as one word."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "pupil",
+  "w": "pupil",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "aluno",
+  "def": "A child who goes to school.",
+  "ipa": "/ˈpjuːpəl/",
+  "ex": "The teacher praised the young pupil for her excellent work in the science project.",
+  "form": "pupil",
+  "nat": "Every pupil in the class received a certificate.",
+  "syn": [
+   "student"
+  ],
+  "ant": [
+   "teacher"
+  ],
+  "col": [
+   "primary school pupil",
+   "a bright pupil",
+   "pupil's book",
+   "former pupil"
+  ],
+  "mis": {
+   "bad": "I am a pupil of university.",
+   "good": "I am a university student.",
+   "why": "Pupil is used for school children; at university, use student."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "achievement",
+  "w": "achievement",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "conquista, realização",
+  "def": "Something important that you have succeeded in doing.",
+  "ipa": "/əˈtʃiːvmənt/",
+  "ex": "Winning the national prize was her greatest achievement, and she thanked her whole team.",
+  "form": "achievement",
+  "nat": "Finishing a marathon is a real achievement for a beginner.",
+  "syn": [
+   "accomplishment",
+   "success"
+  ],
+  "ant": [
+   "failure"
+  ],
+  "col": [
+   "great achievement",
+   "academic achievement",
+   "sense of achievement",
+   "a lifetime achievement"
+  ],
+  "mis": {
+   "bad": "He did many achievements this year.",
+   "good": "He had many achievements this year.",
+   "why": "We 'have' or 'make' achievements; do is not used with achievements."
+  },
+  "fam": [
+   "achieve (verb)"
+  ],
+  "topics": [
+   "work",
+   "abstract"
+  ]
+ },
+ {
+  "id": "certificate",
+  "w": "certificate",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "certificado",
+  "def": "An official document that proves that something is true or that you finished a course.",
+  "ipa": "/sərˈtɪfɪkət/",
+  "ex": "She received a certificate when she finished the English course.",
+  "form": "certificate",
+  "nat": "You will need your birth certificate to apply for a passport.",
+  "syn": [
+   "diploma"
+  ],
+  "ant": [],
+  "col": [
+   "birth certificate",
+   "gift certificate",
+   "receive a certificate",
+   "certificate of completion"
+  ],
+  "mis": {
+   "bad": "I need a certified of my course.",
+   "good": "I need a certificate of my course.",
+   "why": "The noun is certificate; 'certified' is an adjective."
+  },
+  "fam": [
+   "certify (verb)",
+   "certified (adj)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "skim",
+  "w": "skim",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "passar os olhos, ler rapidamente",
+  "def": "To read something quickly to understand the main points.",
+  "ipa": "/skɪm/",
+  "ex": "I skimmed the report before the meeting, but I will read it properly tonight.",
+  "form": "skimmed",
+  "nat": "Skim the text first to get a general idea of the topic.",
+  "syn": [
+   "scan"
+  ],
+  "ant": [],
+  "col": [
+   "skim through",
+   "skim a text",
+   "skim the headlines",
+   "quickly skim"
+  ],
+  "mis": {
+   "bad": "I skimmed the text with attention.",
+   "good": "I skimmed the text quickly.",
+   "why": "Skimming means reading fast without attention; it cannot be done 'with attention'."
+  },
+  "fam": [
+   "skim (noun)"
+  ],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "cram",
+  "w": "cram",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "estudar de última hora",
+  "def": "To study a lot of information in a very short time before an exam.",
+  "ipa": "/kræm/",
+  "ex": "He crammed all night before the exam and still failed the test the next day.",
+  "form": "crammed",
+  "nat": "Don't wait until the last minute to cram for the test.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "cram for an exam",
+   "cram all night",
+   "cram information",
+   "crammed with"
+  ],
+  "mis": {
+   "bad": "I crammed all the week for the exam.",
+   "good": "I crammed all week for the exam.",
+   "why": "With 'all week' there is no article 'the'."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "culture"
+  ]
+ },
+ {
+  "id": "species",
+  "w": "species",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "espécie",
+  "def": "A group of animals or plants of the same kind that can produce young together.",
+  "ipa": "/ˈspiːʃiːz/",
+  "ex": "Several species of frogs have disappeared from this region over the last few decades.",
+  "form": "species",
+  "nat": "This species of bird only lives on one small island.",
+  "syn": [
+   "kind",
+   "type"
+  ],
+  "ant": [],
+  "col": [
+   "endangered species",
+   "a rare species",
+   "new species",
+   "species of"
+  ],
+  "mis": {
+   "bad": "I saw a new specie of fish.",
+   "good": "I saw a new species of fish.",
+   "why": "Species is both singular and plural; 'specie' is not used for animals."
+  },
+  "fam": [
+   "specific (adj)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "ecosystem",
+  "w": "ecosystem",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "ecossistema",
+  "def": "All the living things in an area and the way they depend on each other and the environment.",
+  "ipa": "/ˈiːkoʊsɪstəm/",
+  "ex": "Pollution can seriously damage a fragile ecosystem, and recovery sometimes takes many decades.",
+  "form": "ecosystem",
+  "nat": "A forest is a complex ecosystem with thousands of species.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "fragile ecosystem",
+   "marine ecosystem",
+   "protect an ecosystem",
+   "ecosystem services"
+  ],
+  "mis": {
+   "bad": "The ecosistem of the river is changing.",
+   "good": "The ecosystem of the river is changing.",
+   "why": "The English spelling is ecosystem, with a 'y'."
+  },
+  "fam": [
+   "ecology (noun)",
+   "ecological (adj)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "habitat",
+  "w": "habitat",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "habitat",
+  "def": "The natural home of a plant or an animal.",
+  "ipa": "/ˈhæbɪtæt/",
+  "ex": "Building new roads is destroying the habitat of many animals.",
+  "form": "habitat",
+  "nat": "The panda's natural habitat is the mountain forests of China.",
+  "syn": [
+   "environment"
+  ],
+  "ant": [],
+  "col": [
+   "natural habitat",
+   "loss of habitat",
+   "destroy a habitat",
+   "wildlife habitat"
+  ],
+  "mis": {
+   "bad": "The tigers live in your natural habitat.",
+   "good": "The tigers live in their natural habitat.",
+   "why": "Use the possessive that matches the subject: tigers, so 'their'."
+  },
+  "fam": [
+   "habitable (adj)",
+   "inhabit (verb)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "biodiversity",
+  "w": "biodiversity",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "biodiversidade",
+  "def": "The variety of plant and animal life in a particular place or in the world.",
+  "ipa": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+  "ex": "The Amazon is famous for its incredible biodiversity, with millions of different plants and animals.",
+  "form": "biodiversity",
+  "nat": "Cutting down forests threatens biodiversity around the world.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "loss of biodiversity",
+   "protect biodiversity",
+   "rich in biodiversity",
+   "biodiversity hotspot"
+  ],
+  "mis": {
+   "bad": "The biodiversities of Brazil are amazing.",
+   "good": "The biodiversity of Brazil is amazing.",
+   "why": "Biodiversity is uncountable, so it has no plural."
+  },
+  "fam": [
+   "diverse (adj)",
+   "diversity (noun)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "extinction",
+  "w": "extinction",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "extinção",
+  "def": "The death of every member of a species.",
+  "ipa": "/ɪkˈstɪŋkʃən/",
+  "ex": "Many large animals were hunted to extinction in the last century.",
+  "form": "extinction",
+  "nat": "Scientists warn that thousands of species face extinction.",
+  "syn": [],
+  "ant": [
+   "survival"
+  ],
+  "col": [
+   "face extinction",
+   "mass extinction",
+   "on the verge of extinction",
+   "risk of extinction"
+  ],
+  "mis": {
+   "bad": "The species is in extinction danger.",
+   "good": "The species is in danger of extinction.",
+   "why": "The fixed phrase is 'in danger of extinction'."
+  },
+  "fam": [
+   "extinct (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "conservation",
+  "w": "conservation",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "conservação, preservação",
+  "def": "The protection of nature, or the careful use of resources.",
+  "ipa": "/ˌkɑːnsərˈveɪʃən/",
+  "ex": "The park is a good example of wildlife conservation, and it attracts many visitors every year.",
+  "form": "conservation",
+  "nat": "Water conservation is very important during a drought.",
+  "syn": [
+   "preservation"
+  ],
+  "ant": [
+   "destruction"
+  ],
+  "col": [
+   "wildlife conservation",
+   "energy conservation",
+   "conservation efforts",
+   "conservation area"
+  ],
+  "mis": {
+   "bad": "I work with the conservation of the nature.",
+   "good": "I work in nature conservation.",
+   "why": "Use no article with nature in general: nature conservation."
+  },
+  "fam": [
+   "conserve (verb)",
+   "conservationist (noun)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "preserve",
+  "w": "preserve",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "preservar, conservar",
+  "def": "To keep something in its original or good condition.",
+  "ipa": "/prɪˈzɜːrv/",
+  "ex": "We must preserve these ancient forests for future generations and for the animals that live there.",
+  "form": "preserve",
+  "nat": "The museum works to preserve old paintings.",
+  "syn": [
+   "protect",
+   "conserve"
+  ],
+  "ant": [
+   "destroy"
+  ],
+  "col": [
+   "preserve the environment",
+   "well preserved",
+   "preserve food",
+   "preserve the peace"
+  ],
+  "mis": {
+   "bad": "I use preservatives to preserve the environment.",
+   "good": "I recycle to help preserve the environment.",
+   "why": "Preservatives are chemicals added to food, so they are not related to protecting nature."
+  },
+  "fam": [
+   "preservation (noun)",
+   "preservative (noun)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "recycle",
+  "w": "recycle",
+  "pos": "verb",
+  "lvl": "B1",
+  "pt": "reciclar",
+  "def": "To process used materials so they can be used again.",
+  "ipa": "/ˌriːˈsaɪkəl/",
+  "ex": "We recycle all our plastic bottles and old newspapers, and it only takes a few minutes.",
+  "form": "recycle",
+  "nat": "Do you recycle glass in your neighborhood?",
+  "syn": [
+   "reuse"
+  ],
+  "ant": [
+   "waste"
+  ],
+  "col": [
+   "recycle paper",
+   "recycle plastic",
+   "recycle waste",
+   "recycled material"
+  ],
+  "mis": {
+   "bad": "I recicle the plastic at home.",
+   "good": "I recycle the plastic at home.",
+   "why": "The English spelling is recycle, with a 'y'."
+  },
+  "fam": [
+   "recycling (noun)",
+   "recyclable (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "compost",
+  "w": "compost",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "adubo orgânico",
+  "def": "A mixture of old food and plants that is used to improve the soil.",
+  "ipa": "/ˈkɑːmpoʊst/",
+  "ex": "She puts vegetable scraps in the compost to feed her garden.",
+  "form": "compost",
+  "nat": "Compost is a natural fertilizer that helps plants grow.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "make compost",
+   "compost bin",
+   "compost heap",
+   "garden compost"
+  ],
+  "mis": {
+   "bad": "I put the food in the composto.",
+   "good": "I put the food in the compost.",
+   "why": "The English noun is compost; 'composto' is the Portuguese word."
+  },
+  "fam": [
+   "compost (verb)",
+   "compostable (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "pesticide",
+  "w": "pesticide",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "pesticida, agrotóxico",
+  "def": "A chemical used to kill insects that harm crops.",
+  "ipa": "/ˈpestɪsaɪd/",
+  "ex": "Many farmers are trying to use fewer pesticides on their crops.",
+  "form": "pesticides",
+  "nat": "Organic food is grown without pesticides.",
+  "syn": [
+   "insecticide"
+  ],
+  "ant": [],
+  "col": [
+   "spray pesticides",
+   "toxic pesticide",
+   "pesticide use",
+   "free of pesticides"
+  ],
+  "mis": {
+   "bad": "I buy food without agrotoxic.",
+   "good": "I buy food without pesticides.",
+   "why": "In English use pesticides; 'agrotoxic' is not a word."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "health"
+  ]
+ },
+ {
+  "id": "fertilizer",
+  "w": "fertilizer",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "fertilizante",
+  "def": "A substance added to soil to make plants grow better.",
+  "ipa": "/ˈfɜːrtəlaɪzər/",
+  "ex": "The farmer added fertilizer to the field before planting the corn.",
+  "form": "fertilizer",
+  "nat": "Too much fertilizer can pollute nearby rivers.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "chemical fertilizer",
+   "organic fertilizer",
+   "apply fertilizer",
+   "nitrogen fertilizer"
+  ],
+  "mis": {
+   "bad": "I use fertilizers for my garden grow.",
+   "good": "I use fertilizer to make my garden grow.",
+   "why": "Use 'to make' something grow; fertilizer is usually uncountable in this meaning."
+  },
+  "fam": [
+   "fertilize (verb)",
+   "fertile (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "erosion",
+  "w": "erosion",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "erosão",
+  "def": "The slow process by which wind or water destroys soil or rock.",
+  "ipa": "/ɪˈroʊʒən/",
+  "ex": "Cutting down trees increases the risk of soil erosion, especially on steep hills near rivers.",
+  "form": "erosion",
+  "nat": "The beach is shrinking because of coastal erosion.",
+  "syn": [
+   "wearing away"
+  ],
+  "ant": [],
+  "col": [
+   "soil erosion",
+   "coastal erosion",
+   "prevent erosion",
+   "erosion of trust"
+  ],
+  "mis": {
+   "bad": "The erosions are destroying the beach.",
+   "good": "Erosion is destroying the beach.",
+   "why": "Erosion is uncountable in this meaning and takes a singular verb."
+  },
+  "fam": [
+   "erode (verb)",
+   "eroded (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "flood",
+  "w": "flood",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "enchente, inundação",
+  "def": "A large amount of water covering land that is usually dry.",
+  "ipa": "/flʌd/",
+  "ex": "The heavy rain caused a flood that destroyed many homes.",
+  "form": "flood",
+  "nat": "Thousands of people left the area because of the floods.",
+  "syn": [],
+  "ant": [
+   "drought"
+  ],
+  "col": [
+   "a flash flood",
+   "flood warning",
+   "flood damage",
+   "flood defenses"
+  ],
+  "mis": {
+   "bad": "The flood have destroyed the bridge.",
+   "good": "The flood has destroyed the bridge.",
+   "why": "Flood is singular, so the present perfect needs 'has'."
+  },
+  "fam": [
+   "flood (verb)",
+   "flooded (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "wildfire",
+  "w": "wildfire",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "incêndio florestal",
+  "def": "A large fire that spreads quickly through forests or grassland.",
+  "ipa": "/ˈwaɪldfaɪər/",
+  "ex": "A wildfire forced hundreds of families to leave their homes.",
+  "form": "wildfire",
+  "nat": "Dry weather and strong winds can spread a wildfire in minutes.",
+  "syn": [
+   "forest fire"
+  ],
+  "ant": [],
+  "col": [
+   "a raging wildfire",
+   "wildfire season",
+   "put out a wildfire",
+   "spread like wildfire"
+  ],
+  "mis": {
+   "bad": "I saw a fire forest on the news.",
+   "good": "I saw a forest fire on the news.",
+   "why": "English puts the noun forest before fire: forest fire."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "hurricane",
+  "w": "hurricane",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "furacão",
+  "def": "A very strong storm with fast winds that forms over warm ocean water.",
+  "ipa": "/ˈhɜːrɪkeɪn/",
+  "ex": "The hurricane destroyed many houses along the coast, and thousands of people lost power.",
+  "form": "hurricane",
+  "nat": "Residents were told to prepare for the hurricane.",
+  "syn": [
+   "storm",
+   "cyclone"
+  ],
+  "ant": [],
+  "col": [
+   "a category five hurricane",
+   "hurricane season",
+   "hurricane warning",
+   "hurricane damage"
+  ],
+  "mis": {
+   "bad": "The hurricane was passing in the city.",
+   "good": "The hurricane passed through the city.",
+   "why": "Use pass through, or pass over, for a storm moving across a place."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "glacier",
+  "w": "glacier",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "geleira",
+  "def": "A large mass of ice that moves slowly down a mountain.",
+  "ipa": "/ˈɡleɪʃər/",
+  "ex": "The glacier is melting faster every year because of global warming.",
+  "form": "glacier",
+  "nat": "We hiked across a glacier during our trip to Iceland.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "melting glaciers",
+   "retreat of a glacier",
+   "glacier ice",
+   "glacier lake"
+  ],
+  "mis": {
+   "bad": "The glacial is melting very fast.",
+   "good": "The glacier is melting very fast.",
+   "why": "Glacial is an adjective; the noun for the ice mass is glacier."
+  },
+  "fam": [
+   "glacial (adj)"
+  ],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "atmosphere",
+  "w": "atmosphere",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "atmosfera",
+  "def": "The layer of gases that surrounds a planet, or the mood of a place.",
+  "ipa": "/ˈætməsfɪr/",
+  "ex": "Carbon dioxide traps heat in the Earth's atmosphere, which makes the planet warmer every year.",
+  "form": "atmosphere",
+  "nat": "The restaurant has a warm, friendly atmosphere.",
+  "syn": [
+   "air",
+   "mood"
+  ],
+  "ant": [],
+  "col": [
+   "the Earth's atmosphere",
+   "a friendly atmosphere",
+   "create an atmosphere",
+   "atmosphere of"
+  ],
+  "mis": {
+   "bad": "The atmosfere of the party was great.",
+   "good": "The atmosphere of the party was great.",
+   "why": "The spelling is atmosphere, with 'ph' and an -e at the end."
+  },
+  "fam": [
+   "atmospheric (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "greenhouse",
+  "w": "greenhouse",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "estufa, efeito estufa",
+  "def": "A glass building where plants are grown, often used in the phrase greenhouse gas.",
+  "ipa": "/ˈɡriːnhaʊs/",
+  "ex": "Tomatoes grow all year in the greenhouse, even when it is snowing outside.",
+  "form": "greenhouse",
+  "nat": "Cars and factories produce greenhouse gases that warm the planet.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "greenhouse gas",
+   "greenhouse effect",
+   "grow in a greenhouse",
+   "greenhouse emissions"
+  ],
+  "mis": {
+   "bad": "The greenhouse effects is a big problem.",
+   "good": "The greenhouse effect is a big problem.",
+   "why": "Effect is singular here and goes with the singular verb 'is'."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "carbon",
+  "w": "carbon",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "carbono",
+  "def": "A chemical element found in all living things, often mentioned in relation to climate change.",
+  "ipa": "/ˈkɑːrbən/",
+  "ex": "Planting trees can help remove carbon from the air and slow down climate change.",
+  "form": "carbon",
+  "nat": "The company has promised to reduce its carbon emissions by half.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "carbon dioxide",
+   "carbon emissions",
+   "carbon footprint",
+   "carbon neutral"
+  ],
+  "mis": {
+   "bad": "I want to reduce my carbon of footprint.",
+   "good": "I want to reduce my carbon footprint.",
+   "why": "English puts carbon before footprint without 'of'."
+  },
+  "fam": [
+   "carbonated (adj)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "pollutant",
+  "w": "pollutant",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "poluente",
+  "def": "A substance that makes air, water or soil dirty and harmful.",
+  "ipa": "/pəˈluːtənt/",
+  "ex": "Cars and factories release harmful pollutants into the air that we breathe.",
+  "form": "pollutants",
+  "nat": "The river contains dangerous chemical pollutants.",
+  "syn": [
+   "contaminant"
+  ],
+  "ant": [],
+  "col": [
+   "air pollutant",
+   "harmful pollutants",
+   "release pollutants",
+   "major pollutant"
+  ],
+  "mis": {
+   "bad": "The pollutant of the river is the factory.",
+   "good": "The polluter of the river is the factory.",
+   "why": "A pollutant is a harmful substance, while a polluter is the one that causes pollution."
+  },
+  "fam": [
+   "pollute (verb)",
+   "pollution (noun)",
+   "polluter (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "contaminate",
+  "w": "contaminate",
+  "pos": "verb",
+  "lvl": "B2+",
+  "pt": "contaminar",
+  "def": "To make something dirty or poisonous by adding a harmful substance.",
+  "ipa": "/kənˈtæmɪneɪt/",
+  "ex": "Oil from the ship contaminated the water along the coast.",
+  "form": "contaminated",
+  "nat": "Wash the knife so you don't contaminate the other food.",
+  "syn": [
+   "pollute",
+   "poison"
+  ],
+  "ant": [
+   "purify"
+  ],
+  "col": [
+   "contaminate water",
+   "contaminated food",
+   "badly contaminated",
+   "risk of contamination"
+  ],
+  "mis": {
+   "bad": "The water is contaminated by of chemicals.",
+   "good": "The water is contaminated with chemicals.",
+   "why": "After contaminated use 'with' or 'by', not 'by of'."
+  },
+  "fam": [
+   "contamination (noun)",
+   "contaminant (noun)"
+  ],
+  "topics": [
+   "science",
+   "health"
+  ]
+ },
+ {
+  "id": "toxic",
+  "w": "toxic",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "tóxico",
+  "def": "Poisonous and harmful to people, animals or the environment.",
+  "ipa": "/ˈtɑːksɪk/",
+  "ex": "The factory released toxic waste into the river, and the local fish all died.",
+  "form": "toxic",
+  "nat": "Never mix these cleaning products, because the gas is toxic.",
+  "syn": [
+   "poisonous",
+   "harmful"
+  ],
+  "ant": [
+   "harmless"
+  ],
+  "col": [
+   "toxic waste",
+   "toxic chemicals",
+   "toxic relationship",
+   "highly toxic"
+  ],
+  "mis": {
+   "bad": "This plant is toxical for dogs.",
+   "good": "This plant is toxic for dogs.",
+   "why": "The adjective is toxic; 'toxical' does not exist."
+  },
+  "fam": [
+   "toxin (noun)",
+   "toxicity (noun)"
+  ],
+  "topics": [
+   "science",
+   "health"
+  ]
+ },
+ {
+  "id": "waste",
+  "w": "waste",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "lixo, desperdício",
+  "def": "Things that you throw away, or the careless use of something.",
+  "ipa": "/weɪst/",
+  "ex": "The city produces tons of plastic waste every day, and most of it ends up outside.",
+  "form": "waste",
+  "nat": "Throwing away good food is a terrible waste.",
+  "syn": [
+   "rubbish",
+   "garbage"
+  ],
+  "ant": [],
+  "col": [
+   "food waste",
+   "toxic waste",
+   "waste of time",
+   "waste disposal"
+  ],
+  "mis": {
+   "bad": "It is a lost of time.",
+   "good": "It is a waste of time.",
+   "why": "The fixed phrase is 'a waste of time', not 'a lost of time'."
+  },
+  "fam": [
+   "waste (verb)",
+   "wasteful (adj)"
+  ],
+  "topics": [
+   "daily",
+   "science"
+  ]
+ },
+ {
+  "id": "litter",
+  "w": "litter",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "lixo jogado no chão",
+  "def": "Small pieces of rubbish left in public places.",
+  "ipa": "/ˈlɪtər/",
+  "ex": "Please put your litter in the bin before you leave the park.",
+  "form": "litter",
+  "nat": "The beach was covered with litter after the festival.",
+  "syn": [
+   "rubbish"
+  ],
+  "ant": [],
+  "col": [
+   "drop litter",
+   "litter bin",
+   "pick up litter",
+   "street litter"
+  ],
+  "mis": {
+   "bad": "Don't throw the trash on the floor of the park.",
+   "good": "Don't drop litter in the park.",
+   "why": "Use drop litter for rubbish left in public places; floor is for inside a building."
+  },
+  "fam": [
+   "litter (verb)"
+  ],
+  "topics": [
+   "daily",
+   "science"
+  ]
+ },
+ {
+  "id": "rainforest",
+  "w": "rainforest",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "floresta tropical",
+  "def": "A thick forest in a hot area with a lot of rain.",
+  "ipa": "/ˈreɪnfɔːrɪst/",
+  "ex": "The Amazon rainforest is home to millions of species of plants, birds and insects.",
+  "form": "rainforest",
+  "nat": "Hundreds of rainforest trees are cut down every minute.",
+  "syn": [
+   "jungle"
+  ],
+  "ant": [],
+  "col": [
+   "tropical rainforest",
+   "Amazon rainforest",
+   "destroy the rainforest",
+   "rainforest canopy"
+  ],
+  "mis": {
+   "bad": "I visited the Amazon forest rain.",
+   "good": "I visited the Amazon rainforest.",
+   "why": "The English compound is rainforest, with 'rain' first."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "coral",
+  "w": "coral",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "coral",
+  "def": "A hard substance made by small sea animals, which forms reefs.",
+  "ipa": "/ˈkɔːrəl/",
+  "ex": "Warm water is killing the coral in many parts of the ocean.",
+  "form": "coral",
+  "nat": "We went diving to see the colorful coral reef.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "coral reef",
+   "coral bleaching",
+   "living coral",
+   "coral island"
+  ],
+  "mis": {
+   "bad": "The corals is bleaching in the sea.",
+   "good": "The coral is bleaching in the sea.",
+   "why": "Coral is uncountable here and takes a singular verb."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "ocean",
+  "w": "ocean",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "oceano",
+  "def": "A very large area of salt water.",
+  "ipa": "/ˈoʊʃən/",
+  "ex": "Plastic waste is polluting the ocean and harming sea animals.",
+  "form": "ocean",
+  "nat": "We crossed the Atlantic Ocean by plane in about ten hours.",
+  "syn": [
+   "sea"
+  ],
+  "ant": [],
+  "col": [
+   "the Pacific Ocean",
+   "ocean waves",
+   "deep ocean",
+   "cross the ocean"
+  ],
+  "mis": {
+   "bad": "I live near of the ocean.",
+   "good": "I live near the ocean.",
+   "why": "Near is a preposition on its own, so do not add 'of'."
+  },
+  "fam": [
+   "oceanic (adj)",
+   "oceanography (noun)"
+  ],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "soil",
+  "w": "soil",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "solo, terra",
+  "def": "The top layer of the earth in which plants grow.",
+  "ipa": "/sɔɪl/",
+  "ex": "The soil here is rich, so almost anything grows well.",
+  "form": "soil",
+  "nat": "Heavy rain washed the soil down the hill.",
+  "syn": [
+   "earth",
+   "dirt"
+  ],
+  "ant": [],
+  "col": [
+   "fertile soil",
+   "rich soil",
+   "soil erosion",
+   "poor soil"
+  ],
+  "mis": {
+   "bad": "I planted the seeds in the solo.",
+   "good": "I planted the seeds in the soil.",
+   "why": "In English, the word for the ground where plants grow is soil."
+  },
+  "fam": [
+   "soil (verb)",
+   "soiled (adj)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "harvest",
+  "w": "harvest",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "colheita",
+  "def": "The time when crops are gathered, or the crops that are gathered.",
+  "ipa": "/ˈhɑːrvɪst/",
+  "ex": "The farmers had a very good harvest this year, so food prices went down.",
+  "form": "harvest",
+  "nat": "Drought can ruin the harvest and push up food prices.",
+  "syn": [
+   "crop"
+  ],
+  "ant": [],
+  "col": [
+   "a good harvest",
+   "harvest time",
+   "corn harvest",
+   "bring in the harvest"
+  ],
+  "mis": {
+   "bad": "The harvest of cereals were big.",
+   "good": "The cereal harvest was big.",
+   "why": "The subject harvest is singular, so use 'was'."
+  },
+  "fam": [
+   "harvest (verb)",
+   "harvester (noun)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "crop",
+  "w": "crop",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "safra, plantação",
+  "def": "A plant such as wheat or rice that farmers grow in large amounts.",
+  "ipa": "/krɑːp/",
+  "ex": "Rice is the main crop in many Asian countries, and millions of people depend on it.",
+  "form": "crop",
+  "nat": "Bad weather destroyed most of the crops last summer.",
+  "syn": [
+   "harvest"
+  ],
+  "ant": [],
+  "col": [
+   "a cash crop",
+   "food crops",
+   "crop failure",
+   "grow crops"
+  ],
+  "mis": {
+   "bad": "The farmers plant many crop.",
+   "good": "The farmers plant many crops.",
+   "why": "Use the plural crops after many."
+  },
+  "fam": [
+   "crop (verb)"
+  ],
+  "topics": [
+   "science",
+   "business"
+  ]
+ },
+ {
+  "id": "irrigation",
+  "w": "irrigation",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "irrigação",
+  "def": "The system of supplying water to land so that crops can grow.",
+  "ipa": "/ˌɪrɪˈɡeɪʃən/",
+  "ex": "Modern irrigation helps farmers grow crops even in dry regions.",
+  "form": "irrigation",
+  "nat": "The farm uses an irrigation system to save water.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "irrigation system",
+   "drip irrigation",
+   "irrigation canal",
+   "irrigation water"
+  ],
+  "mis": {
+   "bad": "The farm need more irrigations.",
+   "good": "The farm needs better irrigation.",
+   "why": "Irrigation is uncountable in this meaning and the verb needs -s."
+  },
+  "fam": [
+   "irrigate (verb)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "organic",
+  "w": "organic",
+  "pos": "adj",
+  "lvl": "B1",
+  "pt": "orgânico",
+  "def": "Grown without using artificial chemicals.",
+  "ipa": "/ɔːrˈɡænɪk/",
+  "ex": "I buy organic vegetables at the local market every Saturday.",
+  "form": "organic",
+  "nat": "Organic food is usually more expensive than regular food.",
+  "syn": [
+   "natural"
+  ],
+  "ant": [
+   "artificial"
+  ],
+  "col": [
+   "organic food",
+   "organic farming",
+   "organic matter",
+   "go organic"
+  ],
+  "mis": {
+   "bad": "I only eat organical vegetables.",
+   "good": "I only eat organic vegetables.",
+   "why": "The adjective is organic; 'organical' is not used."
+  },
+  "fam": [
+   "organically (adv)",
+   "organism (noun)"
+  ],
+  "topics": [
+   "science",
+   "health",
+   "daily"
+  ]
+ },
+ {
+  "id": "solar",
+  "w": "solar",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "solar",
+  "def": "Using or relating to energy from the sun.",
+  "ipa": "/ˈsoʊlər/",
+  "ex": "We installed solar panels on the roof last year, and our electricity bill is much lower.",
+  "form": "solar",
+  "nat": "Solar energy is clean and almost unlimited.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "solar energy",
+   "solar panel",
+   "solar power",
+   "solar system"
+  ],
+  "mis": {
+   "bad": "I want to install panels of sun.",
+   "good": "I want to install solar panels.",
+   "why": "The adjective solar comes before panels."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "temperature",
+  "w": "temperature",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "temperatura",
+  "def": "How hot or cold something is.",
+  "ipa": "/ˈtemprətʃər/",
+  "ex": "The temperature dropped below zero during the night, and the water in the pipes froze.",
+  "form": "temperature",
+  "nat": "Check the water temperature before you get in.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "high temperature",
+   "body temperature",
+   "room temperature",
+   "temperature rises"
+  ],
+  "mis": {
+   "bad": "The temperature is 30 degrees of Celsius.",
+   "good": "The temperature is 30 degrees Celsius.",
+   "why": "Say '30 degrees Celsius' without 'of'."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "humidity",
+  "w": "humidity",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "umidade",
+  "def": "The amount of water in the air.",
+  "ipa": "/hjuːˈmɪdəti/",
+  "ex": "The humidity makes the summer in this city feel even hotter.",
+  "form": "humidity",
+  "nat": "High humidity can cause mold to grow on the walls.",
+  "syn": [
+   "moisture"
+  ],
+  "ant": [
+   "dryness"
+  ],
+  "col": [
+   "high humidity",
+   "humidity level",
+   "relative humidity",
+   "low humidity"
+  ],
+  "mis": {
+   "bad": "The humidity is too much today.",
+   "good": "The humidity is too high today.",
+   "why": "Use high or low with humidity instead of 'much'."
+  },
+  "fam": [
+   "humid (adj)",
+   "humidify (verb)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "thunderstorm",
+  "w": "thunderstorm",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "tempestade com trovões",
+  "def": "A storm with heavy rain, thunder and lightning.",
+  "ipa": "/ˈθʌndərstɔːrm/",
+  "ex": "We stayed inside all afternoon because of the thunderstorm, and we watched a movie together.",
+  "form": "thunderstorm",
+  "nat": "A sudden thunderstorm ruined our picnic.",
+  "syn": [
+   "storm"
+  ],
+  "ant": [],
+  "col": [
+   "a violent thunderstorm",
+   "thunderstorm warning",
+   "summer thunderstorm",
+   "caught in a thunderstorm"
+  ],
+  "mis": {
+   "bad": "I was afraid of the thunders.",
+   "good": "I was afraid of the thunderstorm.",
+   "why": "The word thunder is uncountable; for a storm, use thunderstorm."
+  },
+  "fam": [
+   "thunder (noun)",
+   "thunder (verb)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "blizzard",
+  "w": "blizzard",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "nevasca",
+  "def": "A severe snowstorm with strong winds.",
+  "ipa": "/ˈblɪzərd/",
+  "ex": "Flights were canceled because of a blizzard in the north.",
+  "form": "blizzard",
+  "nat": "The blizzard left the town without electricity for two days.",
+  "syn": [
+   "snowstorm"
+  ],
+  "ant": [],
+  "col": [
+   "a blinding blizzard",
+   "blizzard conditions",
+   "caught in a blizzard",
+   "blizzard warning"
+  ],
+  "mis": {
+   "bad": "The blizzard is a heavy rain.",
+   "good": "A blizzard is a heavy snowstorm.",
+   "why": "A blizzard is made of snow, not rain."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "drizzle",
+  "w": "drizzle",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "garoa",
+  "def": "Light rain made of very small drops.",
+  "ipa": "/ˈdrɪzəl/",
+  "ex": "A light drizzle fell all morning, but we still went for a walk.",
+  "form": "drizzle",
+  "nat": "It was only a drizzle, so I didn't take an umbrella.",
+  "syn": [
+   "light rain"
+  ],
+  "ant": [
+   "downpour"
+  ],
+  "col": [
+   "a light drizzle",
+   "steady drizzle",
+   "drizzle of rain",
+   "it drizzles"
+  ],
+  "mis": {
+   "bad": "It is drizzle a little.",
+   "good": "It is drizzling a little.",
+   "why": "As a verb in the continuous form, use drizzling."
+  },
+  "fam": [
+   "drizzle (verb)",
+   "drizzly (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "fog",
+  "w": "fog",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "neblina",
+  "def": "A thick cloud near the ground that makes it hard to see.",
+  "ipa": "/fɔːɡ/",
+  "ex": "Thick fog delayed all the morning flights, and many passengers waited at the airport for hours.",
+  "form": "fog",
+  "nat": "Drive slowly in the fog and use your lights.",
+  "syn": [
+   "mist"
+  ],
+  "ant": [],
+  "col": [
+   "thick fog",
+   "dense fog",
+   "fog lights",
+   "patchy fog"
+  ],
+  "mis": {
+   "bad": "The fogg was thick this morning.",
+   "good": "The fog was thick this morning.",
+   "why": "The word fog is spelled with one g."
+  },
+  "fam": [
+   "foggy (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "breeze",
+  "w": "breeze",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "brisa",
+  "def": "A gentle, light wind.",
+  "ipa": "/briːz/",
+  "ex": "A cool breeze made the hot afternoon more pleasant, so we stayed on the beach.",
+  "form": "breeze",
+  "nat": "We sat on the balcony and enjoyed the sea breeze.",
+  "syn": [
+   "wind"
+  ],
+  "ant": [],
+  "col": [
+   "a gentle breeze",
+   "a cool breeze",
+   "sea breeze",
+   "catch a breeze"
+  ],
+  "mis": {
+   "bad": "The breeze was very forte.",
+   "good": "The breeze was very gentle.",
+   "why": "Forte is not an English adjective here; use gentle, light or strong."
+  },
+  "fam": [
+   "breezy (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "landscape",
+  "w": "landscape",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "paisagem",
+  "def": "All the features of an area of land that you can see.",
+  "ipa": "/ˈlændskeɪp/",
+  "ex": "The train passed through a beautiful mountain landscape, and everyone stopped talking to look outside.",
+  "form": "landscape",
+  "nat": "The Brazilian coast offers a wide variety of landscapes.",
+  "syn": [
+   "scenery"
+  ],
+  "ant": [],
+  "col": [
+   "a beautiful landscape",
+   "rural landscape",
+   "change the landscape",
+   "political landscape"
+  ],
+  "mis": {
+   "bad": "I like the paysage of this place.",
+   "good": "I like the landscape of this place.",
+   "why": "The English word is landscape; 'paysage' is French."
+  },
+  "fam": [
+   "landscaping (noun)"
+  ],
+  "topics": [
+   "travel",
+   "science"
+  ]
+ },
+ {
+  "id": "valley",
+  "w": "valley",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "vale",
+  "def": "A low area of land between hills or mountains.",
+  "ipa": "/ˈvæli/",
+  "ex": "A small river runs through the green valley, and the village sits right beside it.",
+  "form": "valley",
+  "nat": "The village is hidden in a quiet mountain valley.",
+  "syn": [],
+  "ant": [
+   "hill"
+  ],
+  "col": [
+   "a river valley",
+   "valley floor",
+   "fertile valley",
+   "deep valley"
+  ],
+  "mis": {
+   "bad": "The village is in the valey.",
+   "good": "The village is in the valley.",
+   "why": "The word is spelled with two l's and one e before the y."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "cliff",
+  "w": "cliff",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "penhasco",
+  "def": "A high, steep wall of rock, usually next to the sea.",
+  "ipa": "/klɪf/",
+  "ex": "We walked along the edge of a cliff and watched the waves.",
+  "form": "cliff",
+  "nat": "The house stands on a cliff above the sea.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "a steep cliff",
+   "cliff edge",
+   "fall off a cliff",
+   "sea cliff"
+  ],
+  "mis": {
+   "bad": "I climbed a clif near the beach.",
+   "good": "I climbed a cliff near the beach.",
+   "why": "The word cliff ends in -ff."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "canyon",
+  "w": "canyon",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "desfiladeiro, cânion",
+  "def": "A deep valley with steep sides, often with a river at the bottom.",
+  "ipa": "/ˈkænjən/",
+  "ex": "We took a boat tour through the canyon, and the high walls were absolutely amazing.",
+  "form": "canyon",
+  "nat": "The Grand Canyon attracts millions of visitors every year.",
+  "syn": [
+   "gorge"
+  ],
+  "ant": [],
+  "col": [
+   "a deep canyon",
+   "Grand Canyon",
+   "canyon walls",
+   "hike through a canyon"
+  ],
+  "mis": {
+   "bad": "I visited the Canyon of Colorado.",
+   "good": "I visited the Grand Canyon in Colorado.",
+   "why": "Famous place names usually have fixed forms like the Grand Canyon."
+  },
+  "fam": [],
+  "topics": [
+   "travel",
+   "science"
+  ]
+ },
+ {
+  "id": "stream",
+  "w": "stream",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "riacho, córrego",
+  "def": "A small, narrow river.",
+  "ipa": "/striːm/",
+  "ex": "We crossed a clear stream on our way up the hill.",
+  "form": "stream",
+  "nat": "A stream of cars moved slowly along the highway.",
+  "syn": [
+   "brook",
+   "creek"
+  ],
+  "ant": [],
+  "col": [
+   "a mountain stream",
+   "stream of",
+   "flow downstream",
+   "stream of water"
+  ],
+  "mis": {
+   "bad": "I washed my feet in the stream of the hotel.",
+   "good": "I washed my feet in a stream near the hotel.",
+   "why": "A stream is a natural flow of water, not part of a building."
+  },
+  "fam": [
+   "stream (verb)",
+   "streaming (noun)"
+  ],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "pond",
+  "w": "pond",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "lagoa, lago pequeno",
+  "def": "A small area of still water, smaller than a lake.",
+  "ipa": "/pɑːnd/",
+  "ex": "Ducks were swimming in the pond near our house when we woke up this morning.",
+  "form": "pond",
+  "nat": "The children dropped stones into the pond.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "a garden pond",
+   "fish pond",
+   "pond life",
+   "frozen pond"
+  ],
+  "mis": {
+   "bad": "The ducks live in the pound.",
+   "good": "The ducks live in the pond.",
+   "why": "The word is pond, and pound is a different word."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "meadow",
+  "w": "meadow",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "campo, prado",
+  "def": "A field of grass and wild flowers.",
+  "ipa": "/ˈmedoʊ/",
+  "ex": "Cows were grazing in the green meadow behind the farm.",
+  "form": "meadow",
+  "nat": "We had a picnic in a meadow full of wild flowers.",
+  "syn": [
+   "field"
+  ],
+  "ant": [],
+  "col": [
+   "green meadow",
+   "alpine meadow",
+   "wildflower meadow",
+   "flower meadow"
+  ],
+  "mis": {
+   "bad": "I like to walk in the medow.",
+   "good": "I like to walk in the meadow.",
+   "why": "The spelling is meadow, with 'ea' in the middle."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "predator",
+  "w": "predator",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "predador",
+  "def": "An animal that hunts and kills other animals for food.",
+  "ipa": "/ˈpredətər/",
+  "ex": "The lion is a top predator in the African savanna.",
+  "form": "predator",
+  "nat": "Rabbits run quickly to escape their predators.",
+  "syn": [
+   "hunter"
+  ],
+  "ant": [
+   "prey"
+  ],
+  "col": [
+   "natural predator",
+   "apex predator",
+   "avoid a predator",
+   "predator and prey"
+  ],
+  "mis": {
+   "bad": "The predators is dangerous for the farm.",
+   "good": "Predators are dangerous for the farm.",
+   "why": "The plural subject predators needs the plural verb are."
+  },
+  "fam": [
+   "predatory (adj)",
+   "predation (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "prey",
+  "w": "prey",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "presa",
+  "def": "An animal that is hunted and eaten by another animal.",
+  "ipa": "/preɪ/",
+  "ex": "The eagle spotted its prey from high in the sky.",
+  "form": "prey",
+  "nat": "Small fish are the prey of larger fish.",
+  "syn": [
+   "victim"
+  ],
+  "ant": [
+   "predator"
+  ],
+  "col": [
+   "easy prey",
+   "bird of prey",
+   "fall prey to",
+   "hunt prey"
+  ],
+  "mis": {
+   "bad": "The mouse is the prey of the cats.",
+   "good": "The mouse is the prey of cats.",
+   "why": "Use 'of cats' without 'the' for cats in general."
+  },
+  "fam": [
+   "prey (verb)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "hibernate",
+  "w": "hibernate",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "hibernar",
+  "def": "To spend the winter in a deep sleep.",
+  "ipa": "/ˈhaɪbərneɪt/",
+  "ex": "Bears hibernate in caves during the coldest months, and they hardly move at all.",
+  "form": "hibernate",
+  "nat": "Many animals hibernate to survive the winter.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "hibernate in winter",
+   "begin to hibernate",
+   "hibernating bears",
+   "hibernate for months"
+  ],
+  "mis": {
+   "bad": "The bears hibernating in winter.",
+   "good": "The bears hibernate in winter.",
+   "why": "A simple present verb is needed here; -ing alone is not a complete verb."
+  },
+  "fam": [
+   "hibernation (noun)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "dispose-of",
+  "w": "dispose of",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "descartar",
+  "def": "To throw something away or get rid of it.",
+  "ipa": "/dɪˈspoʊz əv/",
+  "ex": "Please dispose of old batteries at the special recycling points in the supermarket car park.",
+  "form": "dispose of",
+  "nat": "The company must dispose of the toxic waste safely.",
+  "syn": [
+   "get rid of",
+   "discard"
+  ],
+  "ant": [
+   "keep"
+  ],
+  "col": [
+   "dispose of waste",
+   "safely dispose of",
+   "dispose of properly",
+   "dispose of batteries"
+  ],
+  "mis": {
+   "bad": "I need to dispose the old computer.",
+   "good": "I need to dispose of the old computer.",
+   "why": "Dispose needs the preposition 'of' when it means to throw away."
+  },
+  "fam": [
+   "disposal (noun)",
+   "disposable (adj)"
+  ],
+  "topics": [
+   "daily",
+   "science"
+  ]
+ },
+ {
+  "id": "ban",
+  "w": "ban",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "proibir",
+  "def": "To officially say that something is not allowed.",
+  "ipa": "/bæn/",
+  "ex": "The city banned plastic bags in all supermarkets last year.",
+  "form": "banned",
+  "nat": "Smoking is banned in all public buildings.",
+  "syn": [
+   "forbid",
+   "prohibit"
+  ],
+  "ant": [
+   "allow"
+  ],
+  "col": [
+   "ban smoking",
+   "ban on",
+   "banned from",
+   "ban plastic bags"
+  ],
+  "mis": {
+   "bad": "The city proibited plastic bags.",
+   "good": "The city banned plastic bags.",
+   "why": "Use ban for an official prohibition; 'proibited' is not an English word."
+  },
+  "fam": [
+   "ban (noun)"
+  ],
+  "topics": [
+   "daily",
+   "business"
+  ]
+ },
+ {
+  "id": "resource",
+  "w": "resource",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "recurso",
+  "def": "Something such as money, water or workers that can be used to achieve a goal.",
+  "ipa": "/ˈriːsɔːrs/",
+  "ex": "Water is a valuable resource that we must not waste.",
+  "form": "resource",
+  "nat": "The company does not have enough resources for a new project.",
+  "syn": [
+   "supply",
+   "asset"
+  ],
+  "ant": [],
+  "col": [
+   "natural resources",
+   "limited resources",
+   "human resources",
+   "waste resources"
+  ],
+  "mis": {
+   "bad": "The company has many resources financials.",
+   "good": "The company has many financial resources.",
+   "why": "Adjectives go before the noun in English, so financial comes before resources."
+  },
+  "fam": [
+   "resourceful (adj)",
+   "resourcefulness (noun)"
+  ],
+  "topics": [
+   "science",
+   "business"
+  ]
+ },
+ {
+  "id": "scarce",
+  "w": "scarce",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "escasso",
+  "def": "Not enough in amount, and difficult to find.",
+  "ipa": "/skers/",
+  "ex": "Fresh water is scarce in many parts of the world.",
+  "form": "scarce",
+  "nat": "Jobs were scarce after the factory closed.",
+  "syn": [
+   "rare",
+   "limited"
+  ],
+  "ant": [
+   "plentiful",
+   "abundant"
+  ],
+  "col": [
+   "water is scarce",
+   "scarce resources",
+   "become scarce",
+   "food is scarce"
+  ],
+  "mis": {
+   "bad": "The water is scarcy in my town.",
+   "good": "Water is scarce in my town.",
+   "why": "The adjective is scarce; there is no 'scarcy'."
+  },
+  "fam": [
+   "scarcity (noun)",
+   "scarcely (adv)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "deplete",
+  "w": "deplete",
+  "pos": "verb",
+  "lvl": "B2+",
+  "pt": "esgotar, exaurir",
+  "def": "To use so much of something that very little is left.",
+  "ipa": "/dɪˈpliːt/",
+  "ex": "Heavy fishing has depleted the fish stocks in the area.",
+  "form": "depleted",
+  "nat": "We should not deplete our natural resources so quickly.",
+  "syn": [
+   "use up",
+   "exhaust"
+  ],
+  "ant": [
+   "replenish"
+  ],
+  "col": [
+   "deplete resources",
+   "depleted stocks",
+   "deplete energy",
+   "ozone depletion"
+  ],
+  "mis": {
+   "bad": "The resources are depleting out.",
+   "good": "The resources are being used up.",
+   "why": "Deplete is transitive; 'depleting out' is not English."
+  },
+  "fam": [
+   "depletion (noun)"
+  ],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ },
+ {
+  "id": "thrive",
+  "w": "thrive",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "prosperar, crescer bem",
+  "def": "To grow strongly and be healthy or successful.",
+  "ipa": "/θraɪv/",
+  "ex": "Many plants thrive in warm, wet conditions, and they grow very quickly in the rainy season.",
+  "form": "thrive",
+  "nat": "Small businesses can thrive if they offer good service.",
+  "syn": [
+   "flourish",
+   "prosper"
+  ],
+  "ant": [
+   "struggle",
+   "decline"
+  ],
+  "col": [
+   "thrive on",
+   "continue to thrive",
+   "thrive in",
+   "thriving business"
+  ],
+  "mis": {
+   "bad": "The company is trivng this year.",
+   "good": "The company is thriving this year.",
+   "why": "The -ing form of thrive keeps the 'h' and drops the e: thriving."
+  },
+  "fam": [
+   "thriving (adj)"
+  ],
+  "topics": [
+   "science",
+   "business"
+  ]
+ },
+ {
+  "id": "adapt",
+  "w": "adapt",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "adaptar-se",
+  "def": "To change in order to fit a new situation.",
+  "ipa": "/əˈdæpt/",
+  "ex": "Animals must adapt to survive in a changing climate, or they will slowly disappear.",
+  "form": "adapt",
+  "nat": "It took me a few months to adapt to the new job.",
+  "syn": [
+   "adjust"
+  ],
+  "ant": [],
+  "col": [
+   "adapt to",
+   "adapt quickly",
+   "adapt to change",
+   "adapt a book"
+  ],
+  "mis": {
+   "bad": "I am adapting me to the new city.",
+   "good": "I am adapting to the new city.",
+   "why": "Adapt is not reflexive in English, so do not add 'me'."
+  },
+  "fam": [
+   "adaptation (noun)",
+   "adaptable (adj)"
+  ],
+  "topics": [
+   "science",
+   "work"
+  ]
+ },
+ {
+  "id": "wilderness",
+  "w": "wilderness",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "natureza selvagem, região selvagem",
+  "def": "A large area of natural land where there are no towns or farms.",
+  "ipa": "/ˈwɪldərnəs/",
+  "ex": "They spent two weeks hiking through the Alaskan wilderness without seeing a single other person.",
+  "form": "wilderness",
+  "nat": "Some people love the silence of the wilderness.",
+  "syn": [
+   "wild",
+   "nature"
+  ],
+  "ant": [],
+  "col": [
+   "vast wilderness",
+   "wilderness area",
+   "in the wilderness",
+   "remote wilderness"
+  ],
+  "mis": {
+   "bad": "I like the wilderess.",
+   "good": "I like the wilderness.",
+   "why": "Wilderness ends in -ness, and the spelling includes 'ern'."
+  },
+  "fam": [
+   "wild (adj)"
+  ],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "climate",
+  "w": "climate",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "clima",
+  "def": "The usual weather conditions of a region over a long period.",
+  "ipa": "/ˈklaɪmət/",
+  "ex": "The climate in the north is cold and wet for most of the year.",
+  "form": "climate",
+  "nat": "Scientists warn that the world's climate is changing rapidly.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "climate change",
+   "tropical climate",
+   "mild climate",
+   "climate crisis"
+  ],
+  "mis": {
+   "bad": "The climate of today is rainy.",
+   "good": "The weather today is rainy.",
+   "why": "Climate is the long-term pattern; use weather for conditions on a particular day."
+  },
+  "fam": [
+   "climatic (adj)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "fuel",
+  "w": "fuel",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "combustível",
+  "def": "A substance such as petrol or gas that is burned to produce heat or power.",
+  "ipa": "/ˈfjuːəl/",
+  "ex": "The car uses very little fuel on long trips, which saves us a lot of money.",
+  "form": "fuel",
+  "nat": "Rising fuel prices have affected the cost of food.",
+  "syn": [
+   "gas",
+   "petrol"
+  ],
+  "ant": [],
+  "col": [
+   "fossil fuel",
+   "run out of fuel",
+   "fuel prices",
+   "fuel tank"
+  ],
+  "mis": {
+   "bad": "The car consumes much fuels.",
+   "good": "The car uses a lot of fuel.",
+   "why": "Fuel is uncountable here, so use 'a lot of fuel'."
+  },
+  "fam": [
+   "fuel (verb)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "weather",
+  "w": "weather",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "tempo (meteorologia)",
+  "def": "The condition of the air, such as sun, rain, wind or temperature.",
+  "ipa": "/ˈweðər/",
+  "ex": "The weather was so bad that we canceled the trip.",
+  "form": "weather",
+  "nat": "What's the weather like in Chicago in winter?",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "bad weather",
+   "weather forecast",
+   "weather conditions",
+   "under the weather"
+  ],
+  "mis": {
+   "bad": "The time is very hot today.",
+   "good": "The weather is very hot today.",
+   "why": "For the condition of the air, use weather; 'time' is a false friend of 'tempo'."
+  },
+  "fam": [
+   "weather (verb)",
+   "weathered (adj)"
+  ],
+  "topics": [
+   "daily",
+   "science"
+  ]
+ },
+ {
+  "id": "earthquake",
+  "w": "earthquake",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "terremoto",
+  "def": "A sudden strong shaking of the ground.",
+  "ipa": "/ˈɜːrθkweɪk/",
+  "ex": "The earthquake damaged several buildings in the old city, but luckily nobody was seriously hurt.",
+  "form": "earthquake",
+  "nat": "Nobody was hurt in the earthquake last night.",
+  "syn": [
+   "tremor"
+  ],
+  "ant": [],
+  "col": [
+   "a powerful earthquake",
+   "earthquake damage",
+   "earthquake zone",
+   "survive an earthquake"
+  ],
+  "mis": {
+   "bad": "There was a terremoto in Japan.",
+   "good": "There was an earthquake in Japan.",
+   "why": "The English word for terremoto is earthquake."
+  },
+  "fam": [
+   "quake (noun)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "volcano",
+  "w": "volcano",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "vulcão",
+  "def": "A mountain with an opening through which hot rock and gas can burst out.",
+  "ipa": "/vɑːlˈkeɪnoʊ/",
+  "ex": "The volcano erupted after being quiet for more than fifty years.",
+  "form": "volcano",
+  "nat": "We hiked to the top of an active volcano in Indonesia.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "an active volcano",
+   "erupt",
+   "volcano eruption",
+   "dormant volcano"
+  ],
+  "mis": {
+   "bad": "The vulcan erupted last year.",
+   "good": "The volcano erupted last year.",
+   "why": "The English word is volcano; Vulcan was a Roman god."
+  },
+  "fam": [
+   "volcanic (adj)"
+  ],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "tornado",
+  "w": "tornado",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "tornado",
+  "def": "A violent storm with a tall, spinning column of air.",
+  "ipa": "/tɔːrˈneɪdoʊ/",
+  "ex": "A tornado destroyed several farms in the area, and the families had to move away.",
+  "form": "tornado",
+  "nat": "The tornado lasted only a few minutes, but the damage was huge.",
+  "syn": [
+   "twister"
+  ],
+  "ant": [],
+  "col": [
+   "a powerful tornado",
+   "tornado warning",
+   "tornado season",
+   "tornado hit"
+  ],
+  "mis": {
+   "bad": "The tornado hurt many peoples.",
+   "good": "The tornado hurt many people.",
+   "why": "The word people is already plural and takes no -s."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "shore",
+  "w": "shore",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "costa, margem",
+  "def": "The land along the edge of the sea, a lake or a wide river.",
+  "ipa": "/ʃɔːr/",
+  "ex": "We walked along the shore and collected shells until the sun began to set.",
+  "form": "shore",
+  "nat": "The boat reached the shore just before the storm began.",
+  "syn": [
+   "coast",
+   "beach"
+  ],
+  "ant": [],
+  "col": [
+   "on shore",
+   "along the shore",
+   "lake shore",
+   "shore of"
+  ],
+  "mis": {
+   "bad": "We swam to the margin of the lake.",
+   "good": "We swam to the shore of the lake.",
+   "why": "The edge of a lake is the shore; 'margin' is used for paper and profit."
+  },
+  "fam": [
+   "offshore (adj)"
+  ],
+  "topics": [
+   "travel",
+   "science"
+  ]
+ },
+ {
+  "id": "coast",
+  "w": "coast",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "litoral, costa",
+  "def": "The area of land next to the sea.",
+  "ipa": "/koʊst/",
+  "ex": "They live on the west coast, only a short walk from the sea.",
+  "form": "coast",
+  "nat": "The coast is famous for its beautiful beaches.",
+  "syn": [
+   "shore",
+   "seaside"
+  ],
+  "ant": [
+   "inland"
+  ],
+  "col": [
+   "along the coast",
+   "west coast",
+   "off the coast",
+   "coast guard"
+  ],
+  "mis": {
+   "bad": "I live in the coast of Brazil.",
+   "good": "I live on the coast of Brazil.",
+   "why": "Use 'on' with coast."
+  },
+  "fam": [
+   "coastal (adj)"
+  ],
+  "topics": [
+   "travel",
+   "science"
+  ]
+ },
+ {
+  "id": "island",
+  "w": "island",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "ilha",
+  "def": "A piece of land completely surrounded by water.",
+  "ipa": "/ˈaɪlənd/",
+  "ex": "We took a ferry to a small island off the coast.",
+  "form": "island",
+  "nat": "Madagascar is the fourth largest island in the world.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "a tropical island",
+   "on an island",
+   "desert island",
+   "island hopping"
+  ],
+  "mis": {
+   "bad": "I went to a island last summer.",
+   "good": "I went to an island last summer.",
+   "why": "Use 'an' before the vowel sound at the beginning of island."
+  },
+  "fam": [
+   "islander (noun)",
+   "isle (noun)"
+  ],
+  "topics": [
+   "travel",
+   "science"
+  ]
+ },
+ {
+  "id": "desert",
+  "w": "desert",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "deserto",
+  "def": "A large, dry area where very little rain falls.",
+  "ipa": "/ˈdezərt/",
+  "ex": "Few plants can survive in the hot desert, where it almost never rains.",
+  "form": "desert",
+  "nat": "They crossed the Sahara Desert by camel.",
+  "syn": [
+   "wasteland"
+  ],
+  "ant": [],
+  "col": [
+   "the Sahara Desert",
+   "desert climate",
+   "desert island",
+   "cross a desert"
+  ],
+  "mis": {
+   "bad": "I passed a day in the deserto.",
+   "good": "I spent a day in the desert.",
+   "why": "Spend is used with time; 'pass' is used for time going by."
+  },
+  "fam": [
+   "desertification (noun)"
+  ],
+  "topics": [
+   "travel",
+   "science"
+  ]
+ },
+ {
+  "id": "rainfall",
+  "w": "rainfall",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "precipitação, volume de chuva",
+  "def": "The amount of rain that falls in a place during a period of time.",
+  "ipa": "/ˈreɪnfɔːl/",
+  "ex": "The region gets very little rainfall in the summer, so farmers need to save water.",
+  "form": "rainfall",
+  "nat": "Heavy rainfall caused flooding in several towns.",
+  "syn": [
+   "precipitation"
+  ],
+  "ant": [],
+  "col": [
+   "annual rainfall",
+   "heavy rainfall",
+   "average rainfall",
+   "rainfall levels"
+  ],
+  "mis": {
+   "bad": "The rainfalls are small in my region.",
+   "good": "The rainfall is low in my region.",
+   "why": "Rainfall is uncountable and goes with 'low' or 'high'."
+  },
+  "fam": [
+   "rain (noun)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "tide",
+  "w": "tide",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "maré",
+  "def": "The regular rise and fall of the sea level.",
+  "ipa": "/taɪd/",
+  "ex": "We waited for the tide to go out before walking on the beach.",
+  "form": "tide",
+  "nat": "The tide was so high that the road was under water.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "high tide",
+   "low tide",
+   "the tide comes in",
+   "tide goes out"
+  ],
+  "mis": {
+   "bad": "The tide is very alta now.",
+   "good": "The tide is very high now.",
+   "why": "Use the English adjective high for the tide."
+  },
+  "fam": [
+   "tidal (adj)"
+  ],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "biodegradable",
+  "w": "biodegradable",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "biodegradável",
+  "def": "Able to break down naturally without harming the environment.",
+  "ipa": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+  "ex": "These biodegradable bags break down in a few months, unlike the old plastic ones.",
+  "form": "biodegradable",
+  "nat": "Choose biodegradable packaging whenever you can.",
+  "syn": [],
+  "ant": [
+   "non-biodegradable"
+  ],
+  "col": [
+   "biodegradable packaging",
+   "biodegradable plastic",
+   "fully biodegradable",
+   "biodegradable waste"
+  ],
+  "mis": {
+   "bad": "The bag is biodegradabel.",
+   "good": "The bag is biodegradable.",
+   "why": "The adjective ends in -able, not -abel."
+  },
+  "fam": [
+   "biodegrade (verb)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "fertile",
+  "w": "fertile",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "fértil",
+  "def": "Able to produce good crops or many young.",
+  "ipa": "/ˈfɜːrtəl/",
+  "ex": "The river valley has very fertile land, so farmers have grown crops there for centuries.",
+  "form": "fertile",
+  "nat": "This fertile soil is perfect for growing corn.",
+  "syn": [
+   "productive",
+   "rich"
+  ],
+  "ant": [
+   "barren"
+  ],
+  "col": [
+   "fertile soil",
+   "fertile land",
+   "fertile ground",
+   "fertile imagination"
+  ],
+  "mis": {
+   "bad": "The soil is very fertil.",
+   "good": "The soil is very fertile.",
+   "why": "The spelling is fertile, with a final -e."
+  },
+  "fam": [
+   "fertility (noun)",
+   "fertilize (verb)"
+  ],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "lush",
+  "w": "lush",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "exuberante, verdejante",
+  "def": "Having thick, healthy green growth.",
+  "ipa": "/lʌʃ/",
+  "ex": "The hills were covered with lush green grass after the rain.",
+  "form": "lush",
+  "nat": "We stayed in a hotel surrounded by lush gardens.",
+  "syn": [
+   "green",
+   "abundant"
+  ],
+  "ant": [
+   "barren"
+  ],
+  "col": [
+   "lush vegetation",
+   "lush forest",
+   "lush green",
+   "lush garden"
+  ],
+  "mis": {
+   "bad": "The garden is very lushy.",
+   "good": "The garden is very lush.",
+   "why": "Lush is already an adjective, so no ending is added."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "travel"
+  ]
+ },
+ {
+  "id": "barren",
+  "w": "barren",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "árido, estéril",
+  "def": "Not able to produce plants or crops.",
+  "ipa": "/ˈbærən/",
+  "ex": "Nothing grows in this barren, rocky land, so the farmers moved to the city.",
+  "form": "barren",
+  "nat": "The farmers moved away when the fields became barren.",
+  "syn": [
+   "empty",
+   "infertile"
+  ],
+  "ant": [
+   "fertile",
+   "lush"
+  ],
+  "col": [
+   "barren land",
+   "barren desert",
+   "barren landscape",
+   "barren soil"
+  ],
+  "mis": {
+   "bad": "The soil is barrem.",
+   "good": "The soil is barren.",
+   "why": "The spelling ends in -en, not -em."
+  },
+  "fam": [],
+  "topics": [
+   "science"
+  ]
+ },
+ {
+  "id": "recyclable",
+  "w": "recyclable",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "reciclável",
+  "def": "Able to be processed and used again.",
+  "ipa": "/ˌriːˈsaɪkləbəl/",
+  "ex": "Most of the packaging in our store is recyclable, and we want all of it to be.",
+  "form": "recyclable",
+  "nat": "Glass is fully recyclable and can be reused many times.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "recyclable material",
+   "fully recyclable",
+   "recyclable packaging",
+   "recyclable plastic"
+  ],
+  "mis": {
+   "bad": "All the plastic is recicable.",
+   "good": "All the plastic is recyclable.",
+   "why": "The adjective is recyclable, with 'cl' in the ending."
+  },
+  "fam": [
+   "recycle (verb)",
+   "recycling (noun)"
+  ],
+  "topics": [
+   "science",
+   "daily"
+  ]
+ },
+ {
+  "id": "footprint",
+  "w": "footprint",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "pegada",
+  "def": "A mark left by a foot, or the effect that a person or company has on the environment.",
+  "ipa": "/ˈfʊtprɪnt/",
+  "ex": "We are trying to reduce our carbon footprint by using less energy.",
+  "form": "footprint",
+  "nat": "The company has a small environmental footprint.",
+  "syn": [
+   "impact"
+  ],
+  "ant": [],
+  "col": [
+   "carbon footprint",
+   "environmental footprint",
+   "reduce your footprint",
+   "leave a footprint"
+  ],
+  "mis": {
+   "bad": "I want to reduce my foot print.",
+   "good": "I want to reduce my footprint.",
+   "why": "Footprint is written as one word."
+  },
+  "fam": [],
+  "topics": [
+   "science",
+   "abstract"
+  ]
+ }
+]

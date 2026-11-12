@@ -1,0 +1,1283 @@
+[
+  {
+    "id": "dx-001",
+    "lvl": "A1",
+    "skill": "vocab",
+    "q": "A ____ is an animal that says 'meow'.",
+    "opts": [
+      "cat",
+      "dog",
+      "bird",
+      "fish"
+    ],
+    "ans": 0,
+    "why": "Cats say 'meow'.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-002",
+    "lvl": "A1",
+    "skill": "vocab",
+    "q": "I drink ____ in the morning.",
+    "opts": [
+      "chair",
+      "coffee",
+      "shoe",
+      "window"
+    ],
+    "ans": 1,
+    "why": "You can drink coffee, not a chair, shoe or window.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-003",
+    "lvl": "A1",
+    "skill": "grammar",
+    "q": "She ____ a teacher.",
+    "opts": [
+      "are",
+      "am",
+      "is",
+      "be"
+    ],
+    "ans": 2,
+    "why": "Use 'is' with he/she/it.",
+    "tag": "verb-to-be"
+  },
+  {
+    "id": "dx-004",
+    "lvl": "A1",
+    "skill": "grammar",
+    "q": "They ____ from Brazil.",
+    "opts": [
+      "is",
+      "am",
+      "be",
+      "are"
+    ],
+    "ans": 3,
+    "why": "Use 'are' with they.",
+    "tag": "verb-to-be"
+  },
+  {
+    "id": "dx-005",
+    "lvl": "A1",
+    "skill": "grammar",
+    "q": "I ____ a sister.",
+    "opts": [
+      "have",
+      "has",
+      "am",
+      "is"
+    ],
+    "ans": 0,
+    "why": "Use 'have' with I.",
+    "tag": "have-got"
+  },
+  {
+    "id": "dx-006",
+    "lvl": "A1",
+    "skill": "phrasal",
+    "q": "Please sit ____.",
+    "opts": [
+      "of",
+      "down",
+      "at",
+      "to"
+    ],
+    "ans": 1,
+    "why": "'Sit down' means to take a seat.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-007",
+    "lvl": "A1",
+    "skill": "phrasal",
+    "q": "It is dark. Please turn ____ the light.",
+    "opts": [
+      "at",
+      "to",
+      "on",
+      "in"
+    ],
+    "ans": 2,
+    "why": "'Turn on' starts a light.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-008",
+    "lvl": "A1",
+    "skill": "connectors",
+    "q": "I like tea, ____ I don't like coffee.",
+    "opts": [
+      "and",
+      "or",
+      "so",
+      "but"
+    ],
+    "ans": 3,
+    "why": "Use 'but' to show contrast.",
+    "tag": "connectors"
+  },
+  {
+    "id": "dx-009",
+    "lvl": "A1",
+    "skill": "natural",
+    "q": "Choose the most natural sentence:",
+    "opts": [
+      "My name is Ana.",
+      "I am called Ana name.",
+      "Name my is Ana.",
+      "I name Ana is."
+    ],
+    "ans": 0,
+    "why": "This is the normal way to say your name.",
+    "tag": "natural-english"
+  },
+  {
+    "id": "dx-010",
+    "lvl": "A1",
+    "skill": "reading",
+    "q": "What is the dog's name?",
+    "passage": "Tom is ten years old. He lives in a small house with his mother, his father and his sister. He has a dog. The dog's name is Max. Every day after school, Tom and Max play in the park near the house. Tom loves Max very much.",
+    "opts": [
+      "Tom",
+      "Max",
+      "Ten",
+      "Park"
+    ],
+    "ans": 1,
+    "why": "The text says 'The dog's name is Max'.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-011",
+    "lvl": "A1",
+    "skill": "reading",
+    "q": "How does Anna go to work?",
+    "passage": "Anna gets up at seven o'clock every morning. She eats bread and drinks coffee for breakfast. Then she goes to work by bus. She works in a small shop in the city. The shop opens at nine. Anna goes home at six and watches TV with her mother.",
+    "opts": [
+      "By car",
+      "On foot",
+      "By bus",
+      "By train"
+    ],
+    "ans": 2,
+    "why": "The text says she goes to work by bus.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-012",
+    "lvl": "A1",
+    "skill": "listening",
+    "q": "Where does Paul work?",
+    "script": "Hello, my name is Paul. I am from Canada, but I live in London now. I work in a big hotel near the river. Every day I walk to work, and I like my job very much.",
+    "opts": [
+      "In a school",
+      "In a shop",
+      "In a bank",
+      "In a hotel"
+    ],
+    "ans": 3,
+    "why": "Paul says he works in a big hotel.",
+    "tag": "listening"
+  },
+  {
+    "id": "dx-013",
+    "lvl": "A2",
+    "skill": "vocab",
+    "q": "I need to buy some ____ for dinner: tomatoes and onions.",
+    "opts": [
+      "furniture",
+      "vegetables",
+      "clothes",
+      "jewelry"
+    ],
+    "ans": 1,
+    "why": "Tomatoes and onions are vegetables.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-014",
+    "lvl": "A2",
+    "skill": "vocab",
+    "q": "My brother is very ____. He never stops talking.",
+    "opts": [
+      "quiet",
+      "shy",
+      "talkative",
+      "sleepy"
+    ],
+    "ans": 2,
+    "why": "'Talkative' means someone who talks a lot.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-015",
+    "lvl": "A2",
+    "skill": "grammar",
+    "q": "Yesterday we ____ to the cinema.",
+    "opts": [
+      "go",
+      "goes",
+      "going",
+      "went"
+    ],
+    "ans": 3,
+    "why": "'Yesterday' needs the past simple: went.",
+    "tag": "past-simple"
+  },
+  {
+    "id": "dx-016",
+    "lvl": "A2",
+    "skill": "grammar",
+    "q": "There isn't ____ milk in the fridge.",
+    "opts": [
+      "any",
+      "some",
+      "a",
+      "many"
+    ],
+    "ans": 0,
+    "why": "Use 'any' in negative sentences with uncountable nouns.",
+    "tag": "quantifiers"
+  },
+  {
+    "id": "dx-017",
+    "lvl": "A2",
+    "skill": "grammar",
+    "q": "She is taller ____ her sister.",
+    "opts": [
+      "that",
+      "than",
+      "as",
+      "then"
+    ],
+    "ans": 1,
+    "why": "Use 'than' to compare.",
+    "tag": "comparatives"
+  },
+  {
+    "id": "dx-018",
+    "lvl": "A2",
+    "skill": "phrasal",
+    "q": "Please ____ your shoes before you enter the house.",
+    "opts": [
+      "take out",
+      "take up",
+      "take off",
+      "take in"
+    ],
+    "ans": 2,
+    "why": "'Take off' means remove clothes or shoes.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-019",
+    "lvl": "A2",
+    "skill": "phrasal",
+    "q": "I'm looking ____ my keys. Have you seen them?",
+    "opts": [
+      "at",
+      "after",
+      "up",
+      "for"
+    ],
+    "ans": 3,
+    "why": "'Look for' means to search for something.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-020",
+    "lvl": "A2",
+    "skill": "connectors",
+    "q": "I was tired, ____ I went to bed early.",
+    "opts": [
+      "so",
+      "because",
+      "but",
+      "or"
+    ],
+    "ans": 0,
+    "why": "'So' shows a result.",
+    "tag": "connectors"
+  },
+  {
+    "id": "dx-021",
+    "lvl": "A2",
+    "skill": "natural",
+    "q": "Choose the most natural sentence:",
+    "opts": [
+      "How much costs this?",
+      "How much is this?",
+      "How many is this?",
+      "What is the money of this?"
+    ],
+    "ans": 1,
+    "why": "'How much is this?' is the normal question about price.",
+    "tag": "natural-english"
+  },
+  {
+    "id": "dx-022",
+    "lvl": "A2",
+    "skill": "reading",
+    "q": "Why did they eat lunch in the garden?",
+    "passage": "Last weekend, Maria visited her grandmother in the countryside. The weather was sunny, so they had lunch in the garden. After lunch, they picked apples from the trees and made a cake. Maria took the bus back home on Sunday evening. She was tired but very happy.",
+    "opts": [
+      "The house was small.",
+      "It was raining.",
+      "The weather was sunny.",
+      "The cake was ready."
+    ],
+    "ans": 2,
+    "why": "The text says it was sunny, so they ate outside.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-023",
+    "lvl": "A2",
+    "skill": "reading",
+    "q": "Which sentence is true about the Blue Café?",
+    "passage": "The Blue Café opens at 8 a.m. and closes at 6 p.m. from Monday to Saturday. It is closed on Sundays. You can have breakfast, lunch and coffee there. A sandwich costs four euros. The café has free Wi-Fi, but it does not accept credit cards.",
+    "opts": [
+      "It is open on Sundays.",
+      "It closes at 8 p.m.",
+      "Wi-Fi costs extra money.",
+      "It does not accept credit cards."
+    ],
+    "ans": 3,
+    "why": "The text says it does not accept credit cards.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-024",
+    "lvl": "A2",
+    "skill": "listening",
+    "q": "Which platform does the train to Manchester leave from?",
+    "script": "Excuse me, the train to Manchester leaves from platform four, not platform two. It leaves at ten thirty. Please do not forget your tickets, and remember that the next train is in one hour.",
+    "opts": [
+      "Platform four",
+      "Platform two",
+      "Platform ten",
+      "Platform three"
+    ],
+    "ans": 0,
+    "why": "The speaker says platform four, not platform two.",
+    "tag": "listening"
+  },
+  {
+    "id": "dx-025",
+    "lvl": "B1",
+    "skill": "vocab",
+    "q": "The hotel was fully ____, so we had to find another place to stay.",
+    "opts": [
+      "crowded",
+      "packed",
+      "booked",
+      "closed"
+    ],
+    "ans": 2,
+    "why": "'Fully booked' means there are no free rooms.",
+    "tag": "collocations"
+  },
+  {
+    "id": "dx-026",
+    "lvl": "B1",
+    "skill": "vocab",
+    "q": "The film was so ____ that I almost fell asleep.",
+    "opts": [
+      "bored",
+      "bore",
+      "bores",
+      "boring"
+    ],
+    "ans": 3,
+    "why": "Use -ing for the thing that causes the feeling.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-027",
+    "lvl": "B1",
+    "skill": "grammar",
+    "q": "She has lived here ____ 2015.",
+    "opts": [
+      "since",
+      "for",
+      "from",
+      "during"
+    ],
+    "ans": 0,
+    "why": "Use 'since' with a starting point in time.",
+    "tag": "present-perfect"
+  },
+  {
+    "id": "dx-028",
+    "lvl": "B1",
+    "skill": "grammar",
+    "q": "If it ____ tomorrow, we will stay at home.",
+    "opts": [
+      "will rain",
+      "rains",
+      "would rain",
+      "rained"
+    ],
+    "ans": 1,
+    "why": "In a first conditional, use present simple after 'if'.",
+    "tag": "first-conditional"
+  },
+  {
+    "id": "dx-029",
+    "lvl": "B1",
+    "skill": "grammar",
+    "q": "Have you ever ____ a horse?",
+    "opts": [
+      "rode",
+      "ride",
+      "ridden",
+      "riding"
+    ],
+    "ans": 2,
+    "why": "Present perfect uses the past participle: ridden.",
+    "tag": "present-perfect"
+  },
+  {
+    "id": "dx-030",
+    "lvl": "B1",
+    "skill": "phrasal",
+    "q": "The plane ____ at 6 a.m., so we had to wake up very early.",
+    "opts": [
+      "got off",
+      "set up",
+      "went off",
+      "took off"
+    ],
+    "ans": 3,
+    "why": "A plane 'takes off' when it leaves the ground.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-031",
+    "lvl": "B1",
+    "skill": "phrasal",
+    "q": "I don't know this word. Let me ____ in a dictionary.",
+    "opts": [
+      "look it up",
+      "look up it",
+      "look after it",
+      "look it at"
+    ],
+    "ans": 0,
+    "why": "'Look something up' means search for information. A pronoun goes in the middle.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-032",
+    "lvl": "B1",
+    "skill": "connectors",
+    "q": "I was very tired. ____, I finished the report.",
+    "opts": [
+      "Because",
+      "However",
+      "Although",
+      "So that"
+    ],
+    "ans": 1,
+    "why": "'However' shows contrast between two sentences.",
+    "tag": "connectors"
+  },
+  {
+    "id": "dx-033",
+    "lvl": "B1",
+    "skill": "natural",
+    "q": "Choose the most natural sentence:",
+    "opts": [
+      "I look forward to see you.",
+      "I'm looking forward to see you.",
+      "I'm looking forward to seeing you.",
+      "I'm looking forward for seeing you."
+    ],
+    "ans": 2,
+    "why": "After 'look forward to', use the -ing form.",
+    "tag": "natural-english"
+  },
+  {
+    "id": "dx-034",
+    "lvl": "B1",
+    "skill": "reading",
+    "q": "Why do some companies ask employees to come to the office sometimes?",
+    "passage": "Remote work has become popular in many companies. Employees can save time because they do not need to travel to the office, and they often say they feel more relaxed at home. However, some people miss talking to colleagues face to face. For this reason, a lot of companies now ask workers to come to the office two or three days a week.",
+    "opts": [
+      "Homes are too noisy.",
+      "Offices are cheaper.",
+      "Travel is free.",
+      "Some workers miss face-to-face contact."
+    ],
+    "ans": 3,
+    "why": "The text says some people miss talking to colleagues.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-035",
+    "lvl": "B1",
+    "skill": "reading",
+    "q": "Why can't Laura go to the party?",
+    "passage": "Dear Sam, thank you for inviting me to your party on Saturday. Unfortunately, I can't come because I have to visit my aunt in hospital. She had an operation last week and she is feeling better now. Maybe we can have dinner next week instead? Let me know which day is good for you. Best wishes, Laura",
+    "opts": [
+      "She is visiting a relative in hospital.",
+      "She is ill.",
+      "She is having an operation.",
+      "She is having dinner with Sam."
+    ],
+    "ans": 0,
+    "why": "She has to visit her aunt in hospital.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-036",
+    "lvl": "B1",
+    "skill": "listening",
+    "q": "What does Karen want to do?",
+    "script": "Hi, it's Karen. I'm calling about our meeting tomorrow. Unfortunately, I have a dentist appointment in the morning, so I won't be able to arrive before eleven. Could we start at noon instead? Please call me back if that's a problem.",
+    "opts": [
+      "Cancel the meeting",
+      "Move the meeting to noon",
+      "Start the meeting earlier",
+      "Meet at the dentist"
+    ],
+    "ans": 1,
+    "why": "She asks to start at noon instead.",
+    "tag": "listening"
+  },
+  {
+    "id": "dx-037",
+    "lvl": "B1+",
+    "skill": "vocab",
+    "q": "The company decided to ____ new staff because of the growing workload.",
+    "opts": [
+      "fire",
+      "retire",
+      "resign",
+      "hire"
+    ],
+    "ans": 3,
+    "why": "'Hire' means to give someone a job.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-038",
+    "lvl": "B1+",
+    "skill": "vocab",
+    "q": "We need to ____ the deadline; the project must be ready on Friday.",
+    "opts": [
+      "meet",
+      "do",
+      "hold",
+      "carry"
+    ],
+    "ans": 0,
+    "why": "'Meet a deadline' is the standard collocation.",
+    "tag": "collocations"
+  },
+  {
+    "id": "dx-039",
+    "lvl": "B1+",
+    "skill": "grammar",
+    "q": "I enjoy ____ new languages.",
+    "opts": [
+      "to learn",
+      "learning",
+      "learn",
+      "learned"
+    ],
+    "ans": 1,
+    "why": "'Enjoy' is followed by the -ing form.",
+    "tag": "gerund-infinitive"
+  },
+  {
+    "id": "dx-040",
+    "lvl": "B1+",
+    "skill": "grammar",
+    "q": "She decided ____ a new job.",
+    "opts": [
+      "looking for",
+      "look for",
+      "to look for",
+      "for looking"
+    ],
+    "ans": 2,
+    "why": "'Decide' is followed by 'to' + verb.",
+    "tag": "gerund-infinitive"
+  },
+  {
+    "id": "dx-041",
+    "lvl": "B1+",
+    "skill": "grammar",
+    "q": "When I arrived, the film ____ already.",
+    "opts": [
+      "has started",
+      "was starting",
+      "starts",
+      "had started"
+    ],
+    "ans": 3,
+    "why": "Use past perfect for an action before another past action.",
+    "tag": "past-perfect"
+  },
+  {
+    "id": "dx-042",
+    "lvl": "B1+",
+    "skill": "phrasal",
+    "q": "The car ____ on the way to the airport, so we missed our flight.",
+    "opts": [
+      "broke down",
+      "broke up",
+      "broke out",
+      "broke in"
+    ],
+    "ans": 0,
+    "why": "'Break down' means a machine stops working.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-043",
+    "lvl": "B1+",
+    "skill": "phrasal",
+    "q": "I can't ____ with this noise any longer. It's driving me crazy.",
+    "opts": [
+      "put on",
+      "put up",
+      "put off",
+      "put out"
+    ],
+    "ans": 1,
+    "why": "'Put up with' means to tolerate.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-044",
+    "lvl": "B1+",
+    "skill": "connectors",
+    "q": "I'll lend you the car ____ you drive carefully.",
+    "opts": [
+      "unless",
+      "although",
+      "as long as",
+      "whereas"
+    ],
+    "ans": 2,
+    "why": "'As long as' means 'on the condition that'.",
+    "tag": "connectors"
+  },
+  {
+    "id": "dx-045",
+    "lvl": "B1+",
+    "skill": "natural",
+    "q": "Choose the most natural sentence:",
+    "opts": [
+      "I work here since three years.",
+      "I am working here for three years.",
+      "I have work here since three years.",
+      "I've been working here for three years."
+    ],
+    "ans": 3,
+    "why": "Use present perfect continuous with 'for' + a period of time.",
+    "tag": "natural-english"
+  },
+  {
+    "id": "dx-046",
+    "lvl": "B1+",
+    "skill": "reading",
+    "q": "According to the text, what was the best way for Priya to improve?",
+    "passage": "When Priya moved to Berlin for her first job, she did not speak any German. At first, even buying bread was stressful. She started taking evening classes and practised with her neighbours, who were patient and kind. After eight months, she could follow conversations at work. She says that making mistakes was the best way to improve.",
+    "opts": [
+      "Making mistakes",
+      "Taking evening classes",
+      "Talking to neighbours",
+      "Buying bread"
+    ],
+    "ans": 0,
+    "why": "The last sentence says making mistakes was the best way.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-047",
+    "lvl": "B1+",
+    "skill": "reading",
+    "q": "What will happen to cyclists during the repairs?",
+    "passage": "The city council has announced that the old bridge will be closed for repairs from 1 March. The work should take about six months. During this time, buses will use the new road near the station, which may add ten minutes to the journey. Cyclists will still be able to cross using a temporary path.",
+    "opts": [
+      "They must take the bus.",
+      "They can use a temporary path.",
+      "They cannot cross the river.",
+      "They will use the new road."
+    ],
+    "ans": 1,
+    "why": "The text says cyclists can cross using a temporary path.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-048",
+    "lvl": "B1+",
+    "skill": "listening",
+    "q": "What does the captain say about the landing?",
+    "script": "Good evening, passengers. This is your captain speaking. We are about to start our descent into Lisbon. The weather is warm and clear, and we expect to land ten minutes ahead of schedule. Please fasten your seat belts and put your tray tables away.",
+    "opts": [
+      "It will be delayed.",
+      "It will be in bad weather.",
+      "It will be earlier than planned.",
+      "It will be cancelled."
+    ],
+    "ans": 2,
+    "why": "He expects to land ten minutes ahead of schedule.",
+    "tag": "listening"
+  },
+  {
+    "id": "dx-049",
+    "lvl": "B2",
+    "skill": "vocab",
+    "q": "The two sides finally managed to ____ a compromise.",
+    "opts": [
+      "reach",
+      "arrive",
+      "hold",
+      "keep"
+    ],
+    "ans": 0,
+    "why": "'Reach a compromise' is the standard collocation.",
+    "tag": "collocations"
+  },
+  {
+    "id": "dx-050",
+    "lvl": "B2",
+    "skill": "vocab",
+    "q": "The two companies decided to ____ forces to develop a new app.",
+    "opts": [
+      "link",
+      "join",
+      "bind",
+      "tie"
+    ],
+    "ans": 1,
+    "why": "'Join forces' means to work together.",
+    "tag": "collocations"
+  },
+  {
+    "id": "dx-051",
+    "lvl": "B2",
+    "skill": "grammar",
+    "q": "If I ____ more time, I would learn to play the guitar.",
+    "opts": [
+      "have",
+      "would have",
+      "had",
+      "will have"
+    ],
+    "ans": 2,
+    "why": "In a second conditional, use past simple after 'if'.",
+    "tag": "second-conditional"
+  },
+  {
+    "id": "dx-052",
+    "lvl": "B2",
+    "skill": "grammar",
+    "q": "The bridge ____ in 1990.",
+    "opts": [
+      "built",
+      "has built",
+      "was build",
+      "was built"
+    ],
+    "ans": 3,
+    "why": "Use the passive: was + past participle.",
+    "tag": "passive"
+  },
+  {
+    "id": "dx-053",
+    "lvl": "B2",
+    "skill": "grammar",
+    "q": "She told me that she ____ the report the day before.",
+    "opts": [
+      "had finished",
+      "has finished",
+      "finishes",
+      "will finish"
+    ],
+    "ans": 0,
+    "why": "In reported speech, the past moves back to past perfect.",
+    "tag": "reported-speech"
+  },
+  {
+    "id": "dx-054",
+    "lvl": "B2",
+    "skill": "phrasal",
+    "q": "The company is planning to ____ a new product next spring.",
+    "opts": [
+      "bring up",
+      "bring out",
+      "bring on",
+      "bring down"
+    ],
+    "ans": 1,
+    "why": "'Bring out' means to release a product.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-055",
+    "lvl": "B2",
+    "skill": "phrasal",
+    "q": "The two friends fell ____ over money and have not spoken since.",
+    "opts": [
+      "off",
+      "down",
+      "out",
+      "through"
+    ],
+    "ans": 2,
+    "why": "'Fall out' means to argue and stop being friendly.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-056",
+    "lvl": "B2",
+    "skill": "connectors",
+    "q": "The first model was cheap, ____ the second was very expensive.",
+    "opts": [
+      "nevertheless",
+      "therefore",
+      "moreover",
+      "whereas"
+    ],
+    "ans": 3,
+    "why": "'Whereas' compares two different things in one sentence.",
+    "tag": "connectors"
+  },
+  {
+    "id": "dx-057",
+    "lvl": "B2",
+    "skill": "natural",
+    "q": "Choose the most natural sentence:",
+    "opts": [
+      "If I had known about the meeting, I would have come.",
+      "If I would have known about the meeting, I would come.",
+      "If I knew about the meeting, I would have come.",
+      "If I had known about the meeting, I will come."
+    ],
+    "ans": 0,
+    "why": "Third conditional: if + past perfect, would have + past participle.",
+    "tag": "third-conditional"
+  },
+  {
+    "id": "dx-058",
+    "lvl": "B2",
+    "skill": "reading",
+    "q": "What can be inferred about Marcus?",
+    "passage": "Marcus had always assumed that open-plan offices would make teamwork easier. After six months in one, he was not so sure. The constant noise made it hard to concentrate, and he started wearing headphones just to finish simple tasks. His manager, however, believed the layout encouraged spontaneous conversations. Marcus decided to keep a diary of how often he was actually interrupted.",
+    "opts": [
+      "He wants to leave the company.",
+      "He is starting to doubt the open-plan office.",
+      "He agrees with his manager.",
+      "He prefers working in a team."
+    ],
+    "ans": 1,
+    "why": "He was 'not so sure' and keeps a diary of interruptions.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-059",
+    "lvl": "B2",
+    "skill": "reading",
+    "q": "What is the writer's main point?",
+    "passage": "Although electric cars are often described as 'zero-emission', their environmental impact depends on how the electricity is produced. In countries that rely heavily on coal, the benefit is smaller. Nevertheless, studies suggest that over its lifetime an electric car usually produces fewer emissions than a petrol one, particularly as power grids become cleaner.",
+    "opts": [
+      "Electric cars are worse than petrol cars.",
+      "Coal is cleaner than expected.",
+      "The benefit of electric cars depends on how electricity is made.",
+      "Electric cars are too expensive."
+    ],
+    "ans": 2,
+    "why": "The text says the impact depends on how the electricity is produced.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-060",
+    "lvl": "B2",
+    "skill": "listening",
+    "q": "Why has the launch been postponed?",
+    "script": "Thanks for coming, everyone. I'll be brief. The launch has been moved from June to September, not because of technical problems, but because our main supplier can't deliver the screens on time. We'll discuss how this affects the budget after the break.",
+    "opts": [
+      "There are technical problems.",
+      "The budget was cut.",
+      "There are not enough staff.",
+      "A supplier cannot deliver on time."
+    ],
+    "ans": 3,
+    "why": "The speaker says it is not technical; the supplier cannot deliver the screens.",
+    "tag": "listening"
+  },
+  {
+    "id": "dx-061",
+    "lvl": "B2+",
+    "skill": "vocab",
+    "q": "The author's argument is quite ____: it is hard to find any flaw in it.",
+    "opts": [
+      "fragile",
+      "watertight",
+      "shallow",
+      "vague"
+    ],
+    "ans": 1,
+    "why": "'Watertight' means with no weak points.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-062",
+    "lvl": "B2+",
+    "skill": "vocab",
+    "q": "The new policy has had a ____ effect on small businesses, forcing many to close.",
+    "opts": [
+      "beneficial",
+      "negligible",
+      "detrimental",
+      "marginal"
+    ],
+    "ans": 2,
+    "why": "'Detrimental' means harmful.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-063",
+    "lvl": "B2+",
+    "skill": "grammar",
+    "q": "If I had taken that job, I ____ in Dubai now.",
+    "opts": [
+      "would have lived",
+      "had been living",
+      "will be living",
+      "would be living"
+    ],
+    "ans": 3,
+    "why": "Mixed conditional: past condition, present result.",
+    "tag": "mixed-conditionals"
+  },
+  {
+    "id": "dx-064",
+    "lvl": "B2+",
+    "skill": "grammar",
+    "q": "The ground is wet. It ____ during the night.",
+    "opts": [
+      "must have rained",
+      "must rain",
+      "should rain",
+      "will have rain"
+    ],
+    "ans": 0,
+    "why": "Use 'must have' + past participle for a past deduction.",
+    "tag": "modals-deduction"
+  },
+  {
+    "id": "dx-065",
+    "lvl": "B2+",
+    "skill": "grammar",
+    "q": "I wish I ____ more careful with money when I was young.",
+    "opts": [
+      "were",
+      "had been",
+      "would be",
+      "have been"
+    ],
+    "ans": 1,
+    "why": "Use past perfect after 'wish' for past regrets.",
+    "tag": "wish"
+  },
+  {
+    "id": "dx-066",
+    "lvl": "B2+",
+    "skill": "phrasal",
+    "q": "The negotiations ____ because neither side was willing to compromise.",
+    "opts": [
+      "broke out",
+      "broke up",
+      "broke down",
+      "broke in"
+    ],
+    "ans": 2,
+    "why": "'Break down' means to fail.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-067",
+    "lvl": "B2+",
+    "skill": "phrasal",
+    "q": "She really ____ her mother; they have the same laugh.",
+    "opts": [
+      "takes over",
+      "takes in",
+      "takes on",
+      "takes after"
+    ],
+    "ans": 3,
+    "why": "'Take after' means to look or behave like a relative.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-068",
+    "lvl": "B2+",
+    "skill": "connectors",
+    "q": "____ the traffic, we arrived on time.",
+    "opts": [
+      "Despite",
+      "Although",
+      "However",
+      "Whereas"
+    ],
+    "ans": 0,
+    "why": "'Despite' is followed by a noun phrase.",
+    "tag": "connectors"
+  },
+  {
+    "id": "dx-069",
+    "lvl": "B2+",
+    "skill": "natural",
+    "q": "Choose the most natural sentence:",
+    "opts": [
+      "Finished the report, she sent it to her boss.",
+      "Having finished the report, she sent it to her boss.",
+      "Having finish the report, she sent it to her boss.",
+      "Having finished the report, sent she it to her boss."
+    ],
+    "ans": 1,
+    "why": "A perfect participle clause shows an earlier action.",
+    "tag": "participle-clauses"
+  },
+  {
+    "id": "dx-070",
+    "lvl": "B2+",
+    "skill": "reading",
+    "q": "What is the writer's attitude to the claim in the final sentence?",
+    "passage": "Many people believe that multitasking makes them more productive. Research, however, suggests the opposite. Switching between tasks forces the brain to refocus each time, which wastes time and increases the likelihood of errors. Some psychologists even argue that heavy multitaskers become worse at filtering out irrelevant information, though this claim remains controversial.",
+    "opts": [
+      "Enthusiastic",
+      "Dismissive",
+      "Cautious",
+      "Indifferent"
+    ],
+    "ans": 2,
+    "why": "The writer says it 'remains controversial'.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-071",
+    "lvl": "B2+",
+    "skill": "reading",
+    "q": "What does the writer imply about the restaurant?",
+    "passage": "The restaurant, once the most talked-about in town, had clearly seen better days. The paint was peeling, the menu offered few options, and the waiter seemed more interested in his phone than in his customers. Only the dessert, a delicate lemon tart, hinted at the kitchen's former glory.",
+    "opts": [
+      "It has just opened.",
+      "It is very cheap.",
+      "Its desserts are poor.",
+      "Its quality has declined."
+    ],
+    "ans": 3,
+    "why": "'Had seen better days' means it was better in the past.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-072",
+    "lvl": "B2+",
+    "skill": "listening",
+    "q": "What is the speaker's main complaint?",
+    "script": "I'm not saying the proposal is bad. It's just that, had we been consulted earlier, we might have spotted the problem with the schedule. As it stands, we'll have to work weekends to catch up, and I doubt the team will be happy about that.",
+    "opts": [
+      "The team wasn't consulted early enough.",
+      "The proposal is bad.",
+      "The team has too much free time.",
+      "The schedule is too relaxed."
+    ],
+    "ans": 0,
+    "why": "He says earlier consultation would have revealed the problem.",
+    "tag": "listening"
+  },
+  {
+    "id": "dx-073",
+    "lvl": "C1",
+    "skill": "vocab",
+    "q": "The politician's remarks were deliberately ____, leaving room for several interpretations.",
+    "opts": [
+      "explicit",
+      "blunt",
+      "ambiguous",
+      "candid"
+    ],
+    "ans": 2,
+    "why": "'Ambiguous' means open to more than one meaning.",
+    "tag": "vocabulary"
+  },
+  {
+    "id": "dx-074",
+    "lvl": "C1",
+    "skill": "vocab",
+    "q": "It's time to ____ the bullet and tell him the truth.",
+    "opts": [
+      "chew",
+      "swallow",
+      "fire",
+      "bite"
+    ],
+    "ans": 3,
+    "why": "'Bite the bullet' means to face something unpleasant.",
+    "tag": "idioms"
+  },
+  {
+    "id": "dx-075",
+    "lvl": "C1",
+    "skill": "grammar",
+    "q": "Not only ____ the deadline, but they also exceeded the budget.",
+    "opts": [
+      "did they miss",
+      "they missed",
+      "they did miss",
+      "missed they"
+    ],
+    "ans": 0,
+    "why": "After 'Not only' at the start, use question-style word order.",
+    "tag": "inversion"
+  },
+  {
+    "id": "dx-076",
+    "lvl": "C1",
+    "skill": "grammar",
+    "q": "It is essential that he ____ the meeting.",
+    "opts": [
+      "attends",
+      "attend",
+      "attended",
+      "will attend"
+    ],
+    "ans": 1,
+    "why": "The mandative subjunctive uses the base form of the verb.",
+    "tag": "subjunctive"
+  },
+  {
+    "id": "dx-077",
+    "lvl": "C1",
+    "skill": "grammar",
+    "q": "____ I need is a good night's sleep.",
+    "opts": [
+      "That",
+      "Which",
+      "What",
+      "It"
+    ],
+    "ans": 2,
+    "why": "A cleft sentence with 'What' puts focus on the thing needed.",
+    "tag": "cleft-sentences"
+  },
+  {
+    "id": "dx-078",
+    "lvl": "C1",
+    "skill": "phrasal",
+    "q": "She finally ____ the courage to ask for a raise.",
+    "opts": [
+      "pulled in",
+      "pushed up",
+      "picked off",
+      "plucked up"
+    ],
+    "ans": 3,
+    "why": "'Pluck up courage' means to become brave enough.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-079",
+    "lvl": "C1",
+    "skill": "phrasal",
+    "q": "The report ____ the flaws in the original design, which angered the engineers.",
+    "opts": [
+      "glossed over",
+      "glossed up",
+      "glossed out",
+      "glossed through"
+    ],
+    "ans": 0,
+    "why": "'Gloss over' means to treat a problem quickly so that it seems unimportant.",
+    "tag": "phrasal-verbs"
+  },
+  {
+    "id": "dx-080",
+    "lvl": "C1",
+    "skill": "connectors",
+    "q": "____ the evidence, it is difficult to see how the verdict could be justified.",
+    "opts": [
+      "In spite",
+      "In light of",
+      "Apart",
+      "Regardless"
+    ],
+    "ans": 1,
+    "why": "'In light of' means considering. The others need 'of'.",
+    "tag": "connectors"
+  },
+  {
+    "id": "dx-081",
+    "lvl": "C1",
+    "skill": "natural",
+    "q": "Choose the most natural sentence:",
+    "opts": [
+      "Little she realised how much the decision would cost her.",
+      "Little realised she how much the decision would cost her.",
+      "Little did she realise how much the decision would cost her.",
+      "Little did she realised how much the decision would cost her."
+    ],
+    "ans": 2,
+    "why": "After 'Little' at the start, use did + base verb.",
+    "tag": "inversion"
+  },
+  {
+    "id": "dx-082",
+    "lvl": "C1",
+    "skill": "reading",
+    "q": "What is the 'irony' mentioned by critics?",
+    "passage": "The notion that technology inevitably brings progress has come under increasing scrutiny. While few would deny that digital tools have streamlined countless tasks, critics contend that they have also eroded our capacity for sustained attention. The irony, they argue, is that the very devices designed to connect us frequently leave us more isolated, tethered to screens rather than to one another.",
+    "opts": [
+      "Technology has made tasks harder.",
+      "Critics themselves use digital tools.",
+      "Progress is inevitable.",
+      "Devices meant to connect people can leave them isolated."
+    ],
+    "ans": 3,
+    "why": "Devices designed to connect us leave us more isolated.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-083",
+    "lvl": "C1",
+    "skill": "reading",
+    "q": "What does the passage suggest about the minister?",
+    "passage": "Far from being the hardliner the press portrayed, the minister proved remarkably pragmatic in private. Colleagues recall that she would readily abandon a position if presented with compelling data, a trait that sat uneasily with her public image as an ideologue.",
+    "opts": [
+      "Her public image differed from her private behaviour.",
+      "She was inflexible in private.",
+      "She disliked using data.",
+      "The press admired her."
+    ],
+    "ans": 0,
+    "why": "She was pragmatic in private but seen as a hardliner.",
+    "tag": "reading"
+  },
+  {
+    "id": "dx-084",
+    "lvl": "C1",
+    "skill": "listening",
+    "q": "What is the speaker's overall view of the study?",
+    "script": "Frankly, the findings are far from conclusive. The sample was small, the methodology was questionable at best, and, were the study to be repeated, I suspect the results would look rather different. That said, it would be unfair to dismiss the whole thing out of hand.",
+    "opts": [
+      "Fully supportive",
+      "Critical, but not completely dismissive",
+      "Completely dismissive",
+      "Uninterested"
+    ],
+    "ans": 1,
+    "why": "He criticises it but says it would be unfair to dismiss it entirely.",
+    "tag": "listening"
+  }
+]

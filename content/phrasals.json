@@ -1,0 +1,2147 @@
+[
+ {
+  "id": "get-up",
+  "v": "get",
+  "p": "up",
+  "lvl": "B1",
+  "pt": "levantar-se",
+  "def": "To leave your bed after sleeping.",
+  "ex": "I usually get up at six on weekdays.",
+  "form": "get up",
+  "sep": false,
+  "nat": "Why did you get up so early today?",
+  "syn": [
+   "rise"
+  ],
+  "formal": "rise",
+  "contrast": "get up (sair da cama) ≠ wake up (acordar): I woke up at five but got up at six.",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "get-along",
+  "v": "get",
+  "p": "along",
+  "lvl": "B1+",
+  "pt": "dar-se bem",
+  "def": "To have a friendly relationship with someone.",
+  "ex": "I get along well with my new teammates.",
+  "form": "get along",
+  "sep": false,
+  "nat": "Do your kids get along with each other?",
+  "syn": [
+   "get on",
+   "be on good terms"
+  ],
+  "formal": "have a good rapport",
+  "contrast": "",
+  "topics": [
+   "relationships",
+   "work"
+  ]
+ },
+ {
+  "id": "get-over",
+  "v": "get",
+  "p": "over",
+  "lvl": "B2",
+  "pt": "superar",
+  "def": "To recover from an illness or a bad experience.",
+  "ex": "It took her months to get over the flu.",
+  "form": "get over",
+  "sep": false,
+  "nat": "You will get over it soon; just give it time.",
+  "syn": [
+   "recover from",
+   "overcome"
+  ],
+  "formal": "overcome",
+  "contrast": "get over (superar) ≠ get over with (acabar logo com algo desagradável).",
+  "topics": [
+   "daily",
+   "relationships"
+  ]
+ },
+ {
+  "id": "get-away-with",
+  "v": "get",
+  "p": "away with",
+  "lvl": "B2+",
+  "pt": "escapar impune",
+  "def": "To do something wrong without being punished.",
+  "ex": "He thought he could get away with cheating on the test.",
+  "form": "get away with",
+  "sep": false,
+  "nat": "You will not get away with this!",
+  "syn": [
+   "go unpunished",
+   "escape punishment"
+  ],
+  "formal": "evade consequences",
+  "contrast": "",
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "get-by",
+  "v": "get",
+  "p": "by",
+  "lvl": "B2",
+  "pt": "se virar",
+  "def": "To manage to live or cope with limited money or resources.",
+  "ex": "We can get by on one salary for a while.",
+  "form": "get by",
+  "sep": false,
+  "nat": "My Spanish is basic, but I can get by when I travel.",
+  "syn": [
+   "manage",
+   "cope"
+  ],
+  "formal": "manage",
+  "contrast": "",
+  "topics": [
+   "travel",
+   "daily"
+  ]
+ },
+ {
+  "id": "get-through",
+  "v": "get",
+  "p": "through",
+  "lvl": "B2",
+  "pt": "superar; concluir",
+  "def": "To finish or survive a difficult task or period.",
+  "ex": "I need coffee to get through this meeting.",
+  "form": "get through",
+  "sep": false,
+  "nat": "Somehow we will get through this quarter.",
+  "syn": [
+   "endure",
+   "complete"
+  ],
+  "formal": "endure",
+  "contrast": "get through (to someone) também significa conseguir contato: I couldn't get through to the helpline.",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "get-back-to",
+  "v": "get",
+  "p": "back to",
+  "lvl": "B1+",
+  "pt": "retornar o contato",
+  "def": "To contact someone later with an answer or information.",
+  "ex": "Let me check and get back to you tomorrow.",
+  "form": "get back to",
+  "sep": false,
+  "nat": "She promised to get back to me by Friday.",
+  "syn": [
+   "respond to",
+   "reply to"
+  ],
+  "formal": "respond to",
+  "contrast": "get back to (retornar o contato) ≠ come back to (voltar a um lugar).",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "get-around",
+  "v": "get",
+  "p": "around",
+  "lvl": "B2",
+  "pt": "contornar; circular",
+  "def": "To find a way to avoid a problem or rule.",
+  "ex": "We can get around the delay by using express shipping.",
+  "form": "get around",
+  "sep": false,
+  "nat": "Is there any way to get around this error?",
+  "syn": [
+   "bypass",
+   "circumvent"
+  ],
+  "formal": "circumvent",
+  "contrast": "get around também = espalhar-se: News gets around fast.",
+  "topics": [
+   "tech",
+   "work"
+  ]
+ },
+ {
+  "id": "get-across",
+  "v": "get",
+  "p": "across",
+  "lvl": "B2+",
+  "pt": "fazer entender",
+  "def": "To make an idea understood by other people.",
+  "ex": "It was hard to get across how serious the problem was.",
+  "form": "get across",
+  "sep": true,
+  "nat": "Good presenters know how to get across complex ideas simply.",
+  "syn": [
+   "convey",
+   "communicate"
+  ],
+  "formal": "convey",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "turn-down",
+  "v": "turn",
+  "p": "down",
+  "lvl": "B1+",
+  "pt": "recusar; abaixar",
+  "def": "To refuse an offer or request.",
+  "ex": "She turned down the job because the salary was too low.",
+  "form": "turned down",
+  "sep": true,
+  "nat": "I had to turn down their invitation.",
+  "syn": [
+   "decline",
+   "reject"
+  ],
+  "formal": "decline",
+  "contrast": "turn down também = abaixar o volume: Turn down the music.",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "turn-up",
+  "v": "turn",
+  "p": "up",
+  "lvl": "B1",
+  "pt": "aparecer; aumentar",
+  "def": "To arrive or appear, often unexpectedly.",
+  "ex": "Only half of the guests turned up on time.",
+  "form": "turned up",
+  "sep": false,
+  "nat": "My keys turned up in the washing machine.",
+  "syn": [
+   "appear",
+   "arrive"
+  ],
+  "formal": "arrive",
+  "contrast": "turn up (aparecer) é inseparável; turn up the volume (aumentar) é separável (turn it up) ≠ turn down.",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "turn-out",
+  "v": "turn",
+  "p": "out",
+  "lvl": "B2",
+  "pt": "acabar sendo",
+  "def": "To end up in a particular way.",
+  "ex": "The weather turned out better than expected.",
+  "form": "turned out",
+  "sep": false,
+  "nat": "It turns out that the bug was in the database.",
+  "syn": [
+   "prove",
+   "end up"
+  ],
+  "formal": "prove to be",
+  "contrast": "turn out to be + substantivo/adjetivo: It turned out to be a mistake.",
+  "topics": [
+   "daily",
+   "work"
+  ]
+ },
+ {
+  "id": "turn-into",
+  "v": "turn",
+  "p": "into",
+  "lvl": "B1+",
+  "pt": "transformar-se em",
+  "def": "To change and become something different.",
+  "ex": "The small startup turned into a global company.",
+  "form": "turned into",
+  "sep": false,
+  "nat": "Water turns into ice below zero degrees.",
+  "syn": [
+   "become",
+   "transform into"
+  ],
+  "formal": "transform into",
+  "contrast": "",
+  "topics": [
+   "daily",
+   "work"
+  ]
+ },
+ {
+  "id": "turn-off",
+  "v": "turn",
+  "p": "off",
+  "lvl": "B1",
+  "pt": "desligar",
+  "def": "To stop a machine or light from working.",
+  "ex": "Please turn off your phones during the meeting.",
+  "form": "turn off",
+  "sep": true,
+  "nat": "I always turn off my laptop before leaving.",
+  "syn": [
+   "switch off",
+   "shut off"
+  ],
+  "formal": "deactivate",
+  "contrast": "turn off (desligar) ≠ turn someone off (tirar o interesse de alguém).",
+  "topics": [
+   "tech",
+   "daily"
+  ]
+ },
+ {
+  "id": "turn-on",
+  "v": "turn",
+  "p": "on",
+  "lvl": "B1",
+  "pt": "ligar",
+  "def": "To make a machine, light or feature start working.",
+  "ex": "Can you turn on the air conditioning? It is hot.",
+  "form": "turn on",
+  "sep": true,
+  "nat": "The app asks you to turn on notifications.",
+  "syn": [
+   "switch on",
+   "activate"
+  ],
+  "formal": "activate",
+  "contrast": "",
+  "topics": [
+   "tech",
+   "daily"
+  ]
+ },
+ {
+  "id": "turn-around",
+  "v": "turn",
+  "p": "around",
+  "lvl": "B2",
+  "pt": "virar; reverter",
+  "def": "To change direction, or to improve a bad situation.",
+  "ex": "The new CEO managed to turn around the struggling company.",
+  "form": "turn around",
+  "sep": true,
+  "nat": "We missed the exit and had to turn around.",
+  "syn": [
+   "reverse",
+   "improve"
+  ],
+  "formal": "reverse",
+  "contrast": "",
+  "topics": [
+   "work",
+   "travel"
+  ]
+ },
+ {
+  "id": "set-up",
+  "v": "set",
+  "p": "up",
+  "lvl": "B1+",
+  "pt": "configurar; montar",
+  "def": "To prepare or arrange something so it is ready to use.",
+  "ex": "IT will set up your laptop on your first day.",
+  "form": "set up",
+  "sep": true,
+  "nat": "We set up a call with the vendor for Thursday.",
+  "syn": [
+   "configure",
+   "establish"
+  ],
+  "formal": "establish",
+  "contrast": "set up (verbo) ≠ setup (substantivo): The setup took an hour.",
+  "topics": [
+   "tech",
+   "work"
+  ]
+ },
+ {
+  "id": "set-off",
+  "v": "set",
+  "p": "off",
+  "lvl": "B1+",
+  "pt": "partir; disparar",
+  "def": "To begin a journey.",
+  "ex": "We set off at dawn to avoid the traffic.",
+  "form": "set off",
+  "sep": false,
+  "nat": "They set off for Lisbon early on Saturday.",
+  "syn": [
+   "depart",
+   "leave"
+  ],
+  "formal": "depart",
+  "contrast": "set off (alarme/bomba) = disparar e é separável: The smoke set off the alarm / set it off.",
+  "topics": [
+   "travel"
+  ]
+ },
+ {
+  "id": "set-out",
+  "v": "set",
+  "p": "out",
+  "lvl": "B2",
+  "pt": "começar; expor",
+  "def": "To begin a task with a specific aim, or to present clearly.",
+  "ex": "She set out to build a business of her own.",
+  "form": "set out",
+  "sep": false,
+  "nat": "The report sets out our main goals for next year.",
+  "syn": [
+   "aim",
+   "begin"
+  ],
+  "formal": "undertake",
+  "contrast": "set out to + verbo = ter como objetivo.",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "set-aside",
+  "v": "set",
+  "p": "aside",
+  "lvl": "B2",
+  "pt": "reservar",
+  "def": "To save or keep something for a special purpose.",
+  "ex": "I set aside an hour every day for studying.",
+  "form": "set aside",
+  "sep": true,
+  "nat": "We need to set aside some budget for training.",
+  "syn": [
+   "reserve",
+   "allocate"
+  ],
+  "formal": "allocate",
+  "contrast": "",
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "set-back",
+  "v": "set",
+  "p": "back",
+  "lvl": "B2+",
+  "pt": "atrasar; custar caro",
+  "def": "To delay progress or cost someone a lot of money.",
+  "ex": "The server crash will set back the launch by two weeks.",
+  "form": "set back",
+  "sep": true,
+  "nat": "Delays like this can set back the whole schedule.",
+  "syn": [
+   "delay",
+   "hinder"
+  ],
+  "formal": "impede",
+  "contrast": "set back também = custar: That repair set me back $500.",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "set-about",
+  "v": "set",
+  "p": "about",
+  "lvl": "B2+",
+  "pt": "começar a (com energia)",
+  "def": "To start doing something with energy and purpose.",
+  "ex": "He set about fixing the broken pipeline right away.",
+  "form": "set about",
+  "sep": false,
+  "nat": "How do you set about learning a new language?",
+  "syn": [
+   "begin",
+   "undertake"
+  ],
+  "formal": "commence",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "put-off",
+  "v": "put",
+  "p": "off",
+  "lvl": "B1+",
+  "pt": "adiar",
+  "def": "To delay something until a later time.",
+  "ex": "We had to put off the meeting until Monday.",
+  "form": "put off",
+  "sep": true,
+  "nat": "Don't put off calling the client any longer.",
+  "syn": [
+   "postpone",
+   "delay"
+  ],
+  "formal": "postpone",
+  "contrast": "put off (delay) ≠ put off someone (discourage): The smell put me off.",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "put-on",
+  "v": "put",
+  "p": "on",
+  "lvl": "B1",
+  "pt": "vestir; colocar",
+  "def": "To dress yourself in clothing or add something to your body.",
+  "ex": "It is cold outside, so put on a jacket.",
+  "form": "put on",
+  "sep": true,
+  "nat": "She put on her glasses to read the contract.",
+  "syn": [
+   "wear",
+   "don"
+  ],
+  "formal": "don",
+  "contrast": "put on weight = engordar; put on a show = encenar.",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "put-up-with",
+  "v": "put",
+  "p": "up with",
+  "lvl": "B2",
+  "pt": "tolerar",
+  "def": "To accept something unpleasant without complaining.",
+  "ex": "I can't put up with this noise any longer.",
+  "form": "put up with",
+  "sep": false,
+  "nat": "He put up with long commutes for years.",
+  "syn": [
+   "tolerate",
+   "endure"
+  ],
+  "formal": "tolerate",
+  "contrast": "",
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "put-away",
+  "v": "put",
+  "p": "away",
+  "lvl": "B1",
+  "pt": "guardar",
+  "def": "To return something to its proper place.",
+  "ex": "Please put away your laptops before the flight lands.",
+  "form": "put away",
+  "sep": true,
+  "nat": "She put away the groceries and made dinner.",
+  "syn": [
+   "store",
+   "tidy"
+  ],
+  "formal": "store",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "put-out",
+  "v": "put",
+  "p": "out",
+  "lvl": "B2",
+  "pt": "apagar; publicar",
+  "def": "To stop a fire or a cigarette from burning.",
+  "ex": "Firefighters put out the fire in under an hour.",
+  "form": "put out",
+  "sep": true,
+  "nat": "Please put out your cigarette before entering.",
+  "syn": [
+   "extinguish",
+   "quench"
+  ],
+  "formal": "extinguish",
+  "contrast": "put out (publicar): The firm put out a statement. be put out = ficar chateado.",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "put-forward",
+  "v": "put",
+  "p": "forward",
+  "lvl": "B2+",
+  "pt": "propor",
+  "def": "To suggest an idea or plan for discussion.",
+  "ex": "She put forward a new proposal at the board meeting.",
+  "form": "put forward",
+  "sep": true,
+  "nat": "Several candidates were put forward for the role.",
+  "syn": [
+   "propose",
+   "suggest"
+  ],
+  "formal": "propose",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "put-together",
+  "v": "put",
+  "p": "together",
+  "lvl": "B2",
+  "pt": "montar; reunir",
+  "def": "To assemble parts or create something from several pieces.",
+  "ex": "It took us two hours to put together the new desk.",
+  "form": "put together",
+  "sep": true,
+  "nat": "Can you put together a short report by noon?",
+  "syn": [
+   "assemble",
+   "compile"
+  ],
+  "formal": "assemble",
+  "contrast": "",
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "take-off",
+  "v": "take",
+  "p": "off",
+  "lvl": "B1",
+  "pt": "decolar; tirar",
+  "def": "To leave the ground (plane); to remove clothing.",
+  "ex": "The flight took off ten minutes late.",
+  "form": "took off",
+  "sep": true,
+  "nat": "Our plane will take off at noon.",
+  "syn": [
+   "depart",
+   "lift off"
+  ],
+  "formal": "depart",
+  "contrast": "take off (decolar) ; a business takes off = decola, dá certo.",
+  "topics": [
+   "travel"
+  ]
+ },
+ {
+  "id": "take-over",
+  "v": "take",
+  "p": "over",
+  "lvl": "B2",
+  "pt": "assumir",
+  "def": "To gain control of or responsibility for something.",
+  "ex": "Maria will take over the team when Paul retires.",
+  "form": "take over",
+  "sep": true,
+  "nat": "A larger firm tried to take over the company.",
+  "syn": [
+   "assume",
+   "acquire"
+  ],
+  "formal": "assume control of",
+  "contrast": "take over (verbo) ≠ takeover (aquisição, substantivo).",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "take-up",
+  "v": "take",
+  "p": "up",
+  "lvl": "B2",
+  "pt": "começar (hobby); ocupar",
+  "def": "To start a new hobby, or to use space or time.",
+  "ex": "I took up running last year to stay healthy.",
+  "form": "took up",
+  "sep": true,
+  "nat": "This project takes up too much of my time.",
+  "syn": [
+   "begin",
+   "start"
+  ],
+  "formal": "commence",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "take-on",
+  "v": "take",
+  "p": "on",
+  "lvl": "B2",
+  "pt": "assumir (tarefa); contratar",
+  "def": "To accept a task or responsibility, or to hire someone.",
+  "ex": "She took on extra work to pay off her debt.",
+  "form": "took on",
+  "sep": true,
+  "nat": "We are planning to take on three new developers.",
+  "syn": [
+   "undertake",
+   "hire"
+  ],
+  "formal": "undertake",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "take-out",
+  "v": "take",
+  "p": "out",
+  "lvl": "B1+",
+  "pt": "tirar; contratar",
+  "def": "To remove something, or to obtain a loan or insurance.",
+  "ex": "He took out his phone and checked the time.",
+  "form": "took out",
+  "sep": true,
+  "nat": "We need to take out a loan to buy the house.",
+  "syn": [
+   "remove",
+   "withdraw"
+  ],
+  "formal": "withdraw",
+  "contrast": "take out a loan/insurance = contratar; take someone out = convidar para sair.",
+  "topics": [
+   "daily",
+   "work"
+  ]
+ },
+ {
+  "id": "take-back",
+  "v": "take",
+  "p": "back",
+  "lvl": "B1+",
+  "pt": "devolver; retirar o que disse",
+  "def": "To return something, or to admit that something you said was wrong.",
+  "ex": "I take back what I said; you were right.",
+  "form": "take back",
+  "sep": true,
+  "nat": "You can take back the shirt if it doesn't fit.",
+  "syn": [
+   "retract",
+   "return"
+  ],
+  "formal": "retract",
+  "contrast": "",
+  "topics": [
+   "relationships"
+  ]
+ },
+ {
+  "id": "take-after",
+  "v": "take",
+  "p": "after",
+  "lvl": "B2",
+  "pt": "puxar a; parecer-se com",
+  "def": "To resemble an older relative in appearance or character.",
+  "ex": "She takes after her mother in many ways.",
+  "form": "takes after",
+  "sep": false,
+  "nat": "Do you take after your dad or your mom?",
+  "syn": [
+   "resemble",
+   "favor"
+  ],
+  "formal": "resemble",
+  "contrast": "take after (parente) ≠ look like (qualquer pessoa).",
+  "topics": [
+   "relationships"
+  ]
+ },
+ {
+  "id": "come-up-with",
+  "v": "come",
+  "p": "up with",
+  "lvl": "B2",
+  "pt": "ter (uma ideia)",
+  "def": "To think of an idea or plan.",
+  "ex": "We need to come up with a better solution.",
+  "form": "come up with",
+  "sep": false,
+  "nat": "She came up with a clever way to save time.",
+  "syn": [
+   "devise",
+   "invent"
+  ],
+  "formal": "devise",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "come-across",
+  "v": "come",
+  "p": "across",
+  "lvl": "B2+",
+  "pt": "encontrar por acaso",
+  "def": "To find or meet by chance.",
+  "ex": "I came across an old photo while cleaning.",
+  "form": "came across",
+  "sep": false,
+  "nat": "Have you ever come across this error before?",
+  "syn": [
+   "encounter",
+   "stumble upon"
+  ],
+  "formal": "encounter",
+  "contrast": "come across as = parecer: He comes across as shy.",
+  "topics": [
+   "daily",
+   "work"
+  ]
+ },
+ {
+  "id": "come-back",
+  "v": "come",
+  "p": "back",
+  "lvl": "B1",
+  "pt": "voltar",
+  "def": "To return to a place.",
+  "ex": "When are you coming back from Rio?",
+  "form": "coming back",
+  "sep": false,
+  "nat": "Come back soon; we will miss you.",
+  "syn": [
+   "return",
+   "get back"
+  ],
+  "formal": "return",
+  "contrast": "come back (voltar a quem fala) ≠ go back (voltar para lá).",
+  "topics": [
+   "travel"
+  ]
+ },
+ {
+  "id": "come-out",
+  "v": "come",
+  "p": "out",
+  "lvl": "B1+",
+  "pt": "sair; ser lançado",
+  "def": "To be released, or to become known.",
+  "ex": "Their new album comes out next Friday.",
+  "form": "comes out",
+  "sep": false,
+  "nat": "The truth finally came out.",
+  "syn": [
+   "be released",
+   "emerge"
+  ],
+  "formal": "be released",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "come-up",
+  "v": "come",
+  "p": "up",
+  "lvl": "B1+",
+  "pt": "surgir",
+  "def": "To happen unexpectedly, or to be mentioned.",
+  "ex": "Sorry I am late; something urgent came up.",
+  "form": "came up",
+  "sep": false,
+  "nat": "The topic didn't come up during the interview.",
+  "syn": [
+   "arise",
+   "occur"
+  ],
+  "formal": "arise",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "come-down-to",
+  "v": "come",
+  "p": "down to",
+  "lvl": "B2+",
+  "pt": "resumir-se a",
+  "def": "To be the deciding factor in a situation.",
+  "ex": "In the end, it comes down to price.",
+  "form": "comes down to",
+  "sep": false,
+  "nat": "The decision will come down to experience.",
+  "syn": [
+   "boil down to",
+   "depend on"
+  ],
+  "formal": "depend on",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "go-on",
+  "v": "go",
+  "p": "on",
+  "lvl": "B1+",
+  "pt": "continuar; acontecer",
+  "def": "To continue, or to happen.",
+  "ex": "Please go on; I am listening.",
+  "form": "go on",
+  "sep": false,
+  "nat": "What is going on in the meeting room?",
+  "syn": [
+   "continue",
+   "proceed"
+  ],
+  "formal": "proceed",
+  "contrast": "go on + -ing = continuar fazendo; go on to + verbo = passar a fazer.",
+  "topics": [
+   "daily",
+   "work"
+  ]
+ },
+ {
+  "id": "go-over",
+  "v": "go",
+  "p": "over",
+  "lvl": "B2",
+  "pt": "revisar",
+  "def": "To check or review something carefully.",
+  "ex": "Let us go over the contract before signing.",
+  "form": "go over",
+  "sep": false,
+  "nat": "I will go over your report tonight.",
+  "syn": [
+   "review",
+   "examine"
+  ],
+  "formal": "review",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "go-through",
+  "v": "go",
+  "p": "through",
+  "lvl": "B2",
+  "pt": "passar por; examinar",
+  "def": "To experience something difficult, or to examine something in detail.",
+  "ex": "She went through a tough time last year.",
+  "form": "went through",
+  "sep": false,
+  "nat": "Let us go through the agenda one more time.",
+  "syn": [
+   "undergo",
+   "examine"
+  ],
+  "formal": "undergo",
+  "contrast": "",
+  "topics": [
+   "daily",
+   "work"
+  ]
+ },
+ {
+  "id": "go-ahead",
+  "v": "go",
+  "p": "ahead",
+  "lvl": "B1+",
+  "pt": "prosseguir",
+  "def": "To proceed with something.",
+  "ex": "You can go ahead and start without me.",
+  "form": "go ahead",
+  "sep": false,
+  "nat": "The company decided to go ahead with the merger.",
+  "syn": [
+   "proceed",
+   "continue"
+  ],
+  "formal": "proceed",
+  "contrast": "Go ahead! = pode ir em frente (dando permissão).",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "go-out",
+  "v": "go",
+  "p": "out",
+  "lvl": "B1",
+  "pt": "sair",
+  "def": "To leave home to do something social.",
+  "ex": "Do you want to go out for dinner tonight?",
+  "form": "go out",
+  "sep": false,
+  "nat": "They went out together for two years.",
+  "syn": [
+   "leave",
+   "socialize"
+  ],
+  "formal": "depart",
+  "contrast": "go out (sair) ; go out with someone = namorar alguém.",
+  "topics": [
+   "daily",
+   "relationships"
+  ]
+ },
+ {
+  "id": "go-off",
+  "v": "go",
+  "p": "off",
+  "lvl": "B2",
+  "pt": "tocar; explodir; estragar",
+  "def": "To ring or explode, or (of food) to become bad.",
+  "ex": "My alarm went off at five this morning.",
+  "form": "went off",
+  "sep": false,
+  "nat": "Be careful; the milk may go off in this heat.",
+  "syn": [
+   "ring",
+   "spoil"
+  ],
+  "formal": "activate",
+  "contrast": "go off (azedar) ; go off someone = deixar de gostar de alguém.",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "go-back",
+  "v": "go",
+  "p": "back",
+  "lvl": "B1",
+  "pt": "voltar (para lá)",
+  "def": "To return to a place.",
+  "ex": "I would love to go back to Italy next summer.",
+  "form": "go back",
+  "sep": false,
+  "nat": "We went back to the office after lunch.",
+  "syn": [
+   "return",
+   "get back"
+  ],
+  "formal": "return",
+  "contrast": "go back (voltar para lá) ≠ come back (voltar para cá).",
+  "topics": [
+   "travel"
+  ]
+ },
+ {
+  "id": "look-up",
+  "v": "look",
+  "p": "up",
+  "lvl": "B1+",
+  "pt": "pesquisar",
+  "def": "To search for information in a book or online.",
+  "ex": "I looked up the word in a dictionary.",
+  "form": "looked up",
+  "sep": true,
+  "nat": "Can you look up the train times for me?",
+  "syn": [
+   "search for",
+   "check"
+  ],
+  "formal": "consult",
+  "contrast": "look up (pesquisar) ≠ look up to (admirar).",
+  "topics": [
+   "tech"
+  ]
+ },
+ {
+  "id": "look-after",
+  "v": "look",
+  "p": "after",
+  "lvl": "B1",
+  "pt": "cuidar de",
+  "def": "To take care of someone or something.",
+  "ex": "Could you look after my cat while I am away?",
+  "form": "look after",
+  "sep": false,
+  "nat": "She looks after her elderly parents.",
+  "syn": [
+   "take care of",
+   "tend"
+  ],
+  "formal": "care for",
+  "contrast": "look after (cuidar) ≠ look for (procurar).",
+  "topics": [
+   "daily",
+   "relationships"
+  ]
+ },
+ {
+  "id": "look-forward-to",
+  "v": "look",
+  "p": "forward to",
+  "lvl": "B1+",
+  "pt": "aguardar ansiosamente",
+  "def": "To feel happy about something that will happen.",
+  "ex": "I look forward to hearing from you.",
+  "form": "look forward to",
+  "sep": false,
+  "nat": "We are looking forward to the trip.",
+  "syn": [
+   "anticipate",
+   "await"
+  ],
+  "formal": "anticipate",
+  "contrast": "look forward to + -ing (hearing), não + verbo base.",
+  "topics": [
+   "work",
+   "travel"
+  ]
+ },
+ {
+  "id": "look-into",
+  "v": "look",
+  "p": "into",
+  "lvl": "B2",
+  "pt": "investigar",
+  "def": "To investigate something.",
+  "ex": "We will look into the problem and call you back.",
+  "form": "look into",
+  "sep": false,
+  "nat": "The police are looking into the case.",
+  "syn": [
+   "investigate",
+   "examine"
+  ],
+  "formal": "investigate",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "look-out-for",
+  "v": "look",
+  "p": "out for",
+  "lvl": "B2",
+  "pt": "ficar atento a",
+  "def": "To watch carefully for something.",
+  "ex": "Please look out for suspicious emails in your inbox.",
+  "form": "look out for",
+  "sep": false,
+  "nat": "Look out for cyclists when you cross the road.",
+  "syn": [
+   "watch for",
+   "be alert for"
+  ],
+  "formal": "be vigilant for",
+  "contrast": "Look out! (interjeição) = Cuidado!",
+  "topics": [
+   "tech",
+   "daily"
+  ]
+ },
+ {
+  "id": "look-over",
+  "v": "look",
+  "p": "over",
+  "lvl": "B2",
+  "pt": "dar uma olhada; revisar",
+  "def": "To examine something quickly.",
+  "ex": "Could you look over my CV before I send it?",
+  "form": "look over",
+  "sep": true,
+  "nat": "I will look over the draft this afternoon.",
+  "syn": [
+   "review",
+   "skim"
+  ],
+  "formal": "review",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "bring-up",
+  "v": "bring",
+  "p": "up",
+  "lvl": "B2",
+  "pt": "mencionar; criar (filhos)",
+  "def": "To mention a topic, or to raise a child.",
+  "ex": "She brought up the budget at the meeting.",
+  "form": "brought up",
+  "sep": true,
+  "nat": "I didn't want to bring up the subject at dinner.",
+  "syn": [
+   "mention",
+   "raise"
+  ],
+  "formal": "raise",
+  "contrast": "bring up (criar) ≠ grow up (crescer).",
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "bring-about",
+  "v": "bring",
+  "p": "about",
+  "lvl": "B2+",
+  "pt": "provocar",
+  "def": "To cause something to happen.",
+  "ex": "The new policy brought about major changes.",
+  "form": "brought about",
+  "sep": true,
+  "nat": "Technology has brought about a revolution in education.",
+  "syn": [
+   "cause",
+   "produce"
+  ],
+  "formal": "precipitate",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "bring-down",
+  "v": "bring",
+  "p": "down",
+  "lvl": "B2",
+  "pt": "derrubar; reduzir",
+  "def": "To reduce a level, or to make something fall.",
+  "ex": "We need to bring down our costs this year.",
+  "form": "bring down",
+  "sep": true,
+  "nat": "The attack brought down the website for hours.",
+  "syn": [
+   "reduce",
+   "lower"
+  ],
+  "formal": "reduce",
+  "contrast": "",
+  "topics": [
+   "work",
+   "tech"
+  ]
+ },
+ {
+  "id": "bring-in",
+  "v": "bring",
+  "p": "in",
+  "lvl": "B2",
+  "pt": "gerar (receita); introduzir",
+  "def": "To earn money, or to introduce something new.",
+  "ex": "The new service brings in thousands of dollars a month.",
+  "form": "brings in",
+  "sep": true,
+  "nat": "They plan to bring in new safety rules.",
+  "syn": [
+   "generate",
+   "introduce"
+  ],
+  "formal": "generate",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "bring-back",
+  "v": "bring",
+  "p": "back",
+  "lvl": "B1+",
+  "pt": "trazer de volta",
+  "def": "To return with something, or to recall a memory.",
+  "ex": "Can you bring back some coffee from Brazil?",
+  "form": "bring back",
+  "sep": true,
+  "nat": "That song brings back so many memories.",
+  "syn": [
+   "return",
+   "recall"
+  ],
+  "formal": "return",
+  "contrast": "",
+  "topics": [
+   "travel",
+   "daily"
+  ]
+ },
+ {
+  "id": "call-off",
+  "v": "call",
+  "p": "off",
+  "lvl": "B2",
+  "pt": "cancelar",
+  "def": "To cancel an event or plan.",
+  "ex": "They called off the picnic because of the rain.",
+  "form": "called off",
+  "sep": true,
+  "nat": "The union decided to call off the strike.",
+  "syn": [
+   "cancel",
+   "abandon"
+  ],
+  "formal": "cancel",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "call-back",
+  "v": "call",
+  "p": "back",
+  "lvl": "B1",
+  "pt": "retornar a ligação",
+  "def": "To phone someone again.",
+  "ex": "Please ask him to call back after lunch.",
+  "form": "call back",
+  "sep": true,
+  "nat": "I will call back as soon as I get the information.",
+  "syn": [
+   "return a call",
+   "ring back"
+  ],
+  "formal": "return a call",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "call-for",
+  "v": "call",
+  "p": "for",
+  "lvl": "B2",
+  "pt": "exigir; requerer",
+  "def": "To require, or to publicly demand something.",
+  "ex": "This situation calls for immediate action.",
+  "form": "calls for",
+  "sep": false,
+  "nat": "Protesters called for the minister to resign.",
+  "syn": [
+   "require",
+   "demand"
+  ],
+  "formal": "necessitate",
+  "contrast": "call for (exigir) ≠ call on (visitar/pedir a alguém).",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "call-out",
+  "v": "call",
+  "p": "out",
+  "lvl": "B2+",
+  "pt": "criticar publicamente",
+  "def": "To criticize someone publicly for doing something wrong.",
+  "ex": "She called out her manager for ignoring the problem.",
+  "form": "called out",
+  "sep": true,
+  "nat": "Employees should feel safe to call out unfair behavior.",
+  "syn": [
+   "criticize",
+   "confront"
+  ],
+  "formal": "denounce",
+  "contrast": "call out também = gritar por ajuda.",
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "work-out",
+  "v": "work",
+  "p": "out",
+  "lvl": "B1+",
+  "pt": "dar certo; malhar; resolver",
+  "def": "To solve a problem, to succeed, or to exercise.",
+  "ex": "I hope everything works out for you.",
+  "form": "works out",
+  "sep": true,
+  "nat": "We finally worked out a deal with the supplier.",
+  "syn": [
+   "succeed",
+   "solve"
+  ],
+  "formal": "resolve",
+  "contrast": "work out (dar certo / malhar / calcular): três sentidos comuns.",
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "work-on",
+  "v": "work",
+  "p": "on",
+  "lvl": "B1",
+  "pt": "trabalhar em",
+  "def": "To spend time and effort improving or completing something.",
+  "ex": "I am working on a new app this week.",
+  "form": "working on",
+  "sep": false,
+  "nat": "We need to work on our communication.",
+  "syn": [
+   "develop",
+   "focus on"
+  ],
+  "formal": "develop",
+  "contrast": "",
+  "topics": [
+   "work",
+   "tech"
+  ]
+ },
+ {
+  "id": "work-around",
+  "v": "work",
+  "p": "around",
+  "lvl": "B2+",
+  "pt": "contornar",
+  "def": "To find a way to deal with a problem without solving it directly.",
+  "ex": "We found a temporary fix to work around the bug.",
+  "form": "work around",
+  "sep": false,
+  "nat": "Developers often work around limitations in older systems.",
+  "syn": [
+   "bypass",
+   "circumvent"
+  ],
+  "formal": "circumvent",
+  "contrast": "workaround (substantivo) = solução paliativa.",
+  "topics": [
+   "tech",
+   "work"
+  ]
+ },
+ {
+  "id": "work-through",
+  "v": "work",
+  "p": "through",
+  "lvl": "B2",
+  "pt": "resolver aos poucos",
+  "def": "To deal with a problem or emotion step by step.",
+  "ex": "The team worked through the issues one by one.",
+  "form": "worked through",
+  "sep": true,
+  "nat": "Therapy helped her work through her anxiety.",
+  "syn": [
+   "resolve",
+   "process"
+  ],
+  "formal": "resolve",
+  "contrast": "",
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "work-up",
+  "v": "work",
+  "p": "up",
+  "lvl": "B2+",
+  "pt": "desenvolver aos poucos",
+  "def": "To develop or build something gradually.",
+  "ex": "I need to work up the courage to ask for a raise.",
+  "form": "work up",
+  "sep": true,
+  "nat": "She worked up an appetite after the hike.",
+  "syn": [
+   "build up",
+   "develop"
+  ],
+  "formal": "cultivate",
+  "contrast": "get worked up = ficar nervoso, agitado.",
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "run-into",
+  "v": "run",
+  "p": "into",
+  "lvl": "B1+",
+  "pt": "encontrar por acaso",
+  "def": "To meet someone unexpectedly, or to encounter a problem.",
+  "ex": "I ran into my old boss at the airport.",
+  "form": "ran into",
+  "sep": false,
+  "nat": "We ran into some problems during installation.",
+  "syn": [
+   "encounter",
+   "bump into"
+  ],
+  "formal": "encounter",
+  "contrast": "run into (encontrar) ≠ run out of (ficar sem).",
+  "topics": [
+   "work",
+   "travel"
+  ]
+ },
+ {
+  "id": "run-out-of",
+  "v": "run",
+  "p": "out of",
+  "lvl": "B1+",
+  "pt": "ficar sem",
+  "def": "To have no more of something.",
+  "ex": "We ran out of printer paper this morning.",
+  "form": "ran out of",
+  "sep": false,
+  "nat": "I am running out of time.",
+  "syn": [
+   "exhaust",
+   "use up"
+  ],
+  "formal": "exhaust",
+  "contrast": "run out (acabar) não leva objeto: Our supplies ran out.",
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "run-over",
+  "v": "run",
+  "p": "over",
+  "lvl": "B2",
+  "pt": "atropelar; ultrapassar o tempo",
+  "def": "To hit someone with a vehicle, or to go beyond a time limit.",
+  "ex": "The meeting ran over by twenty minutes.",
+  "form": "ran over",
+  "sep": true,
+  "nat": "He nearly ran over a cyclist.",
+  "syn": [
+   "overrun",
+   "exceed"
+  ],
+  "formal": "exceed",
+  "contrast": "",
+  "topics": [
+   "work",
+   "travel"
+  ]
+ },
+ {
+  "id": "run-through",
+  "v": "run",
+  "p": "through",
+  "lvl": "B2",
+  "pt": "ensaiar; revisar rapidamente",
+  "def": "To rehearse, or to quickly review something.",
+  "ex": "Let us run through the presentation once more.",
+  "form": "run through",
+  "sep": false,
+  "nat": "Can you run through the steps again?",
+  "syn": [
+   "rehearse",
+   "review"
+  ],
+  "formal": "rehearse",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "break-down",
+  "v": "break",
+  "p": "down",
+  "lvl": "B1+",
+  "pt": "quebrar; dividir em partes",
+  "def": "To stop working, or to separate into parts for analysis.",
+  "ex": "Our car broke down on the highway.",
+  "form": "broke down",
+  "sep": true,
+  "nat": "Let us break down the costs by department.",
+  "syn": [
+   "malfunction",
+   "fail"
+  ],
+  "formal": "malfunction",
+  "contrast": "break down também = desabar emocionalmente.",
+  "topics": [
+   "travel",
+   "tech"
+  ]
+ },
+ {
+  "id": "break-up",
+  "v": "break",
+  "p": "up",
+  "lvl": "B1",
+  "pt": "terminar (relacionamento)",
+  "def": "To end a romantic relationship.",
+  "ex": "They broke up after three years.",
+  "form": "broke up",
+  "sep": true,
+  "nat": "I don't want to break up with her.",
+  "syn": [
+   "separate",
+   "split up"
+  ],
+  "formal": "separate",
+  "contrast": "break up (terminar) ≠ break down (quebrar).",
+  "topics": [
+   "relationships"
+  ]
+ },
+ {
+  "id": "break-in",
+  "v": "break",
+  "p": "in",
+  "lvl": "B2",
+  "pt": "arrombar; interromper",
+  "def": "To enter a building illegally, or to interrupt.",
+  "ex": "Someone broke in and stole two laptops.",
+  "form": "broke in",
+  "sep": false,
+  "nat": "Sorry to break in, but the client is on the line.",
+  "syn": [
+   "burgle",
+   "interrupt"
+  ],
+  "formal": "intrude",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "break-out",
+  "v": "break",
+  "p": "out",
+  "lvl": "B2",
+  "pt": "eclodir; começar de repente",
+  "def": "To start suddenly, as a fire, war or disease.",
+  "ex": "A fire broke out in the warehouse last night.",
+  "form": "broke out",
+  "sep": false,
+  "nat": "War broke out in 1939.",
+  "syn": [
+   "erupt",
+   "start"
+  ],
+  "formal": "erupt",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "break-through",
+  "v": "break",
+  "p": "through",
+  "lvl": "B2+",
+  "pt": "romper barreira; avançar",
+  "def": "To force a way through, or to make an important discovery.",
+  "ex": "Scientists broke through a major barrier in battery technology.",
+  "form": "broke through",
+  "sep": false,
+  "nat": "The sun finally broke through the clouds.",
+  "syn": [
+   "penetrate",
+   "advance"
+  ],
+  "formal": "penetrate",
+  "contrast": "breakthrough (substantivo) = grande avanço.",
+  "topics": [
+   "tech"
+  ]
+ },
+ {
+  "id": "make-up",
+  "v": "make",
+  "p": "up",
+  "lvl": "B2",
+  "pt": "inventar; fazer as pazes",
+  "def": "To invent a story, or to end an argument.",
+  "ex": "He made up an excuse for being late.",
+  "form": "made up",
+  "sep": true,
+  "nat": "They argued, but they made up quickly.",
+  "syn": [
+   "invent",
+   "reconcile"
+  ],
+  "formal": "fabricate",
+  "contrast": "make up também = compor: Women make up 60% of the staff.",
+  "topics": [
+   "daily",
+   "relationships"
+  ]
+ },
+ {
+  "id": "make-out",
+  "v": "make",
+  "p": "out",
+  "lvl": "B2+",
+  "pt": "distinguir",
+  "def": "To see or hear something with difficulty.",
+  "ex": "I could barely make out the street sign in the fog.",
+  "form": "make out",
+  "sep": true,
+  "nat": "I can't make out what he is saying.",
+  "syn": [
+   "discern",
+   "distinguish"
+  ],
+  "formal": "discern",
+  "contrast": "make out (distinguir) ; nos EUA, make out também = beijar (informal).",
+  "topics": [
+   "travel",
+   "daily"
+  ]
+ },
+ {
+  "id": "make-up-for",
+  "v": "make",
+  "p": "up for",
+  "lvl": "B2",
+  "pt": "compensar",
+  "def": "To compensate for something bad or missing.",
+  "ex": "I will bring you dinner to make up for being late.",
+  "form": "make up for",
+  "sep": false,
+  "nat": "Hard work can make up for a lack of experience.",
+  "syn": [
+   "compensate for",
+   "atone for"
+  ],
+  "formal": "compensate for",
+  "contrast": "",
+  "topics": [
+   "relationships",
+   "work"
+  ]
+ },
+ {
+  "id": "give-up",
+  "v": "give",
+  "p": "up",
+  "lvl": "B1",
+  "pt": "desistir",
+  "def": "To stop trying, or to stop a habit.",
+  "ex": "Don't give up; you are almost there.",
+  "form": "give up",
+  "sep": true,
+  "nat": "He gave up smoking last year.",
+  "syn": [
+   "quit",
+   "surrender"
+  ],
+  "formal": "abandon",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "give-in",
+  "v": "give",
+  "p": "in",
+  "lvl": "B1+",
+  "pt": "ceder",
+  "def": "To finally agree or stop resisting.",
+  "ex": "After hours of arguing, he gave in.",
+  "form": "gave in",
+  "sep": false,
+  "nat": "Don't give in to pressure.",
+  "syn": [
+   "yield",
+   "surrender"
+  ],
+  "formal": "yield",
+  "contrast": "give in (ceder) ≠ hand in (entregar).",
+  "topics": [
+   "relationships"
+  ]
+ },
+ {
+  "id": "give-away",
+  "v": "give",
+  "p": "away",
+  "lvl": "B2",
+  "pt": "doar; revelar",
+  "def": "To give something for free, or to reveal a secret.",
+  "ex": "We gave away our old furniture to a charity.",
+  "form": "gave away",
+  "sep": true,
+  "nat": "Don't give away the ending!",
+  "syn": [
+   "donate",
+   "reveal"
+  ],
+  "formal": "donate",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "give-out",
+  "v": "give",
+  "p": "out",
+  "lvl": "B2",
+  "pt": "distribuir; parar de funcionar",
+  "def": "To distribute something, or to stop working.",
+  "ex": "Volunteers gave out free water during the race.",
+  "form": "gave out",
+  "sep": true,
+  "nat": "My phone battery gave out halfway through the trip.",
+  "syn": [
+   "distribute",
+   "hand out"
+  ],
+  "formal": "distribute",
+  "contrast": "",
+  "topics": [
+   "daily",
+   "travel"
+  ]
+ },
+ {
+  "id": "keep-up",
+  "v": "keep",
+  "p": "up",
+  "lvl": "B2",
+  "pt": "manter (o ritmo)",
+  "def": "To continue at the same level or speed.",
+  "ex": "You are doing great, so keep up the good work.",
+  "form": "keep up",
+  "sep": true,
+  "nat": "Can you keep up this speed for another hour?",
+  "syn": [
+   "maintain",
+   "continue"
+  ],
+  "formal": "maintain",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "keep-on",
+  "v": "keep",
+  "p": "on",
+  "lvl": "B1+",
+  "pt": "continuar",
+  "def": "To continue doing something.",
+  "ex": "He kept on talking even though nobody listened.",
+  "form": "kept on",
+  "sep": false,
+  "nat": "Keep on trying; you will improve.",
+  "syn": [
+   "continue",
+   "persist"
+  ],
+  "formal": "persist",
+  "contrast": "keep on + -ing = continuar fazendo.",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "keep-up-with",
+  "v": "keep",
+  "p": "up with",
+  "lvl": "B2",
+  "pt": "acompanhar",
+  "def": "To stay at the same level as, or informed about, something.",
+  "ex": "It is hard to keep up with new technology.",
+  "form": "keep up with",
+  "sep": false,
+  "nat": "I walk fast to keep up with my sister.",
+  "syn": [
+   "stay abreast of",
+   "match"
+  ],
+  "formal": "stay abreast of",
+  "contrast": "",
+  "topics": [
+   "tech",
+   "work"
+  ]
+ },
+ {
+  "id": "keep-away",
+  "v": "keep",
+  "p": "away",
+  "lvl": "B1+",
+  "pt": "manter-se afastado",
+  "def": "To stay at a distance, or to avoid something.",
+  "ex": "Please keep away from the edge of the platform.",
+  "form": "keep away",
+  "sep": true,
+  "nat": "Try to keep away from sugar if you want to lose weight.",
+  "syn": [
+   "avoid",
+   "stay clear of"
+  ],
+  "formal": "avoid",
+  "contrast": "",
+  "topics": [
+   "daily",
+   "travel"
+  ]
+ },
+ {
+  "id": "pick-up",
+  "v": "pick",
+  "p": "up",
+  "lvl": "B1",
+  "pt": "pegar; buscar",
+  "def": "To collect someone or something, or to lift something.",
+  "ex": "Can you pick up the kids at five?",
+  "form": "pick up",
+  "sep": true,
+  "nat": "I picked up some milk on my way home.",
+  "syn": [
+   "collect",
+   "fetch"
+  ],
+  "formal": "collect",
+  "contrast": "pick up também = aprender sem esforço: pick up a language.",
+  "topics": [
+   "daily",
+   "travel"
+  ]
+ },
+ {
+  "id": "pick-out",
+  "v": "pick",
+  "p": "out",
+  "lvl": "B2",
+  "pt": "escolher; identificar",
+  "def": "To choose or identify someone or something.",
+  "ex": "She picked out a gift for her mother.",
+  "form": "picked out",
+  "sep": true,
+  "nat": "Can you pick out your face in this photo?",
+  "syn": [
+   "select",
+   "choose"
+  ],
+  "formal": "select",
+  "contrast": "",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "cut-down",
+  "v": "cut",
+  "p": "down",
+  "lvl": "B1+",
+  "pt": "reduzir",
+  "def": "To reduce the amount of something.",
+  "ex": "I am trying to cut down on sugar.",
+  "form": "cut down",
+  "sep": true,
+  "nat": "We should cut down our expenses.",
+  "syn": [
+   "reduce",
+   "decrease"
+  ],
+  "formal": "reduce",
+  "contrast": "cut down on + substantivo; cut down a tree = derrubar uma árvore.",
+  "topics": [
+   "daily",
+   "work"
+  ]
+ },
+ {
+  "id": "cut-off",
+  "v": "cut",
+  "p": "off",
+  "lvl": "B2",
+  "pt": "cortar; interromper",
+  "def": "To stop a supply, or to interrupt.",
+  "ex": "The call was cut off halfway through.",
+  "form": "cut off",
+  "sep": true,
+  "nat": "They cut off the electricity because of unpaid bills.",
+  "syn": [
+   "disconnect",
+   "interrupt"
+  ],
+  "formal": "disconnect",
+  "contrast": "",
+  "topics": [
+   "tech",
+   "daily"
+  ]
+ },
+ {
+  "id": "carry-out",
+  "v": "carry",
+  "p": "out",
+  "lvl": "B2",
+  "pt": "executar",
+  "def": "To perform or complete a task.",
+  "ex": "The team carried out a detailed survey.",
+  "form": "carried out",
+  "sep": true,
+  "nat": "We will carry out the tests next week.",
+  "syn": [
+   "perform",
+   "conduct"
+  ],
+  "formal": "conduct",
+  "contrast": "",
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "carry-on",
+  "v": "carry",
+  "p": "on",
+  "lvl": "B1+",
+  "pt": "continuar",
+  "def": "To continue despite difficulty or interruption.",
+  "ex": "Despite the noise, she carried on working.",
+  "form": "carried on",
+  "sep": false,
+  "nat": "We will carry on the discussion tomorrow.",
+  "syn": [
+   "continue",
+   "persevere"
+  ],
+  "formal": "continue",
+  "contrast": "carry on + -ing = continuar fazendo.",
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "hold-on",
+  "v": "hold",
+  "p": "on",
+  "lvl": "B1",
+  "pt": "esperar",
+  "def": "To wait for a short time.",
+  "ex": "Can you hold on for a second?",
+  "form": "hold on",
+  "sep": false,
+  "nat": "Hold on tight; the road is bumpy.",
+  "syn": [
+   "wait",
+   "hang on"
+  ],
+  "formal": "wait",
+  "contrast": "hold on (esperar ao telefone) ≠ hold up (atrasar).",
+  "topics": [
+   "daily"
+  ]
+ },
+ {
+  "id": "hold-back",
+  "v": "hold",
+  "p": "back",
+  "lvl": "B2",
+  "pt": "conter; reter",
+  "def": "To prevent progress, or to stop yourself from showing emotion.",
+  "ex": "He couldn't hold back his tears.",
+  "form": "hold back",
+  "sep": true,
+  "nat": "Don't hold back; tell us what you really think.",
+  "syn": [
+   "restrain",
+   "suppress"
+  ],
+  "formal": "restrain",
+  "contrast": "",
+  "topics": [
+   "relationships"
+  ]
+ },
+ {
+  "id": "check-in",
+  "v": "check",
+  "p": "in",
+  "lvl": "B1",
+  "pt": "fazer check-in",
+  "def": "To register on arrival at a hotel or airport.",
+  "ex": "We checked in at the hotel at noon.",
+  "form": "checked in",
+  "sep": false,
+  "nat": "You can check in online 24 hours before your flight.",
+  "syn": [
+   "register",
+   "report"
+  ],
+  "formal": "register",
+  "contrast": "check in (entrar no hotel) ≠ check out (sair do hotel).",
+  "topics": [
+   "travel"
+  ]
+ },
+ {
+  "id": "check-out",
+  "v": "check",
+  "p": "out",
+  "lvl": "B1+",
+  "pt": "fazer check-out; conferir",
+  "def": "To leave a hotel after paying, or to look at something interesting.",
+  "ex": "Guests must check out before 11 a.m.",
+  "form": "check out",
+  "sep": true,
+  "nat": "Check out this new app; it is really useful.",
+  "syn": [
+   "leave",
+   "examine"
+  ],
+  "formal": "depart",
+  "contrast": "",
+  "topics": [
+   "travel",
+   "daily"
+  ]
+ },
+ {
+  "id": "log-in",
+  "v": "log",
+  "p": "in",
+  "lvl": "B1",
+  "pt": "fazer login",
+  "def": "To enter a computer system with a username and password.",
+  "ex": "You need to log in to see your account.",
+  "form": "log in",
+  "sep": false,
+  "nat": "I can't log in; the password isn't working.",
+  "syn": [
+   "sign in",
+   "access"
+  ],
+  "formal": "authenticate",
+  "contrast": "log in (verbo) ≠ login (substantivo): Enter your login.",
+  "topics": [
+   "tech"
+  ]
+ }
+]

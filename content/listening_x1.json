@@ -1,0 +1,152 @@
+[
+  {
+    "id": "lis-x1-01", "lvl": "B1", "speed": "slow", "accent": "us", "topic": "health", "kind": "conversation",
+    "script": "Nina: Hi, Paul. Are you okay? You look pale.\nPaul: I've had a headache for three days, and I can't focus at work.\nNina: Have you been drinking enough water?\nPaul: Not really. I usually have coffee in the morning and tea in the afternoon.\nNina: That might be the problem. Many people get headaches when they don't drink enough water.\nPaul: Maybe you're right. I also sleep only five hours a night.\nNina: Then you should try to go to bed earlier. If the headache doesn't go away by Friday, you should see a doctor.\nPaul: Okay. I'll drink more water and sleep more tonight. Thanks for the advice.",
+    "qs": [
+      {"q": "How long has Paul had a headache?", "opts": ["One day", "Three days", "Five days", "A week"], "ans": 1, "why": "Paul says he has had a headache for three days."},
+      {"q": "What does Nina think may be causing the problem?", "opts": ["Too much work", "Too much tea", "Not enough water", "Not enough coffee"], "ans": 2, "why": "Nina says many people get headaches when they don't drink enough water."},
+      {"q": "When should Paul see a doctor?", "opts": ["Right now", "Tonight", "Tomorrow morning", "If the headache continues until Friday"], "ans": 3, "why": "Nina says he should see a doctor if the headache doesn't go away by Friday."}
+    ],
+    "vocab": ["headache", "get enough sleep", "go away"]
+  },
+  {
+    "id": "lis-x1-02", "lvl": "B1+", "speed": "normal", "accent": "gb", "topic": "health", "kind": "monologue",
+    "script": "Good morning, everyone, and welcome to this week's health talk. Today I'd like to talk about walking. Many people think they need to join a gym to stay fit, but a brisk walk of thirty minutes a day can make a real difference. Walking is free, it doesn't need any special equipment, and most people can do it at almost any age. Doctors often say that regular walking is good for the heart and can improve your mood. If you work in an office, try getting off the bus one stop earlier, or take the stairs instead of the lift. You could also take a short walk during your lunch break. Start slowly, and increase the time as you feel stronger. The most important thing is to be consistent.",
+    "qs": [
+      {"q": "What is the main message of the talk?", "opts": ["Walking is a simple way to stay fit", "Everyone should join a gym", "Doctors dislike exercise", "Lifts are bad for your health"], "ans": 0, "why": "The speaker explains that regular walking is free, simple and good for your health."},
+      {"q": "What does the speaker say about gyms?", "opts": ["They are the only way to get fit", "You don't have to join one to stay fit", "They are too expensive for adults", "They are good for the heart only"], "ans": 1, "why": "She says many people think they need a gym, but a daily walk can make a real difference."},
+      {"q": "What does the speaker suggest for people who work in an office?", "opts": ["Walk for two hours every day", "Work standing up", "Get off the bus one stop earlier", "Avoid lunch breaks"], "ans": 2, "why": "She suggests getting off the bus one stop earlier, taking the stairs, or walking at lunch."}
+    ],
+    "vocab": ["brisk walk", "stay fit", "be consistent"]
+  },
+  {
+    "id": "lis-x1-03", "lvl": "B2", "speed": "normal", "accent": "us", "topic": "health", "kind": "conversation",
+    "script": "Ellen: How was your appointment with the nutritionist, Marcus?\nMarcus: Better than I expected, actually. I thought she'd put me on a strict diet, but she barely mentioned cutting anything out.\nEllen: Really? So what did she focus on?\nMarcus: Mostly on my habits. Apparently, I skip breakfast and then eat a huge dinner late at night, which isn't ideal for digestion.\nEllen: That sounds familiar. I do the same thing when I'm busy.\nMarcus: She said I don't need to change everything at once. She suggested I start by having a small breakfast and finishing dinner at least two hours before bed.\nEllen: That seems manageable. Did she recommend any supplements?\nMarcus: No. She said most people get what they need from a balanced diet, and she'd rather I focus on that first.",
+    "qs": [
+      {"q": "What surprised Marcus about the appointment?", "opts": ["The nutritionist was late", "The nutritionist gave him a very strict diet", "The nutritionist did not ask him to cut out foods", "The appointment was very short"], "ans": 2, "why": "He expected a strict diet, but she barely mentioned cutting anything out."},
+      {"q": "Which habits does Marcus have that the nutritionist mentioned?", "opts": ["Skipping breakfast and eating a big late dinner", "Eating too much sugar at lunch", "Drinking too little water", "Eating too fast"], "ans": 0, "why": "He skips breakfast and eats a huge dinner late at night."},
+      {"q": "What did the nutritionist say about supplements?", "opts": ["He should take several each day", "He should avoid all of them", "Only his friends need them", "He should focus on a balanced diet first"], "ans": 3, "why": "She said most people get what they need from a balanced diet and preferred that he focus on that first."}
+    ],
+    "vocab": ["nutritionist", "digestion", "balanced diet"]
+  },
+  {
+    "id": "lis-x1-04", "lvl": "B2", "speed": "fast", "accent": "gb", "topic": "health", "kind": "news",
+    "script": "A new study from a group of British researchers suggests that spending time in green spaces may help reduce stress in city dwellers. The researchers followed more than two thousand adults for a year and asked them to report how often they visited parks and how stressed they felt. Those who spent at least two hours a week in green spaces said they felt noticeably calmer than those who rarely went outside. The scientists stressed, however, that the study only shows a link and cannot prove that parks directly cause lower stress. People who feel calmer may simply be more likely to visit parks. Even so, local councils have welcomed the findings, and several have promised to invest more in public gardens and walking paths over the next five years.",
+    "qs": [
+      {"q": "What did the people who visited green spaces regularly report?", "opts": ["They felt calmer than the others", "They slept longer", "They exercised more", "They moved out of the city"], "ans": 0, "why": "Those who spent at least two hours a week in green spaces felt noticeably calmer."},
+      {"q": "What warning did the scientists give?", "opts": ["Parks can be dangerous", "The study was too expensive", "The study cannot prove that parks cause lower stress", "Most people don't visit parks"], "ans": 2, "why": "They said the study only shows a link and cannot prove a direct cause."},
+      {"q": "How have local councils responded?", "opts": ["They have ignored the study", "Several have promised to invest in gardens and paths", "They have closed some parks", "They have asked for another study"], "ans": 1, "why": "Several councils promised more investment in public gardens and walking paths."}
+    ],
+    "vocab": ["green spaces", "city dwellers", "a link between"]
+  },
+  {
+    "id": "lis-x1-05", "lvl": "B1", "speed": "slow", "accent": "gb", "topic": "science", "kind": "monologue",
+    "script": "Today I'm going to explain how rain is made. First, the sun heats the water in oceans, lakes, and rivers. Some of this water turns into vapor, which is a gas, and rises into the air. This process is called evaporation. High in the sky, the air is much colder, so the vapor cools down and turns back into tiny drops of water. These drops come together to form clouds. When the drops become big and heavy, they fall to the ground as rain. Later, the water flows into rivers and lakes, and the whole process starts again. This is why scientists call it the water cycle.",
+    "qs": [
+      {"q": "What does the sun do at the start of the process?", "opts": ["It freezes the water", "It heats the water so that some of it rises as vapor", "It makes the clouds heavy", "It creates new rivers"], "ans": 1, "why": "The sun heats the water, and some of it turns into vapor and rises."},
+      {"q": "Why does the vapor turn back into drops?", "opts": ["The air is much colder high in the sky", "The wind is very strong", "The sun is too hot", "The drops are too light"], "ans": 0, "why": "High in the sky the air is colder, so the vapor cools and turns into drops."},
+      {"q": "When does rain fall?", "opts": ["When the sun is very bright", "When the clouds are very small", "When the drops are big and heavy", "When the rivers are full"], "ans": 2, "why": "The drops fall as rain when they become big and heavy."}
+    ],
+    "vocab": ["vapor", "evaporation", "water cycle"]
+  },
+  {
+    "id": "lis-x1-06", "lvl": "B2", "speed": "normal", "accent": "us", "topic": "science", "kind": "conversation",
+    "script": "Dana: So, did your plants grow the way you predicted?\nRavi: Not exactly. My hypothesis was that the plants near the window would grow faster, but the results were more complicated than that.\nDana: How so?\nRavi: Well, the plants near the window grew taller, but their leaves were smaller and paler than the others.\nDana: Interesting. Could it be that they got too much direct sunlight?\nRavi: That's what my professor suggested. She said I should repeat the experiment with a thin curtain to filter the light.\nDana: Are you going to change anything else?\nRavi: I'll use more plants this time. With only six in each group, I can't be sure the differences weren't just random.\nDana: Good thinking. A bigger sample would make your conclusions much stronger.",
+    "qs": [
+      {"q": "What happened to the plants near the window?", "opts": ["They died quickly", "They grew taller, but their leaves were smaller and paler", "They did not grow at all", "They grew exactly as predicted"], "ans": 1, "why": "Ravi says they grew taller but had smaller, paler leaves."},
+      {"q": "What does the professor recommend?", "opts": ["Moving the plants outdoors", "Giving the plants more water", "Repeating the experiment with a curtain to filter the light", "Writing a new hypothesis"], "ans": 2, "why": "She suggested repeating the experiment with a thin curtain to filter the light."},
+      {"q": "Why does Ravi want to use more plants?", "opts": ["The first plants were too expensive", "He wants to finish sooner", "His professor asked for exactly twelve", "Six plants per group are too few to rule out random differences"], "ans": 3, "why": "With only six in each group, he can't be sure the differences weren't random."}
+    ],
+    "vocab": ["hypothesis", "sample", "direct sunlight"]
+  },
+  {
+    "id": "lis-x1-07", "lvl": "B2+", "speed": "fast", "accent": "us", "topic": "science", "kind": "news",
+    "script": "Astronomers have announced that a new telescope has captured some of the sharpest images ever taken of a distant galaxy cluster. By measuring how the light from faraway galaxies is slightly bent by the gravity of closer ones, the team was able to map where the invisible material known as dark matter is concentrated. Although nobody has directly observed dark matter, scientists infer its existence from its gravitational effects on visible objects. One researcher described the new data as a significant step forward, but she cautioned that it would take several more years of observation before the team could draw firm conclusions about how dark matter is distributed across the universe. The results will be published next month in a scientific journal.",
+    "qs": [
+      {"q": "How did the team map the dark matter?", "opts": ["By photographing it directly", "By measuring how gravity bends light from distant galaxies", "By sending a probe into the cluster", "By counting the stars in the cluster"], "ans": 1, "why": "They measured how the light from faraway galaxies is bent by the gravity of closer ones."},
+      {"q": "Why do scientists believe that dark matter exists?", "opts": ["They have seen it directly", "It gives off a bright light", "They infer it from its gravitational effects", "It was found in a laboratory"], "ans": 2, "why": "Nobody has directly observed it, so scientists infer it from its effects on visible objects."},
+      {"q": "What is the researcher's attitude toward the new data?", "opts": ["Disappointed and critical", "Completely certain about the results", "Uninterested in further study", "Positive, but careful about drawing conclusions"], "ans": 3, "why": "She called it a significant step forward but said more years of observation are needed."}
+    ],
+    "vocab": ["galaxy cluster", "dark matter", "infer"]
+  },
+  {
+    "id": "lis-x1-08", "lvl": "B1", "speed": "slow", "accent": "us", "topic": "finance", "kind": "conversation",
+    "script": "Lisa: Hey, Ben. Do you have a minute? I want to start saving money, but I don't know how.\nBen: Sure. First, you should write down everything you spend in a month.\nLisa: Everything? Even coffee?\nBen: Yes, even coffee. Small costs add up quickly. Then you can see what you really need and what you can cut.\nLisa: That makes sense. I spend a lot on food delivery.\nBen: Then you could cook at home more often. After that, try to put aside ten percent of your salary on payday.\nLisa: Ten percent sounds possible. Should I open a special account?\nBen: Yes, a separate savings account is a good idea. It's harder to spend money you can't see every day.",
+    "qs": [
+      {"q": "What does Ben say Lisa should do first?", "opts": ["Open a savings account", "Write down everything she spends in a month", "Ask her boss for a raise", "Stop drinking coffee"], "ans": 1, "why": "Ben says to write down everything she spends in a month."},
+      {"q": "Where does Lisa spend a lot of money?", "opts": ["On clothes", "On travel", "On food delivery", "On rent"], "ans": 2, "why": "She says she spends a lot on food delivery."},
+      {"q": "Why does Ben recommend a separate savings account?", "opts": ["It pays a very high salary", "It is free to open", "Banks require it", "It's harder to spend money you don't see every day"], "ans": 3, "why": "He says it is harder to spend money you can't see every day."}
+    ],
+    "vocab": ["add up", "put aside", "payday"]
+  },
+  {
+    "id": "lis-x1-09", "lvl": "B1+", "speed": "normal", "accent": "gb", "topic": "finance", "kind": "voicemail",
+    "script": "Hello, Mr. Patel, this is Sarah Collins from Northside Bank. I'm calling about the credit card application you submitted last week. We've reviewed your documents, and everything looks fine except for one thing. We still need a recent proof of address, such as a utility bill from the last three months. You can send it by email or bring it to any of our branches. Once we receive it, the process usually takes two or three working days. If you have any questions, please call me back at the number on your application, either before five o'clock today or tomorrow morning after nine. Thank you, and have a good day.",
+    "qs": [
+      {"q": "Why is Sarah calling Mr. Patel?", "opts": ["His card has been stolen", "His application is missing one document", "His account has been closed", "He owes the bank money"], "ans": 1, "why": "Everything is fine except that the bank still needs a proof of address."},
+      {"q": "Which document would be acceptable?", "opts": ["A passport photo", "A bank statement from last year", "A utility bill from the last three months", "A letter from his employer"], "ans": 2, "why": "She mentions a utility bill from the last three months as an example."},
+      {"q": "How long does the process usually take after the bank receives the document?", "opts": ["One hour", "One week", "A month", "Two or three working days"], "ans": 3, "why": "She says the process usually takes two or three working days."}
+    ],
+    "vocab": ["proof of address", "utility bill", "branch"]
+  },
+  {
+    "id": "lis-x1-10", "lvl": "B2", "speed": "normal", "accent": "us", "topic": "finance", "kind": "monologue",
+    "script": "Let's talk about inflation, because it affects everyone, even if we don't always notice it. Inflation simply means that, over time, prices rise, so the same amount of money buys fewer goods and services. If prices go up by three percent a year, something that costs a hundred dollars today will cost about a hundred and three dollars next year. This is why keeping all your savings in a drawer isn't a good long-term strategy. Your money loses purchasing power, even though the number on the bills stays the same. Many people try to protect their savings by investing, but investing comes with risk, and returns are never guaranteed. A sensible approach is to spread your money across different options and to think carefully about how long you can leave it untouched.",
+    "qs": [
+      {"q": "What does inflation mean, according to the speaker?", "opts": ["Salaries rise faster than prices", "Banks give higher interest rates", "Prices rise, so the same money buys less", "Goods become cheaper over time"], "ans": 2, "why": "She explains that prices rise over time, so the same amount of money buys fewer goods."},
+      {"q": "Why is keeping all your savings in a drawer a poor long-term strategy?", "opts": ["Someone might steal it", "The money loses purchasing power", "Banks charge a fee for it", "The bills become damaged"], "ans": 1, "why": "The number on the bills stays the same, but their purchasing power falls."},
+      {"q": "What does the speaker say about investing?", "opts": ["It always protects savings", "It is illegal for most people", "It is only for experts", "It involves risk, so spreading money out is sensible"], "ans": 3, "why": "She says investing comes with risk and returns are not guaranteed, so spreading money is a sensible approach."}
+    ],
+    "vocab": ["inflation", "purchasing power", "spread your money"]
+  },
+  {
+    "id": "lis-x1-11", "lvl": "B2", "speed": "fast", "accent": "gb", "topic": "finance", "kind": "conversation",
+    "script": "Chloe: Have you sorted out your tax return yet, Oliver?\nOliver: Not yet. Since I started freelancing, it's been much more complicated than I'd imagined.\nChloe: I know what you mean. The key is to keep every receipt for anything related to work.\nOliver: I've been doing that, but I'm not sure which expenses I can actually claim.\nChloe: Generally, you can claim costs that are directly related to your work, such as software or part of your internet bill. But the rules depend on where you live, so it's worth checking.\nOliver: Maybe I should hire an accountant.\nChloe: It's not cheap, but it could save you a lot of stress, and they might find deductions you'd have missed.\nOliver: You've convinced me. I'll book an appointment this week.",
+    "qs": [
+      {"q": "Why has Oliver's tax return become more complicated?", "opts": ["He moved to another country", "He started working as a freelancer", "He lost his receipts", "He changed his bank"], "ans": 1, "why": "He says it has been more complicated since he started freelancing."},
+      {"q": "According to Chloe, which expenses can generally be claimed?", "opts": ["Any expense at all", "Only travel costs", "Costs that are directly related to work", "Only costs above a certain amount"], "ans": 2, "why": "She says you can generally claim costs that are directly related to your work."},
+      {"q": "What does Oliver decide to do?", "opts": ["Ignore the tax return this year", "Ask Chloe to fill in the forms", "Stop freelancing", "Book an appointment with an accountant"], "ans": 3, "why": "Chloe convinces him, and he says he'll book an appointment this week."}
+    ],
+    "vocab": ["tax return", "freelance", "deductions"]
+  },
+  {
+    "id": "lis-x1-12", "lvl": "B1+", "speed": "normal", "accent": "us", "topic": "abstract", "kind": "monologue",
+    "script": "I think trust is one of the most important things in any relationship, whether it's with a friend, a coworker, or a partner. It takes a long time to build, but it can disappear in a single moment. When I started my first job, my manager gave me a big project, even though I had very little experience. At first, I was nervous, but I realized that she trusted me, and that made me work harder. I didn't want to let her down. Since then, I've tried to treat other people the same way. Of course, trusting someone always involves some risk, because they might disappoint you. However, I believe that the risk is worth taking, because without trust, it's hard to build anything lasting.",
+    "qs": [
+      {"q": "How does the speaker describe trust?", "opts": ["Quick to build and quick to lose", "Slow to build but easy to lose", "Easy to build and hard to lose", "Not very important"], "ans": 1, "why": "He says it takes a long time to build but can disappear in a single moment."},
+      {"q": "Why did the speaker work harder in his first job?", "opts": ["He wanted a higher salary", "He was afraid of losing the job", "He didn't want to disappoint a manager who trusted him", "He had a lot of experience"], "ans": 2, "why": "He realized his manager trusted him and he didn't want to let her down."},
+      {"q": "What is the speaker's opinion about the risk of trusting people?", "opts": ["It is too dangerous", "It should be avoided at work", "It only matters in friendships", "It is worth taking"], "ans": 3, "why": "He believes the risk is worth taking because nothing lasting can be built without trust."}
+    ],
+    "vocab": ["let someone down", "disappoint", "lasting"]
+  },
+  {
+    "id": "lis-x1-13", "lvl": "B1+", "speed": "slow", "accent": "gb", "topic": "abstract", "kind": "conversation",
+    "script": "Harry: Do you ever think about what makes people happy?\nGrace: All the time. I used to believe that money was the answer, but now I'm not so sure.\nHarry: What changed your mind?\nGrace: My uncle retired last year with plenty of savings, but he told me he felt bored and a little lonely.\nHarry: So he missed having a purpose?\nGrace: Exactly. He started volunteering at an animal shelter, and now he seems much happier.\nHarry: That's interesting. I read somewhere that spending time with other people matters more than owning things.\nGrace: I agree. Things are nice, but memories and friendships last longer.\nHarry: Maybe happiness is about having something to look forward to each day.",
+    "qs": [
+      {"q": "What changed Grace's opinion about money and happiness?", "opts": ["Her uncle's experience after retiring", "A book she read", "Her own recent promotion", "A conversation with Harry"], "ans": 0, "why": "Her uncle retired with plenty of savings but still felt bored and lonely."},
+      {"q": "How did Grace's uncle become happier?", "opts": ["He bought a new house", "He started working again full time", "He moved to another country", "He began volunteering at an animal shelter"], "ans": 3, "why": "Volunteering at an animal shelter gave him a purpose, and he now seems happier."},
+      {"q": "What does Harry suggest about happiness at the end?", "opts": ["It depends on having something to look forward to", "It comes only from money", "It is impossible to explain", "It is the same for everyone"], "ans": 0, "why": "He says maybe happiness is about having something to look forward to each day."}
+    ],
+    "vocab": ["retire", "volunteer", "purpose"]
+  },
+  {
+    "id": "lis-x1-14", "lvl": "B2", "speed": "normal", "accent": "gb", "topic": "abstract", "kind": "monologue",
+    "script": "People often assume that creativity needs complete freedom, but many artists and designers say that the opposite is true. When you can do anything, it's easy to feel overwhelmed by the number of choices. A limit, such as a small budget, a tight deadline, or a strict word count, can actually push you to think more imaginatively. Take poetry, for example. A sonnet has fourteen lines and a fixed pattern, yet poets have written remarkable work within those rules for centuries. Of course, too many restrictions can be frustrating, and the right balance varies from person to person. Still, next time you're stuck on a creative project, it might help to set yourself a challenge rather than waiting for inspiration to arrive.",
+    "qs": [
+      {"q": "What do people often assume about creativity?", "opts": ["That it needs a large budget", "That it needs complete freedom", "That it cannot be taught", "That it only exists in poetry"], "ans": 1, "why": "The speaker says people assume creativity needs complete freedom."},
+      {"q": "Why does the speaker mention the sonnet?", "opts": ["To show that poetry is outdated", "To prove that poets dislike rules", "To give an example of good work produced within strict rules", "To explain how to write quickly"], "ans": 2, "why": "A sonnet has a fixed pattern, yet poets have written remarkable work within it for centuries."},
+      {"q": "What does the speaker advise when you feel stuck?", "opts": ["Wait for inspiration", "Remove every restriction", "Ask someone else to finish the project", "Set yourself a challenge"], "ans": 3, "why": "She suggests setting yourself a challenge rather than waiting for inspiration."}
+    ],
+    "vocab": ["overwhelmed", "imaginatively", "restrictions"]
+  },
+  {
+    "id": "lis-x1-15", "lvl": "B2+", "speed": "fast", "accent": "us", "topic": "abstract", "kind": "conversation",
+    "script": "Julia: I've been thinking about a decision I made years ago, and I can't help wondering whether I'd be happier if I had chosen differently.\nTheo: That's a common trap. We tend to imagine the alternative as better than it would have been, because we only know the version we actually lived.\nJulia: True, but isn't regret also useful? It tells us what we value.\nTheo: I'd say it can be, provided it leads somewhere. If it just keeps you ruminating, it's not teaching you anything.\nJulia: So the distinction lies between reflecting and dwelling.\nTheo: Precisely. Reflection asks what you can learn from the past, whereas dwelling merely replays it.\nJulia: I suppose I should focus on what I can still change.\nTheo: Which, ironically, is usually the part we spend the least time on.",
+    "qs": [
+      {"q": "Why do we tend to imagine the alternative as better, according to Theo?", "opts": ["We have only experienced the life we actually lived", "We are naturally pessimistic", "Other people tell us it was better", "We forget our past mistakes"], "ans": 0, "why": "He says we only know the version we actually lived, so the alternative seems better."},
+      {"q": "How does Theo distinguish reflection from dwelling?", "opts": ["Reflection is shorter than dwelling", "Dwelling helps us learn, but reflection does not", "Reflection looks for lessons, whereas dwelling just replays the past", "They are essentially the same"], "ans": 2, "why": "Reflection asks what you can learn from the past, whereas dwelling merely replays it."},
+      {"q": "What is ironic, according to Theo's final comment?", "opts": ["Regret is always useful", "We spend little time on the things we can still change", "Julia has made the wrong decision", "Nobody wants to reflect on the past"], "ans": 1, "why": "He says the part we can still change is usually the part we spend the least time on."}
+    ],
+    "vocab": ["regret", "ruminate", "dwell on"]
+  }
+]

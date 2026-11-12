@@ -1,0 +1,6069 @@
+[
+ {
+  "id": "agenda",
+  "w": "agenda",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "pauta de reunião",
+  "def": "A list of topics to discuss at a meeting.",
+  "ipa": "/əˈdʒendə/",
+  "ex": "Please send me the agenda before the meeting so I can prepare my questions.",
+  "form": "agenda",
+  "nat": "The first item on the agenda is next quarter's budget.",
+  "syn": [
+   "schedule",
+   "programme"
+  ],
+  "ant": [],
+  "col": [
+   "set the agenda",
+   "on the agenda",
+   "hidden agenda",
+   "meeting agenda"
+  ],
+  "mis": {
+   "bad": "I have a busy agenda today at the office.",
+   "good": "I have a busy schedule today at the office.",
+   "why": "An agenda is a list of meeting topics, not a personal daily schedule."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "attendee",
+  "w": "attendee",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "participante, presente",
+  "def": "A person who goes to an event or meeting.",
+  "ipa": "/ˌætenˈdiː/",
+  "ex": "All the attendees received a copy of the slides after the presentation ended.",
+  "form": "attendees",
+  "nat": "Each attendee must sign in at the front desk.",
+  "syn": [
+   "participant",
+   "guest"
+  ],
+  "ant": [
+   "absentee"
+  ],
+  "col": [
+   "list of attendees",
+   "conference attendee",
+   "invite attendees",
+   "attendee list"
+  ],
+  "mis": {
+   "bad": "The assistants of the meeting were very quiet.",
+   "good": "The attendees of the meeting were very quiet.",
+   "why": "Assistant means a helper; people who attend a meeting are attendees."
+  },
+  "fam": [
+   "attend (verb)",
+   "attendance (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "adjourn",
+  "w": "adjourn",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "encerrar, suspender (reunião)",
+  "def": "To formally end a meeting or stop it until a later time.",
+  "ipa": "/əˈdʒɜːrn/",
+  "ex": "The chairman adjourned the meeting at noon and we all went to lunch.",
+  "form": "adjourned",
+  "nat": "Let's adjourn until tomorrow morning and continue then.",
+  "syn": [
+   "suspend",
+   "close"
+  ],
+  "ant": [
+   "convene"
+  ],
+  "col": [
+   "adjourn a meeting",
+   "adjourn until",
+   "adjourn for lunch",
+   "court adjourned"
+  ],
+  "mis": {
+   "bad": "We adjourned the project because we had no budget.",
+   "good": "We suspended the project because we had no budget.",
+   "why": "Adjourn is mostly used for meetings and courts, not for stopping a project."
+  },
+  "fam": [
+   "adjournment (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "reschedule",
+  "w": "reschedule",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "remarcar, reagendar",
+  "def": "To change the time or date of a planned event.",
+  "ipa": "/ˌriːˈskedʒuːl/",
+  "ex": "I had to reschedule our call because my flight was delayed by two hours.",
+  "form": "reschedule",
+  "nat": "Could we reschedule for Thursday afternoon instead?",
+  "syn": [
+   "postpone",
+   "move"
+  ],
+  "ant": [
+   "keep"
+  ],
+  "col": [
+   "reschedule a meeting",
+   "reschedule for",
+   "need to reschedule",
+   "rescheduled appointment"
+  ],
+  "mis": {
+   "bad": "Can we reschedule the meeting to the next week?",
+   "good": "Can we reschedule the meeting for next week?",
+   "why": "Use \"reschedule for\" with a new time; \"to the next week\" sounds unnatural."
+  },
+  "fam": [
+   "schedule (noun)",
+   "scheduling (noun)"
+  ],
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "recap",
+  "w": "recap",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "resumo, recapitulação",
+  "def": "A short summary of the main points of something.",
+  "ipa": "/ˈriːkæp/",
+  "ex": "Before we continue, here is a quick recap of what we decided yesterday.",
+  "form": "recap",
+  "nat": "Could someone give me a recap of the meeting?",
+  "syn": [
+   "summary",
+   "review"
+  ],
+  "ant": [],
+  "col": [
+   "quick recap",
+   "a brief recap",
+   "give a recap",
+   "weekly recap"
+  ],
+  "mis": {
+   "bad": "Let me do a resume of yesterday's discussion.",
+   "good": "Let me do a recap of yesterday's discussion.",
+   "why": "\"Resume\" is a false friend in this sense; a short summary is a recap."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "facilitate",
+  "w": "facilitate",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "facilitar, conduzir (reunião)",
+  "def": "To make a process easier, or to lead a group discussion.",
+  "ipa": "/fəˈsɪlɪteɪt/",
+  "ex": "Maria facilitated the workshop and made sure everyone had a chance to speak.",
+  "form": "facilitated",
+  "nat": "Good software can facilitate communication between departments.",
+  "syn": [
+   "ease",
+   "enable",
+   "lead"
+  ],
+  "ant": [
+   "hinder"
+  ],
+  "col": [
+   "facilitate a discussion",
+   "facilitate a workshop",
+   "facilitate communication",
+   "facilitate change"
+  ],
+  "mis": {
+   "bad": "The new tool facilitates to share files.",
+   "good": "The new tool makes it easier to share files.",
+   "why": "Facilitate takes a direct object and is not followed by \"to + verb\"."
+  },
+  "fam": [
+   "facilitator (noun)",
+   "facility (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "minutes",
+  "w": "minutes",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "ata (de reunião)",
+  "def": "The official written record of what was said in a meeting.",
+  "ipa": "/ˈmɪnɪts/",
+  "ex": "Sam took the minutes during the call and emailed them to everyone afterward.",
+  "form": "minutes",
+  "nat": "The minutes show that we agreed to postpone the launch.",
+  "syn": [
+   "record",
+   "notes"
+  ],
+  "ant": [],
+  "col": [
+   "take the minutes",
+   "approve the minutes",
+   "meeting minutes",
+   "read the minutes"
+  ],
+  "mis": {
+   "bad": "I will write the ata of the meeting.",
+   "good": "I will write the minutes of the meeting.",
+   "why": "The record of a meeting is called the minutes, always plural."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "moderator",
+  "w": "moderator",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "moderador, mediador",
+  "def": "A person who leads a discussion and makes sure rules are followed.",
+  "ipa": "/ˈmɑːdəreɪtər/",
+  "ex": "The moderator asked each speaker to keep their answer under two minutes.",
+  "form": "moderator",
+  "nat": "She works as a moderator for an online forum.",
+  "syn": [
+   "chair",
+   "host"
+  ],
+  "ant": [],
+  "col": [
+   "panel moderator",
+   "act as moderator",
+   "forum moderator",
+   "experienced moderator"
+  ],
+  "mis": {
+   "bad": "The moderator of the company is Mr. Silva.",
+   "good": "The head of the company is Mr. Silva.",
+   "why": "A moderator guides a discussion; it does not mean a company leader."
+  },
+  "fam": [
+   "moderate (verb)",
+   "moderation (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "counteroffer",
+  "w": "counteroffer",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "contraproposta",
+  "def": "A new offer made after rejecting an earlier offer.",
+  "ipa": "/ˈkaʊntərˌɔːfər/",
+  "ex": "The company made a counteroffer of five percent more than the first salary.",
+  "form": "counteroffer",
+  "nat": "He was tempted to accept the counteroffer and stay.",
+  "syn": [
+   "counterproposal"
+  ],
+  "ant": [],
+  "col": [
+   "make a counteroffer",
+   "reject a counteroffer",
+   "accept a counteroffer",
+   "generous counteroffer"
+  ],
+  "mis": {
+   "bad": "They did a counter proposal and I accepted.",
+   "good": "They made a counteroffer and I accepted.",
+   "why": "Use the verb \"make\" with counteroffer, and spell it as one noun."
+  },
+  "fam": [
+   "offer (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "concession",
+  "w": "concession",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "concessão",
+  "def": "Something you agree to give up to reach an agreement.",
+  "ipa": "/kənˈseʃn/",
+  "ex": "Both sides had to make concessions before they could sign the contract.",
+  "form": "concessions",
+  "nat": "The union refused to make any concession on pay.",
+  "syn": [
+   "compromise",
+   "allowance"
+  ],
+  "ant": [],
+  "col": [
+   "make concessions",
+   "major concession",
+   "grant a concession",
+   "price concession"
+  ],
+  "mis": {
+   "bad": "They did some concessions to close the deal.",
+   "good": "They made some concessions to close the deal.",
+   "why": "The usual verb is \"make\" a concession, not \"do\"."
+  },
+  "fam": [
+   "concede (verb)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "concede",
+  "w": "concede",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "admitir, ceder",
+  "def": "To admit that something is true, or to give up something.",
+  "ipa": "/kənˈsiːd/",
+  "ex": "After a long argument, the manager finally conceded that our plan was better.",
+  "form": "conceded",
+  "nat": "I'll concede the point, but I still disagree with you.",
+  "syn": [
+   "admit",
+   "yield"
+  ],
+  "ant": [
+   "deny",
+   "insist"
+  ],
+  "col": [
+   "concede a point",
+   "concede defeat",
+   "reluctantly concede",
+   "concede that"
+  ],
+  "mis": {
+   "bad": "I conceded to him that he was right.",
+   "good": "I conceded that he was right.",
+   "why": "With a \"that\" clause, concede does not need \"to him\"; avoid extra prepositions."
+  },
+  "fam": [
+   "concession (noun)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "deadlock",
+  "w": "deadlock",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "impasse",
+  "def": "A situation where no agreement can be reached.",
+  "ipa": "/ˈdedlɑːk/",
+  "ex": "The talks ended in deadlock because neither side would lower its price.",
+  "form": "deadlock",
+  "nat": "A third party was called in to break the deadlock.",
+  "syn": [
+   "stalemate",
+   "impasse"
+  ],
+  "ant": [
+   "agreement"
+  ],
+  "col": [
+   "break the deadlock",
+   "reach a deadlock",
+   "end in deadlock",
+   "political deadlock"
+  ],
+  "mis": {
+   "bad": "The negotiation arrived in a deadlock.",
+   "good": "The negotiation ended in deadlock.",
+   "why": "Use \"in deadlock\", not \"arrive in a deadlock\"."
+  },
+  "fam": [
+   "deadlocked (adj)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "stalemate",
+  "w": "stalemate",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "impasse, beco sem saída",
+  "def": "A situation in which neither side can win or make progress.",
+  "ipa": "/ˈsteɪlmeɪt/",
+  "ex": "The two teams reached a stalemate and nobody knew how to move forward.",
+  "form": "stalemate",
+  "nat": "We need fresh ideas to end this stalemate.",
+  "syn": [
+   "deadlock",
+   "standoff"
+  ],
+  "ant": [
+   "breakthrough"
+  ],
+  "col": [
+   "reach a stalemate",
+   "break a stalemate",
+   "end the stalemate",
+   "political stalemate"
+  ],
+  "mis": {
+   "bad": "The talks are in a stale mate.",
+   "good": "The talks are in a stalemate.",
+   "why": "It is one word, stalemate, not \"stale mate\"."
+  },
+  "fam": [],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "haggle",
+  "w": "haggle",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "pechinchar, regatear",
+  "def": "To argue about the price of something to get a lower one.",
+  "ipa": "/ˈhæɡl/",
+  "ex": "We haggled for twenty minutes before the supplier agreed to a ten percent discount.",
+  "form": "haggled",
+  "nat": "It is common to haggle at open markets.",
+  "syn": [
+   "bargain",
+   "negotiate"
+  ],
+  "ant": [],
+  "col": [
+   "haggle over",
+   "haggle with",
+   "haggle over the price",
+   "refuse to haggle"
+  ],
+  "mis": {
+   "bad": "He haggled the price with the seller.",
+   "good": "He haggled with the seller over the price.",
+   "why": "Haggle is intransitive: use \"haggle with someone over something\"."
+  },
+  "fam": [
+   "haggler (noun)"
+  ],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "bid",
+  "w": "bid",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "proposta, lance, licitação",
+  "def": "An offer to do work or buy something for a stated price.",
+  "ipa": "/bɪd/",
+  "ex": "Our firm submitted a bid for the new airport contract last week.",
+  "form": "bid",
+  "nat": "Their bid was too high, so they lost the project.",
+  "syn": [
+   "offer",
+   "tender"
+  ],
+  "ant": [],
+  "col": [
+   "submit a bid",
+   "winning bid",
+   "competitive bid",
+   "bid for"
+  ],
+  "mis": {
+   "bad": "We made a bid to the government contract.",
+   "good": "We made a bid for the government contract.",
+   "why": "The noun bid is followed by \"for\" a contract, not \"to\"."
+  },
+  "fam": [
+   "bidder (noun)"
+  ],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "mediate",
+  "w": "mediate",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "mediar",
+  "def": "To help two sides reach an agreement.",
+  "ipa": "/ˈmiːdieɪt/",
+  "ex": "A neutral lawyer mediated between the company and the angry supplier.",
+  "form": "mediated",
+  "nat": "HR tried to mediate the dispute between the two managers.",
+  "syn": [
+   "arbitrate",
+   "intervene"
+  ],
+  "ant": [],
+  "col": [
+   "mediate a dispute",
+   "mediate between",
+   "help mediate",
+   "mediate talks"
+  ],
+  "mis": {
+   "bad": "The manager mediated the two employees.",
+   "good": "The manager mediated between the two employees.",
+   "why": "Mediate needs \"between\" when naming both sides."
+  },
+  "fam": [
+   "mediator (noun)",
+   "mediation (noun)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "ultimatum",
+  "w": "ultimatum",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "ultimato",
+  "def": "A final demand with a threat of what will happen if it is refused.",
+  "ipa": "/ˌʌltɪˈmeɪtəm/",
+  "ex": "The client gave us an ultimatum: fix the bug by Friday or cancel the contract.",
+  "form": "ultimatum",
+  "nat": "He issued an ultimatum to his team.",
+  "syn": [
+   "final demand"
+  ],
+  "ant": [],
+  "col": [
+   "issue an ultimatum",
+   "give an ultimatum",
+   "deliver an ultimatum",
+   "reject the ultimatum"
+  ],
+  "mis": {
+   "bad": "The client put us an ultimatum.",
+   "good": "The client gave us an ultimatum.",
+   "why": "Use \"give\" or \"issue\" an ultimatum, not \"put\"."
+  },
+  "fam": [],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "clause",
+  "w": "clause",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "cláusula",
+  "def": "A separate part of a legal document or contract.",
+  "ipa": "/klɔːz/",
+  "ex": "There is a clause in the contract that allows either side to cancel.",
+  "form": "clause",
+  "nat": "Read the termination clause carefully before you sign.",
+  "syn": [
+   "provision",
+   "term"
+  ],
+  "ant": [],
+  "col": [
+   "contract clause",
+   "termination clause",
+   "add a clause",
+   "escape clause"
+  ],
+  "mis": {
+   "bad": "I read the clausule of the agreement twice.",
+   "good": "I read the clause of the agreement twice.",
+   "why": "The English word is clause; \"clausule\" does not exist."
+  },
+  "fam": [],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "terms",
+  "w": "terms",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "termos, condições",
+  "def": "The conditions of an agreement, such as price and duration.",
+  "ipa": "/tɜːrmz/",
+  "ex": "Both companies agreed on the terms of the deal after three weeks of talks.",
+  "form": "terms",
+  "nat": "Please read the terms and conditions before you accept.",
+  "syn": [
+   "conditions",
+   "provisions"
+  ],
+  "ant": [],
+  "col": [
+   "terms and conditions",
+   "agree on terms",
+   "payment terms",
+   "on good terms"
+  ],
+  "mis": {
+   "bad": "The terms of payment is thirty days.",
+   "good": "The terms of payment are thirty days.",
+   "why": "Terms is plural in this meaning, so it takes a plural verb."
+  },
+  "fam": [
+   "term (noun)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "arbitration",
+  "w": "arbitration",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "arbitragem",
+  "def": "A process where a neutral person decides a dispute.",
+  "ipa": "/ˌɑːrbɪˈtreɪʃn/",
+  "ex": "The two companies agreed to settle the dispute through arbitration instead of court.",
+  "form": "arbitration",
+  "nat": "The case went to arbitration last spring.",
+  "syn": [
+   "mediation",
+   "judgment"
+  ],
+  "ant": [],
+  "col": [
+   "go to arbitration",
+   "binding arbitration",
+   "arbitration process",
+   "submit to arbitration"
+  ],
+  "mis": {
+   "bad": "The firms went to the arbitrage to solve the issue.",
+   "good": "The firms went to arbitration to solve the issue.",
+   "why": "Arbitrage is a financial term; the legal process is arbitration."
+  },
+  "fam": [
+   "arbitrate (verb)",
+   "arbitrator (noun)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "settlement",
+  "w": "settlement",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "acordo, liquidação",
+  "def": "An official agreement that ends a dispute.",
+  "ipa": "/ˈsetlmənt/",
+  "ex": "The two companies reached a settlement and avoided a long and costly trial.",
+  "form": "settlement",
+  "nat": "They agreed to a financial settlement.",
+  "syn": [
+   "agreement",
+   "deal"
+  ],
+  "ant": [],
+  "col": [
+   "reach a settlement",
+   "out-of-court settlement",
+   "settlement offer",
+   "accept a settlement"
+  ],
+  "mis": {
+   "bad": "We settled the dispute with a good settlement.",
+   "good": "We reached a good settlement in the dispute.",
+   "why": "Use \"reach a settlement\" as a natural collocation."
+  },
+  "fam": [
+   "settle (verb)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "applicant",
+  "w": "applicant",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "candidato (à vaga)",
+  "def": "A person who formally asks for a job or a place.",
+  "ipa": "/ˈæplɪkənt/",
+  "ex": "More than two hundred applicants sent their résumés for the designer position.",
+  "form": "applicants",
+  "nat": "Each applicant must complete an online form.",
+  "syn": [
+   "candidate"
+  ],
+  "ant": [
+   "employer"
+  ],
+  "col": [
+   "job applicant",
+   "successful applicant",
+   "applicant pool",
+   "screen applicants"
+  ],
+  "mis": {
+   "bad": "The applicant of the job was very nervous.",
+   "good": "The applicant for the job was very nervous.",
+   "why": "Use \"applicant for\" a job, not \"of\"."
+  },
+  "fam": [
+   "apply (verb)",
+   "application (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "candidate",
+  "w": "candidate",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "candidato",
+  "def": "A person being considered for a job or election.",
+  "ipa": "/ˈkændɪdət/",
+  "ex": "The strongest candidate had ten years of experience in customer support.",
+  "form": "candidate",
+  "nat": "We interviewed five candidates this week.",
+  "syn": [
+   "applicant",
+   "contender"
+  ],
+  "ant": [],
+  "col": [
+   "strong candidate",
+   "job candidate",
+   "shortlist a candidate",
+   "ideal candidate"
+  ],
+  "mis": {
+   "bad": "I was candidate to the job.",
+   "good": "I was a candidate for the job.",
+   "why": "Use \"a candidate for\" and do not forget the article."
+  },
+  "fam": [
+   "candidacy (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "recruit",
+  "w": "recruit",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "recrutar, contratar",
+  "def": "To find and persuade people to join a company.",
+  "ipa": "/rɪˈkruːt/",
+  "ex": "The firm recruited twenty engineers from universities in the last six months.",
+  "form": "recruited",
+  "nat": "We are trying to recruit a new sales manager.",
+  "syn": [
+   "hire",
+   "enlist"
+  ],
+  "ant": [
+   "dismiss"
+  ],
+  "col": [
+   "recruit staff",
+   "recruit talent",
+   "actively recruiting",
+   "recruit graduates"
+  ],
+  "mis": {
+   "bad": "They recruited me to be their new supervisor.",
+   "good": "They recruited me as their new supervisor.",
+   "why": "Use \"recruit someone as\" a role, not \"to be\" in this typical context."
+  },
+  "fam": [
+   "recruiter (noun)",
+   "recruitment (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "recruiter",
+  "w": "recruiter",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "recrutador",
+  "def": "A person whose job is to find new employees.",
+  "ipa": "/rɪˈkruːtər/",
+  "ex": "A recruiter called me yesterday about an interesting position in Lisbon.",
+  "form": "recruiter",
+  "nat": "The recruiter asked about my salary expectations.",
+  "syn": [
+   "headhunter"
+  ],
+  "ant": [],
+  "col": [
+   "technical recruiter",
+   "contact a recruiter",
+   "agency recruiter",
+   "recruiter email"
+  ],
+  "mis": {
+   "bad": "I talked to the recrutador this morning.",
+   "good": "I talked to the recruiter this morning.",
+   "why": "The English word is recruiter, not a copy of the Portuguese noun."
+  },
+  "fam": [
+   "recruit (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "interviewer",
+  "w": "interviewer",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "entrevistador",
+  "def": "The person who asks the questions in a job interview.",
+  "ipa": "/ˈɪntərvjuːər/",
+  "ex": "The interviewer asked me why I wanted to leave my previous company.",
+  "form": "interviewer",
+  "nat": "Look at the interviewer when you answer.",
+  "syn": [
+   "examiner"
+  ],
+  "ant": [
+   "interviewee"
+  ],
+  "col": [
+   "ask the interviewer",
+   "friendly interviewer",
+   "panel of interviewers",
+   "thank the interviewer"
+  ],
+  "mis": {
+   "bad": "The interviewer made a question about my experience.",
+   "good": "The interviewer asked a question about my experience.",
+   "why": "Questions are asked, not made, in English."
+  },
+  "fam": [
+   "interview (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "probation",
+  "w": "probation",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "período de experiência, liberdade condicional",
+  "def": "A trial period at the start of a new job.",
+  "ipa": "/proʊˈbeɪʃn/",
+  "ex": "New employees must pass a three-month probation period before getting a permanent contract.",
+  "form": "probation",
+  "nat": "She is still on probation at her new company.",
+  "syn": [
+   "trial period"
+  ],
+  "ant": [],
+  "col": [
+   "probation period",
+   "on probation",
+   "pass probation",
+   "end of probation"
+  ],
+  "mis": {
+   "bad": "I am in experience period at my new job.",
+   "good": "I am on probation at my new job.",
+   "why": "In English you are \"on probation\", not in an \"experience period\"."
+  },
+  "fam": [
+   "probationary (adj)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "severance",
+  "w": "severance",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "indenização (por demissão)",
+  "def": "Money paid to an employee who loses their job.",
+  "ipa": "/ˈsevərəns/",
+  "ex": "He received six months of severance pay when the company closed his department.",
+  "form": "severance",
+  "nat": "They negotiated a generous severance package.",
+  "syn": [
+   "redundancy pay"
+  ],
+  "ant": [],
+  "col": [
+   "severance pay",
+   "severance package",
+   "receive severance",
+   "severance agreement"
+  ],
+  "mis": {
+   "bad": "He received an indemnity when he was fired.",
+   "good": "He received severance pay when he was fired.",
+   "why": "Severance pay is the normal term for money paid after a dismissal."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "finance"
+  ]
+ },
+ {
+  "id": "layoff",
+  "w": "layoff",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "demissão em massa",
+  "def": "A moment when a company ends jobs because there is not enough work.",
+  "ipa": "/ˈleɪɔːf/",
+  "ex": "The company announced layoffs affecting nearly ten percent of its staff.",
+  "form": "layoffs",
+  "nat": "After the layoff, morale was very low.",
+  "syn": [
+   "redundancy",
+   "cutback"
+  ],
+  "ant": [
+   "hiring"
+  ],
+  "col": [
+   "announce layoffs",
+   "mass layoffs",
+   "avoid layoffs",
+   "face a layoff"
+  ],
+  "mis": {
+   "bad": "Many people did a layoff last month.",
+   "good": "Many people were laid off last month.",
+   "why": "Lay off is a verb phrase used in the passive; people do not \"do\" a layoff."
+  },
+  "fam": [
+   "lay off (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "redundant",
+  "w": "redundant",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "redundante, dispensado",
+  "def": "Without a job because the work is no longer needed (UK).",
+  "ipa": "/rɪˈdʌndənt/",
+  "ex": "Thirty workers were made redundant after the factory moved overseas last year.",
+  "form": "redundant",
+  "nat": "Her position became redundant after the merger.",
+  "syn": [
+   "unnecessary",
+   "laid off"
+  ],
+  "ant": [],
+  "col": [
+   "made redundant",
+   "become redundant",
+   "redundant staff",
+   "redundant role"
+  ],
+  "mis": {
+   "bad": "I was fired because my position was redundancy.",
+   "good": "I was made redundant because my position was no longer needed.",
+   "why": "Redundant is the adjective; redundancy is the noun, and being made redundant is not being fired for fault."
+  },
+  "fam": [
+   "redundancy (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "sabbatical",
+  "w": "sabbatical",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "licença sabática",
+  "def": "A long break from work, often to study or travel.",
+  "ipa": "/səˈbætɪkl/",
+  "ex": "After ten years at the university, she took a sabbatical to write a book.",
+  "form": "sabbatical",
+  "nat": "He is on sabbatical until next September.",
+  "syn": [
+   "extended leave"
+  ],
+  "ant": [],
+  "col": [
+   "take a sabbatical",
+   "on sabbatical",
+   "year-long sabbatical",
+   "paid sabbatical"
+  ],
+  "mis": {
+   "bad": "I will take a sabbath year to travel.",
+   "good": "I will take a sabbatical year to travel.",
+   "why": "The word for a long career break is sabbatical, not sabbath."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "freelance",
+  "w": "freelance",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "autônomo, freelancer",
+  "def": "Working for different clients instead of one employer.",
+  "ipa": "/ˈfriːlæns/",
+  "ex": "She works as a freelance translator and chooses her own projects and hours.",
+  "form": "freelance",
+  "nat": "He went freelance after leaving the agency.",
+  "syn": [
+   "self-employed"
+  ],
+  "ant": [
+   "salaried"
+  ],
+  "col": [
+   "freelance writer",
+   "go freelance",
+   "freelance work",
+   "freelance contract"
+  ],
+  "mis": {
+   "bad": "I work like freelancer in design.",
+   "good": "I work as a freelancer in design.",
+   "why": "Use \"as\" for a role or job; \"like\" means \"similar to\"."
+  },
+  "fam": [
+   "freelancer (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "colleague",
+  "w": "colleague",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "colega de trabalho",
+  "def": "A person you work with.",
+  "ipa": "/ˈkɑːliːɡ/",
+  "ex": "My colleagues organized a surprise party for me when I finished the project.",
+  "form": "colleagues",
+  "nat": "She is a former colleague of mine.",
+  "syn": [
+   "coworker",
+   "associate"
+  ],
+  "ant": [],
+  "col": [
+   "former colleague",
+   "close colleague",
+   "colleague of mine",
+   "fellow colleague"
+  ],
+  "mis": {
+   "bad": "I have a good relation with my collegues.",
+   "good": "I have a good relationship with my colleagues.",
+   "why": "Relation and relationship differ; also colleague has a different spelling in English."
+  },
+  "fam": [
+   "collegial (adj)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "workforce",
+  "w": "workforce",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "força de trabalho, quadro de funcionários",
+  "def": "All the people who work for a company or in a country.",
+  "ipa": "/ˈwɜːrkfɔːrs/",
+  "ex": "The company's workforce grew from fifty to three hundred in just two years.",
+  "form": "workforce",
+  "nat": "A skilled workforce is essential to our growth.",
+  "syn": [
+   "staff",
+   "personnel"
+  ],
+  "ant": [],
+  "col": [
+   "skilled workforce",
+   "reduce the workforce",
+   "global workforce",
+   "workforce planning"
+  ],
+  "mis": {
+   "bad": "The workforce of our company are very young.",
+   "good": "The workforce of our company is very young.",
+   "why": "Workforce is treated as a singular noun here."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "payroll",
+  "w": "payroll",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "folha de pagamento",
+  "def": "A list of employees and the money paid to them.",
+  "ipa": "/ˈpeɪroʊl/",
+  "ex": "The payroll department sends everyone their payslip on the fifth of each month.",
+  "form": "payroll",
+  "nat": "We have forty people on the payroll.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "on the payroll",
+   "run payroll",
+   "payroll system",
+   "payroll department"
+  ],
+  "mis": {
+   "bad": "We have fifty people in the payroll.",
+   "good": "We have fifty people on the payroll.",
+   "why": "The preposition is \"on\" the payroll."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "finance"
+  ]
+ },
+ {
+  "id": "wage",
+  "w": "wage",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "salário (por hora/semana), remuneração",
+  "def": "Money paid regularly to a worker, usually by the hour or week.",
+  "ipa": "/weɪdʒ/",
+  "ex": "The minimum wage in this country has risen twice in the past three years.",
+  "form": "wage",
+  "nat": "Many workers want a higher wage.",
+  "syn": [
+   "pay",
+   "earnings"
+  ],
+  "ant": [],
+  "col": [
+   "minimum wage",
+   "hourly wage",
+   "living wage",
+   "wage increase"
+  ],
+  "mis": {
+   "bad": "My wage is five thousand reais per year.",
+   "good": "My salary is sixty thousand reais per year.",
+   "why": "Wage is usually hourly or weekly; a yearly fixed amount is a salary."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "finance"
+  ]
+ },
+ {
+  "id": "overtime",
+  "w": "overtime",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "hora extra",
+  "def": "Extra hours worked beyond normal working time.",
+  "ipa": "/ˈoʊvərtaɪm/",
+  "ex": "We worked a lot of overtime last month to finish the delivery on schedule.",
+  "form": "overtime",
+  "nat": "Is overtime paid in your company?",
+  "syn": [
+   "extra hours"
+  ],
+  "ant": [],
+  "col": [
+   "work overtime",
+   "overtime pay",
+   "unpaid overtime",
+   "overtime hours"
+  ],
+  "mis": {
+   "bad": "I made many extra hours this week.",
+   "good": "I worked a lot of overtime this week.",
+   "why": "English uses \"work overtime\", not \"make extra hours\"."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "finance"
+  ]
+ },
+ {
+  "id": "shift",
+  "w": "shift",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "turno",
+  "def": "A fixed period of time during which a group of workers is on duty.",
+  "ipa": "/ʃɪft/",
+  "ex": "My shift starts at six in the morning and finishes at two.",
+  "form": "shift",
+  "nat": "Nurses often work the night shift.",
+  "syn": [
+   "turn"
+  ],
+  "ant": [],
+  "col": [
+   "night shift",
+   "work a shift",
+   "shift worker",
+   "swap shifts"
+  ],
+  "mis": {
+   "bad": "I work in the turn of the night.",
+   "good": "I work the night shift.",
+   "why": "Work turns in Portuguese are shifts in English."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "bonus",
+  "w": "bonus",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "bônus, gratificação",
+  "def": "Extra money given to an employee as a reward.",
+  "ipa": "/ˈboʊnəs/",
+  "ex": "Everyone on the team received a bonus after we reached our annual targets.",
+  "form": "bonus",
+  "nat": "She gets a yearly bonus.",
+  "syn": [
+   "reward",
+   "incentive"
+  ],
+  "ant": [],
+  "col": [
+   "annual bonus",
+   "performance bonus",
+   "Christmas bonus",
+   "sign-on bonus"
+  ],
+  "mis": {
+   "bad": "I received a bonification this month.",
+   "good": "I received a bonus this month.",
+   "why": "The English word for the extra reward is bonus."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "finance"
+  ]
+ },
+ {
+  "id": "perk",
+  "w": "perk",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "benefício extra, vantagem",
+  "def": "An extra benefit you get because of your job.",
+  "ipa": "/pɜːrk/",
+  "ex": "Free lunch and flexible hours are some of the perks of working here.",
+  "form": "perks",
+  "nat": "One perk of the job is the gym membership.",
+  "syn": [
+   "benefit",
+   "advantage"
+  ],
+  "ant": [],
+  "col": [
+   "job perk",
+   "company perks",
+   "perk of the job",
+   "enjoy the perks"
+  ],
+  "mis": {
+   "bad": "The company offers many benefices like gym.",
+   "good": "The company offers many perks like a gym.",
+   "why": "Everyday English for job extras is perks or benefits, not \"benefices\"."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "appraisal",
+  "w": "appraisal",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "avaliação de desempenho",
+  "def": "An official evaluation of how well an employee works.",
+  "ipa": "/əˈpreɪzl/",
+  "ex": "My annual appraisal is next week, and my manager will discuss my goals.",
+  "form": "appraisal",
+  "nat": "The appraisal showed that she was ready for promotion.",
+  "syn": [
+   "evaluation",
+   "review"
+  ],
+  "ant": [],
+  "col": [
+   "annual appraisal",
+   "performance appraisal",
+   "appraisal meeting",
+   "receive an appraisal"
+  ],
+  "mis": {
+   "bad": "I had the evaluation of the performance with my boss.",
+   "good": "I had a performance appraisal with my boss.",
+   "why": "The usual collocation is performance appraisal or review."
+  },
+  "fam": [
+   "appraise (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "promote",
+  "w": "promote",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "promover, divulgar",
+  "def": "To give someone a higher position, or to advertise a product.",
+  "ipa": "/prəˈmoʊt/",
+  "ex": "She was promoted to senior engineer after only two years at the company.",
+  "form": "promoted",
+  "nat": "They promote their products on social media.",
+  "syn": [
+   "advance",
+   "advertise"
+  ],
+  "ant": [
+   "demote"
+  ],
+  "col": [
+   "get promoted",
+   "promote a product",
+   "promote to",
+   "be promoted"
+  ],
+  "mis": {
+   "bad": "He was promoted for manager last year.",
+   "good": "He was promoted to manager last year.",
+   "why": "The preposition after promote is \"to\" a new role."
+  },
+  "fam": [
+   "promotion (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "demote",
+  "w": "demote",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "rebaixar de cargo",
+  "def": "To move someone to a lower position as a punishment.",
+  "ipa": "/diːˈmoʊt/",
+  "ex": "He was demoted to assistant after he lost an important client.",
+  "form": "demoted",
+  "nat": "Nobody wants to be demoted.",
+  "syn": [
+   "downgrade"
+  ],
+  "ant": [
+   "promote"
+  ],
+  "col": [
+   "be demoted",
+   "demoted to",
+   "demote an employee",
+   "demote a manager"
+  ],
+  "mis": {
+   "bad": "He was demoted for assistant.",
+   "good": "He was demoted to assistant.",
+   "why": "After demote, use \"to\" the lower rank."
+  },
+  "fam": [
+   "demotion (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "resignation",
+  "w": "resignation",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "pedido de demissão",
+  "def": "The act of formally leaving your job.",
+  "ipa": "/ˌrezɪɡˈneɪʃn/",
+  "ex": "She handed in her resignation on Monday and left at the end of the month.",
+  "form": "resignation",
+  "nat": "His resignation surprised everyone in the office.",
+  "syn": [
+   "departure"
+  ],
+  "ant": [
+   "appointment"
+  ],
+  "col": [
+   "hand in your resignation",
+   "accept a resignation",
+   "letter of resignation",
+   "tender your resignation"
+  ],
+  "mis": {
+   "bad": "I presented my demission to the director.",
+   "good": "I handed in my resignation to the director.",
+   "why": "Use \"hand in\" or \"submit\" a resignation; \"demission\" is not used."
+  },
+  "fam": [
+   "resign (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "tenure",
+  "w": "tenure",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "permanência no cargo, estabilidade",
+  "def": "The time someone holds a job or position.",
+  "ipa": "/ˈtenjər/",
+  "ex": "During his tenure as director, the company doubled its sales.",
+  "form": "tenure",
+  "nat": "She has a long tenure at this firm.",
+  "syn": [
+   "term",
+   "time in office"
+  ],
+  "ant": [],
+  "col": [
+   "during his tenure",
+   "long tenure",
+   "job tenure",
+   "tenure track"
+  ],
+  "mis": {
+   "bad": "During his tenure of manager, we grew a lot.",
+   "good": "During his tenure as manager, we grew a lot.",
+   "why": "Use \"as\" before a role after tenure."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "seniority",
+  "w": "seniority",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "senioridade, tempo de casa",
+  "def": "Higher rank or longer service in a company.",
+  "ipa": "/ˌsiːniˈɔːrəti/",
+  "ex": "Promotions in this office depend more on seniority than on performance.",
+  "form": "seniority",
+  "nat": "Her seniority gave her the best desk.",
+  "syn": [
+   "rank",
+   "length of service"
+  ],
+  "ant": [
+   "juniority"
+  ],
+  "col": [
+   "level of seniority",
+   "by seniority",
+   "years of seniority",
+   "seniority system"
+  ],
+  "mis": {
+   "bad": "He has big seniority in the company.",
+   "good": "He has a lot of seniority in the company.",
+   "why": "Seniority is uncountable and takes \"a lot of\", not \"big\"."
+  },
+  "fam": [
+   "senior (adj)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "trainee",
+  "w": "trainee",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "trainee, estagiário(a)",
+  "def": "A person who is learning a job by doing it.",
+  "ipa": "/ˌtreɪˈniː/",
+  "ex": "The company hired three trainees who will rotate between departments for a year.",
+  "form": "trainee",
+  "nat": "He started as a management trainee.",
+  "syn": [
+   "apprentice",
+   "intern"
+  ],
+  "ant": [
+   "trainer"
+  ],
+  "col": [
+   "management trainee",
+   "graduate trainee",
+   "trainee program",
+   "trainee position"
+  ],
+  "mis": {
+   "bad": "He is a trainer in our firm, learning the work.",
+   "good": "He is a trainee in our firm, learning the work.",
+   "why": "Trainer teaches; the person learning is the trainee."
+  },
+  "fam": [
+   "train (verb)",
+   "training (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "apprentice",
+  "w": "apprentice",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "aprendiz",
+  "def": "A person who learns a skill by working for a skilled person.",
+  "ipa": "/əˈprentɪs/",
+  "ex": "He began as an apprentice electrician and became a qualified professional in four years.",
+  "form": "apprentice",
+  "nat": "The apprentice watched the master carefully.",
+  "syn": [
+   "trainee",
+   "learner"
+  ],
+  "ant": [
+   "master"
+  ],
+  "col": [
+   "work as an apprentice",
+   "apprentice electrician",
+   "take on an apprentice",
+   "apprentice program"
+  ],
+  "mis": {
+   "bad": "He is apprentice of the carpenter.",
+   "good": "He is an apprentice to the carpenter.",
+   "why": "Use an article and \"apprentice to\" a person."
+  },
+  "fam": [
+   "apprenticeship (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "networking",
+  "w": "networking",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "networking, rede de contatos",
+  "def": "Meeting people to make useful professional contacts.",
+  "ipa": "/ˈnetwɜːrkɪŋ/",
+  "ex": "Networking at conferences helped me find my first client in the industry.",
+  "form": "networking",
+  "nat": "Good networking can open many doors.",
+  "syn": [
+   "making contacts"
+  ],
+  "ant": [],
+  "col": [
+   "networking event",
+   "professional networking",
+   "networking skills",
+   "do networking"
+  ],
+  "mis": {
+   "bad": "I did a lot of network in the event.",
+   "good": "I did a lot of networking at the event.",
+   "why": "The activity is networking; \"network\" is the noun for the group."
+  },
+  "fam": [
+   "network (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "expertise",
+  "w": "expertise",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "conhecimento especializado, perícia",
+  "def": "Special skill or knowledge in a particular subject.",
+  "ipa": "/ˌekspɜːrˈtiːz/",
+  "ex": "Her expertise in data security made her the ideal person to lead the audit.",
+  "form": "expertise",
+  "nat": "We need someone with legal expertise.",
+  "syn": [
+   "specialism",
+   "know-how"
+  ],
+  "ant": [
+   "ignorance"
+  ],
+  "col": [
+   "technical expertise",
+   "area of expertise",
+   "share expertise",
+   "legal expertise"
+  ],
+  "mis": {
+   "bad": "He has a big expertise in marketing.",
+   "good": "He has a lot of expertise in marketing.",
+   "why": "Expertise is uncountable, so use \"a lot of\", not \"a big\"."
+  },
+  "fam": [
+   "expert (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "proficient",
+  "w": "proficient",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "proficiente, competente",
+  "def": "Able to do something well because of training and practice.",
+  "ipa": "/prəˈfɪʃnt/",
+  "ex": "To apply, you must be proficient in Excel and fluent in English.",
+  "form": "proficient",
+  "nat": "She is proficient at managing large teams.",
+  "syn": [
+   "skilled",
+   "competent"
+  ],
+  "ant": [
+   "inept"
+  ],
+  "col": [
+   "proficient in",
+   "proficient at",
+   "highly proficient",
+   "become proficient"
+  ],
+  "mis": {
+   "bad": "He is proficient on Excel.",
+   "good": "He is proficient in Excel.",
+   "why": "Use \"proficient in\" or \"proficient at\", not \"on\"."
+  },
+  "fam": [
+   "proficiency (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "dismiss",
+  "w": "dismiss",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "demitir, descartar",
+  "def": "To officially remove someone from a job, or to refuse to consider an idea.",
+  "ipa": "/dɪsˈmɪs/",
+  "ex": "The company dismissed him after he leaked confidential information to a competitor.",
+  "form": "dismissed",
+  "nat": "Don't dismiss her suggestion so quickly.",
+  "syn": [
+   "fire",
+   "reject"
+  ],
+  "ant": [
+   "hire",
+   "accept"
+  ],
+  "col": [
+   "dismiss an employee",
+   "unfairly dismissed",
+   "dismiss a claim",
+   "dismiss an idea"
+  ],
+  "mis": {
+   "bad": "The boss dismissed me from my job.",
+   "good": "The boss dismissed me.",
+   "why": "Dismiss already includes the idea of removal, so \"from my job\" is unnecessary."
+  },
+  "fam": [
+   "dismissal (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "terminate",
+  "w": "terminate",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "encerrar, rescindir",
+  "def": "To end a contract, job, or agreement officially.",
+  "ipa": "/ˈtɜːrmɪneɪt/",
+  "ex": "The firm terminated the contract after the supplier missed three deadlines in a row.",
+  "form": "terminated",
+  "nat": "Your employment will be terminated on the last day of May.",
+  "syn": [
+   "end",
+   "cancel"
+  ],
+  "ant": [
+   "begin"
+  ],
+  "col": [
+   "terminate a contract",
+   "terminate employment",
+   "terminate immediately",
+   "terminate an agreement"
+  ],
+  "mis": {
+   "bad": "They terminated me by my bad performance.",
+   "good": "They terminated me because of my poor performance.",
+   "why": "Use \"because of\" for the reason, not \"by\"."
+  },
+  "fam": [
+   "termination (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "retention",
+  "w": "retention",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "retenção",
+  "def": "The ability of a company to keep its employees or customers.",
+  "ipa": "/rɪˈtenʃn/",
+  "ex": "Employee retention improved after the company introduced flexible working hours.",
+  "form": "retention",
+  "nat": "Customer retention is cheaper than finding new clients.",
+  "syn": [
+   "keeping"
+  ],
+  "ant": [
+   "turnover"
+  ],
+  "col": [
+   "employee retention",
+   "customer retention",
+   "retention rate",
+   "improve retention"
+  ],
+  "mis": {
+   "bad": "The retention of talents is our priority.",
+   "good": "The retention of talent is our priority.",
+   "why": "Talent is uncountable in this sense; do not add -s."
+  },
+  "fam": [
+   "retain (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "turnover",
+  "w": "turnover",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "rotatividade; faturamento (UK)",
+  "def": "The rate at which employees leave and are replaced, or total sales.",
+  "ipa": "/ˈtɜːrnoʊvər/",
+  "ex": "High staff turnover is expensive because we keep training new people every month.",
+  "form": "turnover",
+  "nat": "The company's annual turnover is about two million pounds.",
+  "syn": [
+   "attrition"
+  ],
+  "ant": [
+   "retention"
+  ],
+  "col": [
+   "staff turnover",
+   "high turnover",
+   "annual turnover",
+   "turnover rate"
+  ],
+  "mis": {
+   "bad": "The turnover of the company is employees leaving.",
+   "good": "The staff turnover in the company is high.",
+   "why": "Specify \"staff turnover\" when talking about people leaving."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "headcount",
+  "w": "headcount",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "número de funcionários",
+  "def": "The total number of people employed.",
+  "ipa": "/ˈhedkaʊnt/",
+  "ex": "The board decided to freeze headcount until the end of the financial year.",
+  "form": "headcount",
+  "nat": "Our headcount has doubled since last spring.",
+  "syn": [
+   "staff numbers"
+  ],
+  "ant": [],
+  "col": [
+   "reduce headcount",
+   "freeze headcount",
+   "headcount growth",
+   "total headcount"
+  ],
+  "mis": {
+   "bad": "Our headcount of the company is two hundred.",
+   "good": "Our company's headcount is two hundred.",
+   "why": "Headcount stands alone as the number of employees; no extra \"of the company\" structure."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "recruitment",
+  "w": "recruitment",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "recrutamento",
+  "def": "The process of finding and hiring new employees.",
+  "ipa": "/rɪˈkruːtmənt/",
+  "ex": "Our recruitment process takes about four weeks from the first interview to the offer.",
+  "form": "recruitment",
+  "nat": "She works in recruitment.",
+  "syn": [
+   "hiring",
+   "staffing"
+  ],
+  "ant": [],
+  "col": [
+   "recruitment process",
+   "recruitment agency",
+   "recruitment drive",
+   "graduate recruitment"
+  ],
+  "mis": {
+   "bad": "The recruitment of the employes was fast.",
+   "good": "The recruitment of employees was fast.",
+   "why": "Correct spelling is employees, and recruitment is uncountable here."
+  },
+  "fam": [
+   "recruit (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "oversee",
+  "w": "oversee",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "supervisionar, fiscalizar",
+  "def": "To watch and direct a job or group of people.",
+  "ipa": "/ˌoʊvərˈsiː/",
+  "ex": "She oversees a team of fifteen people who handle all our online orders.",
+  "form": "oversees",
+  "nat": "Who will oversee the construction work?",
+  "syn": [
+   "supervise",
+   "manage"
+  ],
+  "ant": [],
+  "col": [
+   "oversee operations",
+   "oversee a project",
+   "oversee the work",
+   "directly oversee"
+  ],
+  "mis": {
+   "bad": "He oversees to the project.",
+   "good": "He oversees the project.",
+   "why": "Oversee is a transitive verb, with no preposition."
+  },
+  "fam": [
+   "oversight (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "executive",
+  "w": "executive",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "executivo, diretor",
+  "def": "A senior person in a company who makes important decisions.",
+  "ipa": "/ɪɡˈzekjətɪv/",
+  "ex": "Senior executives met in London to discuss the merger with the competitor.",
+  "form": "executives",
+  "nat": "She became an executive at thirty-five.",
+  "syn": [
+   "director",
+   "manager"
+  ],
+  "ant": [],
+  "col": [
+   "senior executive",
+   "chief executive",
+   "sales executive",
+   "executive board"
+  ],
+  "mis": {
+   "bad": "The executive of the meeting was Mr. Costa.",
+   "good": "The executive in charge of the meeting was Mr. Costa.",
+   "why": "Executive is a senior business person, not the person running a meeting."
+  },
+  "fam": [
+   "execute (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "subordinate",
+  "w": "subordinate",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "subordinado",
+  "def": "A person with a lower position than another in an organization.",
+  "ipa": "/səˈbɔːrdɪnət/",
+  "ex": "A good manager listens to subordinates and gives clear feedback.",
+  "form": "subordinates",
+  "nat": "He treated his subordinates with respect.",
+  "syn": [
+   "junior",
+   "underling"
+  ],
+  "ant": [
+   "superior"
+  ],
+  "col": [
+   "treat subordinates",
+   "direct subordinate",
+   "loyal subordinate",
+   "subordinates and superiors"
+  ],
+  "mis": {
+   "bad": "My subordinate friends help me a lot.",
+   "good": "My team members help me a lot.",
+   "why": "Subordinate is formal and describes rank, not friendship."
+  },
+  "fam": [
+   "subordination (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "hierarchy",
+  "w": "hierarchy",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "hierarquia",
+  "def": "A system where people are ranked from highest to lowest.",
+  "ipa": "/ˈhaɪərɑːrki/",
+  "ex": "There is a strict hierarchy in the company, and every decision goes through the director.",
+  "form": "hierarchy",
+  "nat": "The hierarchy of the army is very clear.",
+  "syn": [
+   "ranking",
+   "chain of command"
+  ],
+  "ant": [],
+  "col": [
+   "strict hierarchy",
+   "corporate hierarchy",
+   "flat hierarchy",
+   "move up the hierarchy"
+  ],
+  "mis": {
+   "bad": "The company has a hierarchy flat.",
+   "good": "The company has a flat hierarchy.",
+   "why": "Adjectives come before the noun in English."
+  },
+  "fam": [
+   "hierarchical (adj)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "bureaucracy",
+  "w": "bureaucracy",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "burocracia",
+  "def": "A system with many rules and procedures that slow things down.",
+  "ipa": "/bjʊˈrɑːkrəsi/",
+  "ex": "Too much bureaucracy delayed the project by almost three months.",
+  "form": "bureaucracy",
+  "nat": "I hate dealing with government bureaucracy.",
+  "syn": [
+   "red tape"
+  ],
+  "ant": [],
+  "col": [
+   "cut bureaucracy",
+   "government bureaucracy",
+   "heavy bureaucracy",
+   "bureaucracy and delays"
+  ],
+  "mis": {
+   "bad": "The bureaucracy is very slow in this country, many papers.",
+   "good": "There is a lot of bureaucracy in this country.",
+   "why": "Bureaucracy is uncountable; use \"a lot of\"."
+  },
+  "fam": [
+   "bureaucratic (adj)",
+   "bureaucrat (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "restructure",
+  "w": "restructure",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "reestruturar",
+  "def": "To change how a company is organized to make it work better.",
+  "ipa": "/ˌriːˈstrʌktʃər/",
+  "ex": "The firm restructured its sales department to reduce costs and improve results.",
+  "form": "restructured",
+  "nat": "The company plans to restructure next year.",
+  "syn": [
+   "reorganize",
+   "overhaul"
+  ],
+  "ant": [],
+  "col": [
+   "restructure a company",
+   "restructure debt",
+   "plan to restructure",
+   "restructure the team"
+  ],
+  "mis": {
+   "bad": "We restructured our company by cut costs.",
+   "good": "We restructured our company by cutting costs.",
+   "why": "After \"by\", use the -ing form."
+  },
+  "fam": [
+   "restructuring (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "downsize",
+  "w": "downsize",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "reduzir o quadro, enxugar",
+  "def": "To make a company smaller by reducing the number of employees.",
+  "ipa": "/ˈdaʊnsaɪz/",
+  "ex": "The company downsized its office and moved most of its staff to remote work.",
+  "form": "downsized",
+  "nat": "Many firms downsized during the crisis.",
+  "syn": [
+   "cut back",
+   "shrink"
+  ],
+  "ant": [
+   "expand"
+  ],
+  "col": [
+   "downsize staff",
+   "forced to downsize",
+   "plan to downsize",
+   "downsize the company"
+  ],
+  "mis": {
+   "bad": "The company downsized to fire fifty people.",
+   "good": "The company downsized, laying off fifty people.",
+   "why": "Downsize describes the reduction itself; do not use it with \"to + verb\" as a purpose in this way."
+  },
+  "fam": [
+   "downsizing (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "merger",
+  "w": "merger",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "fusão (de empresas)",
+  "def": "The joining of two companies into one.",
+  "ipa": "/ˈmɜːrdʒər/",
+  "ex": "The merger created the largest software company in the country.",
+  "form": "merger",
+  "nat": "Employees feared losing their jobs after the merger.",
+  "syn": [
+   "combination",
+   "union"
+  ],
+  "ant": [
+   "split"
+  ],
+  "col": [
+   "announce a merger",
+   "proposed merger",
+   "merger and acquisition",
+   "complete a merger"
+  ],
+  "mis": {
+   "bad": "The merge of the two firms was announced.",
+   "good": "The merger of the two firms was announced.",
+   "why": "Merge is the verb; the noun is merger."
+  },
+  "fam": [
+   "merge (verb)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "acquisition",
+  "w": "acquisition",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "aquisição",
+  "def": "The act of buying a company or getting something.",
+  "ipa": "/ˌækwɪˈzɪʃn/",
+  "ex": "The acquisition of the small startup cost the company fifty million dollars.",
+  "form": "acquisition",
+  "nat": "Language acquisition happens naturally in children.",
+  "syn": [
+   "purchase",
+   "takeover"
+  ],
+  "ant": [],
+  "col": [
+   "completed acquisition",
+   "acquisition of",
+   "company acquisition",
+   "language acquisition"
+  ],
+  "mis": {
+   "bad": "The acquirement of the company was in May.",
+   "good": "The acquisition of the company was in May.",
+   "why": "The noun for buying a company is acquisition."
+  },
+  "fam": [
+   "acquire (verb)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "accountability",
+  "w": "accountability",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "responsabilização",
+  "def": "The fact of being responsible for your actions and decisions.",
+  "ipa": "/əˌkaʊntəˈbɪləti/",
+  "ex": "Clear accountability helps teams understand who owns each task and each result.",
+  "form": "accountability",
+  "nat": "We need more accountability in the process.",
+  "syn": [
+   "responsibility"
+  ],
+  "ant": [],
+  "col": [
+   "hold to account",
+   "lack of accountability",
+   "personal accountability",
+   "promote accountability"
+  ],
+  "mis": {
+   "bad": "The accountability of that error is mine.",
+   "good": "The responsibility for that error is mine.",
+   "why": "Accountability is a general principle; for one specific error use \"responsibility for\"."
+  },
+  "fam": [
+   "accountable (adj)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "mandate",
+  "w": "mandate",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "mandato, determinação",
+  "def": "Official permission or authority to do something.",
+  "ipa": "/ˈmændeɪt/",
+  "ex": "The committee has a clear mandate to review all spending in the department.",
+  "form": "mandate",
+  "nat": "The new director has a mandate for change.",
+  "syn": [
+   "authority",
+   "order"
+  ],
+  "ant": [],
+  "col": [
+   "clear mandate",
+   "give a mandate",
+   "popular mandate",
+   "mandate to"
+  ],
+  "mis": {
+   "bad": "The president has a mandate of four years.",
+   "good": "The president has a four-year term.",
+   "why": "In English a mandate is authority; the length of office is a term."
+  },
+  "fam": [
+   "mandatory (adj)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "oversight",
+  "w": "oversight",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "supervisão; descuido",
+  "def": "Supervision of a process, or a mistake caused by not noticing something.",
+  "ipa": "/ˈoʊvərsaɪt/",
+  "ex": "An oversight in the contract allowed the supplier to raise prices without warning.",
+  "form": "oversight",
+  "nat": "The committee provides oversight of all spending.",
+  "syn": [
+   "supervision",
+   "mistake"
+  ],
+  "ant": [],
+  "col": [
+   "regulatory oversight",
+   "by oversight",
+   "simple oversight",
+   "provide oversight"
+  ],
+  "mis": {
+   "bad": "It was an oversight, I did it of purpose.",
+   "good": "It was an oversight; I did not do it on purpose.",
+   "why": "An oversight is accidental; \"on purpose\" is the natural expression."
+  },
+  "fam": [
+   "oversee (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "overhaul",
+  "w": "overhaul",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "reformulação completa",
+  "def": "A complete review and improvement of a system or process.",
+  "ipa": "/ˈoʊvərhɔːl/",
+  "ex": "The company needs a complete overhaul of its customer support system.",
+  "form": "overhaul",
+  "nat": "The engine received a major overhaul.",
+  "syn": [
+   "reform",
+   "revision"
+  ],
+  "ant": [],
+  "col": [
+   "complete overhaul",
+   "major overhaul",
+   "undergo an overhaul",
+   "overhaul of"
+  ],
+  "mis": {
+   "bad": "The overhaul of the system is need.",
+   "good": "The system needs an overhaul.",
+   "why": "Need is a verb here: \"needs an overhaul\"."
+  },
+  "fam": [
+   "overhaul (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "strategy",
+  "w": "strategy",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "estratégia",
+  "def": "A plan for achieving a long-term goal.",
+  "ipa": "/ˈstrætədʒi/",
+  "ex": "Our marketing strategy changed completely after we studied the new competitors.",
+  "form": "strategy",
+  "nat": "They developed a clear strategy for growth.",
+  "syn": [
+   "plan",
+   "approach"
+  ],
+  "ant": [],
+  "col": [
+   "business strategy",
+   "develop a strategy",
+   "long-term strategy",
+   "strategy meeting"
+  ],
+  "mis": {
+   "bad": "We need a estrategy for the project.",
+   "good": "We need a strategy for the project.",
+   "why": "The English word is strategy."
+  },
+  "fam": [
+   "strategic (adj)",
+   "strategist (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "mission",
+  "w": "mission",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "missão",
+  "def": "The main purpose of an organization.",
+  "ipa": "/ˈmɪʃn/",
+  "ex": "Our mission is to make healthcare accessible to everyone in rural areas.",
+  "form": "mission",
+  "nat": "The mission statement is on our website.",
+  "syn": [
+   "purpose",
+   "goal"
+  ],
+  "ant": [],
+  "col": [
+   "mission statement",
+   "company mission",
+   "complete a mission",
+   "mission critical"
+  ],
+  "mis": {
+   "bad": "The mission of the company is make people happy.",
+   "good": "The mission of the company is to make people happy.",
+   "why": "After \"is\", use \"to + verb\" to express purpose."
+  },
+  "fam": [
+   "missionary (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "entrust",
+  "w": "entrust",
+  "pos": "verb",
+  "lvl": "B2+",
+  "pt": "confiar (algo a alguém)",
+  "def": "To give someone responsibility for something.",
+  "ipa": "/ɪnˈtrʌst/",
+  "ex": "The director entrusted her with the most important client in the region.",
+  "form": "entrusted",
+  "nat": "I would never entrust him with my money.",
+  "syn": [
+   "assign",
+   "hand over"
+  ],
+  "ant": [],
+  "col": [
+   "entrust someone with",
+   "entrust something to",
+   "be entrusted with",
+   "entrust a task"
+  ],
+  "mis": {
+   "bad": "The manager entrusted to me the project.",
+   "good": "The manager entrusted me with the project.",
+   "why": "Use \"entrust someone with something\" or \"entrust something to someone\"."
+  },
+  "fam": [
+   "trust (noun)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "reprimand",
+  "w": "reprimand",
+  "pos": "verb",
+  "lvl": "B2+",
+  "pt": "repreender",
+  "def": "To tell someone officially that they have done something wrong.",
+  "ipa": "/ˈreprɪmænd/",
+  "ex": "The supervisor reprimanded him for arriving late three times in the same week.",
+  "form": "reprimanded",
+  "nat": "She was reprimanded for ignoring safety rules.",
+  "syn": [
+   "scold",
+   "rebuke"
+  ],
+  "ant": [
+   "praise"
+  ],
+  "col": [
+   "reprimand an employee",
+   "severely reprimanded",
+   "reprimanded for",
+   "formal reprimand"
+  ],
+  "mis": {
+   "bad": "The boss reprimanded to me.",
+   "good": "The boss reprimanded me.",
+   "why": "Reprimand is transitive and takes no preposition before the person."
+  },
+  "fam": [
+   "reprimand (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "morale",
+  "w": "morale",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "moral (da equipe), ânimo",
+  "def": "The level of confidence and enthusiasm in a group.",
+  "ipa": "/məˈræl/",
+  "ex": "Team morale dropped after the company cancelled the annual bonus without any explanation.",
+  "form": "morale",
+  "nat": "A little praise can improve morale.",
+  "syn": [
+   "spirit",
+   "confidence"
+  ],
+  "ant": [],
+  "col": [
+   "boost morale",
+   "low morale",
+   "team morale",
+   "improve morale"
+  ],
+  "mis": {
+   "bad": "The moral of the team is very low.",
+   "good": "The morale of the team is very low.",
+   "why": "Moral means ethical; the team's mood is morale."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "handover",
+  "w": "handover",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "passagem de bastão, transferência de responsabilidades",
+  "def": "The act of giving responsibility or information to someone else.",
+  "ipa": "/ˈhændoʊvər/",
+  "ex": "Please write a short handover note before you go on holiday.",
+  "form": "handover",
+  "nat": "The handover between shifts takes about fifteen minutes.",
+  "syn": [
+   "transfer"
+  ],
+  "ant": [],
+  "col": [
+   "handover note",
+   "smooth handover",
+   "project handover",
+   "handover period"
+  ],
+  "mis": {
+   "bad": "I did the handover of my tasks to Ana.",
+   "good": "I handed over my tasks to Ana.",
+   "why": "The verb form is \"hand over\"; the noun is handover."
+  },
+  "fam": [
+   "hand over (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "succession",
+  "w": "succession",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "sucessão",
+  "def": "The process of one person taking over a role from another.",
+  "ipa": "/səkˈseʃn/",
+  "ex": "The CEO has a clear succession plan for when she retires next year.",
+  "form": "succession",
+  "nat": "A smooth succession is important for family businesses.",
+  "syn": [
+   "replacement"
+  ],
+  "ant": [],
+  "col": [
+   "succession plan",
+   "line of succession",
+   "in succession",
+   "smooth succession"
+  ],
+  "mis": {
+   "bad": "We have a plan of succession.",
+   "good": "We have a succession plan.",
+   "why": "Succession plan is the usual compound noun."
+  },
+  "fam": [
+   "succeed (verb)",
+   "successor (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "workflow",
+  "w": "workflow",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "fluxo de trabalho",
+  "def": "The order of steps in which work is done.",
+  "ipa": "/ˈwɜːrkfloʊ/",
+  "ex": "The new software improved our workflow and removed three unnecessary approval steps.",
+  "form": "workflow",
+  "nat": "Their workflow is slow and confusing.",
+  "syn": [
+   "process"
+  ],
+  "ant": [],
+  "col": [
+   "improve workflow",
+   "workflow tool",
+   "daily workflow",
+   "streamline workflow"
+  ],
+  "mis": {
+   "bad": "I changed my fluxo of work.",
+   "good": "I changed my workflow.",
+   "why": "Workflow is one word and means the sequence of work steps."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "tech"
+  ]
+ },
+ {
+  "id": "multitask",
+  "w": "multitask",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "fazer várias tarefas ao mesmo tempo",
+  "def": "To do several things at the same time.",
+  "ipa": "/ˌmʌltiˈtæsk/",
+  "ex": "I make more mistakes when I am multitasking during a video call.",
+  "form": "multitasking",
+  "nat": "Some people claim they can multitask easily.",
+  "syn": [
+   "juggle"
+  ],
+  "ant": [],
+  "col": [
+   "try to multitask",
+   "ability to multitask",
+   "multitask effectively",
+   "stop multitasking"
+  ],
+  "mis": {
+   "bad": "I can multitask well, doing three things on the same time.",
+   "good": "I can multitask well, doing three things at the same time.",
+   "why": "The fixed phrase is \"at the same time\"."
+  },
+  "fam": [
+   "multitasking (noun)"
+  ],
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "efficiency",
+  "w": "efficiency",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "eficiência",
+  "def": "Doing something well without wasting time or money.",
+  "ipa": "/ɪˈfɪʃnsi/",
+  "ex": "The new system improved the efficiency of our delivery process by thirty percent.",
+  "form": "efficiency",
+  "nat": "Efficiency matters more than speed.",
+  "syn": [
+   "productivity"
+  ],
+  "ant": [
+   "waste"
+  ],
+  "col": [
+   "improve efficiency",
+   "energy efficiency",
+   "operational efficiency",
+   "gain in efficiency"
+  ],
+  "mis": {
+   "bad": "The efficiency of this machine is more efficient than the old one.",
+   "good": "This machine is more efficient than the old one.",
+   "why": "Do not repeat the concept; use the adjective in comparison."
+  },
+  "fam": [
+   "efficient (adj)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "focus",
+  "w": "focus",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "focar, concentrar-se",
+  "def": "To give your attention to one thing.",
+  "ipa": "/ˈfoʊkəs/",
+  "ex": "I turned off my phone so I could focus on the report for two hours.",
+  "form": "focus",
+  "nat": "The meeting focused on next year's budget.",
+  "syn": [
+   "concentrate"
+  ],
+  "ant": [
+   "distract"
+  ],
+  "col": [
+   "focus on",
+   "stay focused",
+   "focus attention",
+   "lose focus"
+  ],
+  "mis": {
+   "bad": "I need to focus in my work.",
+   "good": "I need to focus on my work.",
+   "why": "The preposition after focus is \"on\"."
+  },
+  "fam": [
+   "focused (adj)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "interruption",
+  "w": "interruption",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "interrupção",
+  "def": "Something that stops an activity for a short time.",
+  "ipa": "/ˌɪntəˈrʌpʃn/",
+  "ex": "Constant interruptions from the phone made it hard to finish the report.",
+  "form": "interruptions",
+  "nat": "We worked for hours without any interruption.",
+  "syn": [
+   "disturbance"
+  ],
+  "ant": [
+   "continuity"
+  ],
+  "col": [
+   "constant interruptions",
+   "without interruption",
+   "minor interruption",
+   "avoid interruptions"
+  ],
+  "mis": {
+   "bad": "The phone made many interruptions to me.",
+   "good": "The phone caused me many interruptions.",
+   "why": "Interruptions are caused, not made."
+  },
+  "fam": [
+   "interrupt (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "timeframe",
+  "w": "timeframe",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "prazo, janela de tempo",
+  "def": "The period of time in which something must happen.",
+  "ipa": "/ˈtaɪmfreɪm/",
+  "ex": "What is the timeframe for completing the migration to the new server?",
+  "form": "timeframe",
+  "nat": "We need a realistic timeframe.",
+  "syn": [
+   "schedule",
+   "period"
+  ],
+  "ant": [],
+  "col": [
+   "realistic timeframe",
+   "within the timeframe",
+   "tight timeframe",
+   "specific timeframe"
+  ],
+  "mis": {
+   "bad": "The project was done in a timeframe of two weeks.",
+   "good": "The project was done within a timeframe of two weeks.",
+   "why": "Use \"within\" a timeframe for a limit."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "optimize",
+  "w": "optimize",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "otimizar",
+  "def": "To make something work as well as possible.",
+  "ipa": "/ˈɑːptɪmaɪz/",
+  "ex": "We optimized the delivery routes and cut fuel costs by twenty percent.",
+  "form": "optimized",
+  "nat": "You can optimize your day by planning ahead.",
+  "syn": [
+   "improve",
+   "refine"
+  ],
+  "ant": [],
+  "col": [
+   "optimize performance",
+   "optimize costs",
+   "fully optimized",
+   "optimize for"
+  ],
+  "mis": {
+   "bad": "I optimized my time to better.",
+   "good": "I optimized my time better.",
+   "why": "Better is an adverb here; do not add \"to\"."
+  },
+  "fam": [
+   "optimization (noun)",
+   "optimal (adj)"
+  ],
+  "topics": [
+   "work",
+   "tech"
+  ]
+ },
+ {
+  "id": "backlog",
+  "w": "backlog",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "acúmulo de pendências",
+  "def": "Work that has not been done yet and is waiting.",
+  "ipa": "/ˈbæklɔːɡ/",
+  "ex": "After the holiday, we had a backlog of more than two hundred support tickets.",
+  "form": "backlog",
+  "nat": "The team is trying to clear the backlog.",
+  "syn": [
+   "pile-up"
+  ],
+  "ant": [],
+  "col": [
+   "clear the backlog",
+   "huge backlog",
+   "backlog of work",
+   "product backlog"
+  ],
+  "mis": {
+   "bad": "We have many backlog in the support team.",
+   "good": "We have a big backlog in the support team.",
+   "why": "Backlog is countable here; use \"a big backlog\", not \"many\"."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "tech"
+  ]
+ },
+ {
+  "id": "juggle",
+  "w": "juggle",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "equilibrar, conciliar várias tarefas",
+  "def": "To manage several tasks or responsibilities at once.",
+  "ipa": "/ˈdʒʌɡl/",
+  "ex": "She is juggling a full-time job, two projects, and an evening course.",
+  "form": "juggling",
+  "nat": "It's hard to juggle work and family.",
+  "syn": [
+   "balance"
+  ],
+  "ant": [
+   "neglect"
+  ],
+  "col": [
+   "juggle tasks",
+   "juggle work and family",
+   "juggle priorities",
+   "struggle to juggle"
+  ],
+  "mis": {
+   "bad": "I juggle between work and studies.",
+   "good": "I juggle work and studies.",
+   "why": "Juggle takes a direct object; no \"between\"."
+  },
+  "fam": [
+   "juggler (noun)"
+  ],
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "overload",
+  "w": "overload",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "sobrecarga",
+  "def": "Too much work or information at one time.",
+  "ipa": "/ˈoʊvərloʊd/",
+  "ex": "Information overload makes it difficult to decide which emails are really important.",
+  "form": "overload",
+  "nat": "Many employees feel overloaded in busy seasons.",
+  "syn": [
+   "excess"
+  ],
+  "ant": [],
+  "col": [
+   "information overload",
+   "work overload",
+   "sensory overload",
+   "avoid overload"
+  ],
+  "mis": {
+   "bad": "I have an overload of work.",
+   "good": "I have too much work.",
+   "why": "A common simple alternative; \"an overload of\" is possible but \"too much work\" is more natural."
+  },
+  "fam": [
+   "overload (verb)"
+  ],
+  "topics": [
+   "work",
+   "daily"
+  ]
+ },
+ {
+  "id": "diligent",
+  "w": "diligent",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "diligente, aplicado",
+  "def": "Working carefully and with steady effort.",
+  "ipa": "/ˈdɪlɪdʒənt/",
+  "ex": "She is a diligent employee who always double-checks her numbers before sending a report.",
+  "form": "diligent",
+  "nat": "The team was diligent in solving the problem.",
+  "syn": [
+   "hardworking",
+   "careful"
+  ],
+  "ant": [
+   "lazy"
+  ],
+  "col": [
+   "diligent worker",
+   "remain diligent",
+   "diligent in",
+   "diligent effort"
+  ],
+  "mis": {
+   "bad": "He is diligent on his work.",
+   "good": "He is diligent in his work.",
+   "why": "Use \"diligent in\" a task."
+  },
+  "fam": [
+   "diligence (noun)",
+   "diligently (adverb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "meticulous",
+  "w": "meticulous",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "meticuloso",
+  "def": "Very careful about small details.",
+  "ipa": "/məˈtɪkjələs/",
+  "ex": "He is meticulous about documentation and records every change in a shared file.",
+  "form": "meticulous",
+  "nat": "The report was meticulous and clearly written.",
+  "syn": [
+   "thorough",
+   "precise"
+  ],
+  "ant": [
+   "careless"
+  ],
+  "col": [
+   "meticulous attention",
+   "meticulous planning",
+   "meticulous about",
+   "meticulous record"
+  ],
+  "mis": {
+   "bad": "He is meticulous in details.",
+   "good": "He is meticulous about details.",
+   "why": "The preposition is \"about\" with details."
+  },
+  "fam": [
+   "meticulously (adverb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "proactive",
+  "w": "proactive",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "proativo",
+  "def": "Taking action early instead of waiting for problems.",
+  "ipa": "/proʊˈæktɪv/",
+  "ex": "Being proactive means you solve a small problem before it becomes a crisis.",
+  "form": "proactive",
+  "nat": "We need a more proactive approach.",
+  "syn": [
+   "forward-looking"
+  ],
+  "ant": [
+   "reactive"
+  ],
+  "col": [
+   "proactive approach",
+   "be proactive",
+   "proactive manager",
+   "proactive about"
+  ],
+  "mis": {
+   "bad": "He is very proactive of his job.",
+   "good": "He is very proactive about his job.",
+   "why": "Use \"proactive about\" something."
+  },
+  "fam": [
+   "proactively (adverb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "resourceful",
+  "w": "resourceful",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "engenhoso, cheio de recursos",
+  "def": "Good at finding clever ways to solve problems.",
+  "ipa": "/rɪˈsɔːrsfl/",
+  "ex": "A resourceful assistant found a cheap printer one hour before the presentation.",
+  "form": "resourceful",
+  "nat": "She is resourceful and rarely needs help.",
+  "syn": [
+   "inventive",
+   "creative"
+  ],
+  "ant": [
+   "helpless"
+  ],
+  "col": [
+   "resourceful person",
+   "remarkably resourceful",
+   "resourceful employee",
+   "resourceful enough"
+  ],
+  "mis": {
+   "bad": "She is very resourceful in finding solutions.",
+   "good": "She is very resourceful at finding solutions.",
+   "why": "Resourceful is followed by \"at\" plus -ing."
+  },
+  "fam": [
+   "resource (noun)",
+   "resourcefulness (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "logistics",
+  "w": "logistics",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "logística",
+  "def": "The planning and moving of goods, people, or supplies.",
+  "ipa": "/ləˈdʒɪstɪks/",
+  "ex": "Logistics is the hardest part of organizing a conference with five hundred guests.",
+  "form": "logistics",
+  "nat": "She manages logistics for a shipping company.",
+  "syn": [
+   "distribution",
+   "planning"
+  ],
+  "ant": [],
+  "col": [
+   "logistics company",
+   "manage logistics",
+   "logistics manager",
+   "logistics chain"
+  ],
+  "mis": {
+   "bad": "The logistic of the event is complicated.",
+   "good": "The logistics of the event are complicated.",
+   "why": "Logistics always ends in -s, and takes the plural verb in this use."
+  },
+  "fam": [
+   "logistical (adj)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "inventory",
+  "w": "inventory",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "estoque, inventário",
+  "def": "The goods a business has in stock.",
+  "ipa": "/ˈɪnvəntɔːri/",
+  "ex": "We count the inventory every Friday to make sure nothing has been lost.",
+  "form": "inventory",
+  "nat": "The shop has a large inventory.",
+  "syn": [
+   "stock"
+  ],
+  "ant": [],
+  "col": [
+   "check inventory",
+   "inventory control",
+   "low inventory",
+   "manage inventory"
+  ],
+  "mis": {
+   "bad": "Our stock list is the inventory.",
+   "good": "We keep a record of our inventory.",
+   "why": "Inventory means goods in stock or the list of them."
+  },
+  "fam": [],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "supplier",
+  "w": "supplier",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "fornecedor",
+  "def": "A company that provides goods or services to another.",
+  "ipa": "/səˈplaɪər/",
+  "ex": "Our main supplier delayed the shipment by a week because of a strike.",
+  "form": "supplier",
+  "nat": "We are looking for a cheaper supplier.",
+  "syn": [
+   "provider",
+   "vendor"
+  ],
+  "ant": [
+   "customer"
+  ],
+  "col": [
+   "reliable supplier",
+   "main supplier",
+   "change supplier",
+   "supplier contract"
+  ],
+  "mis": {
+   "bad": "We bought from a fornecer in China.",
+   "good": "We bought from a supplier in China.",
+   "why": "The English noun is supplier."
+  },
+  "fam": [
+   "supply (verb)",
+   "supply (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "procurement",
+  "w": "procurement",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "compras corporativas, aquisição",
+  "def": "The process of buying goods or services for a company.",
+  "ipa": "/prəˈkjʊrmənt/",
+  "ex": "The procurement team compares at least three offers before buying new equipment.",
+  "form": "procurement",
+  "nat": "Public procurement must follow strict rules.",
+  "syn": [
+   "purchasing"
+  ],
+  "ant": [],
+  "col": [
+   "procurement process",
+   "procurement manager",
+   "public procurement",
+   "procurement policy"
+  ],
+  "mis": {
+   "bad": "The procurement of the group is the buyer.",
+   "good": "The procurement team is responsible for buying.",
+   "why": "Procurement is a process or department, not a person."
+  },
+  "fam": [
+   "procure (verb)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "shipment",
+  "w": "shipment",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "remessa, carregamento",
+  "def": "A quantity of goods sent together.",
+  "ipa": "/ˈʃɪpmənt/",
+  "ex": "The shipment arrived two days late, and the customer demanded a discount.",
+  "form": "shipment",
+  "nat": "We are waiting for a large shipment of parts.",
+  "syn": [
+   "delivery",
+   "consignment"
+  ],
+  "ant": [],
+  "col": [
+   "track a shipment",
+   "delayed shipment",
+   "ship a shipment",
+   "incoming shipment"
+  ],
+  "mis": {
+   "bad": "The shipment of the goods was in ship.",
+   "good": "The shipment of goods went by sea.",
+   "why": "Use \"by sea\" for transport method."
+  },
+  "fam": [
+   "ship (verb)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "warehouse",
+  "w": "warehouse",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "armazém, depósito",
+  "def": "A large building where goods are stored.",
+  "ipa": "/ˈwerhaʊs/",
+  "ex": "The company keeps most of its products in a warehouse near the port.",
+  "form": "warehouse",
+  "nat": "He works in a warehouse.",
+  "syn": [
+   "depot",
+   "storehouse"
+  ],
+  "ant": [],
+  "col": [
+   "warehouse worker",
+   "warehouse space",
+   "distribution warehouse",
+   "warehouse manager"
+  ],
+  "mis": {
+   "bad": "I work in the deposit of the company.",
+   "good": "I work in the warehouse of the company.",
+   "why": "The Portuguese \"depósito\" for a storage building is \"warehouse\"."
+  },
+  "fam": [],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "manufacture",
+  "w": "manufacture",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "fabricar",
+  "def": "To make goods in large numbers with machines.",
+  "ipa": "/ˌmænjuˈfæktʃər/",
+  "ex": "The shoes are manufactured in Vietnam and sold in more than forty countries.",
+  "form": "manufactured",
+  "nat": "The company manufactures car parts.",
+  "syn": [
+   "produce",
+   "make"
+  ],
+  "ant": [],
+  "col": [
+   "manufacture goods",
+   "manufactured in",
+   "manufacture cheaply",
+   "locally manufactured"
+  ],
+  "mis": {
+   "bad": "The product is manufactured by China.",
+   "good": "The product is manufactured in China.",
+   "why": "Place of manufacture uses \"in\", not \"by\"."
+  },
+  "fam": [
+   "manufacturer (noun)",
+   "manufacturing (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "overhead",
+  "w": "overhead",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "custos fixos, despesas gerais",
+  "def": "Regular business costs such as rent and electricity.",
+  "ipa": "/ˈoʊvərhed/",
+  "ex": "Rent and electricity are the biggest overhead for our small office.",
+  "form": "overhead",
+  "nat": "We reduced overhead by moving to a smaller building.",
+  "syn": [
+   "running costs"
+  ],
+  "ant": [],
+  "col": [
+   "reduce overhead",
+   "overhead costs",
+   "high overhead",
+   "low overhead"
+  ],
+  "mis": {
+   "bad": "The overheads is expensive here.",
+   "good": "The overhead is expensive here.",
+   "why": "Both forms exist, but subject and verb must agree: \"overheads are\" or \"overhead is\"."
+  },
+  "fam": [],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "profit",
+  "w": "profit",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "lucro",
+  "def": "Money earned after paying all costs.",
+  "ipa": "/ˈprɑːfɪt/",
+  "ex": "The company made a profit of two million dollars in its first year.",
+  "form": "profit",
+  "nat": "We hope to turn a profit by December.",
+  "syn": [
+   "gain",
+   "earnings"
+  ],
+  "ant": [
+   "loss"
+  ],
+  "col": [
+   "make a profit",
+   "net profit",
+   "profit margin",
+   "turn a profit"
+  ],
+  "mis": {
+   "bad": "The profit from the lucrative company is big.",
+   "good": "The company made a big profit.",
+   "why": "Make a profit is the natural collocation."
+  },
+  "fam": [
+   "profitable (adj)"
+  ],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "margin",
+  "w": "margin",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "margem",
+  "def": "The difference between cost and selling price.",
+  "ipa": "/ˈmɑːrdʒɪn/",
+  "ex": "Our profit margin is very small because raw materials have become more expensive.",
+  "form": "margin",
+  "nat": "The firm works on a thin margin.",
+  "syn": [],
+  "ant": [],
+  "col": [
+   "profit margin",
+   "thin margin",
+   "wide margin",
+   "margin of error"
+  ],
+  "mis": {
+   "bad": "The margin of lucro is ten percent.",
+   "good": "The profit margin is ten percent.",
+   "why": "Use \"profit margin\" as the compound."
+  },
+  "fam": [],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "subsidiary",
+  "w": "subsidiary",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "subsidiária",
+  "def": "A company owned or controlled by a larger company.",
+  "ipa": "/səbˈsɪdieri/",
+  "ex": "The bank opened a subsidiary in Argentina to serve local clients.",
+  "form": "subsidiary",
+  "nat": "It is a wholly owned subsidiary of a Japanese group.",
+  "syn": [
+   "branch",
+   "affiliate"
+  ],
+  "ant": [
+   "parent company"
+  ],
+  "col": [
+   "wholly owned subsidiary",
+   "foreign subsidiary",
+   "subsidiary company",
+   "local subsidiary"
+  ],
+  "mis": {
+   "bad": "The subsidiary of my company is in Chile.",
+   "good": "My company has a subsidiary in Chile.",
+   "why": "Subsidiary is a company owned by another, so the phrasing should show who owns it."
+  },
+  "fam": [
+   "subsidy (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "franchise",
+  "w": "franchise",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "franquia",
+  "def": "A business that sells the right to use its name and products.",
+  "ipa": "/ˈfræntʃaɪz/",
+  "ex": "He bought a coffee franchise and opened three shops within five years.",
+  "form": "franchise",
+  "nat": "The franchise gives owners strong support.",
+  "syn": [
+   "licence"
+  ],
+  "ant": [],
+  "col": [
+   "franchise owner",
+   "open a franchise",
+   "fast-food franchise",
+   "buy a franchise"
+  ],
+  "mis": {
+   "bad": "He opened a franchising of pizza.",
+   "good": "He opened a pizza franchise.",
+   "why": "The noun for the business is franchise."
+  },
+  "fam": [
+   "franchisee (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "startup",
+  "w": "startup",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "startup, empresa iniciante",
+  "def": "A new company, especially one that uses technology.",
+  "ipa": "/ˈstɑːrtʌp/",
+  "ex": "She left her bank job to join a small tech startup in Recife.",
+  "form": "startup",
+  "nat": "The startup received funding from investors.",
+  "syn": [
+   "new business"
+  ],
+  "ant": [],
+  "col": [
+   "tech startup",
+   "launch a startup",
+   "startup founder",
+   "startup culture"
+  ],
+  "mis": {
+   "bad": "My startup is a company that has many years.",
+   "good": "My startup is a young company.",
+   "why": "A startup is by definition new."
+  },
+  "fam": [],
+  "topics": [
+   "business",
+   "tech"
+  ]
+ },
+ {
+  "id": "entrepreneur",
+  "w": "entrepreneur",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "empreendedor",
+  "def": "A person who starts and runs a business and takes risks.",
+  "ipa": "/ˌɑːntrəprəˈnɜːr/",
+  "ex": "The young entrepreneur started her online shop in her parents' garage.",
+  "form": "entrepreneur",
+  "nat": "Many entrepreneurs fail before they succeed.",
+  "syn": [
+   "business owner",
+   "founder"
+  ],
+  "ant": [],
+  "col": [
+   "successful entrepreneur",
+   "young entrepreneur",
+   "serial entrepreneur",
+   "aspiring entrepreneur"
+  ],
+  "mis": {
+   "bad": "He is an entrepeneur of success.",
+   "good": "He is a successful entrepreneur.",
+   "why": "The adjective goes before the noun; also check the spelling."
+  },
+  "fam": [
+   "entrepreneurial (adj)",
+   "entrepreneurship (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "venture",
+  "w": "venture",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "empreendimento, negócio arriscado",
+  "def": "A new business project that involves risk.",
+  "ipa": "/ˈventʃər/",
+  "ex": "Their first venture failed, but they learned a lot and tried again.",
+  "form": "venture",
+  "nat": "It's a joint venture between two firms.",
+  "syn": [
+   "enterprise",
+   "project"
+  ],
+  "ant": [],
+  "col": [
+   "joint venture",
+   "business venture",
+   "new venture",
+   "risky venture"
+  ],
+  "mis": {
+   "bad": "They have a joint venture with the two companies of Brazil.",
+   "good": "They have a joint venture with two Brazilian companies.",
+   "why": "Use adjectives like Brazilian before the noun and avoid awkward \"of\"."
+  },
+  "fam": [
+   "venture (verb)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "competitor",
+  "w": "competitor",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "concorrente",
+  "def": "A company or person trying to win in the same market.",
+  "ipa": "/kəmˈpetɪtər/",
+  "ex": "Our competitors lowered their prices, so we had to change our strategy.",
+  "form": "competitors",
+  "nat": "He is our biggest competitor.",
+  "syn": [
+   "rival"
+  ],
+  "ant": [],
+  "col": [
+   "main competitor",
+   "beat a competitor",
+   "fierce competitors",
+   "compete with"
+  ],
+  "mis": {
+   "bad": "We have a concurrent in the same city.",
+   "good": "We have a competitor in the same city.",
+   "why": "\"Concorrente\" is a competitor in English."
+  },
+  "fam": [
+   "compete (verb)",
+   "competition (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "clientele",
+  "w": "clientele",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "clientela",
+  "def": "All the customers of a business.",
+  "ipa": "/ˌkliːənˈtel/",
+  "ex": "The restaurant has a wealthy clientele who often book tables months in advance.",
+  "form": "clientele",
+  "nat": "The shop is trying to attract a younger clientele.",
+  "syn": [
+   "customers"
+  ],
+  "ant": [],
+  "col": [
+   "loyal clientele",
+   "wealthy clientele",
+   "regular clientele",
+   "attract clientele"
+  ],
+  "mis": {
+   "bad": "The clientele are very happy with the service.",
+   "good": "The clientele is very happy with the service.",
+   "why": "Clientele is normally singular in this use."
+  },
+  "fam": [
+   "client (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "wholesale",
+  "w": "wholesale",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "atacado",
+  "def": "The selling of goods in large amounts, usually to shops.",
+  "ipa": "/ˈhoʊlseɪl/",
+  "ex": "We buy fabric at wholesale and sell clothes in our own shop.",
+  "form": "wholesale",
+  "nat": "The wholesale price is much lower.",
+  "syn": [
+   "bulk selling"
+  ],
+  "ant": [
+   "retail"
+  ],
+  "col": [
+   "wholesale price",
+   "buy wholesale",
+   "wholesale market",
+   "wholesale distributor"
+  ],
+  "mis": {
+   "bad": "I buy in the wholesale for my shop.",
+   "good": "I buy wholesale for my shop.",
+   "why": "Use \"buy wholesale\" without the article."
+  },
+  "fam": [
+   "wholesaler (noun)"
+  ],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "merchandise",
+  "w": "merchandise",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "mercadorias, produtos",
+  "def": "Goods that are bought and sold.",
+  "ipa": "/ˈmɜːrtʃəndaɪs/",
+  "ex": "The store keeps its best merchandise near the entrance to attract more customers.",
+  "form": "merchandise",
+  "nat": "All merchandise is half price this weekend.",
+  "syn": [
+   "goods",
+   "products"
+  ],
+  "ant": [],
+  "col": [
+   "sell merchandise",
+   "official merchandise",
+   "store merchandise",
+   "damaged merchandise"
+  ],
+  "mis": {
+   "bad": "The merchandises were damaged.",
+   "good": "The merchandise was damaged.",
+   "why": "Merchandise is uncountable and has no plural -s."
+  },
+  "fam": [
+   "merchant (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "headquarters",
+  "w": "headquarters",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "sede",
+  "def": "The main office of a company.",
+  "ipa": "/ˌhedˈkwɔːrtərz/",
+  "ex": "The company's headquarters is in Dublin, but it has offices worldwide.",
+  "form": "headquarters",
+  "nat": "They moved their headquarters to Berlin.",
+  "syn": [
+   "head office"
+  ],
+  "ant": [],
+  "col": [
+   "corporate headquarters",
+   "move headquarters",
+   "global headquarters",
+   "headquarters in"
+  ],
+  "mis": {
+   "bad": "The headquarter of the firm is in Rome.",
+   "good": "The headquarters of the firm is in Rome.",
+   "why": "Headquarters has an -s even when it refers to one place."
+  },
+  "fam": [],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "branch",
+  "w": "branch",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "filial, agência",
+  "def": "One of several local offices of a larger organization.",
+  "ipa": "/bræntʃ/",
+  "ex": "I went to the bank branch near my house to open a savings account.",
+  "form": "branch",
+  "nat": "The company has a branch in every major city.",
+  "syn": [
+   "office",
+   "outlet"
+  ],
+  "ant": [],
+  "col": [
+   "local branch",
+   "branch manager",
+   "branch office",
+   "open a branch"
+  ],
+  "mis": {
+   "bad": "I work in the filial of Curitiba.",
+   "good": "I work in the Curitiba branch.",
+   "why": "The business word for filial is branch."
+  },
+  "fam": [],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "projection",
+  "w": "projection",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "projeção, estimativa",
+  "def": "An estimate of future numbers based on current information.",
+  "ipa": "/prəˈdʒekʃn/",
+  "ex": "The sales projections for next year are based on the current growth rate.",
+  "form": "projections",
+  "nat": "Their projections were too optimistic.",
+  "syn": [
+   "forecast",
+   "estimate"
+  ],
+  "ant": [],
+  "col": [
+   "sales projection",
+   "financial projection",
+   "revised projections",
+   "growth projection"
+  ],
+  "mis": {
+   "bad": "The projection of the vendas is high.",
+   "good": "The sales projection is high.",
+   "why": "Use \"sales projection\" in English."
+  },
+  "fam": [
+   "project (verb)"
+  ],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "pilot",
+  "w": "pilot",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "projeto-piloto",
+  "def": "A small test of a new idea before it is used widely.",
+  "ipa": "/ˈpaɪlət/",
+  "ex": "We ran a pilot in two stores before introducing the system nationwide.",
+  "form": "pilot",
+  "nat": "The pilot program lasted three months.",
+  "syn": [
+   "trial",
+   "test"
+  ],
+  "ant": [],
+  "col": [
+   "pilot project",
+   "pilot program",
+   "run a pilot",
+   "pilot study"
+  ],
+  "mis": {
+   "bad": "We did a pilot test of the idea before.",
+   "good": "We ran a pilot before launching the idea.",
+   "why": "Run a pilot is a common collocation."
+  },
+  "fam": [
+   "pilot (verb)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "rollout",
+  "w": "rollout",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "implantação gradual, lançamento",
+  "def": "The gradual introduction of a new product or system.",
+  "ipa": "/ˈroʊlaʊt/",
+  "ex": "The rollout of the new software will begin in the sales department next week.",
+  "form": "rollout",
+  "nat": "There were problems during the rollout.",
+  "syn": [
+   "launch",
+   "deployment"
+  ],
+  "ant": [],
+  "col": [
+   "phased rollout",
+   "global rollout",
+   "start the rollout",
+   "rollout plan"
+  ],
+  "mis": {
+   "bad": "The rollout of the system was in steps.",
+   "good": "The system was rolled out in phases.",
+   "why": "\"Roll out\" is the verb form, used naturally in the passive."
+  },
+  "fam": [
+   "roll out (verb)"
+  ],
+  "topics": [
+   "business",
+   "tech"
+  ]
+ },
+ {
+  "id": "implement",
+  "w": "implement",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "implementar, pôr em prática",
+  "def": "To start using a plan, system, or decision.",
+  "ipa": "/ˈɪmplɪment/",
+  "ex": "The bank implemented the new security rules in all its branches last month.",
+  "form": "implemented",
+  "nat": "We need to implement these changes quickly.",
+  "syn": [
+   "apply",
+   "carry out"
+  ],
+  "ant": [],
+  "col": [
+   "implement a plan",
+   "implement changes",
+   "fully implemented",
+   "implement a policy"
+  ],
+  "mis": {
+   "bad": "We implemented the system in the company since January.",
+   "good": "We have used the system in the company since January.",
+   "why": "Since requires a present perfect form with a continuing action."
+  },
+  "fam": [
+   "implementation (noun)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "viability",
+  "w": "viability",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "viabilidade",
+  "def": "The ability of something to succeed or be financially sound.",
+  "ipa": "/ˌvaɪəˈbɪləti/",
+  "ex": "The study will test the commercial viability of the new product.",
+  "form": "viability",
+  "nat": "Investors questioned the viability of the plan.",
+  "syn": [
+   "feasibility"
+  ],
+  "ant": [],
+  "col": [
+   "economic viability",
+   "test viability",
+   "long-term viability",
+   "viability study"
+  ],
+  "mis": {
+   "bad": "The viability of project is high.",
+   "good": "The viability of the project is high.",
+   "why": "Do not forget the article before project."
+  },
+  "fam": [
+   "viable (adj)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "collaboration",
+  "w": "collaboration",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "colaboração",
+  "def": "The act of working together to achieve something.",
+  "ipa": "/kəˌlæbəˈreɪʃn/",
+  "ex": "The product was developed in close collaboration with several of our customers.",
+  "form": "collaboration",
+  "nat": "Collaboration between the two teams improved results.",
+  "syn": [
+   "teamwork",
+   "cooperation"
+  ],
+  "ant": [],
+  "col": [
+   "close collaboration",
+   "in collaboration with",
+   "collaboration tool",
+   "international collaboration"
+  ],
+  "mis": {
+   "bad": "The collaboration of the two teams was a success of work.",
+   "good": "The collaboration between the two teams was a success.",
+   "why": "Collaboration between two groups uses \"between\"."
+  },
+  "fam": [
+   "collaborate (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "synergy",
+  "w": "synergy",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "sinergia",
+  "def": "Extra benefit from two groups or ideas working together.",
+  "ipa": "/ˈsɪnərdʒi/",
+  "ex": "The merger created synergy between the design and engineering departments.",
+  "form": "synergy",
+  "nat": "There is real synergy in this team.",
+  "syn": [
+   "cooperation"
+  ],
+  "ant": [],
+  "col": [
+   "create synergy",
+   "team synergy",
+   "synergy between",
+   "synergy effect"
+  ],
+  "mis": {
+   "bad": "The synergy among the two teams is great.",
+   "good": "The synergy between the two teams is great.",
+   "why": "Use \"between\" with two groups."
+  },
+  "fam": [
+   "synergistic (adj)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "camaraderie",
+  "w": "camaraderie",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "camaradagem",
+  "def": "Friendship and trust among people who spend time together.",
+  "ipa": "/ˌkɑːməˈrɑːdəri/",
+  "ex": "There is great camaraderie among the nurses because they work long shifts together.",
+  "form": "camaraderie",
+  "nat": "The camaraderie of the team helped us finish.",
+  "syn": [
+   "friendship",
+   "fellowship"
+  ],
+  "ant": [],
+  "col": [
+   "team camaraderie",
+   "sense of camaraderie",
+   "build camaraderie",
+   "strong camaraderie"
+  ],
+  "mis": {
+   "bad": "The camaradery of the group is big.",
+   "good": "There is great camaraderie in the group.",
+   "why": "Spelling camaraderie; also use \"great\", not \"big\"."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "teammate",
+  "w": "teammate",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "colega de equipe",
+  "def": "A person who is in the same team as you.",
+  "ipa": "/ˈtiːmmeɪt/",
+  "ex": "My teammates helped me finish the presentation when I got sick.",
+  "form": "teammates",
+  "nat": "He is a great teammate.",
+  "syn": [
+   "partner"
+  ],
+  "ant": [],
+  "col": [
+   "supportive teammate",
+   "fellow teammate",
+   "trust your teammates",
+   "former teammate"
+  ],
+  "mis": {
+   "bad": "I have a good relation with my teamates.",
+   "good": "I have a good relationship with my teammates.",
+   "why": "Relation is not the same as relationship, and spelling teammates."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "peer",
+  "w": "peer",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "colega do mesmo nível, par",
+  "def": "A person of the same age or level as you.",
+  "ipa": "/pɪr/",
+  "ex": "She was respected by her peers because she always shared her knowledge.",
+  "form": "peers",
+  "nat": "Feedback from peers is very useful.",
+  "syn": [
+   "equal",
+   "colleague"
+  ],
+  "ant": [
+   "superior"
+  ],
+  "col": [
+   "peer review",
+   "peer pressure",
+   "peer group",
+   "among peers"
+  ],
+  "mis": {
+   "bad": "My peers of work are older than me.",
+   "good": "My colleagues at work are older than me.",
+   "why": "Peer is formal; for work friends use colleagues."
+  },
+  "fam": [
+   "peerless (adj)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "cohesive",
+  "w": "cohesive",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "coeso",
+  "def": "Working well together as one united group.",
+  "ipa": "/koʊˈhiːsɪv/",
+  "ex": "The coach built a cohesive team that played well even under pressure.",
+  "form": "cohesive",
+  "nat": "A cohesive plan is easier to follow.",
+  "syn": [
+   "united",
+   "close-knit"
+  ],
+  "ant": [
+   "divided"
+  ],
+  "col": [
+   "cohesive team",
+   "cohesive group",
+   "highly cohesive",
+   "cohesive strategy"
+  ],
+  "mis": {
+   "bad": "The group is cohesive between them.",
+   "good": "The group is cohesive.",
+   "why": "Cohesive already refers to the group; \"between them\" is not needed."
+  },
+  "fam": [
+   "cohesion (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "rally",
+  "w": "rally",
+  "pos": "verb",
+  "lvl": "B2+",
+  "pt": "mobilizar, reunir",
+  "def": "To bring people together to support something.",
+  "ipa": "/ˈræli/",
+  "ex": "The manager rallied the team after the failed launch and set new goals.",
+  "form": "rallied",
+  "nat": "Employees rallied around their new boss.",
+  "syn": [
+   "unite",
+   "mobilize"
+  ],
+  "ant": [],
+  "col": [
+   "rally support",
+   "rally the team",
+   "rally around",
+   "rally behind"
+  ],
+  "mis": {
+   "bad": "The team rallied to around the new leader.",
+   "good": "The team rallied around the new leader.",
+   "why": "Use \"rally around\" without \"to\"."
+  },
+  "fam": [
+   "rally (noun)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "conflict",
+  "w": "conflict",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "conflito",
+  "def": "A serious disagreement between people or groups.",
+  "ipa": "/ˈkɑːnflɪkt/",
+  "ex": "A conflict between two managers slowed down every decision in the department.",
+  "form": "conflict",
+  "nat": "They tried to avoid conflict.",
+  "syn": [
+   "disagreement",
+   "clash"
+  ],
+  "ant": [
+   "harmony"
+  ],
+  "col": [
+   "resolve a conflict",
+   "avoid conflict",
+   "conflict of interest",
+   "conflict between"
+  ],
+  "mis": {
+   "bad": "They had a conflict with each other of ideas.",
+   "good": "They had a conflict of ideas.",
+   "why": "Do not add \"with each other\" after conflict of ideas."
+  },
+  "fam": [
+   "conflict (verb)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "constructive",
+  "w": "constructive",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "construtivo",
+  "def": "Helpful and intended to improve something.",
+  "ipa": "/kənˈstrʌktɪv/",
+  "ex": "She gave me constructive feedback that helped me improve my presentation skills.",
+  "form": "constructive",
+  "nat": "We had a constructive discussion.",
+  "syn": [
+   "helpful",
+   "useful"
+  ],
+  "ant": [
+   "destructive"
+  ],
+  "col": [
+   "constructive criticism",
+   "constructive feedback",
+   "constructive discussion",
+   "constructive approach"
+  ],
+  "mis": {
+   "bad": "He gave me a constructive critic.",
+   "good": "He gave me constructive criticism.",
+   "why": "The noun is criticism; critic is a person."
+  },
+  "fam": [
+   "construct (verb)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "ownership",
+  "w": "ownership",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "senso de responsabilidade, propriedade",
+  "def": "The feeling of being responsible for your work, or legal right of owning.",
+  "ipa": "/ˈoʊnərʃɪp/",
+  "ex": "Good employees take ownership of their mistakes and fix them quickly.",
+  "form": "ownership",
+  "nat": "Who has ownership of this data?",
+  "syn": [
+   "responsibility",
+   "possession"
+  ],
+  "ant": [],
+  "col": [
+   "take ownership",
+   "sense of ownership",
+   "ownership of",
+   "shared ownership"
+  ],
+  "mis": {
+   "bad": "He took the ownership for the problem.",
+   "good": "He took ownership of the problem.",
+   "why": "Take ownership of, without an article."
+  },
+  "fam": [
+   "owner (noun)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "solidarity",
+  "w": "solidarity",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "solidariedade",
+  "def": "Support between people who share the same aims.",
+  "ipa": "/ˌsɑːlɪˈdærəti/",
+  "ex": "Workers showed solidarity by refusing to work extra hours without pay.",
+  "form": "solidarity",
+  "nat": "They expressed solidarity with the victims.",
+  "syn": [
+   "unity",
+   "support"
+  ],
+  "ant": [],
+  "col": [
+   "show solidarity",
+   "in solidarity with",
+   "sense of solidarity",
+   "solidarity among"
+  ],
+  "mis": {
+   "bad": "They did solidarity with the strikers.",
+   "good": "They showed solidarity with the strikers.",
+   "why": "Show solidarity is the natural collocation."
+  },
+  "fam": [
+   "solid (adj)"
+  ],
+  "topics": [
+   "work",
+   "relationships"
+  ]
+ },
+ {
+  "id": "inquiry",
+  "w": "inquiry",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "consulta, pedido de informação",
+  "def": "A question asking for information.",
+  "ipa": "/ɪnˈkwaɪri/",
+  "ex": "We receive about fifty customer inquiries a day by email and phone.",
+  "form": "inquiries",
+  "nat": "I made an inquiry about prices.",
+  "syn": [
+   "question",
+   "request"
+  ],
+  "ant": [],
+  "col": [
+   "make an inquiry",
+   "customer inquiry",
+   "inquiry about",
+   "respond to an inquiry"
+  ],
+  "mis": {
+   "bad": "I did an inquiry about the price.",
+   "good": "I made an inquiry about the price.",
+   "why": "Make an inquiry is the natural verb choice."
+  },
+  "fam": [
+   "inquire (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "satisfaction",
+  "w": "satisfaction",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "satisfação",
+  "def": "The feeling of being pleased because your needs are met.",
+  "ipa": "/ˌsætɪsˈfækʃn/",
+  "ex": "Customer satisfaction rose after we reduced the waiting time on the phone.",
+  "form": "satisfaction",
+  "nat": "She felt great satisfaction after finishing the project.",
+  "syn": [
+   "contentment"
+  ],
+  "ant": [
+   "dissatisfaction"
+  ],
+  "col": [
+   "customer satisfaction",
+   "job satisfaction",
+   "satisfaction guaranteed",
+   "express satisfaction"
+  ],
+  "mis": {
+   "bad": "I am satisfaction with the service.",
+   "good": "I am satisfied with the service.",
+   "why": "Satisfied is the adjective after \"am\"; satisfaction is a noun."
+  },
+  "fam": [
+   "satisfy (verb)",
+   "satisfied (adj)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "compensation",
+  "w": "compensation",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "compensação, indenização",
+  "def": "Money given to make up for a loss or a problem.",
+  "ipa": "/ˌkɑːmpenˈseɪʃn/",
+  "ex": "The airline offered passengers compensation for the six-hour delay of the flight.",
+  "form": "compensation",
+  "nat": "He asked for compensation for the damage.",
+  "syn": [
+   "reimbursement",
+   "payment"
+  ],
+  "ant": [],
+  "col": [
+   "receive compensation",
+   "claim compensation",
+   "financial compensation",
+   "compensation for"
+  ],
+  "mis": {
+   "bad": "I asked for a compensation of the delay.",
+   "good": "I asked for compensation for the delay.",
+   "why": "Compensation is uncountable here and takes \"for\"."
+  },
+  "fam": [
+   "compensate (verb)"
+  ],
+  "topics": [
+   "business",
+   "finance"
+  ]
+ },
+ {
+  "id": "courteous",
+  "w": "courteous",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "cortês, educado",
+  "def": "Polite and showing respect.",
+  "ipa": "/ˈkɜːrtiəs/",
+  "ex": "The receptionist was courteous even when the visitor was rude to her.",
+  "form": "courteous",
+  "nat": "Please be courteous to all customers.",
+  "syn": [
+   "polite",
+   "respectful"
+  ],
+  "ant": [
+   "rude"
+  ],
+  "col": [
+   "courteous staff",
+   "courteous and professional",
+   "courteous manner",
+   "always courteous"
+  ],
+  "mis": {
+   "bad": "The staff were courteous with the clients.",
+   "good": "The staff were courteous to the clients.",
+   "why": "Use \"courteous to\" a person."
+  },
+  "fam": [
+   "courtesy (noun)"
+  ],
+  "topics": [
+   "business",
+   "relationships"
+  ]
+ },
+ {
+  "id": "attentive",
+  "w": "attentive",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "atencioso, atento",
+  "def": "Listening and paying careful attention to someone's needs.",
+  "ipa": "/əˈtentɪv/",
+  "ex": "The waiters were very attentive and refilled our glasses before we asked.",
+  "form": "attentive",
+  "nat": "She is an attentive listener.",
+  "syn": [
+   "alert",
+   "considerate"
+  ],
+  "ant": [
+   "careless"
+  ],
+  "col": [
+   "attentive service",
+   "attentive to",
+   "attentive listener",
+   "remain attentive"
+  ],
+  "mis": {
+   "bad": "The staff was attentive of my needs.",
+   "good": "The staff was attentive to my needs.",
+   "why": "Use \"attentive to\"."
+  },
+  "fam": [
+   "attention (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "helpline",
+  "w": "helpline",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "linha de atendimento",
+  "def": "A telephone service that gives advice or help.",
+  "ipa": "/ˈhelplaɪn/",
+  "ex": "I called the helpline, but I had to wait twenty minutes to talk to someone.",
+  "form": "helpline",
+  "nat": "The helpline is open all night.",
+  "syn": [
+   "hotline"
+  ],
+  "ant": [],
+  "col": [
+   "call the helpline",
+   "helpline number",
+   "customer helpline",
+   "helpline staff"
+  ],
+  "mis": {
+   "bad": "I called to the helpline.",
+   "good": "I called the helpline.",
+   "why": "Call is transitive, so no \"to\" is needed."
+  },
+  "fam": [],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "resolve",
+  "w": "resolve",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "resolver",
+  "def": "To find a solution to a problem or disagreement.",
+  "ipa": "/rɪˈzɑːlv/",
+  "ex": "The support team resolved the issue within an hour and apologized to the customer.",
+  "form": "resolved",
+  "nat": "We hope to resolve this quickly.",
+  "syn": [
+   "solve",
+   "settle"
+  ],
+  "ant": [
+   "create"
+  ],
+  "col": [
+   "resolve a problem",
+   "resolve an issue",
+   "resolve a dispute",
+   "fully resolved"
+  ],
+  "mis": {
+   "bad": "The problem was resolved to me by the staff.",
+   "good": "The staff resolved the problem for me.",
+   "why": "Use the active form with \"for me\"."
+  },
+  "fam": [
+   "resolution (noun)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "resolution",
+  "w": "resolution",
+  "pos": "noun",
+  "lvl": "B2",
+  "pt": "resolução, solução",
+  "def": "The solution to a problem or the end of a disagreement.",
+  "ipa": "/ˌrezəˈluːʃn/",
+  "ex": "The company promised a quick resolution to the billing problem.",
+  "form": "resolution",
+  "nat": "The two sides reached a peaceful resolution.",
+  "syn": [
+   "solution",
+   "outcome"
+  ],
+  "ant": [],
+  "col": [
+   "quick resolution",
+   "dispute resolution",
+   "reach a resolution",
+   "problem resolution"
+  ],
+  "mis": {
+   "bad": "I wait for the resolution of my problem since Monday.",
+   "good": "I have been waiting for a resolution to my problem since Monday.",
+   "why": "Since needs the present perfect continuous."
+  },
+  "fam": [
+   "resolve (verb)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "testimonial",
+  "w": "testimonial",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "depoimento, recomendação de cliente",
+  "def": "A written statement by a customer praising a product or service.",
+  "ipa": "/ˌtestɪˈmoʊniəl/",
+  "ex": "The website includes testimonials from clients who have used our service for years.",
+  "form": "testimonials",
+  "nat": "Positive testimonials build trust.",
+  "syn": [
+   "recommendation",
+   "endorsement"
+  ],
+  "ant": [],
+  "col": [
+   "customer testimonial",
+   "write a testimonial",
+   "video testimonial",
+   "glowing testimonial"
+  ],
+  "mis": {
+   "bad": "The testemunial of the client was good.",
+   "good": "The client's testimonial was good.",
+   "why": "Check the spelling and possessive form."
+  },
+  "fam": [
+   "testimony (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "reputation",
+  "w": "reputation",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "reputação",
+  "def": "The general opinion that people have about someone or something.",
+  "ipa": "/ˌrepjuˈteɪʃn/",
+  "ex": "The restaurant has a good reputation for fast service and fresh food.",
+  "form": "reputation",
+  "nat": "His reputation was damaged by the scandal.",
+  "syn": [
+   "image",
+   "standing"
+  ],
+  "ant": [],
+  "col": [
+   "good reputation",
+   "damage a reputation",
+   "reputation for",
+   "build a reputation"
+  ],
+  "mis": {
+   "bad": "The company has a bad reputation of customer service.",
+   "good": "The company has a bad reputation for customer service.",
+   "why": "Use \"reputation for\"."
+  },
+  "fam": [
+   "reputable (adj)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "goodwill",
+  "w": "goodwill",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "boa vontade, boa reputação",
+  "def": "Friendly feelings and trust between a company and its customers.",
+  "ipa": "/ˌɡʊdˈwɪl/",
+  "ex": "A free replacement is a small price to pay for customer goodwill.",
+  "form": "goodwill",
+  "nat": "The company lost a lot of goodwill after the scandal.",
+  "syn": [
+   "trust",
+   "kindness"
+  ],
+  "ant": [],
+  "col": [
+   "customer goodwill",
+   "build goodwill",
+   "gesture of goodwill",
+   "lose goodwill"
+  ],
+  "mis": {
+   "bad": "It was a gesture of good will to the client.",
+   "good": "It was a gesture of goodwill to the client.",
+   "why": "Goodwill is written as one word."
+  },
+  "fam": [],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "assistance",
+  "w": "assistance",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "assistência, ajuda",
+  "def": "Help given to someone.",
+  "ipa": "/əˈsɪstəns/",
+  "ex": "Thank you for your assistance; the technician solved my problem in minutes.",
+  "form": "assistance",
+  "nat": "Do you need any assistance?",
+  "syn": [
+   "help",
+   "support"
+  ],
+  "ant": [],
+  "col": [
+   "ask for assistance",
+   "financial assistance",
+   "technical assistance",
+   "thank you for your assistance"
+  ],
+  "mis": {
+   "bad": "I need an assistance with my account.",
+   "good": "I need assistance with my account.",
+   "why": "Assistance is uncountable, so no article."
+  },
+  "fam": [
+   "assist (verb)",
+   "assistant (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "responsive",
+  "w": "responsive",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "que responde rápido, receptivo",
+  "def": "Quick to reply and react to what people need.",
+  "ipa": "/rɪˈspɑːnsɪv/",
+  "ex": "The support team is very responsive and usually answers emails within fifteen minutes.",
+  "form": "responsive",
+  "nat": "We want to be responsive to client needs.",
+  "syn": [
+   "reactive",
+   "quick"
+  ],
+  "ant": [
+   "unresponsive"
+  ],
+  "col": [
+   "responsive to",
+   "responsive service",
+   "highly responsive",
+   "responsive design"
+  ],
+  "mis": {
+   "bad": "The team is responsive of our needs.",
+   "good": "The team is responsive to our needs.",
+   "why": "Use \"responsive to\"."
+  },
+  "fam": [
+   "respond (verb)",
+   "response (noun)"
+  ],
+  "topics": [
+   "business",
+   "tech"
+  ]
+ },
+ {
+  "id": "unresponsive",
+  "w": "unresponsive",
+  "pos": "adj",
+  "lvl": "B2+",
+  "pt": "que não responde",
+  "def": "Not answering or reacting when asked.",
+  "ipa": "/ˌʌnrɪˈspɑːnsɪv/",
+  "ex": "The supplier was unresponsive for a week, so we looked for another company.",
+  "form": "unresponsive",
+  "nat": "The website is unresponsive today.",
+  "syn": [
+   "silent",
+   "slow"
+  ],
+  "ant": [
+   "responsive"
+  ],
+  "col": [
+   "remain unresponsive",
+   "unresponsive customer",
+   "unresponsive to",
+   "unresponsive app"
+  ],
+  "mis": {
+   "bad": "He is unresponsive for my emails.",
+   "good": "He is unresponsive to my emails.",
+   "why": "Use \"unresponsive to\"."
+  },
+  "fam": [],
+  "topics": [
+   "business",
+   "tech"
+  ]
+ },
+ {
+  "id": "grievance",
+  "w": "grievance",
+  "pos": "noun",
+  "lvl": "B2+",
+  "pt": "queixa formal, reclamação",
+  "def": "A formal complaint about unfair treatment.",
+  "ipa": "/ˈɡriːvns/",
+  "ex": "She filed a grievance with HR after her manager refused to approve her leave.",
+  "form": "grievance",
+  "nat": "The union listened to the workers' grievances.",
+  "syn": [
+   "complaint",
+   "objection"
+  ],
+  "ant": [],
+  "col": [
+   "file a grievance",
+   "formal grievance",
+   "genuine grievance",
+   "grievance procedure"
+  ],
+  "mis": {
+   "bad": "She made a grievance against the company.",
+   "good": "She filed a grievance against the company.",
+   "why": "File a grievance is the standard collocation."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "rectify",
+  "w": "rectify",
+  "pos": "verb",
+  "lvl": "B2+",
+  "pt": "corrigir, retificar",
+  "def": "To correct something that is wrong.",
+  "ipa": "/ˈrektɪfaɪ/",
+  "ex": "The bank rectified the error on my account and refunded the extra fee.",
+  "form": "rectified",
+  "nat": "We'll rectify the situation immediately.",
+  "syn": [
+   "correct",
+   "fix"
+  ],
+  "ant": [
+   "worsen"
+  ],
+  "col": [
+   "rectify a mistake",
+   "rectify the situation",
+   "rectify an error",
+   "quickly rectified"
+  ],
+  "mis": {
+   "bad": "We will rectify the problem for correct it.",
+   "good": "We will rectify the problem to correct it.",
+   "why": "Use \"to + verb\" for purpose, not \"for\"."
+  },
+  "fam": [
+   "rectification (noun)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "reimburse",
+  "w": "reimburse",
+  "pos": "verb",
+  "lvl": "B2",
+  "pt": "reembolsar",
+  "def": "To pay back money someone spent.",
+  "ipa": "/ˌriːɪmˈbɜːrs/",
+  "ex": "The company reimbursed me for my train ticket after the business trip.",
+  "form": "reimbursed",
+  "nat": "Will they reimburse the cost of the hotel?",
+  "syn": [
+   "repay",
+   "refund"
+  ],
+  "ant": [],
+  "col": [
+   "reimburse expenses",
+   "reimburse someone for",
+   "fully reimbursed",
+   "reimburse costs"
+  ],
+  "mis": {
+   "bad": "The company reimbursed to me the ticket.",
+   "good": "The company reimbursed me for the ticket.",
+   "why": "Reimburse takes the person directly, then \"for\"."
+  },
+  "fam": [
+   "reimbursement (noun)"
+  ],
+  "topics": [
+   "finance",
+   "work"
+  ]
+ },
+ {
+  "id": "dissatisfied",
+  "w": "dissatisfied",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "insatisfeito",
+  "def": "Not happy with something you received.",
+  "ipa": "/dɪsˈsætɪsfaɪd/",
+  "ex": "Dissatisfied customers can damage a small business by writing bad online reviews.",
+  "form": "dissatisfied",
+  "nat": "He was dissatisfied with the repair.",
+  "syn": [
+   "unhappy",
+   "displeased"
+  ],
+  "ant": [
+   "satisfied"
+  ],
+  "col": [
+   "dissatisfied customer",
+   "dissatisfied with",
+   "highly dissatisfied",
+   "leave dissatisfied"
+  ],
+  "mis": {
+   "bad": "I am dissatisfied of the service.",
+   "good": "I am dissatisfied with the service.",
+   "why": "Use \"dissatisfied with\"."
+  },
+  "fam": [
+   "dissatisfaction (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "accommodate",
+  "w": "accommodate",
+  "pos": "verb",
+  "lvl": "B1+",
+  "pt": "acomodar, atender às necessidades",
+  "def": "To provide for someone's needs or fit them in.",
+  "ipa": "/əˈkɑːmədeɪt/",
+  "ex": "We will try to accommodate your request for a later delivery date.",
+  "form": "accommodate",
+  "nat": "The hotel can accommodate two hundred guests.",
+  "syn": [
+   "adapt",
+   "host"
+  ],
+  "ant": [
+   "refuse"
+  ],
+  "col": [
+   "accommodate a request",
+   "accommodate guests",
+   "accommodate needs",
+   "try to accommodate"
+  ],
+  "mis": {
+   "bad": "The hotel accommodates to two hundred people.",
+   "good": "The hotel accommodates two hundred people.",
+   "why": "Accommodate is transitive and has no \"to\"."
+  },
+  "fam": [
+   "accommodation (noun)"
+  ],
+  "topics": [
+   "business",
+   "travel"
+  ]
+ },
+ {
+  "id": "inconvenience",
+  "w": "inconvenience",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "inconveniente, transtorno",
+  "def": "A small problem that causes trouble or annoyance.",
+  "ipa": "/ˌɪnkənˈviːniəns/",
+  "ex": "We apologize for any inconvenience caused by the delay in your delivery.",
+  "form": "inconvenience",
+  "nat": "The closure caused great inconvenience to travelers.",
+  "syn": [
+   "trouble",
+   "nuisance"
+  ],
+  "ant": [
+   "convenience"
+  ],
+  "col": [
+   "cause inconvenience",
+   "minor inconvenience",
+   "sorry for the inconvenience",
+   "apologize for the inconvenience"
+  ],
+  "mis": {
+   "bad": "Sorry for the inconvenients.",
+   "good": "Sorry for the inconvenience.",
+   "why": "Inconvenience is the correct noun."
+  },
+  "fam": [
+   "inconvenient (adj)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "apologetic",
+  "w": "apologetic",
+  "pos": "adj",
+  "lvl": "B2",
+  "pt": "desculpando-se, arrependido",
+  "def": "Showing that you are sorry about something.",
+  "ipa": "/əˌpɑːləˈdʒetɪk/",
+  "ex": "The manager was very apologetic about the mistake and offered a full refund.",
+  "form": "apologetic",
+  "nat": "She gave an apologetic smile.",
+  "syn": [
+   "sorry",
+   "regretful"
+  ],
+  "ant": [
+   "defiant"
+  ],
+  "col": [
+   "sound apologetic",
+   "deeply apologetic",
+   "apologetic tone",
+   "apologetic about"
+  ],
+  "mis": {
+   "bad": "He was apologetic of the delay.",
+   "good": "He was apologetic about the delay.",
+   "why": "Use \"apologetic about\"."
+  },
+  "fam": [
+   "apologize (verb)",
+   "apology (noun)"
+  ],
+  "topics": [
+   "business",
+   "relationships"
+  ]
+ },
+ {
+  "id": "client",
+  "w": "client",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "cliente (de serviços)",
+  "def": "A person or company that pays for professional services.",
+  "ipa": "/ˈklaɪənt/",
+  "ex": "I have a call with an important client from Germany at three o'clock.",
+  "form": "client",
+  "nat": "She works with corporate clients.",
+  "syn": [
+   "customer"
+  ],
+  "ant": [],
+  "col": [
+   "key client",
+   "new client",
+   "client meeting",
+   "lose a client"
+  ],
+  "mis": {
+   "bad": "The doctor has many costumers.",
+   "good": "The lawyer has many clients.",
+   "why": "Professionals have clients; shops have customers. Also \"costumer\" is not \"customer\"."
+  },
+  "fam": [
+   "clientele (noun)"
+  ],
+  "topics": [
+   "business",
+   "work"
+  ]
+ },
+ {
+  "id": "salary",
+  "w": "salary",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "salário",
+  "def": "Money paid to an employee every month for their job.",
+  "ipa": "/ˈsæləri/",
+  "ex": "My salary goes up by five percent every year if my manager approves it.",
+  "form": "salary",
+  "nat": "What salary are you expecting for this job?",
+  "syn": [
+   "pay",
+   "income"
+  ],
+  "ant": [],
+  "col": [
+   "annual salary",
+   "monthly salary",
+   "salary increase",
+   "starting salary"
+  ],
+  "mis": {
+   "bad": "I receive a salary of the month.",
+   "good": "I receive a fixed salary every month.",
+   "why": "\"Salary of the month\" is a literal translation; say a monthly or fixed salary."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "finance"
+  ]
+ },
+ {
+  "id": "employee",
+  "w": "employee",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "funcionário(a)",
+  "def": "A person who is paid to work for a company.",
+  "ipa": "/ɪmˈplɔɪiː/",
+  "ex": "The company has about three hundred employees working in four different countries.",
+  "form": "employees",
+  "nat": "Every new employee gets a laptop on the first day.",
+  "syn": [
+   "worker",
+   "staff member"
+  ],
+  "ant": [
+   "employer"
+  ],
+  "col": [
+   "full-time employee",
+   "new employee",
+   "employee benefits",
+   "loyal employee"
+  ],
+  "mis": {
+   "bad": "I am an employe of this company.",
+   "good": "I am an employee of this company.",
+   "why": "The word ends in -ee, with a double e."
+  },
+  "fam": [
+   "employ (verb)",
+   "employer (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "employer",
+  "w": "employer",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "empregador",
+  "def": "A person or company that pays people to work for them.",
+  "ipa": "/ɪmˈplɔɪər/",
+  "ex": "My employer allows us to work from home on Mondays and Fridays.",
+  "form": "employer",
+  "nat": "The bank is the largest employer in the town.",
+  "syn": [
+   "boss",
+   "company"
+  ],
+  "ant": [
+   "employee"
+  ],
+  "col": [
+   "current employer",
+   "major employer",
+   "potential employer",
+   "equal opportunity employer"
+  ],
+  "mis": {
+   "bad": "My employer are very kind.",
+   "good": "My employer is very kind.",
+   "why": "Employer is singular here, so the verb is \"is\"."
+  },
+  "fam": [
+   "employ (verb)",
+   "employee (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "department",
+  "w": "department",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "departamento, setor",
+  "def": "A section of a company that has a specific job.",
+  "ipa": "/dɪˈpɑːrtmənt/",
+  "ex": "She moved to the marketing department after working in sales for three years.",
+  "form": "department",
+  "nat": "Which department do you work in?",
+  "syn": [
+   "division",
+   "section"
+  ],
+  "ant": [],
+  "col": [
+   "human resources department",
+   "sales department",
+   "head of department",
+   "department store"
+  ],
+  "mis": {
+   "bad": "I work at the department of marketing in a company.",
+   "good": "I work in the marketing department of a company.",
+   "why": "The natural order is \"marketing department\" with the preposition \"in\"."
+  },
+  "fam": [
+   "departmental (adj)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "workplace",
+  "w": "workplace",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "local de trabalho",
+  "def": "The place where people work.",
+  "ipa": "/ˈwɜːrkpleɪs/",
+  "ex": "A friendly workplace makes people happier and more productive during the week.",
+  "form": "workplace",
+  "nat": "Safety in the workplace is very important.",
+  "syn": [
+   "office"
+  ],
+  "ant": [
+   "home"
+  ],
+  "col": [
+   "safe workplace",
+   "in the workplace",
+   "workplace culture",
+   "modern workplace"
+  ],
+  "mis": {
+   "bad": "I like the ambient of my workplace.",
+   "good": "I like the atmosphere of my workplace.",
+   "why": "\"Ambient\" is not the common noun here; use atmosphere."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "career",
+  "w": "career",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "carreira",
+  "def": "The series of jobs a person has during their working life.",
+  "ipa": "/kəˈrɪr/",
+  "ex": "He started his career as a waiter and now owns three restaurants.",
+  "form": "career",
+  "nat": "She wants to change her career.",
+  "syn": [
+   "profession",
+   "occupation"
+  ],
+  "ant": [],
+  "col": [
+   "career path",
+   "change careers",
+   "career goals",
+   "successful career"
+  ],
+  "mis": {
+   "bad": "I want to make a career in this company.",
+   "good": "I want to build a career in this company.",
+   "why": "The usual verb is \"build\" a career, not \"make\"."
+  },
+  "fam": [
+   "careerist (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "workshop",
+  "w": "workshop",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "oficina, workshop",
+  "def": "A short course where people learn practical skills.",
+  "ipa": "/ˈwɜːrkʃɑːp/",
+  "ex": "I attended a workshop on public speaking, and it really boosted my confidence.",
+  "form": "workshop",
+  "nat": "The workshop starts at nine tomorrow.",
+  "syn": [
+   "training session",
+   "seminar"
+  ],
+  "ant": [],
+  "col": [
+   "attend a workshop",
+   "run a workshop",
+   "hands-on workshop",
+   "workshop on"
+  ],
+  "mis": {
+   "bad": "I did a workshop about presentations in the last week.",
+   "good": "I attended a workshop about presentations last week.",
+   "why": "Attend is the natural verb, and there is no \"in the last week\"."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "presentation",
+  "w": "presentation",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "apresentação",
+  "def": "A talk that gives information to a group of people.",
+  "ipa": "/ˌpriːzenˈteɪʃn/",
+  "ex": "My presentation lasted twenty minutes, and the clients asked many questions at the end.",
+  "form": "presentation",
+  "nat": "She gave a great presentation yesterday.",
+  "syn": [
+   "talk",
+   "pitch"
+  ],
+  "ant": [],
+  "col": [
+   "give a presentation",
+   "slide presentation",
+   "prepare a presentation",
+   "presentation skills"
+  ],
+  "mis": {
+   "bad": "I made a presentation to the audience yesterday.",
+   "good": "I gave a presentation to the audience yesterday.",
+   "why": "The usual verb is \"give\" a presentation."
+  },
+  "fam": [
+   "present (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "appointment",
+  "w": "appointment",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "compromisso, consulta marcada",
+  "def": "An arrangement to meet someone at a particular time.",
+  "ipa": "/əˈpɔɪntmənt/",
+  "ex": "I have an appointment with the accountant at ten tomorrow morning.",
+  "form": "appointment",
+  "nat": "You need an appointment to see the director.",
+  "syn": [
+   "meeting",
+   "booking"
+  ],
+  "ant": [],
+  "col": [
+   "make an appointment",
+   "cancel an appointment",
+   "by appointment",
+   "appointment with"
+  ],
+  "mis": {
+   "bad": "I have a compromise with my doctor tomorrow.",
+   "good": "I have an appointment with my doctor tomorrow.",
+   "why": "\"Compromise\" is a false friend; a scheduled meeting is an appointment."
+  },
+  "fam": [
+   "appoint (verb)"
+  ],
+  "topics": [
+   "work",
+   "health"
+  ]
+ },
+ {
+  "id": "conference",
+  "w": "conference",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "conferência, congresso",
+  "def": "A large meeting where people discuss a subject.",
+  "ipa": "/ˈkɑːnfərəns/",
+  "ex": "The company paid for me to attend a technology conference in Madrid.",
+  "form": "conference",
+  "nat": "The conference lasts three days.",
+  "syn": [
+   "congress",
+   "convention"
+  ],
+  "ant": [],
+  "col": [
+   "attend a conference",
+   "conference call",
+   "conference room",
+   "keynote at a conference"
+  ],
+  "mis": {
+   "bad": "I went to a conference of marketing.",
+   "good": "I went to a marketing conference.",
+   "why": "The topic noun comes before conference: a marketing conference."
+  },
+  "fam": [
+   "confer (verb)"
+  ],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "task",
+  "w": "task",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "tarefa",
+  "def": "A piece of work that must be done.",
+  "ipa": "/tæsk/",
+  "ex": "Our first task is to find out why the customers are leaving.",
+  "form": "task",
+  "nat": "It is a difficult task.",
+  "syn": [
+   "job",
+   "duty"
+  ],
+  "ant": [],
+  "col": [
+   "complete a task",
+   "difficult task",
+   "daily tasks",
+   "assign a task"
+  ],
+  "mis": {
+   "bad": "I did my tasks in the day.",
+   "good": "I finished my tasks during the day.",
+   "why": "Use \"during the day\"; \"in the day\" is not natural here."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "teamwork",
+  "w": "teamwork",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "trabalho em equipe",
+  "def": "The act of working well together as a group.",
+  "ipa": "/ˈtiːmwɜːrk/",
+  "ex": "Good teamwork helped us finish the project two weeks before the deadline.",
+  "form": "teamwork",
+  "nat": "Teamwork is important in my job.",
+  "syn": [
+   "cooperation"
+  ],
+  "ant": [
+   "individualism"
+  ],
+  "col": [
+   "good teamwork",
+   "teamwork skills",
+   "promote teamwork",
+   "teamwork and communication"
+  ],
+  "mis": {
+   "bad": "The teamwork of the group are great.",
+   "good": "The teamwork in the group is great.",
+   "why": "Teamwork is singular and uncountable."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "leadership",
+  "w": "leadership",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "liderança",
+  "def": "The ability to guide and motivate other people.",
+  "ipa": "/ˈliːdərʃɪp/",
+  "ex": "Her leadership during the crisis kept the whole team calm and focused.",
+  "form": "leadership",
+  "nat": "Strong leadership is needed now.",
+  "syn": [
+   "guidance",
+   "direction"
+  ],
+  "ant": [],
+  "col": [
+   "leadership skills",
+   "strong leadership",
+   "leadership role",
+   "show leadership"
+  ],
+  "mis": {
+   "bad": "He has lead skills in the company.",
+   "good": "He has leadership skills in the company.",
+   "why": "The noun is leadership; \"lead\" is a verb."
+  },
+  "fam": [
+   "lead (verb)",
+   "leader (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "performance",
+  "w": "performance",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "desempenho",
+  "def": "How well someone or something does a job.",
+  "ipa": "/pərˈfɔːrməns/",
+  "ex": "Her performance in the first quarter was much better than anyone expected.",
+  "form": "performance",
+  "nat": "The performance of the new server is excellent.",
+  "syn": [
+   "results",
+   "output"
+  ],
+  "ant": [],
+  "col": [
+   "job performance",
+   "performance review",
+   "improve performance",
+   "strong performance"
+  ],
+  "mis": {
+   "bad": "My performance of the work was bad.",
+   "good": "My performance at work was bad.",
+   "why": "Use \"at work\" for performance in a job context."
+  },
+  "fam": [
+   "perform (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "customer",
+  "w": "customer",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "cliente (de produtos)",
+  "def": "A person who buys goods or services from a business.",
+  "ipa": "/ˈkʌstəmər/",
+  "ex": "Our customers prefer to pay online instead of coming to the shop.",
+  "form": "customers",
+  "nat": "The customer is always right.",
+  "syn": [
+   "buyer",
+   "client"
+  ],
+  "ant": [],
+  "col": [
+   "regular customer",
+   "loyal customer",
+   "customer service",
+   "satisfied customer"
+  ],
+  "mis": {
+   "bad": "He is my customer friend.",
+   "good": "He is a regular customer of mine.",
+   "why": "English puts the adjective before the noun and uses \"of mine\"."
+  },
+  "fam": [
+   "custom (noun)"
+  ],
+  "topics": [
+   "business"
+  ]
+ },
+ {
+  "id": "supervisor",
+  "w": "supervisor",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "supervisor(a)",
+  "def": "A person who watches and directs the work of others.",
+  "ipa": "/ˈsuːpərvaɪzər/",
+  "ex": "My supervisor reviews my reports every Friday and gives me advice.",
+  "form": "supervisor",
+  "nat": "Please talk to your supervisor first.",
+  "syn": [
+   "boss",
+   "manager"
+  ],
+  "ant": [
+   "subordinate"
+  ],
+  "col": [
+   "direct supervisor",
+   "shift supervisor",
+   "ask your supervisor",
+   "line supervisor"
+  ],
+  "mis": {
+   "bad": "My supervisor said to me to wait.",
+   "good": "My supervisor told me to wait.",
+   "why": "After \"tell\" use a direct person; \"said to me to\" is wrong."
+  },
+  "fam": [
+   "supervise (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "manager",
+  "w": "manager",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "gerente, gestor",
+  "def": "A person who is in charge of a team or a department.",
+  "ipa": "/ˈmænɪdʒər/",
+  "ex": "The manager called a meeting to explain the changes in the sales policy.",
+  "form": "manager",
+  "nat": "She is the manager of a small hotel.",
+  "syn": [
+   "boss",
+   "director"
+  ],
+  "ant": [],
+  "col": [
+   "project manager",
+   "general manager",
+   "line manager",
+   "store manager"
+  ],
+  "mis": {
+   "bad": "My manager is the person that I have to obey, he is my chief.",
+   "good": "My manager is my boss.",
+   "why": "Boss is the common word for the person you report to."
+  },
+  "fam": [
+   "manage (verb)",
+   "management (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "staff",
+  "w": "staff",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "equipe, corpo de funcionários",
+  "def": "All the people who work in a company.",
+  "ipa": "/stæf/",
+  "ex": "The staff were invited to a party at the end of the year.",
+  "form": "staff",
+  "nat": "We need more staff in the kitchen.",
+  "syn": [
+   "personnel",
+   "employees"
+  ],
+  "ant": [],
+  "col": [
+   "staff meeting",
+   "staff member",
+   "short-staffed",
+   "support staff"
+  ],
+  "mis": {
+   "bad": "The staffs of the company are happy.",
+   "good": "The staff of the company are happy.",
+   "why": "Staff is a collective noun and has no plural -s."
+  },
+  "fam": [
+   "staff (verb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "permanent",
+  "w": "permanent",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "permanente, efetivo",
+  "def": "Lasting for a long time or for ever.",
+  "ipa": "/ˈpɜːrmənənt/",
+  "ex": "After one year, they offered me a permanent contract with better benefits.",
+  "form": "permanent",
+  "nat": "He is looking for a permanent job.",
+  "syn": [
+   "lasting",
+   "long-term"
+  ],
+  "ant": [
+   "temporary"
+  ],
+  "col": [
+   "permanent job",
+   "permanent contract",
+   "permanent staff",
+   "permanent address"
+  ],
+  "mis": {
+   "bad": "I got a permanent job of five years.",
+   "good": "I got a permanent job after five years.",
+   "why": "Permanent means no end date; \"of five years\" suggests a fixed period."
+  },
+  "fam": [
+   "permanently (adverb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "temporary",
+  "w": "temporary",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "temporário",
+  "def": "Lasting only for a short time.",
+  "ipa": "/ˈtempəreri/",
+  "ex": "She took a temporary job in a bakery during the summer holidays.",
+  "form": "temporary",
+  "nat": "This is only a temporary solution.",
+  "syn": [
+   "short-term",
+   "interim"
+  ],
+  "ant": [
+   "permanent"
+  ],
+  "col": [
+   "temporary job",
+   "temporary contract",
+   "temporary solution",
+   "temporary staff"
+  ],
+  "mis": {
+   "bad": "I work here temporary.",
+   "good": "I work here temporarily.",
+   "why": "The adverb is temporarily; temporary is an adjective."
+  },
+  "fam": [
+   "temporarily (adverb)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "qualified",
+  "w": "qualified",
+  "pos": "adj",
+  "lvl": "B1+",
+  "pt": "qualificado, habilitado",
+  "def": "Having the education or experience needed for a job.",
+  "ipa": "/ˈkwɑːlɪfaɪd/",
+  "ex": "He is a fully qualified electrician with fifteen years of experience in industrial buildings.",
+  "form": "qualified",
+  "nat": "We need a qualified engineer.",
+  "syn": [
+   "trained",
+   "competent"
+  ],
+  "ant": [
+   "unqualified"
+  ],
+  "col": [
+   "highly qualified",
+   "qualified for",
+   "qualified teacher",
+   "fully qualified"
+  ],
+  "mis": {
+   "bad": "He is qualified to this job.",
+   "good": "He is qualified for this job.",
+   "why": "Use \"qualified for\" a job."
+  },
+  "fam": [
+   "qualify (verb)",
+   "qualification (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "hire",
+  "w": "hire",
+  "pos": "verb",
+  "lvl": "B1",
+  "pt": "contratar",
+  "def": "To give someone a job and pay them.",
+  "ipa": "/ˈhaɪər/",
+  "ex": "The company hired fifty new workers before the busy Christmas season began.",
+  "form": "hired",
+  "nat": "We are planning to hire a designer.",
+  "syn": [
+   "employ",
+   "recruit"
+  ],
+  "ant": [
+   "fire"
+  ],
+  "col": [
+   "hire staff",
+   "newly hired",
+   "hire someone as",
+   "hire a consultant"
+  ],
+  "mis": {
+   "bad": "They hired me to work in the sales.",
+   "good": "They hired me to work in sales.",
+   "why": "There is no article before a department name like \"sales\"."
+  },
+  "fam": [
+   "hire (noun)"
+  ],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "paperwork",
+  "w": "paperwork",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "papelada, burocracia documental",
+  "def": "Documents and forms that you must complete.",
+  "ipa": "/ˈpeɪpərwɜːrk/",
+  "ex": "I spent the whole morning filling out paperwork for my new visa.",
+  "form": "paperwork",
+  "nat": "There is too much paperwork in this job.",
+  "syn": [
+   "documentation",
+   "forms"
+  ],
+  "ant": [],
+  "col": [
+   "fill out paperwork",
+   "do the paperwork",
+   "legal paperwork",
+   "paperwork delays"
+  ],
+  "mis": {
+   "bad": "I have many paperworks to finish.",
+   "good": "I have a lot of paperwork to finish.",
+   "why": "Paperwork is uncountable and has no plural."
+  },
+  "fam": [],
+  "topics": [
+   "work",
+   "business"
+  ]
+ },
+ {
+  "id": "clerk",
+  "w": "clerk",
+  "pos": "noun",
+  "lvl": "B1+",
+  "pt": "balconista, funcionário administrativo",
+  "def": "A person who does office work or serves customers in a shop.",
+  "ipa": "/klɜːrk/",
+  "ex": "The hotel clerk gave me a key and explained where the breakfast room was.",
+  "form": "clerk",
+  "nat": "He works as a bank clerk.",
+  "syn": [
+   "assistant",
+   "administrator"
+  ],
+  "ant": [],
+  "col": [
+   "office clerk",
+   "bank clerk",
+   "sales clerk",
+   "hotel clerk"
+  ],
+  "mis": {
+   "bad": "He is a clerc in a store.",
+   "good": "He is a clerk in a store.",
+   "why": "The spelling is clerk, with a k."
+  },
+  "fam": [],
+  "topics": [
+   "work"
+  ]
+ },
+ {
+  "id": "receptionist",
+  "w": "receptionist",
+  "pos": "noun",
+  "lvl": "B1",
+  "pt": "recepcionista",
+  "def": "A person whose job is to welcome visitors and answer calls.",
+  "ipa": "/rɪˈsepʃənɪst/",
+  "ex": "The receptionist asked me to sign in and wait in the lobby.",
+  "form": "receptionist",
+  "nat": "She works as a receptionist at a dental clinic.",
+  "syn": [
+   "front desk clerk"
+  ],
+  "ant": [],
+  "col": [
+   "hotel receptionist",
+   "ask the receptionist",
+   "friendly receptionist",
+   "receptionist desk"
+  ],
+  "mis": {
+   "bad": "I talked with the reception of the hotel.",
+   "good": "I talked to the receptionist at the hotel.",
+   "why": "A person is a receptionist; reception is the place."
+  },
+  "fam": [
+   "reception (noun)"
+  ],
+  "topics": [
+   "work",
+   "travel"
+  ]
+ }
+]

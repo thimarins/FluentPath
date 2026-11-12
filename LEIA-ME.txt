@@ -1,0 +1,37 @@
+FLUENT PATH - tutor de ingles (Windows, sem instalar)
+=====================================================
+
+COMO USAR
+  Duplo clique em:  "Abrir Fluent Path.bat"
+  O app abre em janela propria (Edge ou Chrome ja instalados). Nao instala nada.
+  Quando voce fecha a janela, o servidor local se encerra sozinho em ~2 minutos
+  (ou use "Parar Fluent Path.bat" para encerrar na hora).
+
+ONDE FICA O SEU PROGRESSO
+  data\progress.json          <- seu progresso, salvo automaticamente a cada resposta
+  data\backups\               <- uma copia por dia (as 14 ultimas)
+  runtime\                    <- perfil do navegador do app (permissao do microfone etc.); pode apagar
+  Faca copia da pasta "data" quando quiser um backup extra. Se mover a pasta do
+  projeto, leve a pasta "data" junto: o progresso continua.
+
+PRIMEIRA VEZ
+  Responda o questionario e o teste de nivelamento (~8 min). Depois, "Start today's session".
+  Quer so olhar? Na primeira tela use "Explore with a demo user" (nao grava nada no arquivo).
+
+SE O DUPLO CLIQUE NAO FUNCIONAR (PowerShell bloqueado pela TI)
+  Use "Abrir (modo simples).bat": abre direto, sem servidor.
+  Nesse modo o progresso fica so dentro do navegador: use Settings > Export my data
+  para fazer backup.
+
+ARQUIVOS
+  app\index.html     o programa (arquivo unico, funciona offline)
+  tools\server.ps1   mini-servidor local (so aceita conexoes deste computador)
+  src\, content\     codigo e conteudo (palavras, gramatica, exercicios)
+  build.js           "node build.js" regenera app\index.html depois de editar src\ ou content\
+  dev\               testes automaticos
+  site\              versao instalavel para celular (proxima fase)
+  docs\              plano da versao 2 (Android + Drive), README e guia de publicacao
+
+PROXIMA FASE (celular)
+  Ver docs\PLANO-V2.md e docs\DEPLOY.md. A sincronizacao pelo Google Drive ja esta
+  construida; falta publicar a pasta "site" e criar o client ID do Google.

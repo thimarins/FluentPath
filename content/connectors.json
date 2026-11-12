@@ -1,0 +1,1314 @@
+{
+  "cats": [
+    {
+      "id": "adding",
+      "name": "Adding",
+      "items": [
+        {
+          "c": "also",
+          "reg": "neutral",
+          "note": "Goes before the main verb (or after 'be'): 'She also speaks French.'",
+          "pt": "também"
+        },
+        {
+          "c": "as well as",
+          "reg": "neutral",
+          "note": "Followed by a noun or -ing: 'French as well as Spanish.'",
+          "pt": "assim como"
+        },
+        {
+          "c": "plus",
+          "reg": "informal",
+          "note": "Casual spoken/written: 'Plus, it's free.'",
+          "pt": "além disso"
+        },
+        {
+          "c": "besides",
+          "reg": "neutral/informal",
+          "note": "Adds an extra argument; also a preposition + -ing: 'Besides being cheap...'",
+          "pt": "além disso / além de"
+        },
+        {
+          "c": "what's more",
+          "reg": "informal",
+          "note": "Adds a stronger point: 'What's more, it's free.'",
+          "pt": "e mais"
+        },
+        {
+          "c": "on top of that",
+          "reg": "informal",
+          "note": "Piles on another point, often a negative.",
+          "pt": "além disso"
+        },
+        {
+          "c": "in addition",
+          "reg": "neutral/formal",
+          "note": "'In addition, ...' or 'in addition to + noun'.",
+          "pt": "além disso"
+        },
+        {
+          "c": "furthermore",
+          "reg": "formal",
+          "note": "Starts a new sentence in formal writing; comma after.",
+          "pt": "além do mais"
+        },
+        {
+          "c": "moreover",
+          "reg": "formal",
+          "note": "Adds a stronger, supporting point in formal writing.",
+          "pt": "ademais"
+        }
+      ]
+    },
+    {
+      "id": "contrast",
+      "name": "Contrast",
+      "items": [
+        {
+          "c": "but",
+          "reg": "neutral",
+          "note": "Joins two clauses: 'It was cheap, but it broke.'",
+          "pt": "mas"
+        },
+        {
+          "c": "however",
+          "reg": "neutral/formal",
+          "note": "Starts a new sentence; comma after: 'It was cheap. However, it broke.'",
+          "pt": "no entanto"
+        },
+        {
+          "c": "although",
+          "reg": "neutral",
+          "note": "Introduces a clause: 'Although it was cold, we went out.'",
+          "pt": "embora"
+        },
+        {
+          "c": "even though",
+          "reg": "neutral",
+          "note": "Stronger than although; followed by a clause.",
+          "pt": "embora / apesar de que"
+        },
+        {
+          "c": "whereas",
+          "reg": "formal",
+          "note": "Compares two facts: 'He is shy, whereas she is outgoing.'",
+          "pt": "enquanto (contraste)"
+        },
+        {
+          "c": "while",
+          "reg": "neutral",
+          "note": "Contrasts two ideas when used mid-sentence.",
+          "pt": "enquanto / ao passo que"
+        },
+        {
+          "c": "on the other hand",
+          "reg": "neutral/formal",
+          "note": "Presents the opposite side of a topic.",
+          "pt": "por outro lado"
+        },
+        {
+          "c": "in contrast",
+          "reg": "formal",
+          "note": "Shows a clear difference between two things.",
+          "pt": "em contraste"
+        },
+        {
+          "c": "nevertheless",
+          "reg": "formal",
+          "note": "Means 'in spite of that'; starts a new clause.",
+          "pt": "no entanto, contudo"
+        }
+      ]
+    },
+    {
+      "id": "cause",
+      "name": "Cause",
+      "items": [
+        {
+          "c": "because",
+          "reg": "neutral",
+          "note": "Followed by a clause: 'because it was late.'",
+          "pt": "porque"
+        },
+        {
+          "c": "because of",
+          "reg": "neutral",
+          "note": "Followed by a noun: 'because of the rain.'",
+          "pt": "por causa de"
+        },
+        {
+          "c": "since",
+          "reg": "neutral",
+          "note": "Gives a known reason at the start: 'Since it was late, we left.'",
+          "pt": "já que"
+        },
+        {
+          "c": "as",
+          "reg": "neutral",
+          "note": "Gives a reason at the start of a sentence; also 'as' = while.",
+          "pt": "como (causa)"
+        },
+        {
+          "c": "due to",
+          "reg": "formal",
+          "note": "Followed by a noun phrase: 'due to bad weather.'",
+          "pt": "devido a"
+        },
+        {
+          "c": "owing to",
+          "reg": "formal",
+          "note": "Formal alternative to 'due to'.",
+          "pt": "devido a"
+        },
+        {
+          "c": "thanks to",
+          "reg": "neutral",
+          "note": "Positive cause: 'Thanks to your help...'",
+          "pt": "graças a"
+        },
+        {
+          "c": "as a result of",
+          "reg": "formal",
+          "note": "Followed by a noun: 'as a result of the merger.'",
+          "pt": "como resultado de"
+        },
+        {
+          "c": "on account of",
+          "reg": "formal",
+          "note": "Formal and a bit old-fashioned; noun phrase.",
+          "pt": "por causa de"
+        }
+      ]
+    },
+    {
+      "id": "result",
+      "name": "Result",
+      "items": [
+        {
+          "c": "so",
+          "reg": "informal",
+          "note": "Joins two clauses: 'It rained, so we stayed in.'",
+          "pt": "então"
+        },
+        {
+          "c": "that's why",
+          "reg": "neutral",
+          "note": "'That's why + clause' highlights the result.",
+          "pt": "é por isso que"
+        },
+        {
+          "c": "as a result",
+          "reg": "neutral/formal",
+          "note": "Starts a new sentence; comma after.",
+          "pt": "como resultado"
+        },
+        {
+          "c": "therefore",
+          "reg": "formal",
+          "note": "Logical conclusion: 'We lost data; therefore, we must restart.'",
+          "pt": "portanto"
+        },
+        {
+          "c": "consequently",
+          "reg": "formal",
+          "note": "Result of a previous event or action.",
+          "pt": "consequentemente"
+        },
+        {
+          "c": "thus",
+          "reg": "formal",
+          "note": "Very formal, often in academic writing.",
+          "pt": "assim, portanto"
+        },
+        {
+          "c": "hence",
+          "reg": "formal",
+          "note": "Very formal; often followed by a noun phrase.",
+          "pt": "daí, por isso"
+        },
+        {
+          "c": "for this reason",
+          "reg": "formal",
+          "note": "Refers back to a cause just mentioned.",
+          "pt": "por esse motivo"
+        }
+      ]
+    },
+    {
+      "id": "example",
+      "name": "Example",
+      "items": [
+        {
+          "c": "for example",
+          "reg": "neutral",
+          "note": "Introduces a single example: 'For example, ...'",
+          "pt": "por exemplo"
+        },
+        {
+          "c": "for instance",
+          "reg": "neutral/formal",
+          "note": "Same use as 'for example'.",
+          "pt": "por exemplo"
+        },
+        {
+          "c": "such as",
+          "reg": "neutral",
+          "note": "Followed by a noun list in the middle of a sentence.",
+          "pt": "tal como"
+        },
+        {
+          "c": "like",
+          "reg": "informal",
+          "note": "Informal for 'such as': 'sports like tennis.'",
+          "pt": "como"
+        },
+        {
+          "c": "including",
+          "reg": "neutral",
+          "note": "Followed by a noun: 'including HR and Finance.'",
+          "pt": "incluindo"
+        },
+        {
+          "c": "in particular",
+          "reg": "formal",
+          "note": "Highlights one important item: 'in particular...'",
+          "pt": "em particular"
+        },
+        {
+          "c": "especially",
+          "reg": "neutral",
+          "note": "Emphasises one item among others.",
+          "pt": "especialmente"
+        },
+        {
+          "c": "namely",
+          "reg": "formal",
+          "note": "Gives the exact thing you mean.",
+          "pt": "a saber"
+        }
+      ]
+    },
+    {
+      "id": "sequence",
+      "name": "Sequence",
+      "items": [
+        {
+          "c": "first of all",
+          "reg": "neutral",
+          "note": "Begins a series of points.",
+          "pt": "antes de tudo"
+        },
+        {
+          "c": "first",
+          "reg": "neutral",
+          "note": "Used with 'then', 'next' in instructions.",
+          "pt": "primeiro"
+        },
+        {
+          "c": "then",
+          "reg": "neutral",
+          "note": "Next step in an informal sequence.",
+          "pt": "então, depois"
+        },
+        {
+          "c": "next",
+          "reg": "neutral",
+          "note": "Follows 'first' in instructions.",
+          "pt": "em seguida"
+        },
+        {
+          "c": "after that",
+          "reg": "neutral",
+          "note": "Neutral transition to the next step.",
+          "pt": "depois disso"
+        },
+        {
+          "c": "afterwards",
+          "reg": "neutral",
+          "note": "Later; used without 'that'.",
+          "pt": "depois"
+        },
+        {
+          "c": "in the meantime",
+          "reg": "neutral",
+          "note": "During the waiting period.",
+          "pt": "enquanto isso"
+        },
+        {
+          "c": "eventually",
+          "reg": "neutral",
+          "note": "After a long time or effort.",
+          "pt": "eventualmente / por fim"
+        },
+        {
+          "c": "subsequently",
+          "reg": "formal",
+          "note": "Formal; 'later' in reports.",
+          "pt": "posteriormente"
+        }
+      ]
+    },
+    {
+      "id": "concession",
+      "name": "Concession & Opinion",
+      "items": [
+        {
+          "c": "despite",
+          "reg": "neutral",
+          "note": "Followed by a noun or -ing: 'despite the rain.'",
+          "pt": "apesar de"
+        },
+        {
+          "c": "in spite of",
+          "reg": "neutral",
+          "note": "Same as despite, but with 'of'.",
+          "pt": "apesar de"
+        },
+        {
+          "c": "admittedly",
+          "reg": "formal",
+          "note": "Concedes a point before disagreeing.",
+          "pt": "é verdade que"
+        },
+        {
+          "c": "to be fair",
+          "reg": "informal",
+          "note": "Adds a balanced or generous point.",
+          "pt": "para ser justo"
+        },
+        {
+          "c": "still",
+          "reg": "neutral",
+          "note": "Concessive adverb: 'It's old. Still, it works.'",
+          "pt": "ainda assim"
+        },
+        {
+          "c": "after all",
+          "reg": "neutral",
+          "note": "Reminds the reader of a key reason.",
+          "pt": "afinal"
+        },
+        {
+          "c": "in my opinion",
+          "reg": "neutral",
+          "note": "Introduces your view.",
+          "pt": "na minha opinião"
+        },
+        {
+          "c": "frankly",
+          "reg": "informal",
+          "note": "Honest, direct opinion.",
+          "pt": "francamente"
+        },
+        {
+          "c": "all things considered",
+          "reg": "formal",
+          "note": "Final judgement after weighing everything.",
+          "pt": "considerando tudo"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "con-01",
+      "cat": "adding",
+      "lvl": "B1",
+      "s": "I need to buy milk, and ____ some bread.",
+      "opts": [
+        "also",
+        "however",
+        "because",
+        "despite"
+      ],
+      "ans": 0,
+      "note": "'And also' adds one more item.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-02",
+      "cat": "adding",
+      "lvl": "B1+",
+      "s": "She speaks Spanish as well ____ French.",
+      "opts": [
+        "than",
+        "as",
+        "to",
+        "like"
+      ],
+      "ans": 1,
+      "note": "'As well as' means 'and also'.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-03",
+      "cat": "adding",
+      "lvl": "B2",
+      "s": "The plan is cost-effective. ____, it is environmentally friendly.",
+      "opts": [
+        "Whereas",
+        "Owing to",
+        "Furthermore",
+        "Nevertheless"
+      ],
+      "ans": 2,
+      "note": "'Furthermore' adds a supporting point in formal writing.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-04",
+      "cat": "adding",
+      "lvl": "B2",
+      "s": "The report is late. On top of ____, it contains several errors.",
+      "opts": [
+        "in case",
+        "rather",
+        "instead",
+        "that"
+      ],
+      "ans": 3,
+      "note": "'On top of that' is a fixed phrase that piles on another problem.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-05",
+      "cat": "adding",
+      "lvl": "B2+",
+      "s": "The proposal lacks funding; ____, it ignores the legal constraints altogether.",
+      "opts": [
+        "moreover",
+        "whereas",
+        "consequently",
+        "nevertheless"
+      ],
+      "ans": 0,
+      "note": "'Moreover' adds a stronger point; the other options express contrast or result.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-06",
+      "cat": "adding",
+      "lvl": "B1+",
+      "s": "I'm tired. ____, I have a headache.",
+      "opts": [
+        "Despite",
+        "Plus",
+        "Although",
+        "Unless"
+      ],
+      "ans": 1,
+      "note": "'Plus' is casual for 'and also'.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-07",
+      "cat": "adding",
+      "lvl": "B2",
+      "s": "____ being cheap, the hotel was spotless.",
+      "opts": [
+        "Moreover",
+        "Furthermore",
+        "Besides",
+        "Also"
+      ],
+      "ans": 2,
+      "note": "'Besides' can precede an -ing form; 'moreover' and 'furthermore' can't.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-08",
+      "cat": "adding",
+      "lvl": "B2",
+      "s": "Not only did she finish early, ____ she also saved money.",
+      "opts": [
+        "and then",
+        "so",
+        "yet",
+        "but"
+      ],
+      "ans": 3,
+      "note": "'Not only... but also' is a correlative pair.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-09",
+      "cat": "adding",
+      "lvl": "B2+",
+      "s": "We would like to thank you for your support. ____, we would like to invite you to our launch event.",
+      "opts": [
+        "In addition",
+        "In contrast",
+        "As a result",
+        "In case"
+      ],
+      "ans": 0,
+      "note": "'In addition' adds a new point in a polite email.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-10",
+      "cat": "contrast",
+      "lvl": "B1",
+      "s": "I wanted to go out, ____ it was raining.",
+      "opts": [
+        "so",
+        "but",
+        "because",
+        "also"
+      ],
+      "ans": 1,
+      "note": "'But' joins two contrasting clauses.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-11",
+      "cat": "contrast",
+      "lvl": "B1+",
+      "s": "____ it was cold, we went swimming.",
+      "opts": [
+        "Despite",
+        "However",
+        "Although",
+        "Because"
+      ],
+      "ans": 2,
+      "note": "'Although' is followed by a full clause.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-12",
+      "cat": "contrast",
+      "lvl": "B1+",
+      "s": "____ the cold, we went swimming.",
+      "opts": [
+        "Although",
+        "Even though",
+        "However",
+        "Despite"
+      ],
+      "ans": 3,
+      "note": "'Despite' is followed by a noun phrase or -ing.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-13",
+      "cat": "contrast",
+      "lvl": "B2",
+      "s": "The migration was expensive; ____, the board approved it.",
+      "opts": [
+        "nevertheless",
+        "because",
+        "for example",
+        "moreover"
+      ],
+      "ans": 0,
+      "note": "'Nevertheless' = in spite of that. Needs a clause after it.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-14",
+      "cat": "contrast",
+      "lvl": "B2",
+      "s": "Some employees prefer remote work, ____ others value the office.",
+      "opts": [
+        "despite",
+        "whereas",
+        "in spite of",
+        "because of"
+      ],
+      "ans": 1,
+      "note": "'Whereas' compares two facts in one sentence.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-15",
+      "cat": "contrast",
+      "lvl": "B2",
+      "s": "Remote work saves commuting time. ____, it can feel isolating.",
+      "opts": [
+        "Whereas",
+        "Even though",
+        "On the other hand",
+        "Despite"
+      ],
+      "ans": 2,
+      "note": "'On the other hand' starts a new sentence with a contrasting point.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-16",
+      "cat": "contrast",
+      "lvl": "B2+",
+      "s": "The results were promising, ____ the sample size was small.",
+      "opts": [
+        "in spite",
+        "nevertheless",
+        "on the contrary",
+        "even though"
+      ],
+      "ans": 3,
+      "note": "'Even though' is followed by a clause. 'In spite' lacks 'of'.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-17",
+      "cat": "contrast",
+      "lvl": "B1+",
+      "s": "I like the flat, ____ it's a bit small.",
+      "opts": [
+        "but",
+        "despite",
+        "in spite of",
+        "whereas"
+      ],
+      "ans": 0,
+      "note": "'But' links a positive and a negative point casually.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-18",
+      "cat": "contrast",
+      "lvl": "B2+",
+      "s": "Sales fell in Europe. ____, they rose sharply in Asia.",
+      "opts": [
+        "Therefore",
+        "In contrast",
+        "For example",
+        "Since"
+      ],
+      "ans": 1,
+      "note": "'In contrast' marks a clear difference.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-19",
+      "cat": "cause",
+      "lvl": "B1",
+      "s": "I stayed home ____ I was ill.",
+      "opts": [
+        "so",
+        "but",
+        "because",
+        "although"
+      ],
+      "ans": 2,
+      "note": "'Because' gives the reason.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-20",
+      "cat": "cause",
+      "lvl": "B1",
+      "s": "I stayed home ____ my illness.",
+      "opts": [
+        "because",
+        "so",
+        "although",
+        "because of"
+      ],
+      "ans": 3,
+      "note": "'Because of' + noun.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-21",
+      "cat": "cause",
+      "lvl": "B1+",
+      "s": "____ it was late, we took a taxi.",
+      "opts": [
+        "Since",
+        "Despite",
+        "However",
+        "Therefore"
+      ],
+      "ans": 0,
+      "note": "'Since' at the start gives a known reason.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-22",
+      "cat": "cause",
+      "lvl": "B2",
+      "s": "The flight was cancelled ____ bad weather.",
+      "opts": [
+        "because",
+        "due to",
+        "so that",
+        "in spite"
+      ],
+      "ans": 1,
+      "note": "'Due to' is followed by a noun phrase.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-23",
+      "cat": "cause",
+      "lvl": "B2",
+      "s": "Services were interrupted ____ a power failure.",
+      "opts": [
+        "because",
+        "since",
+        "owing to",
+        "as"
+      ],
+      "ans": 2,
+      "note": "'Owing to' + noun, formal. 'Because/since/as' need a clause.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-24",
+      "cat": "cause",
+      "lvl": "B2",
+      "s": "____ the new policy, productivity has improved.",
+      "opts": [
+        "Because",
+        "As",
+        "Although",
+        "Thanks to"
+      ],
+      "ans": 3,
+      "note": "'Thanks to' gives a positive cause with a noun.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-25",
+      "cat": "cause",
+      "lvl": "B2",
+      "s": "The outage occurred ____ a misconfigured firewall rule.",
+      "opts": [
+        "as a result of",
+        "as a result",
+        "therefore",
+        "consequently"
+      ],
+      "ans": 0,
+      "note": "'As a result of' + noun phrase; 'as a result' stands alone.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-26",
+      "cat": "cause",
+      "lvl": "B2+",
+      "s": "____ the server crashed, we lost all unsaved data.",
+      "opts": [
+        "Because of",
+        "Because",
+        "Due to",
+        "Despite"
+      ],
+      "ans": 1,
+      "note": "'Because' takes a clause; 'because of' and 'due to' need a noun.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-27",
+      "cat": "cause",
+      "lvl": "B1+",
+      "s": "I couldn't call you ____ my phone died.",
+      "opts": [
+        "because of",
+        "so",
+        "because",
+        "due to"
+      ],
+      "ans": 2,
+      "note": "'Because' + clause.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-28",
+      "cat": "result",
+      "lvl": "B1",
+      "s": "It was raining, ____ we stayed inside.",
+      "opts": [
+        "because",
+        "although",
+        "but",
+        "so"
+      ],
+      "ans": 3,
+      "note": "'So' introduces the result.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-29",
+      "cat": "result",
+      "lvl": "B1+",
+      "s": "He didn't study. ____, he failed the exam.",
+      "opts": [
+        "As a result",
+        "Because",
+        "Although",
+        "Despite"
+      ],
+      "ans": 0,
+      "note": "'As a result' shows the consequence.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-30",
+      "cat": "result",
+      "lvl": "B2",
+      "s": "The system was overloaded; ____, response times increased.",
+      "opts": [
+        "whereas",
+        "consequently",
+        "since",
+        "despite"
+      ],
+      "ans": 1,
+      "note": "'Consequently' links a cause and its result.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-31",
+      "cat": "result",
+      "lvl": "B2",
+      "s": "Costs have risen sharply; ____, we must revise the budget.",
+      "opts": [
+        "although",
+        "because",
+        "therefore",
+        "such as"
+      ],
+      "ans": 2,
+      "note": "'Therefore' introduces a logical conclusion.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-32",
+      "cat": "result",
+      "lvl": "B2",
+      "s": "The data is incomplete, ____ no firm conclusion can be drawn.",
+      "opts": [
+        "because",
+        "whereas",
+        "for instance",
+        "thus"
+      ],
+      "ans": 3,
+      "note": "'Thus' introduces a result in formal writing.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-33",
+      "cat": "result",
+      "lvl": "B1+",
+      "s": "I lost my keys, ____ I couldn't get in.",
+      "opts": [
+        "so",
+        "although",
+        "because of",
+        "despite"
+      ],
+      "ans": 0,
+      "note": "'So' joins a cause and result informally.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-34",
+      "cat": "result",
+      "lvl": "B2",
+      "s": "She was late, and ____ she missed the start.",
+      "opts": [
+        "as a result of",
+        "as a result",
+        "because",
+        "due to"
+      ],
+      "ans": 1,
+      "note": "'As a result' stands alone; 'as a result of' needs a noun.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-35",
+      "cat": "result",
+      "lvl": "B2+",
+      "s": "The vendor went bankrupt. That's ____ we changed suppliers.",
+      "opts": [
+        "because",
+        "what",
+        "why",
+        "which"
+      ],
+      "ans": 2,
+      "note": "'That's why' introduces the result.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-36",
+      "cat": "result",
+      "lvl": "B2+",
+      "s": "Demand fell; ____, prices dropped.",
+      "opts": [
+        "due to",
+        "despite",
+        "although",
+        "hence"
+      ],
+      "ans": 3,
+      "note": "'Hence' means 'for this reason' in formal writing.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-37",
+      "cat": "example",
+      "lvl": "B1",
+      "s": "I like fruit, ____ apples and bananas.",
+      "opts": [
+        "such as",
+        "because",
+        "however",
+        "so"
+      ],
+      "ans": 0,
+      "note": "'Such as' introduces examples.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-38",
+      "cat": "example",
+      "lvl": "B1+",
+      "s": "There are many options. ____, you could take the train.",
+      "opts": [
+        "Such as",
+        "For example",
+        "Whereas",
+        "Although"
+      ],
+      "ans": 1,
+      "note": "'For example' starts a new sentence.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-39",
+      "cat": "example",
+      "lvl": "B2",
+      "s": "Some tools, ____ Jira and Trello, help teams track tasks.",
+      "opts": [
+        "in other words",
+        "therefore",
+        "such as",
+        "whereas"
+      ],
+      "ans": 2,
+      "note": "'Such as' + examples inside a sentence.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-40",
+      "cat": "example",
+      "lvl": "B2",
+      "s": "Several departments, ____ HR and Finance, were affected.",
+      "opts": [
+        "included",
+        "include",
+        "includes",
+        "including"
+      ],
+      "ans": 3,
+      "note": "'Including' + noun phrase.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-41",
+      "cat": "example",
+      "lvl": "B2",
+      "s": "We need to cut costs; ____, by reducing travel.",
+      "opts": [
+        "for example",
+        "such as",
+        "because",
+        "whereas"
+      ],
+      "ans": 0,
+      "note": "'For example' can introduce a phrase after a semicolon.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-42",
+      "cat": "example",
+      "lvl": "B2+",
+      "s": "The contract has one major flaw, ____, the absence of a termination clause.",
+      "opts": [
+        "therefore",
+        "namely",
+        "although",
+        "whereas"
+      ],
+      "ans": 1,
+      "note": "'Namely' specifies exactly what you mean.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-43",
+      "cat": "example",
+      "lvl": "B2+",
+      "s": "I'm particularly interested in security, ____ in access control.",
+      "opts": [
+        "although",
+        "therefore",
+        "especially",
+        "as well"
+      ],
+      "ans": 2,
+      "note": "'Especially' highlights one item.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-44",
+      "cat": "example",
+      "lvl": "B1",
+      "s": "I do lots of sports, ____ running and swimming.",
+      "opts": [
+        "for",
+        "because",
+        "so",
+        "like"
+      ],
+      "ans": 3,
+      "note": "'Like' = 'such as' informally.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-45",
+      "cat": "sequence",
+      "lvl": "B1",
+      "s": "____, open the app. Then log in.",
+      "opts": [
+        "First",
+        "Finally",
+        "Meanwhile",
+        "However"
+      ],
+      "ans": 0,
+      "note": "'First' starts a sequence; 'then' follows.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-46",
+      "cat": "sequence",
+      "lvl": "B1",
+      "s": "I finished work, and ____ I went to the gym.",
+      "opts": [
+        "because",
+        "then",
+        "although",
+        "for"
+      ],
+      "ans": 1,
+      "note": "'Then' shows the next action.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-47",
+      "cat": "sequence",
+      "lvl": "B1+",
+      "s": "Let's order now. ____, we can talk.",
+      "opts": [
+        "Despite",
+        "Whereas",
+        "Afterwards",
+        "Because"
+      ],
+      "ans": 2,
+      "note": "'Afterwards' = later.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-48",
+      "cat": "sequence",
+      "lvl": "B2",
+      "s": "The engineers are fixing the bug. ____, please use the backup server.",
+      "opts": [
+        "Eventually",
+        "Subsequently",
+        "Finally",
+        "In the meantime"
+      ],
+      "ans": 3,
+      "note": "'In the meantime' = while waiting.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-49",
+      "cat": "sequence",
+      "lvl": "B2",
+      "s": "We tried several fixes, and ____ the problem was resolved.",
+      "opts": [
+        "eventually",
+        "namely",
+        "moreover",
+        "whereas"
+      ],
+      "ans": 0,
+      "note": "'Eventually' = after a long effort.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-50",
+      "cat": "sequence",
+      "lvl": "B2+",
+      "s": "The incident began at 09:12. ____, the team restored service at 10:05.",
+      "opts": [
+        "In contrast",
+        "Subsequently",
+        "Despite this",
+        "For example"
+      ],
+      "ans": 1,
+      "note": "'Subsequently' shows what came later in a formal report.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-51",
+      "cat": "sequence",
+      "lvl": "B1+",
+      "s": "____ of all, we need a clear budget.",
+      "opts": [
+        "Firstly",
+        "Begin",
+        "First",
+        "Start"
+      ],
+      "ans": 2,
+      "note": "'First of all' is a fixed phrase.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-52",
+      "cat": "sequence",
+      "lvl": "B1+",
+      "s": "Mix the flour and eggs. ____ add the milk slowly.",
+      "opts": [
+        "Instead,",
+        "Although",
+        "Despite",
+        "After that,"
+      ],
+      "ans": 3,
+      "note": "'After that' shows the next step.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-53",
+      "cat": "concession",
+      "lvl": "B2",
+      "s": "____, the new design is not perfect, but it is a big improvement.",
+      "opts": [
+        "Admittedly",
+        "Besides",
+        "Therefore",
+        "Namely"
+      ],
+      "ans": 0,
+      "note": "'Admittedly' concedes a point.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-54",
+      "cat": "concession",
+      "lvl": "B1+",
+      "s": "____ the traffic, we arrived on time.",
+      "opts": [
+        "Although",
+        "Despite",
+        "However",
+        "Because"
+      ],
+      "ans": 1,
+      "note": "'Despite' + noun phrase.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-55",
+      "cat": "concession",
+      "lvl": "B2",
+      "s": "____ the traffic was heavy, we arrived on time.",
+      "opts": [
+        "In spite of",
+        "Despite",
+        "Although",
+        "However"
+      ],
+      "ans": 2,
+      "note": "'Although' + full clause.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-56",
+      "cat": "concession",
+      "lvl": "B2+",
+      "s": "____ his lack of experience, he handled the crisis well.",
+      "opts": [
+        "Even though",
+        "Whereas",
+        "Admittedly,",
+        "In spite of"
+      ],
+      "ans": 3,
+      "note": "'In spite of' + noun phrase.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-57",
+      "cat": "concession",
+      "lvl": "B2+",
+      "s": "____, I think we should postpone the launch.",
+      "opts": [
+        "All things considered",
+        "For example",
+        "As a result of",
+        "Owing to"
+      ],
+      "ans": 0,
+      "note": "'All things considered' gives a final judgement.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-58",
+      "cat": "concession",
+      "lvl": "B1+",
+      "s": "____ my opinion, remote work is more productive.",
+      "opts": [
+        "On",
+        "In",
+        "At",
+        "For"
+      ],
+      "ans": 1,
+      "note": "The fixed phrase is 'In my opinion'.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-59",
+      "cat": "concession",
+      "lvl": "B2",
+      "s": "To be ____ to him, he did warn us about the risks.",
+      "opts": [
+        "honest",
+        "true",
+        "fair",
+        "right"
+      ],
+      "ans": 2,
+      "note": "'To be fair to him' adds balance.",
+      "reg": "informal"
+    },
+    {
+      "id": "con-60",
+      "cat": "concession",
+      "lvl": "B2+",
+      "s": "It's not ideal; ____, it's the best we can afford.",
+      "opts": [
+        "for example",
+        "whereas",
+        "moreover",
+        "still"
+      ],
+      "ans": 3,
+      "note": "'Still' works as a concessive adverb meaning 'even so'.",
+      "reg": "neutral"
+    }
+  ]
+}

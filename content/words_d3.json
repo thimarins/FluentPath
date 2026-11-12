@@ -1,0 +1,6775 @@
+[
+  {
+    "id": "passport",
+    "w": "passport",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "passaporte",
+    "def": "An official document that lets you travel to other countries.",
+    "ipa": "/ˈpæspɔːrt/",
+    "ex": "I almost missed my flight because I left my passport at the hotel.",
+    "form": "passport",
+    "nat": "You need a valid passport to enter most countries, so check the expiry date.",
+    "syn": [
+      "travel document"
+    ],
+    "ant": [],
+    "col": [
+      "passport control",
+      "renew your passport",
+      "valid passport",
+      "passport photo"
+    ],
+    "mis": {
+      "bad": "I need to do my passport in the embassy.",
+      "good": "I need to renew my passport at the embassy.",
+      "why": "\"Do a passport\" is not English; use renew, apply for, or get a passport."
+    },
+    "fam": [
+      "passport (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "customs",
+    "w": "customs",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "alfândega",
+    "def": "The place at a border where officials check what you bring into a country.",
+    "ipa": "/ˈkʌstəmz/",
+    "ex": "We waited in a long line at customs after the flight from Lisbon.",
+    "form": "",
+    "nat": "The officer at customs asked me to open my suitcase and show my gifts.",
+    "syn": [
+      "border control"
+    ],
+    "ant": [],
+    "col": [
+      "go through customs",
+      "customs officer",
+      "customs declaration",
+      "customs duty"
+    ],
+    "mis": {
+      "bad": "I passed by the customs without problems.",
+      "good": "I went through customs without any problems.",
+      "why": "Use \"go through customs\" or \"pass through customs\"; \"passed by\" means going past something."
+    },
+    "fam": [
+      "custom (noun, habit)"
+    ],
+    "topics": [
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "id": "departure",
+    "w": "departure",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "partida, saída",
+    "def": "The act of leaving a place, especially at the start of a trip.",
+    "ipa": "/dɪˈpɑːrtʃər/",
+    "ex": "The departure of our train was delayed by almost forty minutes because of the storm.",
+    "form": "departure",
+    "nat": "Please arrive at the airport two hours before your departure time.",
+    "syn": [
+      "leaving"
+    ],
+    "ant": [
+      "arrival"
+    ],
+    "col": [
+      "departure time",
+      "departure gate",
+      "departure lounge",
+      "date of departure"
+    ],
+    "mis": {
+      "bad": "I will departure at 8 o'clock tomorrow.",
+      "good": "I will depart at 8 o'clock tomorrow.",
+      "why": "Departure is a noun; the verb is depart (or leave)."
+    },
+    "fam": [
+      "depart (verb)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "arrival",
+    "w": "arrival",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "chegada",
+    "def": "The act of reaching a place, especially at the end of a trip.",
+    "ipa": "/əˈraɪvəl/",
+    "ex": "On our arrival at the hotel, the staff gave us a cold drink.",
+    "form": "arrival",
+    "nat": "The arrival of the new manager changed the mood of the whole office.",
+    "syn": [
+      "coming"
+    ],
+    "ant": [
+      "departure"
+    ],
+    "col": [
+      "on arrival",
+      "arrival time",
+      "arrival hall",
+      "late arrival"
+    ],
+    "mis": {
+      "bad": "At the arrival to the city, we took a taxi.",
+      "good": "On arrival in the city, we took a taxi.",
+      "why": "The noun arrival is followed by \"in\" or \"at\" a place, not \"to\"; \"on arrival\" is also common."
+    },
+    "fam": [
+      "arrive (verb)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "baggage",
+    "w": "baggage",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "bagagem",
+    "def": "The suitcases and bags that you take with you when you travel.",
+    "ipa": "/ˈbægɪdʒ/",
+    "ex": "Our baggage was lost, so we spent the first day buying clothes.",
+    "form": "",
+    "nat": "You can take one piece of hand baggage onto the plane for free.",
+    "syn": [
+      "luggage"
+    ],
+    "ant": [],
+    "col": [
+      "baggage claim",
+      "checked baggage",
+      "hand baggage",
+      "excess baggage"
+    ],
+    "mis": {
+      "bad": "I have three baggages to check in.",
+      "good": "I have three pieces of baggage to check in.",
+      "why": "Baggage is uncountable, so it has no plural; say \"pieces of baggage\" or \"bags\"."
+    },
+    "fam": [
+      "baggage (noun)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "hostel",
+    "w": "hostel",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "albergue, hostel",
+    "def": "A cheap place to stay where travelers often share rooms.",
+    "ipa": "/ˈhɑːstəl/",
+    "ex": "We stayed in a youth hostel in Prague and met people from many countries.",
+    "form": "",
+    "nat": "The hostel was clean and cheap, but the dormitory was a bit noisy at night.",
+    "syn": [
+      "youth hostel"
+    ],
+    "ant": [
+      "luxury hotel"
+    ],
+    "col": [
+      "youth hostel",
+      "stay in a hostel",
+      "hostel dormitory",
+      "book a hostel"
+    ],
+    "mis": {
+      "bad": "We slept in a hostel five stars.",
+      "good": "We slept in a five-star hotel.",
+      "why": "A hostel is a budget place and is never rated as five stars; the word you want is hotel."
+    },
+    "fam": [
+      "hostelry (noun, rare)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "backpack",
+    "w": "backpack",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "mochila",
+    "def": "A bag that you carry on your back, often used for travel or school.",
+    "ipa": "/ˈbækpæk/",
+    "ex": "She packed everything she needed for two weeks into one small backpack.",
+    "form": "",
+    "nat": "He carried a heavy backpack up the hill and was exhausted at the top.",
+    "syn": [
+      "rucksack"
+    ],
+    "ant": [],
+    "col": [
+      "pack a backpack",
+      "heavy backpack",
+      "school backpack",
+      "travel with a backpack"
+    ],
+    "mis": {
+      "bad": "I put my notebook inside of my backpack bag.",
+      "good": "I put my notebook inside my backpack.",
+      "why": "\"Backpack\" already means a bag, so \"backpack bag\" is redundant; also \"inside\" does not need \"of\"."
+    },
+    "fam": [
+      "backpacker (noun)",
+      "backpacking (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "tourist",
+    "w": "tourist",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "turista",
+    "def": "A person who visits a place for pleasure and not to live or work.",
+    "ipa": "/ˈtʊrɪst/",
+    "ex": "Thousands of tourists visit the old castle every summer, especially in August.",
+    "form": "tourists",
+    "nat": "As a tourist, you should always keep a copy of your documents with you.",
+    "syn": [
+      "visitor",
+      "traveler"
+    ],
+    "ant": [
+      "local"
+    ],
+    "col": [
+      "tourist attraction",
+      "tourist season",
+      "tourist information",
+      "tourist trap"
+    ],
+    "mis": {
+      "bad": "In the city there are many tourisms in July.",
+      "good": "In the city there are many tourists in July.",
+      "why": "\"Tourism\" is the industry or activity; a person is a \"tourist\"."
+    },
+    "fam": [
+      "tourism (noun)",
+      "touristy (adj)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "landmark",
+    "w": "landmark",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "ponto turístico, marco",
+    "def": "A famous building or place that is easy to recognize.",
+    "ipa": "/ˈlændmɑːrk/",
+    "ex": "The Christ the Redeemer statue is the most famous landmark in Rio de Janeiro.",
+    "form": "",
+    "nat": "Use the church as a landmark, and turn left at the next corner.",
+    "syn": [
+      "monument",
+      "sight"
+    ],
+    "ant": [],
+    "col": [
+      "famous landmark",
+      "historic landmark",
+      "local landmark",
+      "landmark decision"
+    ],
+    "mis": {
+      "bad": "We visited many touristic points in London.",
+      "good": "We visited many famous landmarks in London.",
+      "why": "\"Touristic point\" is a translation of \"ponto turístico\"; use landmark or sight."
+    },
+    "fam": [
+      "landmark (noun)"
+    ],
+    "topics": [
+      "travel",
+      "culture"
+    ]
+  },
+  {
+    "id": "journey",
+    "w": "journey",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "viagem, jornada",
+    "def": "A trip from one place to another, especially a long one.",
+    "ipa": "/ˈdʒɜːrni/",
+    "ex": "The journey from São Paulo to Salvador took us almost two days by bus.",
+    "form": "",
+    "nat": "Have a safe journey, and send me a message when you arrive.",
+    "syn": [
+      "trip",
+      "trek"
+    ],
+    "ant": [],
+    "col": [
+      "long journey",
+      "safe journey",
+      "return journey",
+      "journey time"
+    ],
+    "mis": {
+      "bad": "I will do a long journey next month.",
+      "good": "I will go on a long journey next month.",
+      "why": "Use \"go on a journey\" or \"make a journey\"; \"do a journey\" is not natural English."
+    },
+    "fam": [
+      "journey (verb, rare)"
+    ],
+    "topics": [
+      "travel",
+      "abstract"
+    ]
+  },
+  {
+    "id": "voyage",
+    "w": "voyage",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "viagem (por mar ou espaço)",
+    "def": "A long trip by sea or through space.",
+    "ipa": "/ˈvɔɪɪdʒ/",
+    "ex": "The explorers began their voyage across the Atlantic in the spring of 1492.",
+    "form": "",
+    "nat": "The ship's first voyage to Antarctica took more than three weeks.",
+    "syn": [
+      "sea journey"
+    ],
+    "ant": [],
+    "col": [
+      "maiden voyage",
+      "long voyage",
+      "voyage of discovery",
+      "embark on a voyage"
+    ],
+    "mis": {
+      "bad": "I did a voyage to Japan last year.",
+      "good": "I took a trip to Japan last year.",
+      "why": "Voyage is for long sea or space journeys, and we do not \"do\" a voyage; trip is the normal word."
+    },
+    "fam": [
+      "voyager (noun)"
+    ],
+    "topics": [
+      "travel",
+      "culture"
+    ]
+  },
+  {
+    "id": "ferry",
+    "w": "ferry",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "balsa, barco de travessia",
+    "def": "A boat that regularly carries people and vehicles across a short stretch of water.",
+    "ipa": "/ˈferi/",
+    "ex": "We took the ferry from Niterói to Rio and enjoyed the view of the bay.",
+    "form": "",
+    "nat": "The last ferry leaves at eleven, so we have to hurry.",
+    "syn": [
+      "boat"
+    ],
+    "ant": [],
+    "col": [
+      "take the ferry",
+      "ferry terminal",
+      "car ferry",
+      "ferry crossing"
+    ],
+    "mis": {
+      "bad": "We went to the island with a ferry.",
+      "good": "We went to the island by ferry.",
+      "why": "Use \"by + transport\" without an article, or \"on the ferry\"; \"with a ferry\" is wrong."
+    },
+    "fam": [
+      "ferry (verb)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "platform",
+    "w": "platform",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "plataforma (de trem), cais",
+    "def": "The raised area beside a railway track where passengers wait for trains.",
+    "ipa": "/ˈplætfɔːrm/",
+    "ex": "The train to Berlin will leave from platform nine in ten minutes.",
+    "form": "",
+    "nat": "Please stand behind the yellow line on the platform until the train stops.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "train platform",
+      "platform number",
+      "platform edge",
+      "platform ticket"
+    ],
+    "mis": {
+      "bad": "The train arrives in the platform four.",
+      "good": "The train arrives at platform four.",
+      "why": "Use \"at platform four\" with no article; \"in the platform\" is wrong."
+    },
+    "fam": [
+      "platform (noun, also tech)"
+    ],
+    "topics": [
+      "travel",
+      "tech"
+    ]
+  },
+  {
+    "id": "timetable",
+    "w": "timetable",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "horário, grade de horários",
+    "def": "A list showing the times when buses, trains, or classes happen.",
+    "ipa": "/ˈtaɪmteɪbl/",
+    "ex": "The bus timetable changes in winter, so check it before you plan your trip.",
+    "form": "",
+    "nat": "According to the timetable, the next train to Leeds leaves at half past four.",
+    "syn": [
+      "schedule"
+    ],
+    "ant": [],
+    "col": [
+      "bus timetable",
+      "train timetable",
+      "check the timetable",
+      "school timetable"
+    ],
+    "mis": {
+      "bad": "The timetable say the bus leaves at five.",
+      "good": "The timetable says the bus leaves at five.",
+      "why": "A singular subject needs \"says\"."
+    },
+    "fam": [
+      "timetable (verb)"
+    ],
+    "topics": [
+      "travel",
+      "work"
+    ]
+  },
+  {
+    "id": "railway",
+    "w": "railway",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "ferrovia, estrada de ferro",
+    "def": "A track with two metal rails on which trains travel.",
+    "ipa": "/ˈreɪlweɪ/",
+    "ex": "The old railway through the mountains is now a popular route for tourists.",
+    "form": "",
+    "nat": "They are building a new railway to connect the port with the capital.",
+    "syn": [
+      "railroad"
+    ],
+    "ant": [],
+    "col": [
+      "railway station",
+      "railway line",
+      "railway track",
+      "high-speed railway"
+    ],
+    "mis": {
+      "bad": "I live near of the railway station.",
+      "good": "I live near the railway station.",
+      "why": "\"Near\" is followed directly by the noun, with no \"of\"."
+    },
+    "fam": [
+      "railway (noun)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "motorway",
+    "w": "motorway",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "rodovia, autoestrada",
+    "def": "A wide road for fast traffic, with several lanes in each direction.",
+    "ipa": "/ˈmoʊtərweɪ/",
+    "ex": "We drove for three hours on the motorway before stopping for coffee.",
+    "form": "",
+    "nat": "There was a serious accident on the motorway, so traffic stopped completely.",
+    "syn": [
+      "highway",
+      "freeway"
+    ],
+    "ant": [],
+    "col": [
+      "motorway junction",
+      "join the motorway",
+      "motorway services",
+      "leave the motorway"
+    ],
+    "mis": {
+      "bad": "We drive in the motorway every day to work.",
+      "good": "We drive on the motorway every day to work.",
+      "why": "We drive \"on\" a motorway, not \"in\" it."
+    },
+    "fam": [
+      "motorist (noun)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "congestion",
+    "w": "congestion",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "congestionamento",
+    "def": "A situation where too many vehicles or people are in one place and cannot move easily.",
+    "ipa": "/kənˈdʒestʃən/",
+    "ex": "Heavy congestion in the city center makes the morning commute much longer.",
+    "form": "",
+    "nat": "The new toll should reduce congestion on the main roads during rush hour.",
+    "syn": [
+      "traffic jam",
+      "gridlock"
+    ],
+    "ant": [],
+    "col": [
+      "traffic congestion",
+      "ease congestion",
+      "congestion charge",
+      "severe congestion"
+    ],
+    "mis": {
+      "bad": "There is a big congestion on the road.",
+      "good": "There is heavy congestion on the road.",
+      "why": "Congestion is uncountable, so it cannot take \"a\"; also \"heavy\" collocates better than \"big\"."
+    },
+    "fam": [
+      "congest (verb)",
+      "congested (adj)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "roundabout",
+    "w": "roundabout",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "rotatória",
+    "def": "A circular road junction where vehicles drive around a central island.",
+    "ipa": "/ˈraʊndəbaʊt/",
+    "ex": "Take the second exit at the roundabout, and the museum will be on your left.",
+    "form": "",
+    "nat": "There is a small roundabout at the end of our street.",
+    "syn": [
+      "traffic circle"
+    ],
+    "ant": [],
+    "col": [
+      "take the exit",
+      "approach a roundabout",
+      "mini roundabout",
+      "turn at the roundabout"
+    ],
+    "mis": {
+      "bad": "Turn on the roundabout and go straight.",
+      "good": "Go to the roundabout and take the second exit.",
+      "why": "You cannot \"turn on\" a roundabout; you take an exit at or from it."
+    },
+    "fam": [
+      "roundabout (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "detour",
+    "w": "detour",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "desvio",
+    "def": "A longer route that you take to avoid a problem or to visit a place.",
+    "ipa": "/ˈdiːtʊr/",
+    "ex": "We made a detour through the village to avoid the road works.",
+    "form": "",
+    "nat": "Because of the flood, we had to take a long detour to reach the airport.",
+    "syn": [
+      "diversion",
+      "roundabout route"
+    ],
+    "ant": [],
+    "col": [
+      "make a detour",
+      "take a detour",
+      "long detour",
+      "detour sign"
+    ],
+    "mis": {
+      "bad": "We made a deviation to see the lake.",
+      "good": "We made a detour to see the lake.",
+      "why": "\"Deviation\" is not used for a change of route in travel; the word is detour."
+    },
+    "fam": [
+      "detour (verb)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "hitchhike",
+    "w": "hitchhike",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "pegar carona",
+    "def": "To travel by getting free rides from passing cars.",
+    "ipa": "/ˈhɪtʃhaɪk/",
+    "ex": "When I was a student, I hitchhiked across Europe with my best friend.",
+    "form": "hitchhiked",
+    "nat": "It is not safe to hitchhike alone at night, so travel with a friend.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "hitchhike across",
+      "hitchhike to",
+      "try to hitchhike",
+      "hitchhike home"
+    ],
+    "mis": {
+      "bad": "We went hitchhike to the coast last summer.",
+      "good": "We went hitchhiking to the coast last summer.",
+      "why": "After \"go\" for activities, use the -ing form: go hitchhiking."
+    },
+    "fam": [
+      "hitchhiker (noun)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "commuter",
+    "w": "commuter",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "pessoa que viaja diariamente para o trabalho",
+    "def": "A person who travels regularly between home and work.",
+    "ipa": "/kəˈmjuːtər/",
+    "ex": "Thousands of commuters were stuck at the station because of the strike.",
+    "form": "commuters",
+    "nat": "Most commuters in this town take the early train to the capital.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "commuter train",
+      "daily commuter",
+      "commuter belt",
+      "commuter traffic"
+    ],
+    "mis": {
+      "bad": "The commuters are people who go to travel on holidays.",
+      "good": "Commuters are people who travel to work every day.",
+      "why": "A commuter travels regularly to work, not on holiday; holidaymakers or tourists go on holidays."
+    },
+    "fam": [
+      "commute (verb)",
+      "commute (noun)"
+    ],
+    "topics": [
+      "travel",
+      "work"
+    ]
+  },
+  {
+    "id": "passenger",
+    "w": "passenger",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "passageiro",
+    "def": "A person who travels in a vehicle but does not drive it or work on it.",
+    "ipa": "/ˈpæsɪndʒər/",
+    "ex": "All passengers must keep their seat belts fastened during take-off and landing.",
+    "form": "passengers",
+    "nat": "The bus was almost empty, with only three passengers on board.",
+    "syn": [
+      "traveler"
+    ],
+    "ant": [
+      "driver",
+      "crew"
+    ],
+    "col": [
+      "passenger seat",
+      "train passenger",
+      "airline passenger",
+      "passenger list"
+    ],
+    "mis": {
+      "bad": "The bus has place for fifty passengers.",
+      "good": "The bus has room for fifty passengers.",
+      "why": "\"Place\" is not used for space in this sense; use \"room\" (uncountable) or \"seats\"."
+    },
+    "fam": [
+      "passenger (noun)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "cruise",
+    "w": "cruise",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "cruzeiro",
+    "def": "A holiday on a large ship that visits several places.",
+    "ipa": "/kruːz/",
+    "ex": "They went on a cruise around the Greek islands for their anniversary.",
+    "form": "",
+    "nat": "The cruise ship stops at three ports during the week-long trip.",
+    "syn": [
+      "sea holiday"
+    ],
+    "ant": [],
+    "col": [
+      "go on a cruise",
+      "cruise ship",
+      "Caribbean cruise",
+      "luxury cruise"
+    ],
+    "mis": {
+      "bad": "We did a cruise in the Mediterranean last summer.",
+      "good": "We went on a cruise in the Mediterranean last summer.",
+      "why": "Use \"go on a cruise\" or \"take a cruise\"; \"do a cruise\" is not natural."
+    },
+    "fam": [
+      "cruise (verb)",
+      "cruiser (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "visa",
+    "w": "visa",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "visto",
+    "def": "An official stamp or document that allows you to enter or stay in a country.",
+    "ipa": "/ˈviːzə/",
+    "ex": "She applied for a work visa three months before moving to Canada.",
+    "form": "",
+    "nat": "You do not need a visa to stay for less than ninety days.",
+    "syn": [
+      "permit"
+    ],
+    "ant": [],
+    "col": [
+      "apply for a visa",
+      "tourist visa",
+      "work visa",
+      "visa application"
+    ],
+    "mis": {
+      "bad": "I did the visa in the consulate.",
+      "good": "I applied for a visa at the consulate.",
+      "why": "\"Do a visa\" is a literal translation; use \"apply for\" or \"get\" a visa."
+    },
+    "fam": [
+      "visa (verb)"
+    ],
+    "topics": [
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "id": "embark",
+    "w": "embark",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "embarcar; começar (algo)",
+    "def": "To go onto a ship or plane, or to begin a new project.",
+    "ipa": "/ɪmˈbɑːrk/",
+    "ex": "The passengers embarked at noon and the ship left the port an hour later.",
+    "form": "embarked",
+    "nat": "After finishing college, she embarked on a career in journalism.",
+    "syn": [
+      "board",
+      "set out"
+    ],
+    "ant": [
+      "disembark"
+    ],
+    "col": [
+      "embark on",
+      "embark on a journey",
+      "begin to embark",
+      "ready to embark"
+    ],
+    "mis": {
+      "bad": "He embarked in a new business last year.",
+      "good": "He embarked on a new business last year.",
+      "why": "The verb takes \"on\" for beginning a project; \"embark in\" is wrong."
+    },
+    "fam": [
+      "embarkation (noun)"
+    ],
+    "topics": [
+      "travel",
+      "abstract"
+    ]
+  },
+  {
+    "id": "turbulence",
+    "w": "turbulence",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "turbulência",
+    "def": "Sudden movements of air that make a plane shake during a flight.",
+    "ipa": "/ˈtɜːrbjələns/",
+    "ex": "We hit some turbulence over the mountains, and the captain asked everyone to sit down.",
+    "form": "",
+    "nat": "Light turbulence is normal and does not mean the plane is in danger.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "severe turbulence",
+      "experience turbulence",
+      "hit turbulence",
+      "air turbulence"
+    ],
+    "mis": {
+      "bad": "The plane had a lot of turbulences.",
+      "good": "The plane had a lot of turbulence.",
+      "why": "Turbulence is uncountable and has no plural form here."
+    },
+    "fam": [
+      "turbulent (adj)"
+    ],
+    "topics": [
+      "travel",
+      "science"
+    ]
+  },
+  {
+    "id": "runway",
+    "w": "runway",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "pista (de aeroporto)",
+    "def": "A long strip of ground where planes take off and land.",
+    "ipa": "/ˈrʌnweɪ/",
+    "ex": "The plane waited on the runway for twenty minutes before it could take off.",
+    "form": "",
+    "nat": "Heavy fog closed the runway and all flights were delayed.",
+    "syn": [
+      "landing strip"
+    ],
+    "ant": [],
+    "col": [
+      "long runway",
+      "land on the runway",
+      "runway lights",
+      "closed runway"
+    ],
+    "mis": {
+      "bad": "The plane landed in the runway of the airport.",
+      "good": "The plane landed on the runway of the airport.",
+      "why": "Planes land \"on\" the runway, not \"in\" it."
+    },
+    "fam": [
+      "runway (noun)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "shuttle",
+    "w": "shuttle",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "veículo de translado, ônibus de ligação",
+    "def": "A bus, train, or plane that goes regularly between two places.",
+    "ipa": "/ˈʃʌtl/",
+    "ex": "A free shuttle takes guests from the hotel to the airport every thirty minutes.",
+    "form": "",
+    "nat": "We missed the airport shuttle, so we had to take an expensive taxi.",
+    "syn": [
+      "transfer"
+    ],
+    "ant": [],
+    "col": [
+      "airport shuttle",
+      "shuttle bus",
+      "shuttle service",
+      "free shuttle"
+    ],
+    "mis": {
+      "bad": "The hotel offers a shuttle to the airport by free.",
+      "good": "The hotel offers a free shuttle to the airport.",
+      "why": "Free is an adjective placed before the noun; \"by free\" is wrong."
+    },
+    "fam": [
+      "shuttle (verb)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "pavement",
+    "w": "pavement",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "calçada, passeio",
+    "def": "The path at the side of a road where people walk.",
+    "ipa": "/ˈpeɪvmənt/",
+    "ex": "Please do not ride your bike on the pavement because it is dangerous for walkers.",
+    "form": "",
+    "nat": "The pavement was wet and slippery after the rain.",
+    "syn": [
+      "sidewalk"
+    ],
+    "ant": [],
+    "col": [
+      "wet pavement",
+      "narrow pavement",
+      "walk on the pavement",
+      "cracked pavement"
+    ],
+    "mis": {
+      "bad": "I walked in the pavement because there was no street.",
+      "good": "I walked on the pavement because there was no road.",
+      "why": "We walk \"on\" the pavement, not \"in\" it."
+    },
+    "fam": [
+      "pave (verb)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "apartment",
+    "w": "apartment",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "apartamento",
+    "def": "A set of rooms for living in, on one floor of a larger building.",
+    "ipa": "/əˈpɑːrtmənt/",
+    "ex": "They bought a small apartment near the beach and moved in last month.",
+    "form": "",
+    "nat": "Our apartment is on the fifth floor, and the elevator is often broken.",
+    "syn": [
+      "flat"
+    ],
+    "ant": [],
+    "col": [
+      "rent an apartment",
+      "apartment building",
+      "studio apartment",
+      "apartment block"
+    ],
+    "mis": {
+      "bad": "I live in a apartment with two bedrooms.",
+      "good": "I live in an apartment with two bedrooms.",
+      "why": "Use \"an\" before a vowel sound; apartment starts with a vowel sound."
+    },
+    "fam": [
+      "apartment (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "flatmate",
+    "w": "flatmate",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "colega de apartamento",
+    "def": "A person who shares an apartment with you but is not your family.",
+    "ipa": "/ˈflætmeɪt/",
+    "ex": "My flatmate is very tidy, so our kitchen is always clean.",
+    "form": "",
+    "nat": "I am looking for a new flatmate because mine is moving to another city.",
+    "syn": [
+      "roommate"
+    ],
+    "ant": [],
+    "col": [
+      "find a flatmate",
+      "share with a flatmate",
+      "new flatmate",
+      "flatmate wanted"
+    ],
+    "mis": {
+      "bad": "I live with a colleague of apartment.",
+      "good": "I live with a flatmate.",
+      "why": "\"Colleague of apartment\" is a literal translation; the word is flatmate or roommate."
+    },
+    "fam": [
+      "flatshare (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "lease",
+    "w": "lease",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "contrato de aluguel",
+    "def": "A legal agreement to rent a house or property for a fixed period.",
+    "ipa": "/liːs/",
+    "ex": "We signed a one-year lease for the apartment and paid the first month.",
+    "form": "",
+    "nat": "The lease ends in June, so we must decide whether to renew it.",
+    "syn": [
+      "rental agreement"
+    ],
+    "ant": [],
+    "col": [
+      "sign a lease",
+      "lease agreement",
+      "renew the lease",
+      "short-term lease"
+    ],
+    "mis": {
+      "bad": "I signed the lease of rent for one year.",
+      "good": "I signed a one-year lease.",
+      "why": "\"Lease of rent\" is redundant; say \"a one-year lease\"."
+    },
+    "fam": [
+      "lease (verb)",
+      "leaseholder (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "utilities",
+    "w": "utilities",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "serviços públicos (água, luz, gás)",
+    "def": "Basic services like electricity, water, and gas used in a home.",
+    "ipa": "/juːˈtɪlətiz/",
+    "ex": "The rent includes all utilities, so we do not receive separate bills.",
+    "form": "",
+    "nat": "Utilities are expensive in winter because of the heating.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "pay the utilities",
+      "utilities bill",
+      "include utilities",
+      "monthly utilities"
+    ],
+    "mis": {
+      "bad": "The utility is included in the rent.",
+      "good": "The utilities are included in the rent.",
+      "why": "Use the plural utilities for water, gas, and electricity."
+    },
+    "fam": [
+      "utility (noun)"
+    ],
+    "topics": [
+      "daily",
+      "finance"
+    ]
+  },
+  {
+    "id": "balcony",
+    "w": "balcony",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "sacada, varanda",
+    "def": "A small platform with a wall or rail outside an upper window or door.",
+    "ipa": "/ˈbælkəni/",
+    "ex": "We had breakfast on the balcony and watched the sun rise over the sea.",
+    "form": "",
+    "nat": "Our apartment has a small balcony where I grow herbs.",
+    "syn": [
+      "terrace"
+    ],
+    "ant": [],
+    "col": [
+      "sit on the balcony",
+      "private balcony",
+      "balcony view",
+      "hotel balcony"
+    ],
+    "mis": {
+      "bad": "I like to sit in the balcony in the evening.",
+      "good": "I like to sit on the balcony in the evening.",
+      "why": "We sit \"on\" a balcony, not \"in\" it."
+    },
+    "fam": [
+      "balconies (plural)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "basement",
+    "w": "basement",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "porão, subsolo",
+    "def": "A room or floor of a building that is partly or fully below ground level.",
+    "ipa": "/ˈbeɪsmənt/",
+    "ex": "Water came into the basement during the storm and damaged our boxes.",
+    "form": "",
+    "nat": "They turned the basement into a small gym with a few machines.",
+    "syn": [
+      "cellar"
+    ],
+    "ant": [
+      "attic"
+    ],
+    "col": [
+      "finished basement",
+      "flooded basement",
+      "basement apartment",
+      "in the basement"
+    ],
+    "mis": {
+      "bad": "We keep the bikes on the basement.",
+      "good": "We keep the bikes in the basement.",
+      "why": "Use \"in\" for a room below ground."
+    },
+    "fam": [
+      "basement (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "attic",
+    "w": "attic",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "sótão",
+    "def": "A space under the roof of a house, often used for storing things.",
+    "ipa": "/ˈætɪk/",
+    "ex": "I found my old school photos in a box in the attic.",
+    "form": "",
+    "nat": "The attic gets very hot in summer because it is just under the roof.",
+    "syn": [
+      "loft"
+    ],
+    "ant": [
+      "basement"
+    ],
+    "col": [
+      "dusty attic",
+      "attic room",
+      "converted attic",
+      "store in the attic"
+    ],
+    "mis": {
+      "bad": "My toys are in the garret of the house.",
+      "good": "My toys are in the attic.",
+      "why": "Garret is an old, rare word; the normal word is attic."
+    },
+    "fam": [
+      "attic (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "ceiling",
+    "w": "ceiling",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "teto (de um cômodo)",
+    "def": "The inner surface at the top of a room, above your head.",
+    "ipa": "/ˈsiːlɪŋ/",
+    "ex": "There is a big crack in the ceiling above the kitchen table.",
+    "form": "",
+    "nat": "The room has a high ceiling, so it feels bright and spacious.",
+    "syn": [],
+    "ant": [
+      "floor"
+    ],
+    "col": [
+      "high ceiling",
+      "ceiling fan",
+      "ceiling light",
+      "glass ceiling"
+    ],
+    "mis": {
+      "bad": "The paint of the roof inside is falling.",
+      "good": "The paint on the ceiling is falling off.",
+      "why": "\"Roof\" is the outside top of a building; the inside surface is the ceiling."
+    },
+    "fam": [
+      "ceiling (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "staircase",
+    "w": "staircase",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "escadaria, escada",
+    "def": "A set of steps going from one level of a building to another.",
+    "ipa": "/ˈsterkeɪs/",
+    "ex": "The old house has a beautiful wooden staircase in the entrance hall.",
+    "form": "",
+    "nat": "Take the staircase if the elevator is full.",
+    "syn": [
+      "stairs",
+      "steps"
+    ],
+    "ant": [],
+    "col": [
+      "spiral staircase",
+      "winding staircase",
+      "marble staircase",
+      "climb the staircase"
+    ],
+    "mis": {
+      "bad": "I went up by the stairs of the staircase.",
+      "good": "I went up the staircase.",
+      "why": "\"Stairs of the staircase\" is redundant; say \"went up the staircase\" or \"took the stairs\"."
+    },
+    "fam": [
+      "stairway (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "fence",
+    "w": "fence",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "cerca, muro baixo",
+    "def": "A structure around a garden or field, usually made of wood or metal.",
+    "ipa": "/fens/",
+    "ex": "The neighbors painted the fence white and planted flowers next to it.",
+    "form": "",
+    "nat": "Our dog jumped over the fence and ran into the street.",
+    "syn": [
+      "barrier"
+    ],
+    "ant": [],
+    "col": [
+      "garden fence",
+      "wooden fence",
+      "put up a fence",
+      "climb over the fence"
+    ],
+    "mis": {
+      "bad": "I built a wall of wood around my garden.",
+      "good": "I built a wooden fence around my garden.",
+      "why": "A fence is the light barrier made of wood or wire; a wall is usually stone or brick, so \"wall of wood\" sounds wrong."
+    },
+    "fam": [
+      "fence (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "yard",
+    "w": "yard",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "quintal, jardim (da casa)",
+    "def": "An area of ground next to a house, often with grass.",
+    "ipa": "/jɑːrd/",
+    "ex": "The children play football in the yard every afternoon after school.",
+    "form": "",
+    "nat": "We are planning to build a small pool in the back yard.",
+    "syn": [
+      "garden"
+    ],
+    "ant": [],
+    "col": [
+      "back yard",
+      "front yard",
+      "yard sale",
+      "play in the yard"
+    ],
+    "mis": {
+      "bad": "I have a garden of vegetables in my house back.",
+      "good": "I have a vegetable garden in my back yard.",
+      "why": "Word order and \"of\" are wrong here; \"back yard\" is the area behind the house."
+    },
+    "fam": [
+      "yard (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "doorbell",
+    "w": "doorbell",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "campainha",
+    "def": "A button by the door that makes a sound inside when you press it.",
+    "ipa": "/ˈdɔːrbel/",
+    "ex": "The doorbell rang while I was in the shower, so I did not answer.",
+    "form": "",
+    "nat": "Please ring the doorbell twice, because the sound is very quiet.",
+    "syn": [
+      "bell"
+    ],
+    "ant": [],
+    "col": [
+      "ring the doorbell",
+      "press the doorbell",
+      "doorbell camera",
+      "doorbell rang"
+    ],
+    "mis": {
+      "bad": "I touched the bell of the door to call someone.",
+      "good": "I rang the doorbell.",
+      "why": "The natural verb is \"ring\" the doorbell; \"bell of the door\" is a literal translation."
+    },
+    "fam": [
+      "doorbell (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "curtain",
+    "w": "curtain",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "cortina",
+    "def": "A piece of cloth that hangs in front of a window or door.",
+    "ipa": "/ˈkɜːrtn/",
+    "ex": "She closed the curtains because the afternoon sun was too bright.",
+    "form": "curtains",
+    "nat": "The curtain went up, and the audience stopped talking.",
+    "syn": [
+      "drape"
+    ],
+    "ant": [],
+    "col": [
+      "draw the curtains",
+      "shower curtain",
+      "curtain rail",
+      "pull the curtains"
+    ],
+    "mis": {
+      "bad": "I opened the courtain to see the sun.",
+      "good": "I opened the curtains to see the sun.",
+      "why": "The spelling is curtain, and it is normally plural for windows."
+    },
+    "fam": [
+      "curtain (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "cushion",
+    "w": "cushion",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "almofada (de sofá)",
+    "def": "A soft bag that you put on a chair or sofa to make it more comfortable.",
+    "ipa": "/ˈkʊʃn/",
+    "ex": "He put a cushion behind his back because the chair was hard.",
+    "form": "",
+    "nat": "The sofa has four colorful cushions that match the walls.",
+    "syn": [
+      "pillow"
+    ],
+    "ant": [],
+    "col": [
+      "sofa cushion",
+      "soft cushion",
+      "cushion cover",
+      "cushion the blow"
+    ],
+    "mis": {
+      "bad": "I sleep with a cushion under my head every night.",
+      "good": "I sleep with a pillow under my head every night.",
+      "why": "A cushion is for sofas and chairs; for sleeping, the word is pillow."
+    },
+    "fam": [
+      "cushion (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "wardrobe",
+    "w": "wardrobe",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "guarda-roupa",
+    "def": "A tall cupboard where you hang your clothes.",
+    "ipa": "/ˈwɔːrdroʊb/",
+    "ex": "My wardrobe is so full that I cannot close the doors.",
+    "form": "",
+    "nat": "She bought a new wardrobe for the bedroom, but it was difficult to build.",
+    "syn": [
+      "closet"
+    ],
+    "ant": [],
+    "col": [
+      "built-in wardrobe",
+      "wardrobe door",
+      "summer wardrobe",
+      "wardrobe malfunction"
+    ],
+    "mis": {
+      "bad": "My wardrobe have too many old shirts.",
+      "good": "My wardrobe has too many old shirts.",
+      "why": "A singular noun takes \"has\", not \"have\"."
+    },
+    "fam": [
+      "wardrobe (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "shelf",
+    "w": "shelf",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "prateleira",
+    "def": "A flat board fixed to a wall or in a cupboard for putting things on.",
+    "ipa": "/ʃelf/",
+    "ex": "I put the books on the top shelf, where the children cannot reach them.",
+    "form": "",
+    "nat": "There are several shelves in the kitchen for plates and glasses.",
+    "syn": [
+      "rack"
+    ],
+    "ant": [],
+    "col": [
+      "top shelf",
+      "bookshelf",
+      "on the shelf",
+      "shelf life"
+    ],
+    "mis": {
+      "bad": "I have many books in the shelfs.",
+      "good": "I have many books on the shelves.",
+      "why": "The plural of shelf is shelves, and we say \"on the shelves\"."
+    },
+    "fam": [
+      "shelves (plural)",
+      "shelve (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "drawer",
+    "w": "drawer",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "gaveta",
+    "def": "A part of a desk or cabinet that you pull out to put things in.",
+    "ipa": "/drɔːr/",
+    "ex": "I keep my passport in the top drawer of my desk.",
+    "form": "",
+    "nat": "She opened the drawer and found the keys she had lost last week.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "open the drawer",
+      "top drawer",
+      "desk drawer",
+      "kitchen drawer"
+    ],
+    "mis": {
+      "bad": "I keep my keys in the draw.",
+      "good": "I keep my keys in the drawer.",
+      "why": "The furniture part is spelled and pronounced drawer; \"draw\" is the verb for making pictures."
+    },
+    "fam": [
+      "drawer (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "plumber",
+    "w": "plumber",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "encanador",
+    "def": "A person whose job is to fit and repair water pipes and bathrooms.",
+    "ipa": "/ˈplʌmər/",
+    "ex": "We called a plumber because water was dripping from the kitchen sink.",
+    "form": "",
+    "nat": "The plumber fixed the leak in less than an hour and charged us fifty pounds.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "call a plumber",
+      "hire a plumber",
+      "experienced plumber",
+      "plumber's bill"
+    ],
+    "mis": {
+      "bad": "The plumber arrived and fix the sink quickly.",
+      "good": "The plumber arrived and fixed the sink quickly.",
+      "why": "The second verb must also be in the past tense: arrived and fixed."
+    },
+    "fam": [
+      "plumbing (noun)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "leak",
+    "w": "leak",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "vazamento, goteira",
+    "def": "A hole or crack where liquid or gas escapes, or the escaping itself.",
+    "ipa": "/liːk/",
+    "ex": "There is a leak in the roof, and water drips into the bucket every night.",
+    "form": "",
+    "nat": "The company found a gas leak and evacuated the whole building.",
+    "syn": [
+      "drip"
+    ],
+    "ant": [],
+    "col": [
+      "gas leak",
+      "roof leak",
+      "water leak",
+      "fix a leak"
+    ],
+    "mis": {
+      "bad": "The pipe is leaking water of the roof.",
+      "good": "The pipe is leaking water from the roof.",
+      "why": "The water comes \"from\" the roof, not \"of\" the roof."
+    },
+    "fam": [
+      "leak (verb)",
+      "leaky (adj)"
+    ],
+    "topics": [
+      "daily",
+      "security"
+    ]
+  },
+  {
+    "id": "insulation",
+    "w": "insulation",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "isolamento (térmico ou acústico)",
+    "def": "Material that stops heat or sound from passing through walls or roofs.",
+    "ipa": "/ˌɪnsəˈleɪʃn/",
+    "ex": "Good insulation can reduce your heating bill by more than twenty percent.",
+    "form": "",
+    "nat": "The old house has poor insulation, so it feels freezing in winter.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "thermal insulation",
+      "roof insulation",
+      "sound insulation",
+      "poor insulation"
+    ],
+    "mis": {
+      "bad": "The house has a bad isolation and is very cold.",
+      "good": "The house has poor insulation and is very cold.",
+      "why": "\"Isolation\" means being alone; for heat or sound the word is insulation."
+    },
+    "fam": [
+      "insulate (verb)",
+      "insulated (adj)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ]
+  },
+  {
+    "id": "relocate",
+    "w": "relocate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "mudar-se, transferir (para outro local)",
+    "def": "To move to a new place to live or work.",
+    "ipa": "/ˌriːˈloʊkeɪt/",
+    "ex": "Her company relocated her to Madrid, so she sold her car and left.",
+    "form": "relocated",
+    "nat": "We may relocate to a smaller town to enjoy a quieter life.",
+    "syn": [
+      "move",
+      "transfer"
+    ],
+    "ant": [],
+    "col": [
+      "relocate to",
+      "relocate overseas",
+      "relocate staff",
+      "willing to relocate"
+    ],
+    "mis": {
+      "bad": "They relocated for another city last year.",
+      "good": "They relocated to another city last year.",
+      "why": "Relocate takes \"to\" before the destination, not \"for\"."
+    },
+    "fam": [
+      "relocation (noun)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "spacious",
+    "w": "spacious",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "espaçoso, amplo",
+    "def": "Having a lot of space inside, so that it feels large and comfortable.",
+    "ipa": "/ˈspeɪʃəs/",
+    "ex": "The hotel room was spacious and had a large window facing the sea.",
+    "form": "",
+    "nat": "We are looking for a more spacious apartment with a separate study.",
+    "syn": [
+      "roomy",
+      "large"
+    ],
+    "ant": [
+      "cramped"
+    ],
+    "col": [
+      "spacious room",
+      "spacious apartment",
+      "spacious interior",
+      "light and spacious"
+    ],
+    "mis": {
+      "bad": "The house is very spacey and has big rooms.",
+      "good": "The house is very spacious and has big rooms.",
+      "why": "\"Spacey\" means dreamy or distracted; the adjective for large rooms is spacious."
+    },
+    "fam": [
+      "space (noun)",
+      "spaciousness (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "cramped",
+    "w": "cramped",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "apertado, sem espaço",
+    "def": "Too small, with not enough room to move comfortably.",
+    "ipa": "/kræmpt/",
+    "ex": "Five people lived in a cramped apartment with only one bedroom.",
+    "form": "",
+    "nat": "The seats on the bus were so cramped that I could not stretch my legs.",
+    "syn": [
+      "tight",
+      "crowded"
+    ],
+    "ant": [
+      "spacious"
+    ],
+    "col": [
+      "cramped conditions",
+      "cramped room",
+      "cramped seat",
+      "feel cramped"
+    ],
+    "mis": {
+      "bad": "The room was too much tight for four people.",
+      "good": "The room was too cramped for four people.",
+      "why": "\"Too much tight\" is wrong; use \"too cramped\" or \"too small\"."
+    },
+    "fam": [
+      "cramp (noun, verb)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "cozy",
+    "w": "cozy",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "aconchegante",
+    "def": "Warm, comfortable, and pleasant, especially in a small place.",
+    "ipa": "/ˈkoʊzi/",
+    "ex": "We spent a cozy evening by the fire, drinking tea and reading.",
+    "form": "",
+    "nat": "The little café was cozy, with soft lights and old wooden tables.",
+    "syn": [
+      "snug",
+      "comfortable"
+    ],
+    "ant": [
+      "cold"
+    ],
+    "col": [
+      "cozy atmosphere",
+      "cozy corner",
+      "cozy cabin",
+      "feel cozy"
+    ],
+    "mis": {
+      "bad": "The room was cozy, we felt very comfortably.",
+      "good": "The room was cozy, so we felt very comfortable.",
+      "why": "After \"feel\", use the adjective comfortable, not the adverb comfortably."
+    },
+    "fam": [
+      "coziness (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "vacant",
+    "w": "vacant",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "vago, desocupado",
+    "def": "Empty and not being used by anyone.",
+    "ipa": "/ˈveɪkənt/",
+    "ex": "There are no vacant rooms at the hotel because of the music festival.",
+    "form": "",
+    "nat": "The office on the second floor has been vacant for six months.",
+    "syn": [
+      "empty",
+      "free"
+    ],
+    "ant": [
+      "occupied"
+    ],
+    "col": [
+      "vacant room",
+      "vacant seat",
+      "vacant position",
+      "vacant lot"
+    ],
+    "mis": {
+      "bad": "The seat was vague, so I sat there.",
+      "good": "The seat was vacant, so I sat there.",
+      "why": "\"Vague\" means unclear; for an empty seat, use vacant."
+    },
+    "fam": [
+      "vacancy (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "clutter",
+    "w": "clutter",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "bagunça, objetos espalhados",
+    "def": "A lot of things in an untidy mess, filling a space.",
+    "ipa": "/ˈklʌtər/",
+    "ex": "The desk was covered in clutter, so I could not find my keys.",
+    "form": "",
+    "nat": "I hate clutter, so I give away things I do not use.",
+    "syn": [
+      "mess",
+      "disorder"
+    ],
+    "ant": [
+      "order"
+    ],
+    "col": [
+      "reduce clutter",
+      "desk clutter",
+      "clear the clutter",
+      "full of clutter"
+    ],
+    "mis": {
+      "bad": "The room has many clutters on the floor.",
+      "good": "The room has a lot of clutter on the floor.",
+      "why": "Clutter is uncountable, so it has no plural and no \"many\"."
+    },
+    "fam": [
+      "clutter (verb)",
+      "cluttered (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "declutter",
+    "w": "declutter",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "organizar, tirar o excesso",
+    "def": "To remove things you do not need from a place to make it tidy.",
+    "ipa": "/ˌdiːˈklʌtər/",
+    "ex": "We decluttered the garage last weekend and gave six boxes to charity.",
+    "form": "decluttered",
+    "nat": "If you declutter your desk, you will probably work better.",
+    "syn": [
+      "tidy up"
+    ],
+    "ant": [],
+    "col": [
+      "declutter your home",
+      "declutter the garage",
+      "time to declutter",
+      "declutter your life"
+    ],
+    "mis": {
+      "bad": "I decluttered the house for old things.",
+      "good": "I decluttered the house by throwing away old things.",
+      "why": "Use \"by + -ing\" to say how you did it; \"for old things\" changes the meaning."
+    },
+    "fam": [
+      "clutter (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "doorstep",
+    "w": "doorstep",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "soleira, porta de entrada",
+    "def": "The step in front of a door, or the area just outside it.",
+    "ipa": "/ˈdɔːrstep/",
+    "ex": "A package was waiting on the doorstep when I got home from work.",
+    "form": "",
+    "nat": "They have a lovely beach right on their doorstep.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "on the doorstep",
+      "leave on the doorstep",
+      "doorstep delivery",
+      "land on your doorstep"
+    ],
+    "mis": {
+      "bad": "The delivery man left the box in the doorstep.",
+      "good": "The delivery man left the box on the doorstep.",
+      "why": "We say \"on the doorstep\", not \"in the doorstep\"."
+    },
+    "fam": [
+      "doorstep (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "mow",
+    "w": "mow",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "cortar (grama)",
+    "def": "To cut grass with a machine.",
+    "ipa": "/moʊ/",
+    "ex": "My father mows the lawn every Saturday morning before it gets hot.",
+    "form": "mows",
+    "nat": "I need to mow the grass before the rain starts.",
+    "syn": [
+      "cut"
+    ],
+    "ant": [
+      "grow"
+    ],
+    "col": [
+      "mow the lawn",
+      "mow the grass",
+      "freshly mown",
+      "lawn mower"
+    ],
+    "mis": {
+      "bad": "My father mow the lawn every Saturday.",
+      "good": "My father mows the lawn every Saturday.",
+      "why": "Third person singular present needs -s: he mows."
+    },
+    "fam": [
+      "mower (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "fireplace",
+    "w": "fireplace",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "lareira",
+    "def": "A place in a wall of a room where you can burn wood to heat the room.",
+    "ipa": "/ˈfaɪərpleɪs/",
+    "ex": "We sat by the fireplace and talked until the wood burned out.",
+    "form": "",
+    "nat": "The cottage has a stone fireplace in the living room.",
+    "syn": [
+      "hearth"
+    ],
+    "ant": [],
+    "col": [
+      "light a fireplace",
+      "stone fireplace",
+      "open fireplace",
+      "sit by the fireplace"
+    ],
+    "mis": {
+      "bad": "We put the wood in the chimney to heat the room.",
+      "good": "We put the wood in the fireplace to heat the room.",
+      "why": "The chimney is the pipe on the roof; the wood goes in the fireplace."
+    },
+    "fam": [
+      "fire (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "retail",
+    "w": "retail",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "varejo",
+    "def": "The business of selling goods directly to customers in shops or online.",
+    "ipa": "/ˈriːteɪl/",
+    "ex": "She works in retail, so she is very busy before Christmas.",
+    "form": "",
+    "nat": "Retail sales rose by five percent in the last quarter.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "retail sales",
+      "retail price",
+      "retail store",
+      "retail industry"
+    ],
+    "mis": {
+      "bad": "She works in the retail of clothes.",
+      "good": "She works in clothing retail.",
+      "why": "Retail is used as an uncountable noun without \"the\" and \"of\"; use a noun adjunct like \"clothing retail\"."
+    },
+    "fam": [
+      "retailer (noun)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "trolley",
+    "w": "trolley",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "carrinho (de compras)",
+    "def": "A metal cart that you push around a supermarket to carry your shopping.",
+    "ipa": "/ˈtrɑːli/",
+    "ex": "I put the milk and the eggs in the trolley and went to the checkout.",
+    "form": "trolley",
+    "nat": "Someone left a trolley in the middle of the parking lot.",
+    "syn": [
+      "cart"
+    ],
+    "ant": [],
+    "col": [
+      "shopping trolley",
+      "push a trolley",
+      "luggage trolley",
+      "trolley bus"
+    ],
+    "mis": {
+      "bad": "I put the products in the car of the market.",
+      "good": "I put the groceries in the trolley.",
+      "why": "\"Car of the market\" is a literal translation; a supermarket cart is a trolley."
+    },
+    "fam": [
+      "trolley (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "aisle",
+    "w": "aisle",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "corredor (entre prateleiras ou assentos)",
+    "def": "A narrow path between rows of shelves in a shop, or between seats.",
+    "ipa": "/aɪl/",
+    "ex": "The cereal is in aisle five, next to the coffee and tea.",
+    "form": "",
+    "nat": "I always ask for an aisle seat so I can stand up easily.",
+    "syn": [
+      "passage"
+    ],
+    "ant": [],
+    "col": [
+      "supermarket aisle",
+      "aisle seat",
+      "walk down the aisle",
+      "crowded aisle"
+    ],
+    "mis": {
+      "bad": "I asked for a seat in the corridor of the plane.",
+      "good": "I asked for an aisle seat on the plane.",
+      "why": "On planes and in shops, the narrow path is an aisle, not a corridor."
+    },
+    "fam": [
+      "aisle (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "checkout",
+    "w": "checkout",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "caixa (de pagamento)",
+    "def": "The place in a shop where you pay for what you are buying.",
+    "ipa": "/ˈtʃekaʊt/",
+    "ex": "There was a long queue at the checkout, so we went to another shop.",
+    "form": "",
+    "nat": "You can pay at the self-service checkout if you have only a few items.",
+    "syn": [
+      "till",
+      "cash desk"
+    ],
+    "ant": [],
+    "col": [
+      "checkout counter",
+      "checkout line",
+      "self-service checkout",
+      "online checkout"
+    ],
+    "mis": {
+      "bad": "I paid in the checkout.",
+      "good": "I paid at the checkout.",
+      "why": "Use \"at\" with the checkout."
+    },
+    "fam": [
+      "check out (phrasal verb)"
+    ],
+    "topics": [
+      "business",
+      "daily"
+    ]
+  },
+  {
+    "id": "voucher",
+    "w": "voucher",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "vale, cupom de desconto",
+    "def": "A piece of paper or a code that you can use instead of money.",
+    "ipa": "/ˈvaʊtʃər/",
+    "ex": "I received a fifty-dollar voucher for the restaurant as a birthday gift.",
+    "form": "voucher",
+    "nat": "The hotel gave us a meal voucher because our room was not ready.",
+    "syn": [
+      "coupon"
+    ],
+    "ant": [],
+    "col": [
+      "gift voucher",
+      "meal voucher",
+      "use a voucher",
+      "discount voucher"
+    ],
+    "mis": {
+      "bad": "I paid the dinner with a voucher of gift.",
+      "good": "I paid for the dinner with a gift voucher.",
+      "why": "Use \"pay for\" the dinner, and the adjective-noun order \"gift voucher\"."
+    },
+    "fam": [
+      "voucher (noun)"
+    ],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "coupon",
+    "w": "coupon",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "cupom (de desconto)",
+    "def": "A small piece of paper that gives you a lower price when you buy something.",
+    "ipa": "/ˈkuːpɑːn/",
+    "ex": "I used a coupon to get twenty percent off my shopping.",
+    "form": "coupon",
+    "nat": "Check your email, because the store often sends a coupon for new customers.",
+    "syn": [
+      "voucher"
+    ],
+    "ant": [],
+    "col": [
+      "discount coupon",
+      "use a coupon",
+      "coupon code",
+      "clip a coupon"
+    ],
+    "mis": {
+      "bad": "I have a coupom of discount for this store.",
+      "good": "I have a discount coupon for this store.",
+      "why": "The spelling is coupon, and the adjective noun order is \"discount coupon\"."
+    },
+    "fam": [
+      "coupon (noun)"
+    ],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "purchase",
+    "w": "purchase",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "compra",
+    "def": "Something that you buy, or the act of buying it.",
+    "ipa": "/ˈpɜːrtʃəs/",
+    "ex": "Keep the receipt as proof of purchase in case you need to return it.",
+    "form": "",
+    "nat": "The company announced the purchase of two new buildings in the city center.",
+    "syn": [
+      "buy"
+    ],
+    "ant": [
+      "sale"
+    ],
+    "col": [
+      "make a purchase",
+      "online purchase",
+      "proof of purchase",
+      "recent purchase"
+    ],
+    "mis": {
+      "bad": "I made a purchase of a book in the internet yesterday.",
+      "good": "I bought a book online yesterday.",
+      "why": "Using the simple verb \"buy\" is more natural; \"in the internet\" should be \"on the internet\" or just \"online\"."
+    },
+    "fam": [
+      "purchase (verb)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "trendy",
+    "w": "trendy",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "na moda, descolado",
+    "def": "Fashionable at the present time.",
+    "ipa": "/ˈtrendi/",
+    "ex": "They opened a trendy café near the station, and it is always full.",
+    "form": "",
+    "nat": "I do not follow fashion, so I rarely buy trendy clothes.",
+    "syn": [
+      "fashionable",
+      "stylish"
+    ],
+    "ant": [
+      "old-fashioned"
+    ],
+    "col": [
+      "trendy clothes",
+      "trendy neighborhood",
+      "trendy restaurant",
+      "look trendy"
+    ],
+    "mis": {
+      "bad": "This neighborhood is very trend and full of cafés.",
+      "good": "This neighborhood is very trendy and full of cafés.",
+      "why": "Trend is a noun; the adjective is trendy."
+    },
+    "fam": [
+      "trend (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "second-hand",
+    "w": "second-hand",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "de segunda mão, usado",
+    "def": "Not new; used before by another person.",
+    "ipa": "/ˌsekəndˈhænd/",
+    "ex": "I bought a second-hand bike online, and it works perfectly.",
+    "form": "",
+    "nat": "There is a second-hand bookshop on our street that sells cheap novels.",
+    "syn": [
+      "used",
+      "pre-owned"
+    ],
+    "ant": [
+      "brand new"
+    ],
+    "col": [
+      "second-hand car",
+      "second-hand shop",
+      "buy second-hand",
+      "second-hand clothes"
+    ],
+    "mis": {
+      "bad": "I bought a second hand car of my cousin.",
+      "good": "I bought a second-hand car from my cousin.",
+      "why": "You buy something from a person, not \"of\" a person, and second-hand is hyphenated before a noun."
+    },
+    "fam": [
+      "second-hand (adv)"
+    ],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "bulk",
+    "w": "bulk",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "grande quantidade; a granel",
+    "def": "A large amount of something; in bulk means in large quantities.",
+    "ipa": "/bʌlk/",
+    "ex": "We buy rice in bulk because it is cheaper than small packets.",
+    "form": "",
+    "nat": "The bulk of our customers are students who live near the campus.",
+    "syn": [
+      "majority",
+      "mass"
+    ],
+    "ant": [],
+    "col": [
+      "buy in bulk",
+      "bulk order",
+      "bulk of the work",
+      "bulk discount"
+    ],
+    "mis": {
+      "bad": "I bought the shampoo in bulks to save money.",
+      "good": "I bought the shampoo in bulk to save money.",
+      "why": "\"In bulk\" is a fixed phrase and has no plural."
+    },
+    "fam": [
+      "bulky (adj)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "impulse",
+    "w": "impulse",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "impulso",
+    "def": "A sudden strong wish to do something without thinking about it.",
+    "ipa": "/ˈɪmpʌls/",
+    "ex": "I bought the shoes on impulse and later regretted the decision.",
+    "form": "",
+    "nat": "She felt an impulse to call him, but she waited until the morning.",
+    "syn": [
+      "urge"
+    ],
+    "ant": [],
+    "col": [
+      "on impulse",
+      "impulse buy",
+      "resist the impulse",
+      "sudden impulse"
+    ],
+    "mis": {
+      "bad": "I bought it by impulse yesterday.",
+      "good": "I bought it on impulse yesterday.",
+      "why": "The fixed phrase is \"on impulse\", not \"by impulse\"."
+    },
+    "fam": [
+      "impulsive (adj)"
+    ],
+    "topics": [
+      "finance",
+      "abstract"
+    ]
+  },
+  {
+    "id": "counterfeit",
+    "w": "counterfeit",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "falsificado",
+    "def": "Made as a copy of something valuable in order to trick people.",
+    "ipa": "/ˈkaʊntərfɪt/",
+    "ex": "The police found hundreds of counterfeit watches in the small shop.",
+    "form": "",
+    "nat": "Be careful with counterfeit money, because it can be very hard to spot.",
+    "syn": [
+      "fake",
+      "forged"
+    ],
+    "ant": [
+      "genuine",
+      "authentic"
+    ],
+    "col": [
+      "counterfeit goods",
+      "counterfeit money",
+      "counterfeit bag",
+      "counterfeit product"
+    ],
+    "mis": {
+      "bad": "He sold falsified perfumes in the street market.",
+      "good": "He sold counterfeit perfumes in the street market.",
+      "why": "\"Falsified\" is used for documents or data; fake goods are counterfeit."
+    },
+    "fam": [
+      "counterfeit (noun, verb)"
+    ],
+    "topics": [
+      "security",
+      "business"
+    ]
+  },
+  {
+    "id": "pricey",
+    "w": "pricey",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "caro, salgado",
+    "def": "Expensive; costing more than you would like to pay.",
+    "ipa": "/ˈpraɪsi/",
+    "ex": "The hotel was nice, but it was too pricey for our budget.",
+    "form": "",
+    "nat": "That restaurant is a bit pricey, but the food is excellent.",
+    "syn": [
+      "expensive",
+      "costly"
+    ],
+    "ant": [
+      "cheap"
+    ],
+    "col": [
+      "a bit pricey",
+      "pricey hotel",
+      "pricey restaurant",
+      "rather pricey"
+    ],
+    "mis": {
+      "bad": "The price of the hotel was very pricey.",
+      "good": "The hotel was very pricey.",
+      "why": "Pricey describes the thing itself, so \"the price of the hotel was pricey\" is repetitive."
+    },
+    "fam": [
+      "price (noun)"
+    ],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "label",
+    "w": "label",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "etiqueta, rótulo",
+    "def": "A piece of paper or cloth on a product that gives information about it.",
+    "ipa": "/ˈleɪbl/",
+    "ex": "Always read the label to check the ingredients before you buy food.",
+    "form": "",
+    "nat": "The label inside the jacket says it must be washed by hand.",
+    "syn": [
+      "tag"
+    ],
+    "ant": [],
+    "col": [
+      "read the label",
+      "price label",
+      "warning label",
+      "food label"
+    ],
+    "mis": {
+      "bad": "I read the label in the bottle.",
+      "good": "I read the label on the bottle.",
+      "why": "A label is on the surface of an object, so use \"on\"."
+    },
+    "fam": [
+      "label (verb)"
+    ],
+    "topics": [
+      "daily",
+      "business"
+    ]
+  },
+  {
+    "id": "packaging",
+    "w": "packaging",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "embalagem",
+    "def": "The material that is used to wrap or protect a product.",
+    "ipa": "/ˈpækɪdʒɪŋ/",
+    "ex": "The company is trying to reduce plastic packaging to protect the environment.",
+    "form": "",
+    "nat": "The packaging was damaged, but the phone inside was fine.",
+    "syn": [
+      "wrapping"
+    ],
+    "ant": [],
+    "col": [
+      "plastic packaging",
+      "food packaging",
+      "excess packaging",
+      "recyclable packaging"
+    ],
+    "mis": {
+      "bad": "The packagings of this product are recyclable.",
+      "good": "The packaging of this product is recyclable.",
+      "why": "Packaging is uncountable, so it takes a singular verb and has no plural."
+    },
+    "fam": [
+      "package (noun, verb)"
+    ],
+    "topics": [
+      "business",
+      "daily"
+    ]
+  },
+  {
+    "id": "courier",
+    "w": "courier",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "entregador, serviço de entrega expressa",
+    "def": "A person or company that delivers packages and documents.",
+    "ipa": "/ˈkʊriər/",
+    "ex": "The courier delivered the package to our door before nine o'clock.",
+    "form": "",
+    "nat": "We sent the contract by courier because it had to arrive today.",
+    "syn": [
+      "messenger"
+    ],
+    "ant": [],
+    "col": [
+      "send by courier",
+      "courier service",
+      "motorcycle courier",
+      "courier company"
+    ],
+    "mis": {
+      "bad": "I sent the documents by a courier to the client.",
+      "good": "I sent the documents by courier to the client.",
+      "why": "After \"by\", transport and delivery methods take no article: by courier."
+    },
+    "fam": [
+      "courier (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "stock",
+    "w": "stock",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "estoque; ações",
+    "def": "The goods that a shop has available to sell.",
+    "ipa": "/stɑːk/",
+    "ex": "Sorry, that model is out of stock, but we will get more next week.",
+    "form": "",
+    "nat": "The store keeps a large stock of winter clothes in its warehouse.",
+    "syn": [
+      "inventory",
+      "supply"
+    ],
+    "ant": [],
+    "col": [
+      "in stock",
+      "out of stock",
+      "stock up",
+      "stock market"
+    ],
+    "mis": {
+      "bad": "The shoes are not in the stock now.",
+      "good": "The shoes are not in stock now.",
+      "why": "\"In stock\" and \"out of stock\" are fixed phrases without \"the\"."
+    },
+    "fam": [
+      "stock (verb)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "brand",
+    "w": "brand",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "marca",
+    "def": "A name and design that make a product different from other products.",
+    "ipa": "/brænd/",
+    "ex": "This brand of coffee is more expensive, but the taste is much better.",
+    "form": "",
+    "nat": "Many young people prefer well-known brands when they buy shoes.",
+    "syn": [
+      "label"
+    ],
+    "ant": [],
+    "col": [
+      "well-known brand",
+      "brand name",
+      "brand loyalty",
+      "own brand"
+    ],
+    "mis": {
+      "bad": "I prefer the mark of this shoe.",
+      "good": "I prefer this brand of shoes.",
+      "why": "\"Mark\" is not used for product names; the word is brand."
+    },
+    "fam": [
+      "brand (verb)",
+      "branding (noun)"
+    ],
+    "topics": [
+      "business",
+      "daily"
+    ]
+  },
+  {
+    "id": "complaint",
+    "w": "complaint",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "reclamação",
+    "def": "A statement that says you are not satisfied with something.",
+    "ipa": "/kəmˈpleɪnt/",
+    "ex": "She made a complaint about the noise to the hotel manager.",
+    "form": "",
+    "nat": "We received several complaints about the late delivery last week.",
+    "syn": [
+      "objection"
+    ],
+    "ant": [
+      "praise"
+    ],
+    "col": [
+      "make a complaint",
+      "file a complaint",
+      "formal complaint",
+      "complaint about"
+    ],
+    "mis": {
+      "bad": "I did a complain to the manager about the service.",
+      "good": "I made a complaint to the manager about the service.",
+      "why": "\"Complain\" is the verb; the noun is complaint, and we \"make\" a complaint."
+    },
+    "fam": [
+      "complain (verb)"
+    ],
+    "topics": [
+      "business",
+      "daily"
+    ]
+  },
+  {
+    "id": "recipe",
+    "w": "recipe",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "receita (culinária)",
+    "def": "A set of instructions for cooking a particular dish.",
+    "ipa": "/ˈresəpi/",
+    "ex": "My grandmother gave me her recipe for chocolate cake years ago.",
+    "form": "",
+    "nat": "Follow the recipe carefully if you want the sauce to taste right.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "recipe for",
+      "follow a recipe",
+      "family recipe",
+      "secret recipe"
+    ],
+    "mis": {
+      "bad": "I looked for a recipt of the cake on the internet.",
+      "good": "I looked for a recipe for the cake on the internet.",
+      "why": "Recipe (cooking) and receipt (proof of payment) are different words; also \"recipe for\" is the right structure."
+    },
+    "fam": [
+      "recipe (noun)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "ingredient",
+    "w": "ingredient",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "ingrediente",
+    "def": "One of the foods that you use to make a dish.",
+    "ipa": "/ɪnˈɡriːdiənt/",
+    "ex": "You only need five simple ingredients to make this soup.",
+    "form": "ingredients",
+    "nat": "Fresh ingredients make a big difference to the flavor of any meal.",
+    "syn": [
+      "component"
+    ],
+    "ant": [],
+    "col": [
+      "main ingredient",
+      "key ingredient",
+      "fresh ingredients",
+      "secret ingredient"
+    ],
+    "mis": {
+      "bad": "The ingredients of the recipe is very simple.",
+      "good": "The ingredients of the recipe are very simple.",
+      "why": "\"Ingredients\" is plural, so the verb must be \"are\"."
+    },
+    "fam": [
+      "ingredient (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "cuisine",
+    "w": "cuisine",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "culinária, cozinha (estilo de comida)",
+    "def": "A style of cooking that is typical of a country or region.",
+    "ipa": "/kwɪˈziːn/",
+    "ex": "Italian cuisine is popular all over the world, especially pasta and pizza.",
+    "form": "",
+    "nat": "I love Thai cuisine, but I cannot eat very spicy food.",
+    "syn": [
+      "cooking"
+    ],
+    "ant": [],
+    "col": [
+      "local cuisine",
+      "traditional cuisine",
+      "French cuisine",
+      "regional cuisine"
+    ],
+    "mis": {
+      "bad": "The brazilian kitchen is famous for feijoada.",
+      "good": "Brazilian cuisine is famous for feijoada.",
+      "why": "\"Kitchen\" is a room; the style of cooking is cuisine, and nationalities are capitalized."
+    },
+    "fam": [
+      "culinary (adj)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "appetizer",
+    "w": "appetizer",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "entrada, aperitivo",
+    "def": "A small dish that you eat at the beginning of a meal.",
+    "ipa": "/ˈæpɪtaɪzər/",
+    "ex": "We shared an appetizer of fried cheese before the main course arrived.",
+    "form": "",
+    "nat": "The restaurant serves a free appetizer while you wait for your table.",
+    "syn": [
+      "starter"
+    ],
+    "ant": [
+      "dessert"
+    ],
+    "col": [
+      "order an appetizer",
+      "light appetizer",
+      "appetizer menu",
+      "share an appetizer"
+    ],
+    "mis": {
+      "bad": "As appetizer, we ate a salad.",
+      "good": "As an appetizer, we ate a salad.",
+      "why": "The singular countable noun needs the article \"an\"."
+    },
+    "fam": [
+      "appetite (noun, related)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "dessert",
+    "w": "dessert",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "sobremesa",
+    "def": "Something sweet that you eat at the end of a meal.",
+    "ipa": "/dɪˈzɜːrt/",
+    "ex": "For dessert, we had ice cream with fresh strawberries on top.",
+    "form": "",
+    "nat": "I am too full for dessert, but thank you for offering.",
+    "syn": [
+      "sweet"
+    ],
+    "ant": [
+      "starter"
+    ],
+    "col": [
+      "order dessert",
+      "dessert menu",
+      "chocolate dessert",
+      "for dessert"
+    ],
+    "mis": {
+      "bad": "I did not eat the desert because I was full.",
+      "good": "I did not eat the dessert because I was full.",
+      "why": "Dessert (sweet food) has two s's; desert is a dry place."
+    },
+    "fam": [
+      "dessert (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "leftovers",
+    "w": "leftovers",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "sobras (de comida)",
+    "def": "Food that remains after a meal and can be eaten later.",
+    "ipa": "/ˈleftoʊvərz/",
+    "ex": "We ate the leftovers for lunch the next day instead of cooking.",
+    "form": "",
+    "nat": "There were so many leftovers from the party that we shared them with the neighbors.",
+    "syn": [
+      "remains"
+    ],
+    "ant": [],
+    "col": [
+      "eat the leftovers",
+      "leftover pizza",
+      "reheat the leftovers",
+      "take the leftovers home"
+    ],
+    "mis": {
+      "bad": "We have a leftovers from dinner.",
+      "good": "We have some leftovers from dinner.",
+      "why": "Leftovers is plural, so it cannot take \"a\"."
+    },
+    "fam": [
+      "leftover (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "grill",
+    "w": "grill",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "grelhar, fazer na grelha",
+    "def": "To cook food over direct heat, often outside.",
+    "ipa": "/ɡrɪl/",
+    "ex": "We grilled fish and vegetables in the garden on Sunday afternoon.",
+    "form": "grilled",
+    "nat": "Do not grill the chicken for too long, or it will be dry.",
+    "syn": [
+      "barbecue"
+    ],
+    "ant": [],
+    "col": [
+      "grill the meat",
+      "grilled chicken",
+      "grill on high heat",
+      "grilled vegetables"
+    ],
+    "mis": {
+      "bad": "We grilled the meat in the oven of the barbecue.",
+      "good": "We grilled the meat on the barbecue.",
+      "why": "Food is grilled \"on\" a barbecue, not \"in the oven of\"."
+    },
+    "fam": [
+      "grill (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "simmer",
+    "w": "simmer",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "ferver em fogo baixo",
+    "def": "To cook gently in liquid just below boiling point.",
+    "ipa": "/ˈsɪmər/",
+    "ex": "Let the sauce simmer for twenty minutes, and stir it from time to time.",
+    "form": "simmer",
+    "nat": "Simmer the soup on low heat until the vegetables are soft.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "simmer gently",
+      "simmer for minutes",
+      "simmer the sauce",
+      "let it simmer"
+    ],
+    "mis": {
+      "bad": "Let the soup to simmer for ten minutes.",
+      "good": "Let the soup simmer for ten minutes.",
+      "why": "After \"let\" + object, use the base verb without \"to\"."
+    },
+    "fam": [
+      "simmer (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "slice",
+    "w": "slice",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "fatiar, cortar em fatias",
+    "def": "To cut something into thin, flat pieces.",
+    "ipa": "/slaɪs/",
+    "ex": "He sliced the bread and put some cheese on each piece.",
+    "form": "sliced",
+    "nat": "Slice the tomatoes thinly so that they cook faster.",
+    "syn": [
+      "cut"
+    ],
+    "ant": [],
+    "col": [
+      "slice thinly",
+      "slice the bread",
+      "slice of cake",
+      "sliced onions"
+    ],
+    "mis": {
+      "bad": "He sliced the bread in thin pieces of slices.",
+      "good": "He cut the bread into thin slices.",
+      "why": "Use \"cut into slices\"; \"pieces of slices\" is redundant."
+    },
+    "fam": [
+      "slice (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "chop",
+    "w": "chop",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "picar, cortar em pedaços pequenos",
+    "def": "To cut something into small pieces with a knife.",
+    "ipa": "/tʃɑːp/",
+    "ex": "She chopped the onions and garlic before adding them to the pan.",
+    "form": "chopped",
+    "nat": "Chop the herbs finely and sprinkle them over the pasta.",
+    "syn": [
+      "dice",
+      "cut up"
+    ],
+    "ant": [],
+    "col": [
+      "chop finely",
+      "chop the onions",
+      "chopped nuts",
+      "chop up"
+    ],
+    "mis": {
+      "bad": "She chopped the onion in little pieces with the tip of knife.",
+      "good": "She chopped the onion into small pieces with the tip of the knife.",
+      "why": "Use \"into\" pieces and the article before \"knife\"."
+    },
+    "fam": [
+      "chop (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "peel",
+    "w": "peel",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "descascar",
+    "def": "To remove the outer skin of a fruit or vegetable.",
+    "ipa": "/piːl/",
+    "ex": "I peeled the potatoes while my sister prepared the salad.",
+    "form": "peeled",
+    "nat": "It is easy to peel an orange if you start at the top.",
+    "syn": [
+      "skin"
+    ],
+    "ant": [],
+    "col": [
+      "peel an apple",
+      "peeled potatoes",
+      "peel off",
+      "orange peel"
+    ],
+    "mis": {
+      "bad": "She peeled the orange and eaten it.",
+      "good": "She peeled the orange and ate it.",
+      "why": "Use the simple past \"ate\", not the participle \"eaten\"."
+    },
+    "fam": [
+      "peel (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "stir",
+    "w": "stir",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "mexer, misturar",
+    "def": "To move food or liquid around with a spoon.",
+    "ipa": "/stɜːr/",
+    "ex": "Stir the soup slowly so that it does not stick to the bottom of the pan.",
+    "form": "",
+    "nat": "He stirred sugar into his coffee and looked out of the window.",
+    "syn": [
+      "mix"
+    ],
+    "ant": [],
+    "col": [
+      "stir slowly",
+      "stir in",
+      "stir the sauce",
+      "stir constantly"
+    ],
+    "mis": {
+      "bad": "She stir the soup every five minutes.",
+      "good": "She stirs the soup every five minutes.",
+      "why": "Third person singular present needs -s."
+    },
+    "fam": [
+      "stir (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "bake",
+    "w": "bake",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "assar (no forno), fazer (bolo, pão)",
+    "def": "To cook food such as bread or cake in an oven.",
+    "ipa": "/beɪk/",
+    "ex": "I baked a chocolate cake for my daughter's birthday party yesterday.",
+    "form": "baked",
+    "nat": "You should bake the bread until it is golden brown.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "bake a cake",
+      "bake bread",
+      "freshly baked",
+      "bake for thirty minutes"
+    ],
+    "mis": {
+      "bad": "I baked a cake in the stove.",
+      "good": "I baked a cake in the oven.",
+      "why": "In English, the oven bakes the food; the stove is the cooking surface on top."
+    },
+    "fam": [
+      "baker (noun)",
+      "bakery (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "roast",
+    "w": "roast",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "assar (carne, legumes), torrar",
+    "def": "To cook food in an oven or over a fire so that it becomes brown.",
+    "ipa": "/roʊst/",
+    "ex": "We roasted a chicken with potatoes and served it with salad.",
+    "form": "roasted",
+    "nat": "Roast the vegetables at a high temperature for about forty minutes.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "roast chicken",
+      "roast potatoes",
+      "roasted coffee",
+      "roast beef"
+    ],
+    "mis": {
+      "bad": "He roasts the meat in the pan with water.",
+      "good": "He roasts the meat in the oven without water.",
+      "why": "Roasting uses dry heat in an oven; cooking in water is boiling or stewing."
+    },
+    "fam": [
+      "roast (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "spicy",
+    "w": "spicy",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "picante, apimentado",
+    "def": "Having a strong hot flavor from spices.",
+    "ipa": "/ˈspaɪsi/",
+    "ex": "The curry was so spicy that I needed a glass of milk.",
+    "form": "",
+    "nat": "I like spicy food, but my husband prefers mild dishes.",
+    "syn": [
+      "hot"
+    ],
+    "ant": [
+      "mild",
+      "bland"
+    ],
+    "col": [
+      "spicy food",
+      "spicy sauce",
+      "very spicy",
+      "spicy sausage"
+    ],
+    "mis": {
+      "bad": "The soup is too much spicy.",
+      "good": "The soup is too spicy.",
+      "why": "Do not use \"too much\" before an adjective; use \"too\"."
+    },
+    "fam": [
+      "spice (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "bland",
+    "w": "bland",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "insosso, sem graça",
+    "def": "Having little taste or flavor.",
+    "ipa": "/blænd/",
+    "ex": "The soup was bland, so I added salt and some black pepper.",
+    "form": "",
+    "nat": "Hospital food is often bland, but this meal was surprisingly tasty.",
+    "syn": [
+      "tasteless",
+      "flat"
+    ],
+    "ant": [
+      "spicy",
+      "tasty"
+    ],
+    "col": [
+      "bland food",
+      "bland diet",
+      "bland taste",
+      "rather bland"
+    ],
+    "mis": {
+      "bad": "The soup tastes blandly.",
+      "good": "The soup tastes bland.",
+      "why": "After \"taste\", use an adjective, not an adverb."
+    },
+    "fam": [
+      "bland (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "flavor",
+    "w": "flavor",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "sabor",
+    "def": "The taste of a food or drink.",
+    "ipa": "/ˈfleɪvər/",
+    "ex": "This ice cream has a strong flavor of vanilla and caramel.",
+    "form": "",
+    "nat": "What flavor of yogurt would you like, strawberry or peach?",
+    "syn": [
+      "taste"
+    ],
+    "ant": [],
+    "col": [
+      "strong flavor",
+      "rich flavor",
+      "add flavor",
+      "ice cream flavor"
+    ],
+    "mis": {
+      "bad": "The flavor of this cake is more better than that one.",
+      "good": "The flavor of this cake is better than that one.",
+      "why": "\"Better\" is already comparative; never say \"more better\"."
+    },
+    "fam": [
+      "flavor (verb)",
+      "flavorful (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "portion",
+    "w": "portion",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "porção",
+    "def": "The amount of food that is served to one person.",
+    "ipa": "/ˈpɔːrʃn/",
+    "ex": "The portions at this restaurant are huge, so we shared one dish.",
+    "form": "",
+    "nat": "I only ate a small portion of the pasta because I was not hungry.",
+    "syn": [
+      "serving"
+    ],
+    "ant": [],
+    "col": [
+      "large portion",
+      "small portion",
+      "portion size",
+      "half portion"
+    ],
+    "mis": {
+      "bad": "I ate two portion of rice.",
+      "good": "I ate two portions of rice.",
+      "why": "After \"two\" the noun must be plural."
+    },
+    "fam": [
+      "portion (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "vegetarian",
+    "w": "vegetarian",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "vegetariano",
+    "def": "Not eating meat or fish; made without meat or fish.",
+    "ipa": "/ˌvedʒəˈteriən/",
+    "ex": "My sister has been vegetarian for ten years and loves cooking pasta.",
+    "form": "",
+    "nat": "The restaurant has a good vegetarian menu with many creative dishes.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "vegetarian diet",
+      "vegetarian meal",
+      "vegetarian restaurant",
+      "go vegetarian"
+    ],
+    "mis": {
+      "bad": "I am vegetarian since two years.",
+      "good": "I have been vegetarian for two years.",
+      "why": "Use the present perfect with \"for\" to show duration, not the present simple with \"since\"."
+    },
+    "fam": [
+      "vegetarian (noun)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "vegan",
+    "w": "vegan",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "vegano",
+    "def": "Not eating or using any animal products, including milk and eggs.",
+    "ipa": "/ˈviːɡən/",
+    "ex": "She became vegan after watching a documentary about modern farming.",
+    "form": "",
+    "nat": "This vegan cake is made without eggs, milk, or butter.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "vegan diet",
+      "vegan restaurant",
+      "go vegan",
+      "vegan cheese"
+    ],
+    "mis": {
+      "bad": "The vegan people eat just vegetables and fish.",
+      "good": "Vegan people do not eat any animal products, including fish.",
+      "why": "Vegans do not eat fish; the definition in the sentence is false."
+    },
+    "fam": [
+      "veganism (noun)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "seasoning",
+    "w": "seasoning",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "tempero",
+    "def": "Salt, pepper, herbs, or spices added to food to improve its taste.",
+    "ipa": "/ˈsiːzənɪŋ/",
+    "ex": "Add a little seasoning to the soup just before you serve it.",
+    "form": "",
+    "nat": "The chef uses a special seasoning that makes the fish taste amazing.",
+    "syn": [
+      "spice"
+    ],
+    "ant": [],
+    "col": [
+      "add seasoning",
+      "taste for seasoning",
+      "salt and seasoning",
+      "seasoning mix"
+    ],
+    "mis": {
+      "bad": "I put many seasonings in the rice and it was perfect.",
+      "good": "I put plenty of seasoning in the rice, and it was perfect.",
+      "why": "Seasoning is mostly uncountable, so use \"plenty of seasoning\", not \"many seasonings\"."
+    },
+    "fam": [
+      "season (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "crunchy",
+    "w": "crunchy",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "crocante",
+    "def": "Firm and making a loud noise when you bite it.",
+    "ipa": "/ˈkrʌntʃi/",
+    "ex": "I love the crunchy crust on this bread, but the inside is soft.",
+    "form": "",
+    "nat": "These crunchy carrots are delicious with a little hummus.",
+    "syn": [
+      "crisp"
+    ],
+    "ant": [
+      "soft"
+    ],
+    "col": [
+      "crunchy snack",
+      "crunchy texture",
+      "nice and crunchy",
+      "crunchy salad"
+    ],
+    "mis": {
+      "bad": "The biscuit was very croquant and tasty.",
+      "good": "The biscuit was very crunchy and tasty.",
+      "why": "\"Croquant\" is French; the English word is crunchy."
+    },
+    "fam": [
+      "crunch (verb, noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "tender",
+    "w": "tender",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "macio, tenro",
+    "def": "Soft and easy to cut or chew, especially meat or vegetables.",
+    "ipa": "/ˈtendər/",
+    "ex": "The beef was so tender that it almost melted in my mouth.",
+    "form": "",
+    "nat": "Cook the carrots until they are tender but not too soft.",
+    "syn": [
+      "soft"
+    ],
+    "ant": [
+      "tough"
+    ],
+    "col": [
+      "tender meat",
+      "tender steak",
+      "tender vegetables",
+      "melt in the mouth"
+    ],
+    "mis": {
+      "bad": "The meat was so tender that was easy of chew.",
+      "good": "The meat was so tender that it was easy to chew.",
+      "why": "The result clause needs a subject (\"it\") and \"easy to chew\"."
+    },
+    "fam": [
+      "tenderness (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "ripe",
+    "w": "ripe",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "maduro",
+    "def": "Ready to be picked and eaten, used for fruit.",
+    "ipa": "/raɪp/",
+    "ex": "Wait until the mangoes are ripe before you cut them for dessert.",
+    "form": "",
+    "nat": "These bananas are not ripe yet, so the taste is quite bitter.",
+    "syn": [
+      "mature"
+    ],
+    "ant": [
+      "unripe",
+      "raw"
+    ],
+    "col": [
+      "ripe fruit",
+      "ripe banana",
+      "fully ripe",
+      "perfectly ripe"
+    ],
+    "mis": {
+      "bad": "The fruit is mature and ready to eat.",
+      "good": "The fruit is ripe and ready to eat.",
+      "why": "\"Mature\" is used for people, cheese, or ideas; fruit that is ready is ripe."
+    },
+    "fam": [
+      "ripen (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "raw",
+    "w": "raw",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "cru",
+    "def": "Not cooked, or not yet prepared for use.",
+    "ipa": "/rɔː/",
+    "ex": "Do not eat raw eggs, because they can make you very sick.",
+    "form": "",
+    "nat": "The chef served the fish raw with a little lemon and soy sauce.",
+    "syn": [
+      "uncooked"
+    ],
+    "ant": [
+      "cooked"
+    ],
+    "col": [
+      "raw meat",
+      "raw vegetables",
+      "raw material",
+      "eat raw"
+    ],
+    "mis": {
+      "bad": "I like my steak crude, with some blood inside.",
+      "good": "I like my steak rare, with some blood inside.",
+      "why": "\"Crude\" is not used for undercooked meat; steaks are rare, medium, or well done, and uncooked food is raw."
+    },
+    "fam": [
+      "rawness (noun)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "beverage",
+    "w": "beverage",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "bebida",
+    "def": "Any drink, usually not water, such as juice or tea.",
+    "ipa": "/ˈbevərɪdʒ/",
+    "ex": "The hotel offers a free welcome beverage when guests arrive.",
+    "form": "",
+    "nat": "You can bring food, but alcoholic beverages are not allowed in the park.",
+    "syn": [
+      "drink"
+    ],
+    "ant": [],
+    "col": [
+      "hot beverage",
+      "cold beverage",
+      "alcoholic beverage",
+      "food and beverage"
+    ],
+    "mis": {
+      "bad": "I would like a beverage cold.",
+      "good": "I would like a cold beverage.",
+      "why": "Adjectives come before the noun in English."
+    },
+    "fam": [
+      "beverage (noun)"
+    ],
+    "topics": [
+      "daily",
+      "business"
+    ]
+  },
+  {
+    "id": "takeaway",
+    "w": "takeaway",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "comida para viagem",
+    "def": "Food that you buy in a restaurant and eat somewhere else.",
+    "ipa": "/ˈteɪkəweɪ/",
+    "ex": "We were too tired to cook, so we ordered a pizza takeaway.",
+    "form": "",
+    "nat": "The takeaway on the corner is cheap, and the food arrives hot.",
+    "syn": [
+      "takeout"
+    ],
+    "ant": [],
+    "col": [
+      "order a takeaway",
+      "Indian takeaway",
+      "takeaway menu",
+      "takeaway food"
+    ],
+    "mis": {
+      "bad": "We ate in the takeaway because it had tables.",
+      "good": "We ate in the restaurant because it had tables.",
+      "why": "A takeaway is a place or meal you take away, so you do not eat inside it."
+    },
+    "fam": [
+      "take away (phrasal verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "buffet",
+    "w": "buffet",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "buffet, bufê",
+    "def": "A meal where you serve yourself from a long table of food.",
+    "ipa": "/bəˈfeɪ/",
+    "ex": "The hotel serves a large buffet for breakfast from seven to ten.",
+    "form": "",
+    "nat": "At the wedding, there was a buffet with hot and cold dishes.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "breakfast buffet",
+      "buffet lunch",
+      "buffet table",
+      "all-you-can-eat buffet"
+    ],
+    "mis": {
+      "bad": "The buffet is pronounced like in \"buffalo\".",
+      "good": "The word buffet is pronounced buh-FAY.",
+      "why": "The final t is silent in buffet; it does not sound like \"buffalo\"."
+    },
+    "fam": [
+      "buffet (verb, different meaning)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "tip",
+    "w": "tip",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "gorjeta",
+    "def": "A small extra amount of money that you give to a waiter or driver.",
+    "ipa": "/tɪp/",
+    "ex": "We left a ten percent tip because the service was excellent.",
+    "form": "",
+    "nat": "Do people leave a tip in restaurants in your country?",
+    "syn": [
+      "gratuity"
+    ],
+    "ant": [],
+    "col": [
+      "leave a tip",
+      "generous tip",
+      "tip the waiter",
+      "ten percent tip"
+    ],
+    "mis": {
+      "bad": "We left a tip to the waiter of five euros.",
+      "good": "We left the waiter a five-euro tip.",
+      "why": "Word order: we leave someone a tip; \"tip to the waiter of five euros\" is unnatural."
+    },
+    "fam": [
+      "tip (verb)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "waiter",
+    "w": "waiter",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "garçom",
+    "def": "A man who brings food and drinks to customers in a restaurant.",
+    "ipa": "/ˈweɪtər/",
+    "ex": "The waiter recommended the fish and brought us some bread.",
+    "form": "waiter",
+    "nat": "Our waiter was friendly and checked on us several times during dinner.",
+    "syn": [
+      "server"
+    ],
+    "ant": [],
+    "col": [
+      "call the waiter",
+      "polite waiter",
+      "waiter service",
+      "ask the waiter"
+    ],
+    "mis": {
+      "bad": "I called the waiter to bring me the account.",
+      "good": "I called the waiter to bring me the bill.",
+      "why": "In a restaurant you ask for the bill, not the \"account\"."
+    },
+    "fam": [
+      "waitress (noun, fem.)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "craving",
+    "w": "craving",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "desejo intenso (de comer algo)",
+    "def": "A very strong desire for a particular food or thing.",
+    "ipa": "/ˈkreɪvɪŋ/",
+    "ex": "I had a craving for chocolate in the middle of the night.",
+    "form": "craving",
+    "nat": "He ate a sandwich to satisfy his craving for something salty.",
+    "syn": [
+      "urge",
+      "longing"
+    ],
+    "ant": [],
+    "col": [
+      "have a craving",
+      "food craving",
+      "satisfy a craving",
+      "sugar cravings"
+    ],
+    "mis": {
+      "bad": "I have a craving of pizza right now.",
+      "good": "I have a craving for pizza right now.",
+      "why": "Craving is followed by \"for\", not \"of\"."
+    },
+    "fam": [
+      "crave (verb)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "snack",
+    "w": "snack",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "lanche, petisco",
+    "def": "A small amount of food that you eat between meals.",
+    "ipa": "/snæk/",
+    "ex": "I always take a healthy snack to work in case I get hungry.",
+    "form": "",
+    "nat": "The kids ate a snack when they came home from school.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "healthy snack",
+      "late-night snack",
+      "snack bar",
+      "grab a snack"
+    ],
+    "mis": {
+      "bad": "I snack a sandwich every afternoon.",
+      "good": "I have a sandwich as a snack every afternoon.",
+      "why": "Snack is mostly a noun in this sense; \"have a snack\" or \"snack on\" a food is the usual pattern."
+    },
+    "fam": [
+      "snack (verb)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "groceries",
+    "w": "groceries",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "compras de mercado, mantimentos",
+    "def": "Food and other items that you buy at a supermarket for your home.",
+    "ipa": "/ˈɡroʊsəriz/",
+    "ex": "I carried the groceries up to the third floor because the elevator was broken.",
+    "form": "",
+    "nat": "We do the groceries on Saturdays, when the supermarket is less crowded.",
+    "syn": [
+      "supplies"
+    ],
+    "ant": [],
+    "col": [
+      "buy groceries",
+      "do the groceries",
+      "grocery store",
+      "carry the groceries"
+    ],
+    "mis": {
+      "bad": "I went to the market to do my compras.",
+      "good": "I went to the supermarket to buy groceries.",
+      "why": "Do not use Portuguese \"compras\"; groceries is plural and goes with buy or do."
+    },
+    "fam": [
+      "grocery (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "pantry",
+    "w": "pantry",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "despensa",
+    "def": "A small room or cupboard where you keep food.",
+    "ipa": "/ˈpæntri/",
+    "ex": "There is plenty of pasta and rice in the pantry if you are hungry.",
+    "form": "",
+    "nat": "I need to clean the pantry because some of the food is out of date.",
+    "syn": [
+      "larder"
+    ],
+    "ant": [],
+    "col": [
+      "stock the pantry",
+      "kitchen pantry",
+      "pantry shelf",
+      "pantry staples"
+    ],
+    "mis": {
+      "bad": "The pantry have no flour.",
+      "good": "The pantry has no flour.",
+      "why": "A singular noun takes \"has\"."
+    },
+    "fam": [
+      "pantry (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "appetite",
+    "w": "appetite",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "apetite",
+    "def": "The feeling that you want to eat food.",
+    "ipa": "/ˈæpɪtaɪt/",
+    "ex": "I lost my appetite after hearing the bad news about my job.",
+    "form": "",
+    "nat": "The long walk in the mountains gave us a big appetite.",
+    "syn": [
+      "hunger"
+    ],
+    "ant": [],
+    "col": [
+      "lose your appetite",
+      "big appetite",
+      "good appetite",
+      "have an appetite"
+    ],
+    "mis": {
+      "bad": "I have an appetite of pizza.",
+      "good": "I have an appetite for pizza.",
+      "why": "Appetite is followed by \"for\", not \"of\"."
+    },
+    "fam": [
+      "appetizing (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "feast",
+    "w": "feast",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "banquete, festim",
+    "def": "A large and special meal for many people, often to celebrate something.",
+    "ipa": "/fiːst/",
+    "ex": "The family prepared a huge feast for the holiday dinner.",
+    "form": "",
+    "nat": "After the wedding ceremony, we had a feast with music and dancing.",
+    "syn": [
+      "banquet"
+    ],
+    "ant": [],
+    "col": [
+      "wedding feast",
+      "feast day",
+      "enjoy a feast",
+      "prepare a feast"
+    ],
+    "mis": {
+      "bad": "The feast was a quick meal of only one sandwich.",
+      "good": "The feast was a huge meal with many dishes.",
+      "why": "A feast is a big meal; \"a quick sandwich\" cannot be a feast."
+    },
+    "fam": [
+      "feast (verb)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "homemade",
+    "w": "homemade",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "caseiro, feito em casa",
+    "def": "Made at home and not bought from a shop.",
+    "ipa": "/ˌhoʊmˈmeɪd/",
+    "ex": "My aunt brought homemade bread and a jar of strawberry jam.",
+    "form": "",
+    "nat": "Nothing tastes better than a homemade pizza on a cold evening.",
+    "syn": [
+      "handmade"
+    ],
+    "ant": [
+      "store-bought"
+    ],
+    "col": [
+      "homemade bread",
+      "homemade cake",
+      "homemade jam",
+      "homemade pasta"
+    ],
+    "mis": {
+      "bad": "My mother made a homemaded cake.",
+      "good": "My mother made a homemade cake.",
+      "why": "Homemade is already an adjective and has no -ed ending."
+    },
+    "fam": [
+      "home-cooked (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "dish",
+    "w": "dish",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "prato (comida), travessa",
+    "def": "Food prepared in a particular way, or a plate for serving it.",
+    "ipa": "/dɪʃ/",
+    "ex": "My favorite dish is rice with beans and grilled chicken.",
+    "form": "",
+    "nat": "The restaurant is famous for its traditional dishes from the north of Brazil.",
+    "syn": [
+      "meal"
+    ],
+    "ant": [],
+    "col": [
+      "main dish",
+      "side dish",
+      "traditional dish",
+      "wash the dishes"
+    ],
+    "mis": {
+      "bad": "I washed the plate yesterday, and now I will cook a new plate.",
+      "good": "I washed the dishes yesterday, and now I will cook a new dish.",
+      "why": "\"Plate\" is the object you eat from; \"prato\" as a meal is a dish."
+    },
+    "fam": [
+      "dishes (plural)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "sip",
+    "w": "sip",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "tomar aos golinhos",
+    "def": "To drink something slowly, taking a small amount at a time.",
+    "ipa": "/sɪp/",
+    "ex": "She sipped her tea slowly and looked at the rain through the window.",
+    "form": "sipped",
+    "nat": "He sipped the hot soup carefully because he did not want to burn his tongue.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "sip a drink",
+      "sip tea",
+      "take a sip",
+      "sip slowly"
+    ],
+    "mis": {
+      "bad": "He sipped all the juice in one go.",
+      "good": "He drank all the juice in one go.",
+      "why": "Sip means drinking in small amounts, so \"all in one go\" contradicts it."
+    },
+    "fam": [
+      "sip (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "alarm",
+    "w": "alarm",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "alarme, despertador",
+    "def": "A sound or device that warns you about something or wakes you up.",
+    "ipa": "/əˈlɑːrm/",
+    "ex": "My alarm rang at six, but I turned it off and went back to sleep.",
+    "form": "",
+    "nat": "The fire alarm went off, so we left the building quickly.",
+    "syn": [
+      "alert"
+    ],
+    "ant": [],
+    "col": [
+      "set an alarm",
+      "alarm clock",
+      "fire alarm",
+      "false alarm"
+    ],
+    "mis": {
+      "bad": "I put the alarm to ring at six.",
+      "good": "I set the alarm for six.",
+      "why": "The verb is set: \"set the alarm for six\"."
+    },
+    "fam": [
+      "alarm (verb)",
+      "alarming (adj)"
+    ],
+    "topics": [
+      "daily",
+      "security"
+    ]
+  },
+  {
+    "id": "errand",
+    "w": "errand",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "tarefa, recado",
+    "def": "A short trip to do a small job, such as buying something or posting a letter.",
+    "ipa": "/ˈerənd/",
+    "ex": "I have a few errands to run before I come to your house.",
+    "form": "",
+    "nat": "She spent the morning running errands in the city center.",
+    "syn": [
+      "chore"
+    ],
+    "ant": [],
+    "col": [
+      "run errands",
+      "a quick errand",
+      "errand boy",
+      "go on an errand"
+    ],
+    "mis": {
+      "bad": "I need to make some errands this afternoon.",
+      "good": "I need to run some errands this afternoon.",
+      "why": "The collocation is \"run errands\", not \"make errands\"."
+    },
+    "fam": [
+      "errand (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "laundry",
+    "w": "laundry",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "roupa suja, lavanderia",
+    "def": "Clothes that need washing or have just been washed.",
+    "ipa": "/ˈlɔːndri/",
+    "ex": "I do the laundry every Sunday, and then I iron my shirts.",
+    "form": "",
+    "nat": "There is a pile of dirty laundry in the bathroom.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "do the laundry",
+      "laundry basket",
+      "dirty laundry",
+      "laundry room"
+    ],
+    "mis": {
+      "bad": "I did the laundries and cleaned the kitchen.",
+      "good": "I did the laundry and cleaned the kitchen.",
+      "why": "Laundry is uncountable here, so it has no plural."
+    },
+    "fam": [
+      "launder (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "housework",
+    "w": "housework",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "trabalho doméstico",
+    "def": "Jobs you do to keep your home clean, such as cleaning and washing.",
+    "ipa": "/ˈhaʊswɜːrk/",
+    "ex": "We share the housework, so nobody feels too tired at the weekend.",
+    "form": "",
+    "nat": "I finish the housework before noon, and then I relax.",
+    "syn": [
+      "chores"
+    ],
+    "ant": [],
+    "col": [
+      "do the housework",
+      "share the housework",
+      "hate housework",
+      "heavy housework"
+    ],
+    "mis": {
+      "bad": "I did many houseworks this morning.",
+      "good": "I did a lot of housework this morning.",
+      "why": "Housework is uncountable, so it has no plural and cannot take \"many\"."
+    },
+    "fam": [
+      "housework (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "oversleep",
+    "w": "oversleep",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "dormir demais, perder a hora",
+    "def": "To sleep for longer than you planned.",
+    "ipa": "/ˌoʊvərˈsliːp/",
+    "ex": "I overslept this morning, so I missed the first bus to work.",
+    "form": "overslept",
+    "nat": "Set two alarms if you are afraid that you will oversleep.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "oversleep again",
+      "accidentally oversleep",
+      "oversleep and miss",
+      "never oversleep"
+    ],
+    "mis": {
+      "bad": "I overslept the bus because I woke up late.",
+      "good": "I missed the bus because I overslept.",
+      "why": "You miss a bus; you do not \"oversleep\" a bus."
+    },
+    "fam": [
+      "oversleep (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "nap",
+    "w": "nap",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "cochilo, soneca",
+    "def": "A short sleep during the day.",
+    "ipa": "/næp/",
+    "ex": "I took a short nap after lunch and felt much better.",
+    "form": "",
+    "nat": "The baby usually has a nap at about two o'clock.",
+    "syn": [
+      "doze"
+    ],
+    "ant": [],
+    "col": [
+      "take a nap",
+      "afternoon nap",
+      "quick nap",
+      "power nap"
+    ],
+    "mis": {
+      "bad": "I made a nap after lunch.",
+      "good": "I took a nap after lunch.",
+      "why": "The collocation is \"take a nap\" or \"have a nap\"."
+    },
+    "fam": [
+      "nap (verb)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "spill",
+    "w": "spill",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "derramar",
+    "def": "To let a liquid fall out of a container by accident.",
+    "ipa": "/spɪl/",
+    "ex": "I spilled coffee on my shirt just before the meeting started.",
+    "form": "spilled",
+    "nat": "Be careful not to spill the milk when you pour it.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "spill coffee",
+      "spill on",
+      "spill over",
+      "spill the beans"
+    ],
+    "mis": {
+      "bad": "I poured the coffee and spilled it out of the cup accidentally on purpose.",
+      "good": "I poured the coffee and spilled it by accident.",
+      "why": "\"Accidentally on purpose\" contradicts itself; spill means by accident."
+    },
+    "fam": [
+      "spill (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "misplace",
+    "w": "misplace",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "perder (algo temporariamente), colocar no lugar errado",
+    "def": "To put something somewhere and then forget where it is.",
+    "ipa": "/ˌmɪsˈpleɪs/",
+    "ex": "I misplaced my keys this morning and searched the whole apartment.",
+    "form": "misplaced",
+    "nat": "She often misplaces her phone, so she uses a tracking app.",
+    "syn": [
+      "lose"
+    ],
+    "ant": [
+      "find"
+    ],
+    "col": [
+      "misplace your keys",
+      "misplaced trust",
+      "misplaced my wallet",
+      "temporarily misplaced"
+    ],
+    "mis": {
+      "bad": "I misplaced my phone, so I think someone stole it.",
+      "good": "I misplaced my phone, but I found it under the sofa.",
+      "why": "Misplace means a temporary loss by your own mistake, not theft."
+    },
+    "fam": [
+      "misplaced (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "hassle",
+    "w": "hassle",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "aborrecimento, trabalheira",
+    "def": "A situation that is annoying because it causes difficulty or extra effort.",
+    "ipa": "/ˈhæsl/",
+    "ex": "Renewing my driving license was such a hassle that I almost gave up.",
+    "form": "",
+    "nat": "It is no hassle at all, so please let us help you.",
+    "syn": [
+      "trouble",
+      "inconvenience"
+    ],
+    "ant": [],
+    "col": [
+      "no hassle",
+      "avoid the hassle",
+      "such a hassle",
+      "save the hassle"
+    ],
+    "mis": {
+      "bad": "It was a big hassles to get a visa.",
+      "good": "It was a big hassle to get a visa.",
+      "why": "\"A big hassle\" is singular after \"a\"."
+    },
+    "fam": [
+      "hassle (verb)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "convenience",
+    "w": "convenience",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "conveniência, comodidade",
+    "def": "The quality of being easy, useful, or suitable for your needs.",
+    "ipa": "/kənˈviːniəns/",
+    "ex": "Online banking is popular because of its speed and convenience.",
+    "form": "",
+    "nat": "For your convenience, the shop opens at seven in the morning.",
+    "syn": [
+      "ease"
+    ],
+    "ant": [],
+    "col": [
+      "for convenience",
+      "convenience store",
+      "at your convenience",
+      "great convenience"
+    ],
+    "mis": {
+      "bad": "The shop has a convenience for the customers of parking.",
+      "good": "The shop offers the convenience of free parking for customers.",
+      "why": "Use \"the convenience of + noun\"; \"of parking\" cannot follow \"customers\" like that."
+    },
+    "fam": [
+      "convenient (adj)"
+    ],
+    "topics": [
+      "daily",
+      "business"
+    ]
+  },
+  {
+    "id": "favor",
+    "w": "favor",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "favor",
+    "def": "Something kind that you do to help someone.",
+    "ipa": "/ˈfeɪvər/",
+    "ex": "Could you do me a favor and pick up my children from school?",
+    "form": "",
+    "nat": "He asked me for a favor, but I was too busy to help.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "do a favor",
+      "ask a favor",
+      "return the favor",
+      "in favor of"
+    ],
+    "mis": {
+      "bad": "Can you make me a favour?",
+      "good": "Can you do me a favor?",
+      "why": "The collocation is \"do someone a favor\", not \"make\"."
+    },
+    "fam": [
+      "favor (verb)",
+      "favorite (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "cancel",
+    "w": "cancel",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "cancelar",
+    "def": "To decide that a planned event will not happen.",
+    "ipa": "/ˈkænsl/",
+    "ex": "They cancelled the concert at the last minute because the singer was sick.",
+    "form": "cancelled",
+    "nat": "You can cancel your booking free of charge until Friday.",
+    "syn": [
+      "call off"
+    ],
+    "ant": [
+      "confirm"
+    ],
+    "col": [
+      "cancel a flight",
+      "cancel a meeting",
+      "cancel your order",
+      "cancel a subscription"
+    ],
+    "mis": {
+      "bad": "They canceled the meeting to the next week.",
+      "good": "They postponed the meeting to next week.",
+      "why": "Cancel means the event will not happen; to move it to another date, use postpone."
+    },
+    "fam": [
+      "cancellation (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "gradually",
+    "w": "gradually",
+    "pos": "adv",
+    "lvl": "B2",
+    "pt": "gradualmente",
+    "def": "Slowly, over a period of time.",
+    "ipa": "/ˈɡrædʒuəli/",
+    "ex": "The weather gradually became warmer and warmer as we drove further south.",
+    "form": "",
+    "nat": "Gradually, she got used to living in a big city.",
+    "syn": [
+      "slowly",
+      "step by step"
+    ],
+    "ant": [
+      "suddenly"
+    ],
+    "col": [
+      "change gradually",
+      "gradually increase",
+      "gradually improve",
+      "gradually become"
+    ],
+    "mis": {
+      "bad": "The weather gradual became warmer.",
+      "good": "The weather gradually became warmer.",
+      "why": "Use the adverb \"gradually\" to modify a verb."
+    },
+    "fam": [
+      "gradual (adj)"
+    ],
+    "topics": [
+      "daily",
+      "abstract"
+    ]
+  },
+  {
+    "id": "eventually",
+    "w": "eventually",
+    "pos": "adv",
+    "lvl": "B1+",
+    "pt": "por fim, eventualmente (no fim)",
+    "def": "In the end, especially after a long time or many problems.",
+    "ipa": "/ɪˈventʃuəli/",
+    "ex": "After three hours of waiting, we eventually got a table at the restaurant.",
+    "form": "",
+    "nat": "He eventually found a job, but it took more than a year.",
+    "syn": [
+      "finally",
+      "in the end"
+    ],
+    "ant": [],
+    "col": [
+      "eventually decide",
+      "eventually succeed",
+      "eventually find",
+      "eventually arrive"
+    ],
+    "mis": {
+      "bad": "Eventually I may call you tomorrow.",
+      "good": "Perhaps I will call you tomorrow.",
+      "why": "In English eventually means \"in the end\", not \"possibly\"."
+    },
+    "fam": [
+      "eventual (adj)"
+    ],
+    "topics": [
+      "daily",
+      "abstract"
+    ]
+  },
+  {
+    "id": "stranger",
+    "w": "stranger",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "estranho, desconhecido",
+    "def": "A person you do not know.",
+    "ipa": "/ˈstreɪndʒər/",
+    "ex": "Never open the door to a stranger when your parents are not home.",
+    "form": "",
+    "nat": "I felt like a stranger in my own city after ten years abroad.",
+    "syn": [
+      "outsider"
+    ],
+    "ant": [
+      "friend"
+    ],
+    "col": [
+      "complete stranger",
+      "total stranger",
+      "talk to strangers",
+      "stranger danger"
+    ],
+    "mis": {
+      "bad": "He is a stranger from another country.",
+      "good": "He is a foreigner from another country.",
+      "why": "A stranger is someone you do not know; a person from another country is a foreigner."
+    },
+    "fam": [
+      "strange (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "hobby",
+    "w": "hobby",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "hobby, passatempo",
+    "def": "An activity that you enjoy doing in your free time.",
+    "ipa": "/ˈhɑːbi/",
+    "ex": "My favorite hobby is photography, and I take my camera everywhere.",
+    "form": "",
+    "nat": "He took up a new hobby after he retired, and now he paints every day.",
+    "syn": [
+      "pastime"
+    ],
+    "ant": [],
+    "col": [
+      "take up a hobby",
+      "favorite hobby",
+      "have a hobby",
+      "turn a hobby into a job"
+    ],
+    "mis": {
+      "bad": "My hobbie is play football.",
+      "good": "My hobby is playing football.",
+      "why": "The spelling is hobby, and after \"is\" use the -ing form."
+    },
+    "fam": [
+      "hobbyist (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "hiking",
+    "w": "hiking",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "caminhada em trilhas",
+    "def": "The activity of walking long distances in nature, especially on hills or mountains.",
+    "ipa": "/ˈhaɪkɪŋ/",
+    "ex": "We went hiking in the mountains and stayed in a small cabin.",
+    "form": "",
+    "nat": "Good hiking boots are important if you plan to walk for many hours.",
+    "syn": [
+      "trekking"
+    ],
+    "ant": [],
+    "col": [
+      "go hiking",
+      "hiking boots",
+      "hiking trail",
+      "hiking trip"
+    ],
+    "mis": {
+      "bad": "We did hiking in the mountains last weekend.",
+      "good": "We went hiking in the mountains last weekend.",
+      "why": "Use \"go hiking\" for activities with -ing; \"do hiking\" is not natural."
+    },
+    "fam": [
+      "hike (verb, noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "camping",
+    "w": "camping",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "acampamento, camping",
+    "def": "The activity of staying outdoors in a tent for a holiday.",
+    "ipa": "/ˈkæmpɪŋ/",
+    "ex": "We went camping by the lake, and the stars were beautiful at night.",
+    "form": "",
+    "nat": "Camping is cheap, but you need to be ready for bad weather.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "go camping",
+      "camping trip",
+      "camping stove",
+      "camping equipment"
+    ],
+    "mis": {
+      "bad": "We went to camping near the river.",
+      "good": "We went camping near the river.",
+      "why": "After \"go\", camping is used without \"to\": go camping."
+    },
+    "fam": [
+      "camp (verb, noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "campsite",
+    "w": "campsite",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "área de camping",
+    "def": "A place where people can put up tents and stay.",
+    "ipa": "/ˈkæmpsaɪt/",
+    "ex": "The campsite has showers, a small shop, and a lovely view of the sea.",
+    "form": "",
+    "nat": "We arrived at the campsite late and put up our tent in the dark.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "book a campsite",
+      "campsite fee",
+      "busy campsite",
+      "find a campsite"
+    ],
+    "mis": {
+      "bad": "We found a campsite with place to put the tent.",
+      "good": "We found a campsite with space to put up the tent.",
+      "why": "Use \"space\" (uncountable) for room; \"place\" would need an article or a different structure."
+    },
+    "fam": [
+      "campsite (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "trail",
+    "w": "trail",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "trilha, caminho",
+    "def": "A path through the countryside or forest, used for walking or cycling.",
+    "ipa": "/treɪl/",
+    "ex": "The trail was steep and muddy, but the view from the top was wonderful.",
+    "form": "",
+    "nat": "Please stay on the trail so you do not damage the plants.",
+    "syn": [
+      "path"
+    ],
+    "ant": [],
+    "col": [
+      "hiking trail",
+      "follow the trail",
+      "nature trail",
+      "trail map"
+    ],
+    "mis": {
+      "bad": "We walked by the trail until the top.",
+      "good": "We walked along the trail to the top.",
+      "why": "Use \"along the trail\" for movement on a path; \"until the top\" should be \"to the top\"."
+    },
+    "fam": [
+      "trail (verb)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "sunbathe",
+    "w": "sunbathe",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "tomar sol",
+    "def": "To lie in the sun in order to make your skin brown.",
+    "ipa": "/ˈsʌnbeɪð/",
+    "ex": "We sunbathed on the beach all afternoon and forgot to put on sunscreen.",
+    "form": "sunbathed",
+    "nat": "You should not sunbathe in the middle of the day because the sun is too strong.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "sunbathe on the beach",
+      "sunbathe for hours",
+      "sunbathe by the pool",
+      "sunbathing"
+    ],
+    "mis": {
+      "bad": "I like to sunbathe me on the beach.",
+      "good": "I like to sunbathe on the beach.",
+      "why": "Sunbathe is intransitive and does not take a reflexive pronoun."
+    },
+    "fam": [
+      "sunbathing (noun)",
+      "sunburn (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "stroll",
+    "w": "stroll",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "passeio tranquilo, caminhada leve",
+    "def": "A slow, relaxed walk, usually for pleasure.",
+    "ipa": "/stroʊl/",
+    "ex": "After dinner, we went for a stroll along the river.",
+    "form": "",
+    "nat": "A quiet stroll in the park is a nice way to clear your mind.",
+    "syn": [
+      "walk",
+      "wander"
+    ],
+    "ant": [],
+    "col": [
+      "go for a stroll",
+      "evening stroll",
+      "take a stroll",
+      "gentle stroll"
+    ],
+    "mis": {
+      "bad": "After the dinner we did a stroll in the park.",
+      "good": "After dinner, we went for a stroll in the park.",
+      "why": "Use \"go for a stroll\" or \"take a stroll\"; also \"dinner\" needs no article here."
+    },
+    "fam": [
+      "stroll (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "picnic",
+    "w": "picnic",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "piquenique",
+    "def": "A meal that you eat outdoors, usually in a park or in the countryside.",
+    "ipa": "/ˈpɪknɪk/",
+    "ex": "We had a picnic by the lake and fed the ducks.",
+    "form": "",
+    "nat": "It started to rain, so we ended the picnic early.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "have a picnic",
+      "picnic basket",
+      "picnic table",
+      "go on a picnic"
+    ],
+    "mis": {
+      "bad": "We made a picnic in the park on Sunday.",
+      "good": "We had a picnic in the park on Sunday.",
+      "why": "The collocation is \"have a picnic\" or \"go on a picnic\"."
+    },
+    "fam": [
+      "picnic (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "amusement",
+    "w": "amusement",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "diversão, entretenimento",
+    "def": "The pleasant feeling of enjoying something funny or interesting.",
+    "ipa": "/əˈmjuːzmənt/",
+    "ex": "The children screamed with amusement when the clown fell into the water.",
+    "form": "",
+    "nat": "We went to the amusement park, and the rides were great.",
+    "syn": [
+      "entertainment",
+      "fun"
+    ],
+    "ant": [
+      "boredom"
+    ],
+    "col": [
+      "amusement park",
+      "much to my amusement",
+      "sense of amusement",
+      "for amusement"
+    ],
+    "mis": {
+      "bad": "The park of amusement was closed on Monday.",
+      "good": "The amusement park was closed on Monday.",
+      "why": "Use the compound noun \"amusement park\", not \"park of amusement\"."
+    },
+    "fam": [
+      "amuse (verb)",
+      "amusing (adj)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "tournament",
+    "w": "tournament",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "torneio",
+    "def": "A competition in which many players or teams play until there is one winner.",
+    "ipa": "/ˈtʊrnəmənt/",
+    "ex": "Our team reached the final of the tournament for the first time.",
+    "form": "",
+    "nat": "He won the chess tournament in his city when he was fifteen.",
+    "syn": [
+      "competition"
+    ],
+    "ant": [],
+    "col": [
+      "enter a tournament",
+      "tennis tournament",
+      "win a tournament",
+      "knockout tournament"
+    ],
+    "mis": {
+      "bad": "Our team played in a tournament of football in the city.",
+      "good": "Our team played in a football tournament in the city.",
+      "why": "Use the noun adjunct \"football tournament\", not \"tournament of football\"."
+    },
+    "fam": [
+      "tournament (noun)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "stadium",
+    "w": "stadium",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "estádio",
+    "def": "A large building with seats around a field, used for sports or concerts.",
+    "ipa": "/ˈsteɪdiəm/",
+    "ex": "More than sixty thousand fans filled the stadium for the final match.",
+    "form": "",
+    "nat": "The singer will perform at the national stadium next summer.",
+    "syn": [
+      "arena"
+    ],
+    "ant": [],
+    "col": [
+      "football stadium",
+      "fill the stadium",
+      "stadium seat",
+      "stadium concert"
+    ],
+    "mis": {
+      "bad": "The match was in the stage of the city.",
+      "good": "The match was at the city stadium.",
+      "why": "\"Stage\" is where performers stand; a sports venue is a stadium."
+    },
+    "fam": [
+      "stadiums (plural)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "referee",
+    "w": "referee",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "árbitro",
+    "def": "The official who controls a game and makes sure that the rules are followed.",
+    "ipa": "/ˌrefəˈriː/",
+    "ex": "The referee stopped the match for ten minutes because of the heavy rain.",
+    "form": "",
+    "nat": "Players should not argue with the referee, even when they disagree.",
+    "syn": [
+      "umpire"
+    ],
+    "ant": [],
+    "col": [
+      "referee a match",
+      "the referee's decision",
+      "football referee",
+      "whistle"
+    ],
+    "mis": {
+      "bad": "The arbiter of the game gave a red card.",
+      "good": "The referee of the game gave a red card.",
+      "why": "\"Arbiter\" is not used in sports; the word is referee."
+    },
+    "fam": [
+      "referee (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "champion",
+    "w": "champion",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "campeão",
+    "def": "The winner of a competition, especially a sports competition.",
+    "ipa": "/ˈtʃæmpiən/",
+    "ex": "She became the world champion at the age of twenty-two.",
+    "form": "",
+    "nat": "The champions celebrated in the streets with thousands of fans.",
+    "syn": [
+      "winner"
+    ],
+    "ant": [
+      "loser"
+    ],
+    "col": [
+      "world champion",
+      "defending champion",
+      "win the title",
+      "champion team"
+    ],
+    "mis": {
+      "bad": "She is the champion in the tennis in the world.",
+      "good": "She is the world tennis champion.",
+      "why": "Use \"world tennis champion\" or \"champion of the world\"; the original structure is wrong."
+    },
+    "fam": [
+      "championship (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "spectator",
+    "w": "spectator",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "espectador (de evento esportivo)",
+    "def": "A person who watches an event, especially a sports match.",
+    "ipa": "/ˈspekteɪtər/",
+    "ex": "Thousands of spectators waited in the rain to see the final.",
+    "form": "",
+    "nat": "The match was played without spectators because of safety rules.",
+    "syn": [
+      "viewer",
+      "onlooker"
+    ],
+    "ant": [
+      "player"
+    ],
+    "col": [
+      "spectator sport",
+      "excited spectators",
+      "thousands of spectators",
+      "spectator stand"
+    ],
+    "mis": {
+      "bad": "The spectators of the cinema liked the film.",
+      "good": "The audience at the cinema liked the film.",
+      "why": "Spectators watch sports; for a cinema, theater, or concert use audience."
+    },
+    "fam": [
+      "spectate (verb, rare)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "stretch",
+    "w": "stretch",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "alongar, esticar",
+    "def": "To make your body or a part of it longer or straighter to relax the muscles.",
+    "ipa": "/stretʃ/",
+    "ex": "You should always stretch your legs well before you start running.",
+    "form": "stretch",
+    "nat": "I stretched my arms above my head and yawned loudly.",
+    "syn": [
+      "extend",
+      "pull"
+    ],
+    "ant": [
+      "relax"
+    ],
+    "col": [
+      "stretch your legs",
+      "stretch out",
+      "stretch before exercise",
+      "stretch a muscle"
+    ],
+    "mis": {
+      "bad": "I stretched my muscles before the run, and it was dangerous to hurt me.",
+      "good": "I stretched before the run so that I would not hurt myself.",
+      "why": "The original is not grammatical; use \"so that I would not hurt myself\"."
+    },
+    "fam": [
+      "stretch (noun)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "jog",
+    "w": "jog",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "correr em ritmo leve, fazer jogging",
+    "def": "To run slowly and steadily, usually for exercise.",
+    "ipa": "/dʒɑːɡ/",
+    "ex": "I jog around the park every morning before I go to work.",
+    "form": "jog",
+    "nat": "He jogged to the bus stop because he was late.",
+    "syn": [
+      "run slowly"
+    ],
+    "ant": [],
+    "col": [
+      "go jogging",
+      "jog around",
+      "jog for thirty minutes",
+      "jog to work"
+    ],
+    "mis": {
+      "bad": "I go to jog every morning near my house.",
+      "good": "I go jogging every morning near my house.",
+      "why": "After \"go\", use -ing: go jogging."
+    },
+    "fam": [
+      "jogger (noun)",
+      "jogging (noun)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "puzzle",
+    "w": "puzzle",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "quebra-cabeça, enigma",
+    "def": "A game or problem that you solve by thinking.",
+    "ipa": "/ˈpʌzl/",
+    "ex": "We spent the whole evening doing a puzzle with a thousand pieces.",
+    "form": "",
+    "nat": "The mystery of the missing keys was a real puzzle to everyone.",
+    "syn": [
+      "riddle",
+      "mystery"
+    ],
+    "ant": [],
+    "col": [
+      "solve a puzzle",
+      "jigsaw puzzle",
+      "crossword puzzle",
+      "puzzle piece"
+    ],
+    "mis": {
+      "bad": "I am good in puzzles.",
+      "good": "I am good at puzzles.",
+      "why": "Use \"good at\" for skills."
+    },
+    "fam": [
+      "puzzle (verb)",
+      "puzzling (adj)"
+    ],
+    "topics": [
+      "daily",
+      "abstract"
+    ]
+  },
+  {
+    "id": "leisure",
+    "w": "leisure",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "lazer, tempo livre",
+    "def": "Time when you are not working and can do things that you enjoy.",
+    "ipa": "/ˈliːʒər/",
+    "ex": "In my leisure time, I read novels and walk along the beach.",
+    "form": "",
+    "nat": "The hotel has a leisure center with a pool and a gym.",
+    "syn": [
+      "free time"
+    ],
+    "ant": [
+      "work"
+    ],
+    "col": [
+      "leisure time",
+      "leisure activities",
+      "leisure center",
+      "at your leisure"
+    ],
+    "mis": {
+      "bad": "In my times of leisure, I read many books.",
+      "good": "In my leisure time, I read many books.",
+      "why": "Say \"leisure time\" or \"in my free time\"; \"times of leisure\" is unnatural."
+    },
+    "fam": [
+      "leisurely (adj)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "pastime",
+    "w": "pastime",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "passatempo",
+    "def": "An activity that you do regularly for enjoyment.",
+    "ipa": "/ˈpæstaɪm/",
+    "ex": "Cooking is his favorite pastime, and he often invites friends for dinner.",
+    "form": "",
+    "nat": "Watching football is a national pastime in many countries.",
+    "syn": [
+      "hobby"
+    ],
+    "ant": [],
+    "col": [
+      "popular pastime",
+      "favorite pastime",
+      "national pastime",
+      "harmless pastime"
+    ],
+    "mis": {
+      "bad": "My pastime is to be playing cards on Sundays.",
+      "good": "My pastime is playing cards on Sundays.",
+      "why": "After \"is\", use the simple -ing form: \"playing\", not \"to be playing\"."
+    },
+    "fam": [
+      "pastime (noun)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "festival",
+    "w": "festival",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "festival",
+    "def": "A series of events, such as music or film, or a public celebration.",
+    "ipa": "/ˈfestɪvl/",
+    "ex": "We camped for three days at a music festival in the countryside.",
+    "form": "",
+    "nat": "The city holds a food festival every autumn, and the streets are full.",
+    "syn": [
+      "celebration"
+    ],
+    "ant": [],
+    "col": [
+      "music festival",
+      "film festival",
+      "attend a festival",
+      "festival season"
+    ],
+    "mis": {
+      "bad": "We went to the carnival festival in Salvador to see the parade.",
+      "good": "We went to the carnival in Salvador to see the parade.",
+      "why": "Carnival is itself a festival, so \"carnival festival\" is redundant."
+    },
+    "fam": [
+      "festive (adj)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "heritage",
+    "w": "heritage",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "patrimônio, herança cultural",
+    "def": "The history, buildings, and traditions that a country or group has had for a long time.",
+    "ipa": "/ˈherɪtɪdʒ/",
+    "ex": "The old town is a World Heritage Site and attracts many visitors.",
+    "form": "",
+    "nat": "We must protect our cultural heritage for future generations.",
+    "syn": [
+      "legacy"
+    ],
+    "ant": [],
+    "col": [
+      "cultural heritage",
+      "heritage site",
+      "national heritage",
+      "rich heritage"
+    ],
+    "mis": {
+      "bad": "My heritage of my grandfather was a house.",
+      "good": "The inheritance from my grandfather was a house.",
+      "why": "Heritage is culture and history; a thing left to you is an inheritance."
+    },
+    "fam": [
+      "inherit (verb)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "ceremony",
+    "w": "ceremony",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "cerimônia",
+    "def": "A formal public event that is held on a special occasion.",
+    "ipa": "/ˈserəmoʊni/",
+    "ex": "The opening ceremony of the Olympic Games was watched by millions of people.",
+    "form": "",
+    "nat": "They had a small ceremony at the town hall, and then they went to a restaurant.",
+    "syn": [
+      "ritual",
+      "service"
+    ],
+    "ant": [],
+    "col": [
+      "wedding ceremony",
+      "opening ceremony",
+      "graduation ceremony",
+      "hold a ceremony"
+    ],
+    "mis": {
+      "bad": "The ceremony of graduation did a lot of cry.",
+      "good": "The graduation ceremony made many people cry.",
+      "why": "Use \"graduation ceremony\" and \"made many people cry\"."
+    },
+    "fam": [
+      "ceremonial (adj)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "folklore",
+    "w": "folklore",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "folclore",
+    "def": "The traditional stories, music, and beliefs of a community.",
+    "ipa": "/ˈfoʊklɔːr/",
+    "ex": "Brazilian folklore includes many stories about forest spirits and magic animals.",
+    "form": "",
+    "nat": "The book collects folklore from villages in the north of the country.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "local folklore",
+      "folklore character",
+      "study folklore",
+      "rich folklore"
+    ],
+    "mis": {
+      "bad": "The folklores of Brazil are very rich.",
+      "good": "The folklore of Brazil is very rich.",
+      "why": "Folklore is uncountable and takes a singular verb."
+    },
+    "fam": [
+      "folk (adj)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "ancient",
+    "w": "ancient",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "antigo (de muito tempo atrás)",
+    "def": "Belonging to a time very long ago in history.",
+    "ipa": "/ˈeɪnʃənt/",
+    "ex": "We visited the ancient ruins of Rome and learned about its history.",
+    "form": "",
+    "nat": "Ancient Egyptians built huge tombs for their kings.",
+    "syn": [
+      "old",
+      "prehistoric"
+    ],
+    "ant": [
+      "modern"
+    ],
+    "col": [
+      "ancient history",
+      "ancient ruins",
+      "ancient civilization",
+      "ancient times"
+    ],
+    "mis": {
+      "bad": "The ancient building was constructed last year.",
+      "good": "The modern building was constructed last year.",
+      "why": "Ancient means very old, so it cannot describe a building made last year."
+    },
+    "fam": [
+      "antiquity (noun)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "artifact",
+    "w": "artifact",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "artefato, objeto histórico",
+    "def": "An object made by people in the past that is important for history.",
+    "ipa": "/ˈɑːrtɪfækt/",
+    "ex": "The museum has thousands of artifacts from the ancient city.",
+    "form": "",
+    "nat": "Archaeologists found a rare artifact under the old church.",
+    "syn": [
+      "relic"
+    ],
+    "ant": [],
+    "col": [
+      "ancient artifact",
+      "historical artifact",
+      "display an artifact",
+      "cultural artifact"
+    ],
+    "mis": {
+      "bad": "The artifact was built last week by a factory.",
+      "good": "The artifact was made thousands of years ago.",
+      "why": "An artifact is a historical object from the past, not something new."
+    },
+    "fam": [
+      "artifact (noun)"
+    ],
+    "topics": [
+      "culture",
+      "science"
+    ]
+  },
+  {
+    "id": "monument",
+    "w": "monument",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "monumento",
+    "def": "A structure built to remember a famous person or event.",
+    "ipa": "/ˈmɑːnjumənt/",
+    "ex": "The monument in the main square honors soldiers who died in the war.",
+    "form": "",
+    "nat": "Thousands of people visit the national monument every year.",
+    "syn": [
+      "memorial"
+    ],
+    "ant": [],
+    "col": [
+      "national monument",
+      "historic monument",
+      "build a monument",
+      "war monument"
+    ],
+    "mis": {
+      "bad": "We went to see a monument of museum.",
+      "good": "We went to see a monument in the square.",
+      "why": "A monument is outside; \"monument of museum\" is a wrong structure."
+    },
+    "fam": [
+      "monumental (adj)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "gallery",
+    "w": "gallery",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "galeria de arte",
+    "def": "A building or room where art is shown to the public.",
+    "ipa": "/ˈɡæləri/",
+    "ex": "We spent the afternoon at an art gallery looking at modern paintings.",
+    "form": "",
+    "nat": "The gallery is free on Sundays, so it is always crowded.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "art gallery",
+      "visit a gallery",
+      "gallery owner",
+      "photo gallery"
+    ],
+    "mis": {
+      "bad": "I went to the gallery of arts to see a exhibition.",
+      "good": "I went to the art gallery to see an exhibition.",
+      "why": "Use \"art gallery\", and \"an\" before exhibition."
+    },
+    "fam": [
+      "gallery (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "sculpture",
+    "w": "sculpture",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "escultura",
+    "def": "A piece of art made by shaping stone, metal, or wood.",
+    "ipa": "/ˈskʌlptʃər/",
+    "ex": "The park has a huge sculpture of a horse made of metal.",
+    "form": "",
+    "nat": "She makes beautiful sculptures from pieces of old wood.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "modern sculpture",
+      "stone sculpture",
+      "sculpture park",
+      "create a sculpture"
+    ],
+    "mis": {
+      "bad": "The sculpture was painted by a famous artist.",
+      "good": "The sculpture was made by a famous artist.",
+      "why": "Sculptures are carved or shaped, not painted; paintings are painted."
+    },
+    "fam": [
+      "sculptor (noun)",
+      "sculpt (verb)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "masterpiece",
+    "w": "masterpiece",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "obra-prima",
+    "def": "A work of art that is the best that a person has ever produced.",
+    "ipa": "/ˈmæstərpiːs/",
+    "ex": "Many critics call this novel the masterpiece of the twentieth century.",
+    "form": "",
+    "nat": "The film is a masterpiece, and I cried at the end.",
+    "syn": [
+      "classic"
+    ],
+    "ant": [],
+    "col": [
+      "a true masterpiece",
+      "artistic masterpiece",
+      "create a masterpiece",
+      "literary masterpiece"
+    ],
+    "mis": {
+      "bad": "The film is a master piece work.",
+      "good": "The film is a masterpiece.",
+      "why": "Masterpiece is one word and is already a work of art."
+    },
+    "fam": [
+      "masterful (adj)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "etiquette",
+    "w": "etiquette",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "etiqueta (boas maneiras)",
+    "def": "The rules of polite behavior in a society or group.",
+    "ipa": "/ˈetɪket/",
+    "ex": "Business etiquette in Japan includes giving your business card with both hands.",
+    "form": "",
+    "nat": "It is bad etiquette to talk on the phone during dinner.",
+    "syn": [
+      "manners"
+    ],
+    "ant": [
+      "rudeness"
+    ],
+    "col": [
+      "good etiquette",
+      "business etiquette",
+      "social etiquette",
+      "breach of etiquette"
+    ],
+    "mis": {
+      "bad": "The etiquettes of the table are important.",
+      "good": "Table etiquette is important.",
+      "why": "Etiquette is uncountable and has no plural."
+    },
+    "fam": [
+      "etiquette (noun)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "dialect",
+    "w": "dialect",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "dialeto, variedade regional",
+    "def": "A form of a language that is spoken in a particular region.",
+    "ipa": "/ˈdaɪəlekt/",
+    "ex": "In the north of England, people speak a dialect that is hard to understand.",
+    "form": "",
+    "nat": "The two villages have different dialects, even though they are close.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "regional dialect",
+      "local dialect",
+      "speak a dialect",
+      "dialect word"
+    ],
+    "mis": {
+      "bad": "Portuguese is a dialect of Brazil.",
+      "good": "Brazilian Portuguese is a variety of Portuguese.",
+      "why": "Portuguese is a language, not a dialect; a regional form is a dialect or variety."
+    },
+    "fam": [
+      "dialectal (adj)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "bilingual",
+    "w": "bilingual",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "bilíngue",
+    "def": "Able to speak two languages equally well.",
+    "ipa": "/baɪˈlɪŋɡwəl/",
+    "ex": "She grew up in a bilingual family and speaks both Spanish and English.",
+    "form": "",
+    "nat": "Our company is looking for a bilingual assistant for the Paris office.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "bilingual education",
+      "bilingual speaker",
+      "bilingual school",
+      "fully bilingual"
+    ],
+    "mis": {
+      "bad": "She is bilingual in three languages.",
+      "good": "She speaks three languages fluently.",
+      "why": "Bilingual means two languages; for three, say she speaks three languages."
+    },
+    "fam": [
+      "bilingualism (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "ritual",
+    "w": "ritual",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ritual",
+    "def": "A series of actions that are always done in the same way, often for a special reason.",
+    "ipa": "/ˈrɪtʃuəl/",
+    "ex": "Making coffee is my morning ritual, and I never skip it.",
+    "form": "",
+    "nat": "The ritual has been part of the village life for centuries.",
+    "syn": [
+      "ceremony",
+      "routine"
+    ],
+    "ant": [],
+    "col": [
+      "morning ritual",
+      "religious ritual",
+      "follow a ritual",
+      "ritual dance"
+    ],
+    "mis": {
+      "bad": "My morning ritual are making coffee and reading.",
+      "good": "My morning ritual is making coffee and reading.",
+      "why": "\"Ritual\" is singular, so the verb is \"is\"."
+    },
+    "fam": [
+      "ritualistic (adj)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "anthem",
+    "w": "anthem",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "hino",
+    "def": "A song that is chosen to represent a country, team, or group.",
+    "ipa": "/ˈænθəm/",
+    "ex": "Everyone stood up when the national anthem began to play.",
+    "form": "",
+    "nat": "The band wrote an anthem for the football team.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "national anthem",
+      "sing the anthem",
+      "team anthem",
+      "rock anthem"
+    ],
+    "mis": {
+      "bad": "The hymn of Brazil is sung before the games.",
+      "good": "The national anthem is sung before the games.",
+      "why": "\"Hymn\" is a religious song; a country's song is its national anthem."
+    },
+    "fam": [
+      "anthemic (adj, rare)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "costume",
+    "w": "costume",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "fantasia, traje típico",
+    "def": "Special clothes that you wear to look like someone else or to represent a culture.",
+    "ipa": "/ˈkɑːstuːm/",
+    "ex": "The children wore bright, colorful costumes for the school party on Friday.",
+    "form": "",
+    "nat": "The actors' costumes were beautiful, and the audience loved them.",
+    "syn": [
+      "outfit"
+    ],
+    "ant": [],
+    "col": [
+      "Halloween costume",
+      "traditional costume",
+      "costume party",
+      "wear a costume"
+    ],
+    "mis": {
+      "bad": "I wore a costume of suit to the job.",
+      "good": "I wore a suit to work.",
+      "why": "A costume is for parties or the stage; clothes for work are not costumes."
+    },
+    "fam": [
+      "costume (verb, rare)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "comedy",
+    "w": "comedy",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "comédia",
+    "def": "A funny film, play, or television show.",
+    "ipa": "/ˈkɑːmədi/",
+    "ex": "We watched a romantic comedy last night, and we laughed a lot.",
+    "form": "",
+    "nat": "The theater is showing a new comedy about two neighbors.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "romantic comedy",
+      "stand-up comedy",
+      "black comedy",
+      "comedy show"
+    ],
+    "mis": {
+      "bad": "The film is a comedy, so I cried of sadness.",
+      "good": "The film is a comedy, so I laughed a lot.",
+      "why": "A comedy is funny, so crying from sadness contradicts the meaning."
+    },
+    "fam": [
+      "comedian (noun)",
+      "comic (adj)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "thriller",
+    "w": "thriller",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "filme ou livro de suspense",
+    "def": "A story or film that is exciting because it has danger and mystery.",
+    "ipa": "/ˈθrɪlər/",
+    "ex": "I stayed awake all night reading a thriller about a stolen painting.",
+    "form": "",
+    "nat": "The new thriller is so tense that I could not look at the screen.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "psychological thriller",
+      "crime thriller",
+      "political thriller",
+      "gripping thriller"
+    ],
+    "mis": {
+      "bad": "The thriller was so relaxing that I fell asleep.",
+      "good": "The thriller was so tense that I could not look away.",
+      "why": "A thriller is exciting and tense, so \"relaxing\" contradicts its meaning."
+    },
+    "fam": [
+      "thrilling (adj)",
+      "thrill (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "episode",
+    "w": "episode",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "episódio",
+    "def": "One part of a television or radio series.",
+    "ipa": "/ˈepɪsoʊd/",
+    "ex": "I watched three episodes of the series before going to bed.",
+    "form": "",
+    "nat": "The final episode of the season will be shown on Sunday.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "final episode",
+      "watch an episode",
+      "pilot episode",
+      "new episode"
+    ],
+    "mis": {
+      "bad": "I watched two episode of the series last night.",
+      "good": "I watched two episodes of the series last night.",
+      "why": "After \"two\" the noun must be plural."
+    },
+    "fam": [
+      "episodic (adj)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "trailer",
+    "w": "trailer",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "trailer, prévia de filme",
+    "def": "A short video that shows parts of a film to make people want to see it.",
+    "ipa": "/ˈtreɪlər/",
+    "ex": "The trailer looked great, so we bought tickets for the opening night.",
+    "form": "",
+    "nat": "I saw the trailer on social media, and I immediately wanted to watch the film.",
+    "syn": [
+      "preview"
+    ],
+    "ant": [],
+    "col": [
+      "watch a trailer",
+      "movie trailer",
+      "official trailer",
+      "trailer release"
+    ],
+    "mis": {
+      "bad": "I saw a trailer of the movie after I watched it, to know what happens.",
+      "good": "I saw the trailer before the movie to find out what it was about.",
+      "why": "A trailer is a preview, so you watch it before the film, not after."
+    },
+    "fam": [
+      "trail (verb, different meaning)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "spoiler",
+    "w": "spoiler",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "spoiler (revelação do final)",
+    "def": "Information that tells you what happens in a story before you read or watch it.",
+    "ipa": "/ˈspɔɪlər/",
+    "ex": "Please do not give me any spoilers, because I have not finished the series.",
+    "form": "",
+    "nat": "The review contains spoilers, so do not read it before the film.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "spoiler alert",
+      "no spoilers",
+      "avoid spoilers",
+      "contain spoilers"
+    ],
+    "mis": {
+      "bad": "Do not spoil me the end of the film.",
+      "good": "Do not spoil the end of the film for me.",
+      "why": "Spoil takes the thing as a direct object, and the person comes after \"for\"."
+    },
+    "fam": [
+      "spoil (verb)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "lyrics",
+    "w": "lyrics",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "letra de música",
+    "def": "The words of a song.",
+    "ipa": "/ˈlɪrɪks/",
+    "ex": "I know the melody, but I do not remember the lyrics.",
+    "form": "",
+    "nat": "The lyrics of this song are about love and distance.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "song lyrics",
+      "write lyrics",
+      "learn the lyrics",
+      "lyrics and music"
+    ],
+    "mis": {
+      "bad": "I learned the letter of this song by heart.",
+      "good": "I learned the lyrics of this song by heart.",
+      "why": "\"Letter\" is a message; the words of a song are lyrics."
+    },
+    "fam": [
+      "lyric (adj)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "concert",
+    "w": "concert",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "show musical, concerto",
+    "def": "A public performance of music by singers or musicians.",
+    "ipa": "/ˈkɑːnsərt/",
+    "ex": "We bought tickets to a rock concert, and the band was fantastic.",
+    "form": "",
+    "nat": "The concert starts at eight, but the doors open at seven.",
+    "syn": [
+      "show"
+    ],
+    "ant": [],
+    "col": [
+      "go to a concert",
+      "live concert",
+      "concert hall",
+      "sell out a concert"
+    ],
+    "mis": {
+      "bad": "I assisted a concert last night.",
+      "good": "I went to a concert last night.",
+      "why": "\"Assist\" means help; \"attend\" or \"go to\" is the right verb for an event."
+    },
+    "fam": [
+      "concerto (noun, different)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "performer",
+    "w": "performer",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "artista, intérprete",
+    "def": "A person who entertains an audience, such as a singer, dancer, or actor.",
+    "ipa": "/pərˈfɔːrmər/",
+    "ex": "The street performer attracted a large crowd with his magic tricks.",
+    "form": "",
+    "nat": "She is a talented performer who can sing, dance, and act.",
+    "syn": [
+      "entertainer"
+    ],
+    "ant": [],
+    "col": [
+      "street performer",
+      "live performer",
+      "talented performer",
+      "stage performer"
+    ],
+    "mis": {
+      "bad": "The performer entertained the audience with a cooking exam.",
+      "good": "The performer entertained the audience with a magic show.",
+      "why": "Performers entertain with shows, not exams."
+    },
+    "fam": [
+      "perform (verb)",
+      "performance (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "applause",
+    "w": "applause",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "aplauso",
+    "def": "The sound of many people clapping their hands to show that they enjoyed something.",
+    "ipa": "/əˈplɔːz/",
+    "ex": "The audience gave her a long round of applause at the end.",
+    "form": "",
+    "nat": "There was loud applause when the winner walked onto the stage.",
+    "syn": [
+      "clapping"
+    ],
+    "ant": [],
+    "col": [
+      "loud applause",
+      "round of applause",
+      "burst into applause",
+      "receive applause"
+    ],
+    "mis": {
+      "bad": "The audience gave many applauses to the actor.",
+      "good": "The audience gave the actor a lot of applause.",
+      "why": "Applause is uncountable; there is no plural."
+    },
+    "fam": [
+      "applaud (verb)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "rehearsal",
+    "w": "rehearsal",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ensaio",
+    "def": "A practice of a play, concert, or performance before the real one.",
+    "ipa": "/rɪˈhɜːrsl/",
+    "ex": "We have a rehearsal on Friday, and the show opens on Saturday.",
+    "form": "",
+    "nat": "The band had three rehearsals this week to prepare for the concert.",
+    "syn": [
+      "practice"
+    ],
+    "ant": [],
+    "col": [
+      "dress rehearsal",
+      "rehearsal room",
+      "attend a rehearsal",
+      "after rehearsal"
+    ],
+    "mis": {
+      "bad": "We made a rehearsal of the play yesterday.",
+      "good": "We had a rehearsal for the play yesterday.",
+      "why": "Use \"have a rehearsal\"; \"make\" is not the right verb."
+    },
+    "fam": [
+      "rehearse (verb)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "screenplay",
+    "w": "screenplay",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "roteiro (de filme)",
+    "def": "The written text of a film, including the words that the actors say.",
+    "ipa": "/ˈskriːnpleɪ/",
+    "ex": "He wrote the screenplay in six months and sent it to a producer.",
+    "form": "",
+    "nat": "The film won an award for the best screenplay.",
+    "syn": [
+      "script"
+    ],
+    "ant": [],
+    "col": [
+      "write a screenplay",
+      "best screenplay",
+      "original screenplay",
+      "adapt a screenplay"
+    ],
+    "mis": {
+      "bad": "He wrote the screenplay of the book in a novel.",
+      "good": "He adapted the novel into a screenplay.",
+      "why": "A screenplay is for a film; \"adapt A into B\" is the right structure."
+    },
+    "fam": [
+      "screenwriter (noun)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "novel",
+    "w": "novel",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "romance (livro)",
+    "def": "A long written story about imaginary people and events.",
+    "ipa": "/ˈnɑːvl/",
+    "ex": "I just finished a historical novel set in Rio at the beginning of the twentieth century.",
+    "form": "",
+    "nat": "She wrote her first novel at the age of twenty.",
+    "syn": [
+      "fiction"
+    ],
+    "ant": [
+      "nonfiction"
+    ],
+    "col": [
+      "read a novel",
+      "crime novel",
+      "novel by",
+      "write a novel"
+    ],
+    "mis": {
+      "bad": "I read a romance of Machado de Assis.",
+      "good": "I read a novel by Machado de Assis.",
+      "why": "\"Romance\" in English means a love story; a long book is a novel, and the author comes after \"by\"."
+    },
+    "fam": [
+      "novelist (noun)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "author",
+    "w": "author",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "autor, escritor",
+    "def": "A person who writes books or articles.",
+    "ipa": "/ˈɔːθər/",
+    "ex": "The author signed copies of her new book at the festival.",
+    "form": "",
+    "nat": "Who is your favorite author, and what is the best book you have read?",
+    "syn": [
+      "writer"
+    ],
+    "ant": [],
+    "col": [
+      "bestselling author",
+      "the author of",
+      "young author",
+      "author signing"
+    ],
+    "mis": {
+      "bad": "The author of this book are very famous.",
+      "good": "The author of this book is very famous.",
+      "why": "The subject is \"the author\" (singular), so use \"is\"."
+    },
+    "fam": [
+      "authorship (noun)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "bestseller",
+    "w": "bestseller",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "best-seller, sucesso de vendas",
+    "def": "A book that sells very many copies.",
+    "ipa": "/ˌbestˈselər/",
+    "ex": "Her first novel became an international bestseller within a few months.",
+    "form": "",
+    "nat": "I do not usually read bestsellers, because I prefer smaller books.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "international bestseller",
+      "bestseller list",
+      "instant bestseller",
+      "become a bestseller"
+    ],
+    "mis": {
+      "bad": "She is a bestseller author.",
+      "good": "She is a bestselling author.",
+      "why": "The adjective is \"bestselling\"; a bestseller is the book itself."
+    },
+    "fam": [
+      "bestselling (adj)"
+    ],
+    "topics": [
+      "culture",
+      "business"
+    ]
+  },
+  {
+    "id": "podcast",
+    "w": "podcast",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "podcast",
+    "def": "A recorded program that you can download or listen to online.",
+    "ipa": "/ˈpɑːdkæst/",
+    "ex": "I listen to a podcast about history while I wash the dishes.",
+    "form": "",
+    "nat": "The podcast has more than a million listeners every week.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "listen to a podcast",
+      "podcast episode",
+      "host a podcast",
+      "weekly podcast"
+    ],
+    "mis": {
+      "bad": "I assist to a podcast every morning.",
+      "good": "I listen to a podcast every morning.",
+      "why": "\"Assist\" means help; use \"listen to\" for audio."
+    },
+    "fam": [
+      "podcaster (noun)"
+    ],
+    "topics": [
+      "culture",
+      "tech"
+    ]
+  },
+  {
+    "id": "editor",
+    "w": "editor",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "editor, redator-chefe",
+    "def": "A person who prepares a newspaper, book, or film for publication.",
+    "ipa": "/ˈedɪtər/",
+    "ex": "The editor of the newspaper read the story and asked for changes.",
+    "form": "",
+    "nat": "My editor said the article was too long and cut two paragraphs.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "chief editor",
+      "newspaper editor",
+      "film editor",
+      "editor in chief"
+    ],
+    "mis": {
+      "bad": "I am working as an editor in a newspaper since 2020.",
+      "good": "I have been working as an editor at a newspaper since 2020.",
+      "why": "Use the present perfect continuous with \"since\", and \"at\" a company."
+    },
+    "fam": [
+      "edit (verb)",
+      "edition (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "coverage",
+    "w": "coverage",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "cobertura (jornalística)",
+    "def": "The reporting of news about an event or subject.",
+    "ipa": "/ˈkʌvərɪdʒ/",
+    "ex": "The live television coverage of the election lasted for the whole night.",
+    "form": "",
+    "nat": "The newspaper gave the story a lot of coverage.",
+    "syn": [
+      "reporting"
+    ],
+    "ant": [],
+    "col": [
+      "media coverage",
+      "live coverage",
+      "news coverage",
+      "full coverage"
+    ],
+    "mis": {
+      "bad": "The coverages of the news are very good.",
+      "good": "The news coverage is very good.",
+      "why": "Coverage is uncountable and has no plural."
+    },
+    "fam": [
+      "cover (verb)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "tabloid",
+    "w": "tabloid",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "jornal sensacionalista",
+    "def": "A newspaper with small pages that has short stories, many photos, and often gossip.",
+    "ipa": "/ˈtæblɔɪd/",
+    "ex": "The tabloid published a photo of the singer on the front page.",
+    "form": "",
+    "nat": "I do not trust tabloids, because they often exaggerate the news.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "tabloid newspaper",
+      "tabloid journalism",
+      "tabloid headline",
+      "read the tabloids"
+    ],
+    "mis": {
+      "bad": "The tabloid is a serious newspaper with deep analysis.",
+      "good": "The tabloid is a popular newspaper with short stories and photos.",
+      "why": "Tabloids are known for gossip, not deep analysis."
+    },
+    "fam": [
+      "tabloid (adj)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "advertisement",
+    "w": "advertisement",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "anúncio, propaganda",
+    "def": "A notice or short film that tries to persuade people to buy something.",
+    "ipa": "/ˌædvərˈtaɪzmənt/",
+    "ex": "I saw an advertisement for a new phone on the bus.",
+    "form": "",
+    "nat": "Companies spend a lot of money on advertisements during football matches.",
+    "syn": [
+      "ad",
+      "commercial"
+    ],
+    "ant": [],
+    "col": [
+      "TV advertisement",
+      "job advertisement",
+      "place an advertisement",
+      "newspaper advertisement"
+    ],
+    "mis": {
+      "bad": "I saw a propaganda of a new phone on the bus.",
+      "good": "I saw an advertisement for a new phone on the bus.",
+      "why": "\"Propaganda\" in English means political persuasion; commercial ads are advertisements."
+    },
+    "fam": [
+      "advertise (verb)",
+      "advertising (noun)"
+    ],
+    "topics": [
+      "culture",
+      "business"
+    ]
+  },
+  {
+    "id": "binge",
+    "w": "binge",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "exagerar, fazer algo em excesso (ex.: maratonar)",
+    "def": "To do something, such as watching shows or eating, too much in a short time.",
+    "ipa": "/bɪndʒ/",
+    "ex": "We binged an entire series last weekend and barely left the sofa.",
+    "form": "binged",
+    "nat": "It is easy to binge on snacks when you feel stressed.",
+    "syn": [
+      "overindulge"
+    ],
+    "ant": [],
+    "col": [
+      "binge on",
+      "binge-watch",
+      "binge eating",
+      "binge for hours"
+    ],
+    "mis": {
+      "bad": "We binged for watching the series all night.",
+      "good": "We binged on the series all night.",
+      "why": "After binge, use \"on\" + noun, or the compound binge-watch."
+    },
+    "fam": [
+      "binge (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "scenic",
+    "w": "scenic",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "panorâmico, de paisagem bonita",
+    "def": "Having beautiful views of nature.",
+    "ipa": "/ˈsiːnɪk/",
+    "ex": "We took the scenic route along the coast instead of the motorway.",
+    "form": "",
+    "nat": "The train ride through the mountains is one of the most scenic in Europe.",
+    "syn": [
+      "picturesque",
+      "beautiful"
+    ],
+    "ant": [
+      "ugly"
+    ],
+    "col": [
+      "scenic route",
+      "scenic view",
+      "scenic drive",
+      "scenic railway"
+    ],
+    "mis": {
+      "bad": "The road was very scenery and we stopped many times.",
+      "good": "The road was very scenic, and we stopped many times.",
+      "why": "Scenery is a noun; the adjective is scenic."
+    },
+    "fam": [
+      "scenery (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "lounge",
+    "w": "lounge",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "sala de espera, sala de estar",
+    "def": "A comfortable room in a hotel, airport, or home where people can relax.",
+    "ipa": "/laʊndʒ/",
+    "ex": "We waited in the airport lounge until the gate number appeared on the screen.",
+    "form": "",
+    "nat": "The hotel has a quiet lounge with sofas and a small bar.",
+    "syn": [
+      "waiting area"
+    ],
+    "ant": [],
+    "col": [
+      "airport lounge",
+      "hotel lounge",
+      "lounge area",
+      "departure lounge"
+    ],
+    "mis": {
+      "bad": "We waited in the lounge of the plane.",
+      "good": "We waited in the airport lounge.",
+      "why": "A lounge is a room in a building, not inside a plane."
+    },
+    "fam": [
+      "lounge (verb)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "blockbuster",
+    "w": "blockbuster",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "filme de grande sucesso de bilheteria",
+    "def": "A very popular film that earns a lot of money.",
+    "ipa": "/ˈblɑːkbʌstər/",
+    "ex": "The new superhero film became a summer blockbuster and earned millions in a week.",
+    "form": "",
+    "nat": "I prefer quiet dramas to big blockbusters with loud explosions.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "summer blockbuster",
+      "Hollywood blockbuster",
+      "blockbuster film",
+      "box office"
+    ],
+    "mis": {
+      "bad": "The film was a blockbuster, so nobody went to see it.",
+      "good": "The film was a blockbuster, so everyone went to see it.",
+      "why": "A blockbuster is very popular, so \"nobody went\" contradicts the meaning."
+    },
+    "fam": [
+      "blockbuster (adj)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "hospitality",
+    "w": "hospitality",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "hospitalidade; setor de hotelaria",
+    "def": "Friendly and generous treatment of guests or visitors.",
+    "ipa": "/ˌhɑːspɪˈtæləti/",
+    "ex": "The family welcomed us with great hospitality and cooked a huge dinner.",
+    "form": "",
+    "nat": "She works in the hospitality industry, mainly in hotels and restaurants.",
+    "syn": [
+      "generosity"
+    ],
+    "ant": [
+      "hostility"
+    ],
+    "col": [
+      "warm hospitality",
+      "hospitality industry",
+      "show hospitality",
+      "thank you for your hospitality"
+    ],
+    "mis": {
+      "bad": "Thank you for the hospital of your house.",
+      "good": "Thank you for your hospitality.",
+      "why": "\"Hospital\" is where sick people go; the word for welcoming guests is hospitality."
+    },
+    "fam": [
+      "hospitable (adj)",
+      "host (noun)"
+    ],
+    "topics": [
+      "travel",
+      "business"
+    ]
+  },
+  {
+    "id": "suitcase",
+    "w": "suitcase",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "mala de viagem",
+    "def": "A large case with a handle that you use to carry your clothes when you travel.",
+    "ipa": "/ˈsuːtkeɪs/",
+    "ex": "I packed my suitcase the night before, so I was calm in the morning.",
+    "form": "",
+    "nat": "The wheel of my suitcase broke at the airport, so I had to carry it.",
+    "syn": [
+      "case"
+    ],
+    "ant": [],
+    "col": [
+      "pack a suitcase",
+      "heavy suitcase",
+      "open a suitcase",
+      "lose a suitcase"
+    ],
+    "mis": {
+      "bad": "I put my clothes in the valise and closed it.",
+      "good": "I put my clothes in the suitcase and closed it.",
+      "why": "\"Valise\" is a rare, old-fashioned word; suitcase is the normal word."
+    },
+    "fam": [
+      "suitcase (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "terminal",
+    "w": "terminal",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "terminal (de aeroporto ou ônibus)",
+    "def": "A building at an airport or station where passengers begin or end a journey.",
+    "ipa": "/ˈtɜːrmɪnl/",
+    "ex": "Our flight leaves from Terminal Two, so we should take the free shuttle.",
+    "form": "",
+    "nat": "The bus terminal was crowded with people returning home after the holiday.",
+    "syn": [
+      "station"
+    ],
+    "ant": [],
+    "col": [
+      "airport terminal",
+      "bus terminal",
+      "ferry terminal",
+      "international terminal"
+    ],
+    "mis": {
+      "bad": "We arrived at the terminal of the airplane.",
+      "good": "We arrived at the airport terminal.",
+      "why": "A terminal belongs to an airport or station, not to a plane."
+    },
+    "fam": [
+      "terminal (adj)"
+    ],
+    "topics": [
+      "travel"
+    ]
+  },
+  {
+    "id": "lobby",
+    "w": "lobby",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "saguão, hall de entrada",
+    "def": "The large entrance area inside a hotel or public building.",
+    "ipa": "/ˈlɑːbi/",
+    "ex": "We agreed to meet in the hotel lobby at nine o'clock.",
+    "form": "",
+    "nat": "There are sofas and a small café in the lobby of the building.",
+    "syn": [
+      "entrance hall"
+    ],
+    "ant": [],
+    "col": [
+      "hotel lobby",
+      "lobby area",
+      "wait in the lobby",
+      "office lobby"
+    ],
+    "mis": {
+      "bad": "I will wait for you in the lobbie.",
+      "good": "I will wait for you in the lobby.",
+      "why": "The spelling is lobby, and the plural is lobbies."
+    },
+    "fam": [
+      "lobby (verb)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "fridge",
+    "w": "fridge",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "geladeira",
+    "def": "A kitchen machine that keeps food cold.",
+    "ipa": "/frɪdʒ/",
+    "ex": "There is no milk in the fridge, so I have to go to the shop.",
+    "form": "",
+    "nat": "Please put the leftovers in the fridge after dinner.",
+    "syn": [
+      "refrigerator"
+    ],
+    "ant": [],
+    "col": [
+      "open the fridge",
+      "fridge door",
+      "empty fridge",
+      "keep in the fridge"
+    ],
+    "mis": {
+      "bad": "I keep the milk inside the freezer to be cold.",
+      "good": "I keep the milk in the fridge to keep it cold.",
+      "why": "A freezer makes things frozen; the fridge keeps them cold."
+    },
+    "fam": [
+      "refrigerate (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "microwave",
+    "w": "microwave",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "micro-ondas",
+    "def": "A kitchen machine that heats food very quickly using waves of energy.",
+    "ipa": "/ˈmaɪkroʊweɪv/",
+    "ex": "I heated the soup in the microwave for two minutes.",
+    "form": "",
+    "nat": "You should not put metal plates in the microwave because it is dangerous.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "use the microwave",
+      "microwave oven",
+      "microwave meal",
+      "heat in the microwave"
+    ],
+    "mis": {
+      "bad": "I heated the soup in the micro-waves oven.",
+      "good": "I heated the soup in the microwave.",
+      "why": "It is one word, \"microwave\", and the oven part is optional and not plural."
+    },
+    "fam": [
+      "microwave (verb)"
+    ],
+    "topics": [
+      "daily",
+      "tech"
+    ]
+  },
+  {
+    "id": "bakery",
+    "w": "bakery",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "padaria",
+    "def": "A shop where bread and cakes are made and sold.",
+    "ipa": "/ˈbeɪkəri/",
+    "ex": "I buy fresh bread from the bakery on the corner every morning.",
+    "form": "",
+    "nat": "The smell from the bakery made me hungry as I walked past.",
+    "syn": [],
+    "ant": [],
+    "col": [
+      "local bakery",
+      "bakery shop",
+      "fresh from the bakery",
+      "French bakery"
+    ],
+    "mis": {
+      "bad": "I buy bread at the bakeria near my house.",
+      "good": "I buy bread at the bakery near my house.",
+      "why": "The correct spelling is bakery."
+    },
+    "fam": [
+      "baker (noun)",
+      "bake (verb)"
+    ],
+    "topics": [
+      "daily"
+    ]
+  },
+  {
+    "id": "vendor",
+    "w": "vendor",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "vendedor ambulante, fornecedor",
+    "def": "A person or company that sells things, often outside or in a market.",
+    "ipa": "/ˈvendər/",
+    "ex": "A street vendor sold us hot corn and cold drinks near the beach.",
+    "form": "",
+    "nat": "The vendor gave me a discount because I bought three bags.",
+    "syn": [
+      "seller"
+    ],
+    "ant": [],
+    "col": [
+      "street vendor",
+      "food vendor",
+      "market vendor",
+      "software vendor"
+    ],
+    "mis": {
+      "bad": "The vendor of the supermarket helped me.",
+      "good": "The assistant at the supermarket helped me.",
+      "why": "A vendor sells in a market or on the street; staff in a shop are assistants."
+    },
+    "fam": [
+      "vend (verb, rare)"
+    ],
+    "topics": [
+      "business",
+      "daily"
+    ]
+  },
+  {
+    "id": "premiere",
+    "w": "premiere",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "estreia, pré-estreia",
+    "def": "The first public showing of a film, play, or show.",
+    "ipa": "/prɪˈmɪr/",
+    "ex": "The actors walked on the red carpet at the premiere of the film.",
+    "form": "",
+    "nat": "The play had its premiere in London before it came to New York.",
+    "syn": [
+      "opening"
+    ],
+    "ant": [],
+    "col": [
+      "world premiere",
+      "film premiere",
+      "premiere night",
+      "attend a premiere"
+    ],
+    "mis": {
+      "bad": "The premiere of the film is the last day of the festival after it.",
+      "good": "The premiere of the film is on the first day of the festival.",
+      "why": "A premiere is the first showing, so it cannot be the last."
+    },
+    "fam": [
+      "premiere (verb)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  },
+  {
+    "id": "sitcom",
+    "w": "sitcom",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "comédia de situação (seriado)",
+    "def": "A funny television series about a group of characters in everyday situations.",
+    "ipa": "/ˈsɪtkɑːm/",
+    "ex": "We watched an old sitcom and laughed at the same jokes again.",
+    "form": "",
+    "nat": "My favorite sitcom is about six friends who live in New York.",
+    "syn": [
+      "situation comedy"
+    ],
+    "ant": [],
+    "col": [
+      "popular sitcom",
+      "watch a sitcom",
+      "sitcom episode",
+      "family sitcom"
+    ],
+    "mis": {
+      "bad": "The sitcom is a serious drama about war.",
+      "good": "The sitcom is a funny series about family life.",
+      "why": "A sitcom is a comedy, not a serious drama."
+    },
+    "fam": [
+      "sitcom (noun)"
+    ],
+    "topics": [
+      "culture"
+    ]
+  }
+]

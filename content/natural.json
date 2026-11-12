@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "nat-01",
+    "lvl": "B1+",
+    "topic": "work",
+    "pt": "Eu vou para a empresa.",
+    "understandable": "I will go to the company.",
+    "natural": "I'm heading to the office.",
+    "alts": [
+      "I go to the enterprise.",
+      "I will go to the firm."
+    ],
+    "why": "Use 'the office' for your workplace and the present continuous for plans already arranged.",
+    "tags": [
+      "collocation",
+      "tense"
+    ]
+  },
+  {
+    "id": "nat-02",
+    "lvl": "B1",
+    "topic": "work",
+    "pt": "Eu tenho 10 anos trabalhando aqui.",
+    "understandable": "I have 10 years working here.",
+    "natural": "I've been working here for 10 years.",
+    "alts": [
+      "I am working here since 10 years.",
+      "I work here from 10 years."
+    ],
+    "why": "Use the present perfect continuous with 'for' + a period of time for something that started in the past and continues now.",
+    "tags": [
+      "tense",
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-03",
+    "lvl": "B1",
+    "topic": "travel",
+    "pt": "Eu fiz uma viagem para o Rio.",
+    "understandable": "I made a travel to Rio.",
+    "natural": "I took a trip to Rio.",
+    "alts": [
+      "I did a travel to Rio.",
+      "I took a travel to Rio."
+    ],
+    "why": "'Travel' is mostly uncountable (verb or general idea). For a single journey use 'trip' with 'take'.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-04",
+    "lvl": "B1",
+    "topic": "daily",
+    "pt": "Eles vão perder o voo.",
+    "understandable": "They gonna miss the flight.",
+    "natural": "They're going to miss the flight.",
+    "alts": [
+      "They going to miss the flight.",
+      "They will to miss the flight."
+    ],
+    "why": "'Gonna' is spoken shorthand for 'going to', but the verb 'are' still has to be there: 'They're gonna...' or 'They're going to...'.",
+    "tags": [
+      "tense",
+      "register"
+    ]
+  },
+  {
+    "id": "nat-05",
+    "lvl": "B1",
+    "topic": "opinions",
+    "pt": "Eu concordo com você.",
+    "understandable": "I am agree with you.",
+    "natural": "I agree with you.",
+    "alts": [
+      "I'm in agree with you.",
+      "I agree to you."
+    ],
+    "why": "'Agree' is already a verb in English, so you don't use 'be'. The preposition is 'with' for a person.",
+    "tags": [
+      "literal-translation",
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-06",
+    "lvl": "B1",
+    "topic": "daily",
+    "pt": "Que horas são?",
+    "understandable": "What hour is it?",
+    "natural": "What time is it?",
+    "alts": [
+      "Which hour is it?",
+      "How much time is it?"
+    ],
+    "why": "In English we ask 'What time is it?'. 'Hour' is used for a duration (an hour) rather than clock time.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-07",
+    "lvl": "B1",
+    "topic": "daily",
+    "pt": "Eu moro aqui desde 2019.",
+    "understandable": "I live here since 2019.",
+    "natural": "I've lived here since 2019.",
+    "alts": [
+      "I am living here since 2019.",
+      "I live here from 2019."
+    ],
+    "why": "'Since' needs a perfect tense (present perfect) when the situation started in the past and continues now.",
+    "tags": [
+      "tense"
+    ]
+  },
+  {
+    "id": "nat-08",
+    "lvl": "B1",
+    "topic": "daily",
+    "pt": "Eu estou com fome.",
+    "understandable": "I have hunger.",
+    "natural": "I'm hungry.",
+    "alts": [
+      "I am with hunger.",
+      "I have much hunger."
+    ],
+    "why": "In English, hunger and thirst use 'be' + adjective: 'I'm hungry', 'I'm thirsty'.",
+    "tags": [
+      "literal-translation",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-09",
+    "lvl": "B1",
+    "topic": "daily",
+    "pt": "Você pode me emprestar sua caneta?",
+    "understandable": "Can you borrow me your pen?",
+    "natural": "Could you lend me your pen?",
+    "alts": [
+      "Can I lend your pen?",
+      "Could you borrow your pen to me?"
+    ],
+    "why": "You lend something TO someone and borrow something FROM someone. 'Could' sounds more polite than 'can'.",
+    "tags": [
+      "collocation",
+      "register"
+    ]
+  },
+  {
+    "id": "nat-10",
+    "lvl": "B1",
+    "topic": "work",
+    "pt": "Eu tenho uma reunião às 3 horas.",
+    "understandable": "I have a meeting in the 3 o'clock.",
+    "natural": "I have a meeting at 3.",
+    "alts": [
+      "I have a meeting on 3 o'clock.",
+      "I have a meeting to 3 o'clock."
+    ],
+    "why": "Use 'at' for clock times: at 3, at noon, at 9:30.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-11",
+    "lvl": "B1",
+    "topic": "daily",
+    "pt": "Eu tenho 30 anos.",
+    "understandable": "I have 30 years.",
+    "natural": "I'm 30 years old.",
+    "alts": [
+      "I am with 30 years.",
+      "I have 30 years old."
+    ],
+    "why": "English uses 'be' for age, not 'have'. You can also just say 'I'm 30'.",
+    "tags": [
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-12",
+    "lvl": "B1",
+    "topic": "travel",
+    "pt": "Eu cheguei em casa tarde.",
+    "understandable": "I arrived in home late.",
+    "natural": "I got home late.",
+    "alts": [
+      "I arrived to home late.",
+      "I reached to home late."
+    ],
+    "why": "'Home' works as an adverb, so there's no preposition: 'get home', 'go home', 'come home'.",
+    "tags": [
+      "preposition",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-13",
+    "lvl": "B1",
+    "topic": "relationships",
+    "pt": "Eu me dou bem com meu chefe.",
+    "understandable": "I give well with my boss.",
+    "natural": "I get along well with my boss.",
+    "alts": [
+      "I give me well with my boss.",
+      "I go well with my boss."
+    ],
+    "why": "'Get along (well) with' someone means to have a good relationship with them.",
+    "tags": [
+      "phrasal-verb",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-14",
+    "lvl": "B1+",
+    "topic": "tech",
+    "pt": "Meu computador travou.",
+    "understandable": "My computer stopped.",
+    "natural": "My computer froze.",
+    "alts": [
+      "My computer hanged.",
+      "My computer is stuck up."
+    ],
+    "why": "A computer that stops responding 'freezes' (or 'crashes' if it shuts down). 'Hanged' is only used for executions; 'hung' exists for computers, but 'froze' is the everyday word.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-15",
+    "lvl": "B1+",
+    "topic": "work",
+    "pt": "Pode me mandar o arquivo?",
+    "understandable": "Can you send me the archive?",
+    "natural": "Can you send me the file?",
+    "alts": [
+      "Can you send the file for me?",
+      "Can you send me the archive document?"
+    ],
+    "why": "'Archive' means a long-term collection of records. A computer 'arquivo' is a 'file'. Also, send something TO someone, not 'for' someone.",
+    "tags": [
+      "literal-translation",
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-16",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "Estou esperando você há uma hora.",
+    "understandable": "I am waiting for you since one hour.",
+    "natural": "I've been waiting for you for an hour.",
+    "alts": [
+      "I wait for you since one hour.",
+      "I am waiting you for one hour ago."
+    ],
+    "why": "Use the present perfect continuous with 'for' + duration. 'Ago' never goes with the perfect tenses.",
+    "tags": [
+      "tense",
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-17",
+    "lvl": "B1+",
+    "topic": "work",
+    "pt": "Eu te dou um retorno amanhã.",
+    "understandable": "I will give you a return tomorrow.",
+    "natural": "I'll get back to you tomorrow.",
+    "alts": [
+      "I will return you tomorrow.",
+      "I'll give you a feedback tomorrow."
+    ],
+    "why": "'Get back to someone' means to reply later. 'Feedback' is uncountable, and 'return' doesn't mean 'resposta'.",
+    "tags": [
+      "phrasal-verb",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-18",
+    "lvl": "B1+",
+    "topic": "relationships",
+    "pt": "Estou com saudade de você.",
+    "understandable": "I have nostalgia of you.",
+    "natural": "I miss you.",
+    "alts": [
+      "I am with missing of you.",
+      "I feel nostalgia for you."
+    ],
+    "why": "'Miss' is a transitive verb covering 'sentir saudade'. 'Nostalgia' is for the past in general, not a person.",
+    "tags": [
+      "literal-translation",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-19",
+    "lvl": "B1+",
+    "topic": "opinions",
+    "pt": "Acho que sim.",
+    "understandable": "I think that yes.",
+    "natural": "I think so.",
+    "alts": [
+      "I think yes.",
+      "I think it yes."
+    ],
+    "why": "Use 'so' to replace a whole clause after verbs like think, hope, guess: 'I think so', 'I hope so'. Negative: 'I don't think so'.",
+    "tags": [
+      "word-order",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-20",
+    "lvl": "B1+",
+    "topic": "work",
+    "pt": "Eu trabalho com TI.",
+    "understandable": "I work with IT.",
+    "natural": "I work in IT.",
+    "alts": [
+      "I work on IT.",
+      "I work at IT."
+    ],
+    "why": "Use 'in' for a field or industry: in IT, in finance, in marketing.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-21",
+    "lvl": "B1+",
+    "topic": "tech",
+    "pt": "Clique no link.",
+    "understandable": "Enter in the link.",
+    "natural": "Click the link.",
+    "alts": [
+      "Enter the link.",
+      "Enter on the link."
+    ],
+    "why": "You 'click' a link or button. 'Enter' is for typing data or going into a place.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-22",
+    "lvl": "B1+",
+    "topic": "travel",
+    "pt": "Estou pensando em viajar nas férias.",
+    "understandable": "I'm thinking to travel in the vacation.",
+    "natural": "I'm thinking of traveling on vacation.",
+    "alts": [
+      "I'm thinking to travel in the vacations.",
+      "I think about to travel on vacation."
+    ],
+    "why": "'Think of/about' takes a noun or -ing form. 'On vacation' is the fixed expression.",
+    "tags": [
+      "preposition",
+      "article"
+    ]
+  },
+  {
+    "id": "nat-23",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "Eu moro perto do trabalho.",
+    "understandable": "I live near of my work.",
+    "natural": "I live close to work.",
+    "alts": [
+      "I live near of the work.",
+      "I live next of my job."
+    ],
+    "why": "'Near' takes no preposition; 'close' takes 'to'. 'Work' as a place has no article: 'at work', 'close to work'.",
+    "tags": [
+      "preposition",
+      "article"
+    ]
+  },
+  {
+    "id": "nat-24",
+    "lvl": "B1+",
+    "topic": "work",
+    "pt": "Estou atrasado.",
+    "understandable": "I am delayed.",
+    "natural": "I'm running late.",
+    "alts": [
+      "I'm with delay.",
+      "I am delayed for the meeting."
+    ],
+    "why": "'Delayed' describes things (flights, trains). For yourself, say 'I'm running late' or 'I'm going to be late'.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-25",
+    "lvl": "B1+",
+    "topic": "relationships",
+    "pt": "Eu cresci com meus avós.",
+    "understandable": "I grew with my grandparents.",
+    "natural": "I grew up with my grandparents.",
+    "alts": [
+      "I raised with my grandparents.",
+      "I grew with up my grandparents."
+    ],
+    "why": "'Grow up' is the phrasal verb for becoming an adult. 'Raise' is something done to someone else.",
+    "tags": [
+      "phrasal-verb"
+    ]
+  },
+  {
+    "id": "nat-26",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "Preciso descer do ônibus no próximo ponto.",
+    "understandable": "I need to go down of the bus at the next point.",
+    "natural": "I need to get off the bus at the next stop.",
+    "alts": [
+      "I need to go out the bus at the next point.",
+      "I need to descend the bus at the next stop."
+    ],
+    "why": "Use 'get off' for buses, trains and planes (and 'get on' to board). A bus 'ponto' is a 'stop'.",
+    "tags": [
+      "phrasal-verb",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-27",
+    "lvl": "B1+",
+    "topic": "opinions",
+    "pt": "Depende da situação.",
+    "understandable": "It depends of the situation.",
+    "natural": "It depends on the situation.",
+    "alts": [
+      "It depends from the situation.",
+      "It depends about the situation."
+    ],
+    "why": "'Depend' is always followed by 'on'.",
+    "tags": [
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-28",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Estou de acordo com a proposta, mas tenho dúvidas.",
+    "understandable": "I'm in agreement with the proposal, but I have doubts.",
+    "natural": "I'm on board with the proposal, but I have some reservations.",
+    "alts": [
+      "I'm on agreement with the proposal, but I have some doubts.",
+      "I'm of the same agreement with the proposal, but I have doubts."
+    ],
+    "why": "'On board with' is a natural business idiom, and 'reservations' sounds more professional than 'doubts' when you want to be diplomatic.",
+    "tags": [
+      "register",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-29",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Vamos marcar uma reunião.",
+    "understandable": "Let's mark a meeting.",
+    "natural": "Let's schedule a meeting.",
+    "alts": [
+      "Let's make a reunion.",
+      "Let's mark up a meeting."
+    ],
+    "why": "You 'schedule' or 'set up' a meeting. 'Reunion' is a gathering of people after years apart.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-30",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Eu não tenho nada a ver com isso.",
+    "understandable": "I have nothing to see with this.",
+    "natural": "I have nothing to do with this.",
+    "alts": [
+      "I don't have nothing to do with this.",
+      "I have nothing of do with this."
+    ],
+    "why": "The idiom is 'have nothing to do with'. Remember English avoids double negatives.",
+    "tags": [
+      "literal-translation",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-31",
+    "lvl": "B2",
+    "topic": "tech",
+    "pt": "O sistema está fora do ar.",
+    "understandable": "The system is out of the air.",
+    "natural": "The system is down.",
+    "alts": [
+      "The system is out of air.",
+      "The system fell."
+    ],
+    "why": "A service that is unavailable is 'down'. When it works again it's 'back up'.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-32",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Estou sem tempo agora.",
+    "understandable": "I'm without time right now.",
+    "natural": "I'm really swamped right now.",
+    "alts": [
+      "I'm very occupied right now.",
+      "I have a lot of busy right now."
+    ],
+    "why": "'Swamped' (or 'tied up', 'slammed') is the natural way to say you have too much work.",
+    "tags": [
+      "register",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-33",
+    "lvl": "B2",
+    "topic": "opinions",
+    "pt": "Pra mim tanto faz.",
+    "understandable": "For me it's the same.",
+    "natural": "I don't mind either way.",
+    "alts": [
+      "To me it does no difference.",
+      "For me, it's all equal."
+    ],
+    "why": "'I don't mind either way' or 'It makes no difference to me' express indifference naturally.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-34",
+    "lvl": "B2",
+    "topic": "relationships",
+    "pt": "Fiquei chateado com ele.",
+    "understandable": "I was bothered with him.",
+    "natural": "I was upset with him.",
+    "alts": [
+      "I was annoyed of him.",
+      "I stayed angry about him."
+    ],
+    "why": "Use 'upset/annoyed/angry WITH someone' and 'about/at' a situation. 'Stay' doesn't describe an emotional reaction.",
+    "tags": [
+      "preposition",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-35",
+    "lvl": "B2",
+    "topic": "travel",
+    "pt": "O voo foi cancelado e fiquei sem saber o que fazer.",
+    "understandable": "The flight was cancelled and I stayed without knowing what to do.",
+    "natural": "The flight was cancelled and I didn't know what to do.",
+    "alts": [
+      "The flight was cancelled and I stayed not knowing what to do.",
+      "The flight was cancelled and I was without to know what to do."
+    ],
+    "why": "'Ficar sem' is rarely translated with 'stay without'. Just use a simple past negative.",
+    "tags": [
+      "literal-translation",
+      "word-order"
+    ]
+  },
+  {
+    "id": "nat-36",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Estou por dentro do assunto.",
+    "understandable": "I am inside of the subject.",
+    "natural": "I'm up to speed on this.",
+    "alts": [
+      "I'm inside the subject.",
+      "I'm in the inside of the topic."
+    ],
+    "why": "'Up to speed' (or 'in the loop') means fully informed about the latest situation.",
+    "tags": [
+      "collocation",
+      "register"
+    ]
+  },
+  {
+    "id": "nat-37",
+    "lvl": "B2",
+    "topic": "daily",
+    "pt": "Não vejo a hora de viajar.",
+    "understandable": "I don't see the hour to travel.",
+    "natural": "I can't wait to travel.",
+    "alts": [
+      "I don't see the time to travel.",
+      "I'm not waiting to travel."
+    ],
+    "why": "'I can't wait to + verb' expresses strong excitement about a future event.",
+    "tags": [
+      "literal-translation",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-38",
+    "lvl": "B2",
+    "topic": "opinions",
+    "pt": "Concordo com você até certo ponto.",
+    "understandable": "I agree with you until a point.",
+    "natural": "I agree with you up to a point.",
+    "alts": [
+      "I agree you up to a point.",
+      "I agree with you at one point."
+    ],
+    "why": "The fixed phrase is 'up to a point' (or 'to some extent'). Agree is followed by 'with' + person.",
+    "tags": [
+      "collocation",
+      "preposition"
+    ]
+  },
+  {
+    "id": "nat-39",
+    "lvl": "B2",
+    "topic": "tech",
+    "pt": "Preciso de um tempo pra testar isso antes de colocar no ar.",
+    "understandable": "I need some time to test this before putting it in the air.",
+    "natural": "I need a bit of time to test this before it goes live.",
+    "alts": [
+      "I need some time to test this before it goes to the air.",
+      "I need some time to test this before I put it on live."
+    ],
+    "why": "Software 'goes live' (or 'is deployed') when released to users.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-40",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Eles cortaram minha vaga.",
+    "understandable": "They cut my vacancy.",
+    "natural": "I was laid off.",
+    "alts": [
+      "I was fired out.",
+      "I was put out of the company."
+    ],
+    "why": "'Laid off' means losing your job because the company reduced staff. 'Fired' means dismissed for something you did.",
+    "tags": [
+      "collocation",
+      "register"
+    ]
+  },
+  {
+    "id": "nat-41",
+    "lvl": "B2",
+    "topic": "relationships",
+    "pt": "Nós terminamos.",
+    "understandable": "We finished.",
+    "natural": "We broke up.",
+    "alts": [
+      "We finished our dating.",
+      "We have terminated."
+    ],
+    "why": "'Break up' is the phrasal verb for ending a romantic relationship.",
+    "tags": [
+      "phrasal-verb"
+    ]
+  },
+  {
+    "id": "nat-42",
+    "lvl": "B2",
+    "topic": "daily",
+    "pt": "Eu acabei de chegar.",
+    "understandable": "I just have arrived.",
+    "natural": "I just got here.",
+    "alts": [
+      "I have just arrive.",
+      "I finish to arrive."
+    ],
+    "why": "'Just' goes before the main verb: 'I just got here' (or 'I've just arrived').",
+    "tags": [
+      "tense",
+      "word-order"
+    ]
+  },
+  {
+    "id": "nat-43",
+    "lvl": "B2+",
+    "topic": "relationships",
+    "pt": "Ele me deu bolo.",
+    "understandable": "He gave me a cake.",
+    "natural": "He stood me up.",
+    "alts": [
+      "He gave me a no-show.",
+      "He left me standing out."
+    ],
+    "why": "'Stand someone up' means to not show up to a date or meeting without warning.",
+    "tags": [
+      "phrasal-verb",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-44",
+    "lvl": "B2+",
+    "topic": "work",
+    "pt": "Vou levar isso para o meu gerente.",
+    "understandable": "I will take this to my superiors.",
+    "natural": "I'll escalate this to my manager.",
+    "alts": [
+      "I'll go up this with my manager.",
+      "I'll take up this to my manager."
+    ],
+    "why": "'Escalate' is the standard business verb for passing an issue to someone more senior.",
+    "tags": [
+      "register",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-45",
+    "lvl": "B2+",
+    "topic": "opinions",
+    "pt": "Não sou muito fã disso.",
+    "understandable": "I am not much fan of this.",
+    "natural": "I'm not a big fan of this.",
+    "alts": [
+      "I'm not very fan of this.",
+      "I don't be a fan of this."
+    ],
+    "why": "'Fan' is a noun, so it needs an article: 'a big fan', 'a huge fan'.",
+    "tags": [
+      "article",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-46",
+    "lvl": "B2+",
+    "topic": "work",
+    "pt": "Estou de olho nisso.",
+    "understandable": "I'm with my eye on this.",
+    "natural": "I'm keeping an eye on this.",
+    "alts": [
+      "I have an eye on this.",
+      "I'm watching eye on this."
+    ],
+    "why": "'Keep an eye on' means to monitor something.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-47",
+    "lvl": "B2+",
+    "topic": "daily",
+    "pt": "Isso não vale a pena.",
+    "understandable": "It doesn't worth the pain.",
+    "natural": "It's not worth it.",
+    "alts": [
+      "It doesn't worth it.",
+      "It's not worthy."
+    ],
+    "why": "'Worth' behaves like a preposition: 'be worth it', 'be worth + noun/-ing'. It is never a main verb with 'do/does'.",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-48",
+    "lvl": "B2+",
+    "topic": "opinions",
+    "pt": "Embora ele seja jovem, tem muita experiência.",
+    "understandable": "Despite he is young, he has much experience.",
+    "natural": "Although he's young, he has a lot of experience.",
+    "alts": [
+      "In spite he is young, he has a lot of experience.",
+      "Even he is young, he has much experience."
+    ],
+    "why": "'Although' introduces a clause; 'despite' needs a noun or -ing. 'Much' is rare in positive sentences; use 'a lot of'.",
+    "tags": [
+      "connector",
+      "collocation"
+    ]
+  },
+  {
+    "id": "nat-49",
+    "lvl": "B2+",
+    "topic": "work",
+    "pt": "Se eu soubesse, teria avisado.",
+    "understandable": "If I would have known, I would have warned you.",
+    "natural": "If I'd known, I would have told you.",
+    "alts": [
+      "If I would know, I would tell you.",
+      "If I knew, I would have told you."
+    ],
+    "why": "Third conditional: if + past perfect, would have + past participle. Never 'would' in the if-clause.",
+    "tags": [
+      "tense"
+    ]
+  },
+  {
+    "id": "nat-50",
+    "lvl": "B2+",
+    "topic": "daily",
+    "pt": "Tomara que dê certo.",
+    "understandable": "I hope that it gives right.",
+    "natural": "Fingers crossed it works out.",
+    "alts": [
+      "Hopefully it will be right.",
+      "I wish it works out."
+    ],
+    "why": "'Work out' means to end well. 'Fingers crossed' is a friendly, informal way to wish for luck.",
+    "tags": [
+      "register",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "id": "nat-51",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Vamos alinhar isso na reunião de amanhã.",
+    "understandable": "Let's align this in tomorrow's meeting.",
+    "natural": "Let's get on the same page during tomorrow's meeting.",
+    "alts": [
+      "Let's make an alignment tomorrow.",
+      "Let's sync up on that tomorrow."
+    ],
+    "why": "'Get on the same page' and 'sync up' are the authentic English idioms for aligning expectations.",
+    "tags": [
+      "collocation",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-52",
+    "lvl": "B2+",
+    "topic": "work",
+    "pt": "Vou repassar isso para a equipe depois do almoço.",
+    "understandable": "I will pass this to the team after lunch.",
+    "natural": "I'll brief the team right after lunch.",
+    "alts": [
+      "I'll forward this information to the team.",
+      "I'll loop the team in after lunch."
+    ],
+    "why": "'Brief the team' or 'loop someone in' convey professional communication much better than a literal 'pass to'.",
+    "tags": [
+      "register",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-53",
+    "lvl": "B2",
+    "topic": "opinion",
+    "pt": "Pensando bem, talvez seja melhor adiar.",
+    "understandable": "Thinking well, maybe it is better to postpone.",
+    "natural": "On second thought, it might be better to hold off.",
+    "alts": [
+      "Reflecting well, we should wait.",
+      "Thinking better, we could wait."
+    ],
+    "why": "'Pensando bem' translates naturally as 'On second thought'; 'hold off' is natural for waiting before taking action.",
+    "tags": [
+      "idiom",
+      "conversation"
+    ]
+  },
+  {
+    "id": "nat-54",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "No final das contas, o que importa é a satisfação do cliente.",
+    "understandable": "In the end of the accounts, what matters is client satisfaction.",
+    "natural": "At the end of the day, customer satisfaction is what really counts.",
+    "alts": [
+      "When all is said and done, customer satisfaction matters most.",
+      "Ultimately, customer happiness is key."
+    ],
+    "why": "'At the end of the day' or 'When all is said and done' is the standard equivalent of 'no final das contas'.",
+    "tags": [
+      "idiom",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-55",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Vou te manter informado sobre qualquer novidade.",
+    "understandable": "I will maintain you informed about any novelty.",
+    "natural": "I'll keep you posted on any updates.",
+    "alts": [
+      "I'll keep you in the loop.",
+      "I will let you know as soon as things develop."
+    ],
+    "why": "'Keep someone posted' or 'keep someone in the loop' is much more natural than 'maintain informed'.",
+    "tags": [
+      "collocation",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-56",
+    "lvl": "B2+",
+    "topic": "work",
+    "pt": "Não vale a pena reinventar a roda para resolver isso.",
+    "understandable": "It doesn't worth to reinvent the wheel for this.",
+    "natural": "There's no point in reinventing the wheel to solve this.",
+    "alts": [
+      "It makes no sense to reinvent the wheel.",
+      "We shouldn't reinvent the wheel."
+    ],
+    "why": "'There is no point in + -ing' expresses 'não vale a pena / não faz sentido'.",
+    "tags": [
+      "idiom",
+      "tech"
+    ]
+  },
+  {
+    "id": "nat-57",
+    "lvl": "B2",
+    "topic": "daily",
+    "pt": "Não me entenda mal, eu gosto do projeto, mas precisamos de ajustes.",
+    "understandable": "Don't understand me wrong, I like the project.",
+    "natural": "Don't get me wrong, I like the project, but we need some tweaks.",
+    "alts": [
+      "Don't take this the wrong way, but...",
+      "I don't mean to criticize, but..."
+    ],
+    "why": "'Don't get me wrong' or 'Don't take this the wrong way' is the natural way to soften an objection.",
+    "tags": [
+      "diplomacy",
+      "conversation"
+    ]
+  },
+  {
+    "id": "nat-58",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Precisamos pesar os prós e os contras antes de assinar.",
+    "understandable": "We need to weigh the pros and cons before to sign.",
+    "natural": "We need to weigh the pros and cons before signing.",
+    "alts": [
+      "We should assess the trade-offs before committing.",
+      "We need to consider the upsides and downsides."
+    ],
+    "why": "Prepositions (like 'before') are followed by gerund (-ing): 'before signing', not 'before to sign'.",
+    "tags": [
+      "grammar",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-59",
+    "lvl": "B2+",
+    "topic": "work",
+    "pt": "Estou sobrecarregado com tarefas esta semana.",
+    "understandable": "I am overloaded of tasks this week.",
+    "natural": "I'm completely swamped with work this week.",
+    "alts": [
+      "I'm up to my ears in deadlines.",
+      "I'm overwhelmed by the workload."
+    ],
+    "why": "'Swamped with' or 'snowed under with' is native, expressive vocabulary for being very busy.",
+    "tags": [
+      "idiom",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-60",
+    "lvl": "B2+",
+    "topic": "conversation",
+    "pt": "Para encurtar a história, nós conseguimos entregar a tempo.",
+    "understandable": "To shorten the story, we achieved to deliver on time.",
+    "natural": "Long story short, we managed to deliver on time.",
+    "alts": [
+      "To cut a long story short, we made the deadline.",
+      "In short, we got it delivered on time."
+    ],
+    "why": "'Long story short' is the classic idiom; 'managed to deliver' translates 'conseguimos entregar' (avoid 'achieved to deliver').",
+    "tags": [
+      "idiom",
+      "collocation"
+    ]
+  }
+]
