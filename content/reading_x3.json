@@ -1,0 +1,354 @@
+[
+  {
+    "id": "rd-x3-01",
+    "lvl": "B2",
+    "topic": "security",
+    "kind": "article",
+    "title": "Why passkeys are replacing passwords",
+    "text": "For decades, passwords have been the weakest link in personal cybersecurity. Most people either reuse the same memorable phrase across dozens of websites or rely on slight variations that automated tools can guess in seconds. Password managers helped, yet phishing pages still trick even careful users into typing their credentials on fake login screens.\n\nPasskeys offer a fundamentally different approach. Instead of sending a shared secret over the internet, your device creates a cryptographic key pair. The public key lives on the website's server, while the private key never leaves your phone or laptop and is unlocked locally using biometrics or a device PIN.\n\nThis design solves two stubborn problems at once. First, if a website suffers a database breach, attackers only steal public keys, which are useless on their own. Second, passkeys are bound to the exact domain name where they were created, meaning your device simply refuses to sign in on a lookalike phishing domain.\n\nAdoption is not instant, however. Users still worry about losing access if a phone breaks, so cloud backup and cross-device recovery remain essential before passwords disappear completely.",
+    "qs": [
+      {
+        "q": "What is the main advantage of passkeys described in the article?",
+        "opts": ["They are easier to memorize than passwords.", "They eliminate shared secrets and resist phishing and breaches.", "They work without any device or PIN.", "They allow websites to store your private key safely."],
+        "ans": 1,
+        "why": "Passkeys keep the private key on the device and bind it to the exact domain, protecting against breaches and phishing.",
+        "type": "main"
+      },
+      {
+        "q": "Where is the private key stored?",
+        "opts": ["On the website's server", "In a public directory", "Locally on the user's device", "Inside an email"],
+        "ans": 2,
+        "why": "The text states that the private key never leaves your phone or laptop.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the author mention losing a phone at the end?",
+        "opts": ["To show passkeys are less secure than passwords", "To explain why recovery mechanisms are still needed", "To advise against using biometrics", "To argue that phones are unreliable"],
+        "ans": 1,
+        "why": "Users worry about losing access if a device breaks, so backup and recovery remain essential.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"stubborn\" mean in the third paragraph?",
+        "opts": ["easy to ignore", "persistent and hard to solve", "brand new", "expensive to build"],
+        "ans": 1,
+        "why": "Breaches and phishing have been persistent, difficult problems for decades.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "weakest link", "pt": "elo mais fraco"},
+      {"w": "key pair", "pt": "par de chaves"},
+      {"w": "lookalike", "pt": "falso / parecido (site clone)"},
+      {"w": "recovery", "pt": "recuperação"}
+    ]
+  },
+  {
+    "id": "rd-x3-02",
+    "lvl": "B1+",
+    "topic": "work",
+    "kind": "blog",
+    "title": "The hidden cost of constant notifications",
+    "text": "When our team switched to remote work, we installed three chat channels and turned on desktop alerts for every message. At first, fast replies felt like a sign of dedication. Whenever someone asked a question, someone else answered within two minutes.\n\nAfter a few months, though, everyone felt exhausted even on days without long meetings. Developers complained that they could not finish a single complex feature without being interrupted five or six times. Even a quick glance at a message broke their train of thought, and getting back into the problem took another fifteen minutes.\n\nWe decided to run a two-week experiment. Everyone kept their chat status on silent during morning focus blocks and checked messages only at ten and noon. Urgent production alerts still went to a separate channel that bypassed silent mode.\n\nThe result surprised us. Response times to ordinary questions went up slightly, from two minutes to about forty minutes, yet the number of completed tasks rose noticeably. People also wrote clearer, more complete messages because they no longer expected an instant back-and-forth chat.",
+    "qs": [
+      {
+        "q": "What is the main point of the blog post?",
+        "opts": ["Remote workers should stop using chat.", "Reducing notification interruptions improved productivity and message clarity.", "Two-minute replies are always better.", "Morning meetings should be longer."],
+        "ans": 1,
+        "why": "Silent focus blocks increased completed tasks and led to clearer messages.",
+        "type": "main"
+      },
+      {
+        "q": "How did the team handle urgent production alerts during the experiment?",
+        "opts": ["They ignored them until noon.", "They used a separate channel that bypassed silent mode.", "They called each other on the phone.", "They disabled all alerts completely."],
+        "ans": 1,
+        "why": "Urgent production alerts went to a separate channel that bypassed silent mode.",
+        "type": "detail"
+      },
+      {
+        "q": "Why did people write clearer messages during the experiment?",
+        "opts": ["Management required longer emails.", "They knew the other person would not reply immediately.", "They had fewer tasks to do.", "They used a new chat app."],
+        "ans": 1,
+        "why": "Because they no longer expected an instant back-and-forth chat, they included full context upfront.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"train of thought\" mean in paragraph two?",
+        "opts": ["a commute to work", "a connected sequence of ideas", "a list of bugs", "a weekly schedule"],
+        "ans": 1,
+        "why": "'Train of thought' means the flow of ideas when concentrating on a problem.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "dedication", "pt": "dedicação"},
+      {"w": "train of thought", "pt": "linha de raciocínio"},
+      {"w": "back-and-forth", "pt": "vai e vem (troca rápida de mensagens)"},
+      {"w": "noticeably", "pt": "notavelmente"}
+    ]
+  },
+  {
+    "id": "rd-x3-03",
+    "lvl": "B2+",
+    "topic": "ai",
+    "kind": "article",
+    "title": "Why small language models are gaining ground",
+    "text": "In the early rush of generative AI, bigger almost always meant better. Companies competed to train massive models with hundreds of billions of parameters, assuming that only giant cloud clusters could handle real-world tasks. Recently, however, engineering teams have started moving in the opposite direction.\n\nSmall, specialized models—running locally on a laptop or a modest single server—have become surprisingly capable. When a model only needs to classify support tickets, extract dates from invoices, or summarize internal notes, it does not need encyclopedic knowledge of nineteenth-century poetry. Trimming the scope allows teams to cut inference costs dramatically while slashing response times.\n\nPrivacy is an equally compelling driver. Healthcare clinics, banks, and legal departments are often reluctant to send sensitive records to third-party APIs. Running a compact model inside a private network eliminates external data exposure and simplifies compliance audits.\n\nGiant models still lead on open-ended reasoning and creative synthesis. Yet for predictable, high-volume workflows, the industry is realizing that right-sized intelligence often beats sheer scale.",
+    "qs": [
+      {
+        "q": "What trend does the article describe?",
+        "opts": ["Giant models are being banned.", "Teams are increasingly adopting smaller, task-specific AI models.", "Laptops can now train billion-parameter models.", "Cloud providers are shutting down AI clusters."],
+        "ans": 1,
+        "why": "The article explains why engineering teams are moving toward smaller, specialized models.",
+        "type": "main"
+      },
+      {
+        "q": "Which advantage of compact models is especially important for banks and clinics?",
+        "opts": ["Knowledge of history", "Keeping sensitive data inside a private network", "Writing creative poetry", "Free cloud hosting"],
+        "ans": 1,
+        "why": "Running locally eliminates external data exposure and simplifies compliance.",
+        "type": "detail"
+      },
+      {
+        "q": "When would a giant model still be the better choice?",
+        "opts": ["Extracting dates from invoices", "Classifying routine tickets", "Complex, open-ended reasoning", "Running offline on a laptop"],
+        "ans": 2,
+        "why": "The final paragraph states giant models still lead on open-ended reasoning and creative synthesis.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"sheer scale\" mean in the last sentence?",
+        "opts": ["low cost", "pure size alone", "fast speed", "strict security"],
+        "ans": 1,
+        "why": "'Sheer scale' refers to massive size by itself.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "compelling", "pt": "convincente / forte"},
+      {"w": "reluctant", "pt": "relutante"},
+      {"w": "open-ended", "pt": "aberto / sem resposta única"},
+      {"w": "sheer scale", "pt": "escala pura / tamanho bruto"}
+    ]
+  },
+  {
+    "id": "rd-x3-04",
+    "lvl": "B2",
+    "topic": "science",
+    "kind": "article",
+    "title": "The surprising power of sleep on memory",
+    "text": "Students often stay up until three in the morning cramming before an exam, convinced that every extra hour of reading adds to what they know. Yet neuroscience has repeatedly shown that this strategy backfires. Learning does not end when you close your book; a crucial part of the process happens while you sleep.\n\nDuring deep sleep, the brain replays patterns of activity from the day, transferring fragile short-term memories from the hippocampus to more permanent storage in the cortex. Without that overnight consolidation, much of what you studied simply fades within forty-eight hours.\n\nSleep also acts as a filter. Rather than keeping every trivial detail, the brain strengthens connections that seem useful or emotionally relevant while letting noise drop away. That is why people often wake up with a clearer solution to a problem that felt impossible the night before.\n\nIf your schedule is tight, studying for forty-five minutes and getting a full night's rest will almost always outperform studying for three hours on four hours of sleep.",
+    "qs": [
+      {
+        "q": "What is the main message of the article?",
+        "opts": ["Reading late at night improves focus.", "Sleep is essential for turning short-term study into lasting memory.", "Short-term memory lasts for weeks without sleep.", "Exams should always be taken in the morning."],
+        "ans": 1,
+        "why": "Sleep consolidates fragile memories into permanent storage.",
+        "type": "main"
+      },
+      {
+        "q": "What happens in the brain during deep sleep?",
+        "opts": ["All memories are erased.", "Patterns from the day are replayed and moved to permanent storage.", "The hippocampus shuts down completely.", "Only emotional memories are kept."],
+        "ans": 1,
+        "why": "The brain replays activity and transfers memories from the hippocampus to the cortex.",
+        "type": "detail"
+      },
+      {
+        "q": "Why might someone solve a tough problem more easily after sleeping?",
+        "opts": ["The brain forgets the entire problem.", "Sleep filters out noise and strengthens useful connections.", "People read faster in the morning.", "Cramming only works after lunch."],
+        "ans": 1,
+        "why": "Sleep filters trivial noise and strengthens relevant connections.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"backfires\" mean in the first paragraph?",
+        "opts": ["works better than expected", "produces the opposite, unwanted result", "costs too much money", "happens very slowly"],
+        "ans": 1,
+        "why": "Staying up all night hurts retention instead of helping it.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "cramming", "pt": "estudar tudo de última hora"},
+      {"w": "backfire", "pt": "sair pela culatra"},
+      {"w": "fragile", "pt": "frágil"},
+      {"w": "outperform", "pt": "superar"}
+    ]
+  },
+  {
+    "id": "rd-x3-05",
+    "lvl": "B1+",
+    "topic": "business",
+    "kind": "email",
+    "title": "How to write a status update people actually read",
+    "text": "Every Friday afternoon, thousands of project managers spend an hour writing long status emails that nobody finishes reading. The problem is rarely a lack of effort; it is usually poor structure. When the key risk or decision is buried in paragraph four, busy colleagues simply skim the first two lines and move on.\n\nA better format starts with a one-sentence headline: is the project on track, at risk, or blocked? Immediately after that, list three short bullet points covering what shipped this week, what happens next, and where you need help.\n\nIf you need a decision from a director, put their name in bold right at the top next to the deadline. People are far more likely to respond when the request is specific and takes less than thirty seconds to understand.\n\nLeave deep technical logs, chart screenshots, and meeting notes in a linked document. Anyone who wants the full history can click through, while everyone else gets the exact picture in half a minute.",
+    "qs": [
+      {
+        "q": "Why do colleagues often miss important points in status emails?",
+        "opts": ["The emails are sent on Mondays.", "Key risks and decisions are buried deep in long paragraphs.", "Managers forget to attach files.", "Colleagues dislike bullet points."],
+        "ans": 1,
+        "why": "Busy readers skim the top and miss details buried in later paragraphs.",
+        "type": "main"
+      },
+      {
+        "q": "What should come first in the recommended format?",
+        "opts": ["A list of meeting attendees", "A one-sentence headline showing project status", "Screenshots of charts", "A full technical log"],
+        "ans": 1,
+        "why": "Start with a one-sentence headline: on track, at risk, or blocked.",
+        "type": "detail"
+      },
+      {
+        "q": "Where does the author suggest putting detailed technical notes?",
+        "opts": ["In a linked document", "At the very top of the email", "In the subject line", "In a separate phone call"],
+        "ans": 0,
+        "why": "Leave deep logs and notes in a linked document for anyone who wants the full history.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"skim\" mean in paragraph one?",
+        "opts": ["read every word carefully", "read quickly, looking only at the main points", "delete without opening", "forward to someone else"],
+        "ans": 1,
+        "why": "'Skim' means reading quickly without reading every detail.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "buried", "pt": "enterrado / escondido no meio"},
+      {"w": "skim", "pt": "passar os olhos"},
+      {"w": "on track", "pt": "no caminho certo / no prazo"},
+      {"w": "shipped", "pt": "entregue / publicado"}
+    ]
+  },
+  {
+    "id": "rd-x3-06",
+    "lvl": "B2",
+    "topic": "tech",
+    "kind": "article",
+    "title": "The trap of premature optimization",
+    "text": "Software engineers love building elegant, high-speed systems. Sometimes, however, that instinct leads teams to spend weeks tuning a feature before anyone has even proven that users want it. In engineering, this habit is known as premature optimization.\n\nImagine a startup building a local food-delivery app. Before launching in a single neighborhood, the team spends two months designing a distributed cache capable of handling a million orders per minute. Meanwhile, competitors launch a simple version in two weeks, gather real feedback, and discover that customers actually care more about accurate delivery estimates than sub-millisecond page loads.\n\nThe smarter sequence is straightforward: first make it work cleanly, then make it right, and only then make it fast where measurements show a real bottleneck. Profiling actual production traffic almost always reveals that ninety percent of the slowdown lives in one or two unexpected queries—not in the places engineers guessed upfront.\n\nGood architecture still matters, of course. Keeping modules decoupled makes it easy to swap out a slow component later, without betting the whole schedule on hypothetical scale.",
+    "qs": [
+      {
+        "q": "What is \"premature optimization\" according to the text?",
+        "opts": ["Fixing bugs after launch", "Spending time tuning performance before knowing if it is needed", "Using simple tools to launch quickly", "Measuring production traffic"],
+        "ans": 1,
+        "why": "It means tuning performance before proving users want the feature or where bottlenecks actually are.",
+        "type": "main"
+      },
+      {
+        "q": "What did the competitor in the example focus on instead?",
+        "opts": ["Handling a million orders per minute", "Launching quickly and learning what customers cared about", "Building a distributed cache", "Rewriting their database"],
+        "ans": 1,
+        "why": "They launched a simple version in two weeks and gathered real user feedback.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the author still recommend decoupled modules?",
+        "opts": ["They run faster automatically.", "They make it easier to replace slow parts later.", "They eliminate all bugs.", "They prevent competitors from copying you."],
+        "ans": 1,
+        "why": "Decoupled modules let you swap out a slow component later when measurements show a real bottleneck.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"bottleneck\" mean in paragraph three?",
+        "opts": ["a type of container", "a point that slows down the whole process", "a security key", "a design guideline"],
+        "ans": 1,
+        "why": "A bottleneck is a narrow point that limits overall speed or capacity.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "premature", "pt": "prematuro"},
+      {"w": "bottleneck", "pt": "gargalo"},
+      {"w": "decoupled", "pt": "desacoplado / independente"},
+      {"w": "upfront", "pt": "antecipadamente / de início"}
+    ]
+  },
+  {
+    "id": "rd-x3-07",
+    "lvl": "B2+",
+    "topic": "culture",
+    "kind": "essay",
+    "title": "Why directness sounds different across cultures",
+    "text": "When Brazilian professionals begin working with international teams in English, one of the biggest surprises has nothing to do with grammar. It is how differently cultures handle saying \"no\" or pointing out a mistake.\n\nIn Brazil, softening a refusal with warmth and extra context is a sign of respect. Saying simply \"That won't work\" can feel abrupt or cold. Yet in parts of Northern Europe or in fast-paced US engineering teams, overly indirect phrasing can create confusion. If someone says \"Maybe we could look at another option later,\" a colleague might assume the current proposal was approved.\n\nOn the other hand, translating Brazilian Portuguese warmth literally into English—or adopting blunt directness without softening words—can miss the mark in British workplaces, where polite understatement is common. A British colleague who says \"That's an interesting approach\" may actually mean \"I have serious doubts.\"\n\nThe practical solution is to separate clarity from tone. State your position clearly—\"I don't think this timeline is realistic\"—and follow it immediately with a constructive reason or alternative. Clear, respectful, and impossible to misread.",
+    "qs": [
+      {
+        "q": "What is the central theme of the essay?",
+        "opts": ["Grammar rules vary by country.", "Cultural differences in directness can cause misunderstandings at work.", "Brazilians should never use polite phrases in English.", "British English is harder than American English."],
+        "ans": 1,
+        "why": "The essay explores how different cultures interpret directness and indirectness.",
+        "type": "main"
+      },
+      {
+        "q": "What might happen if you use overly indirect phrasing with a US engineering team?",
+        "opts": ["They will think you are rude.", "They might misunderstand and think you agreed.", "They will switch to email.", "They will stop asking questions."],
+        "ans": 1,
+        "why": "A colleague might assume the current proposal was approved.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the example \"That's an interesting approach\" illustrate?",
+        "opts": ["British colleagues love creative ideas.", "Polite understatement can hide strong doubts.", "Directness is universal in Europe.", "Tone matters more than facts."],
+        "ans": 1,
+        "why": "In British workplaces, polite understatement can mask serious doubts.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"blunt\" mean in paragraph three?",
+        "opts": ["very polite", "direct without trying to be gentle", "hard to understand", "grammatically wrong"],
+        "ans": 1,
+        "why": "'Blunt' means direct in a plain, unsoftened way.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "abrupt", "pt": "brusco / seco"},
+      {"w": "understatement", "pt": "atenuação / eufemismo"},
+      {"w": "blunt", "pt": "direto demais / seco"},
+      {"w": "misread", "pt": "interpretar mal"}
+    ]
+  },
+  {
+    "id": "rd-x3-08",
+    "lvl": "B1+",
+    "topic": "daily",
+    "kind": "blog",
+    "title": "The thirty-minute rule for learning a language",
+    "text": "Most people who start studying a language seriously begin with huge enthusiasm. During the first weekend, they download four apps, watch two movies with English subtitles, and study for three hours straight. By the following Wednesday, work gets busy and they skip a day. Two weeks later, the streak is gone.\n\nLanguage acquisition behaves much more like going to the gym than cramming for a test. Doing twenty to thirty minutes every single day beats doing three hours once a week. Your brain needs regular exposure followed by sleep so that new words move into long-term memory.\n\nThe secret is tying your study habit to an existing routine. Review flashcards right after morning coffee, or listen to a ten-minute English podcast while walking the dog. When the habit has a fixed trigger, you stop negotiating with yourself every evening about whether you feel motivated.\n\nConsistency feels slow in week one, almost invisible in week two, and unmistakable by month three.",
+    "qs": [
+      {
+        "q": "Why does the author compare language learning to going to the gym?",
+        "opts": ["Both require expensive equipment.", "Regular short sessions beat rare intense marathons.", "Both are best done on weekends.", "You need a coach for both."],
+        "ans": 1,
+        "why": "Doing 20-30 minutes every day beats three hours once a week.",
+        "type": "main"
+      },
+      {
+        "q": "What happens to many learners who start with three-hour weekend sessions?",
+        "opts": ["They reach fluency in two weeks.", "Work gets busy and they soon lose consistency.", "They remember everything permanently.", "They only need one app."],
+        "ans": 1,
+        "why": "When work gets busy, they skip days and lose the streak.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does tying study to morning coffee help?",
+        "opts": ["Coffee improves pronunciation.", "A fixed trigger removes the need to rely on motivation.", "Mornings are always quiet.", "Podcasts are shorter in the morning."],
+        "ans": 1,
+        "why": "With a fixed trigger, you stop negotiating with yourself about motivation.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"unmistakable\" mean in the last sentence?",
+        "opts": ["impossible to doubt or miss", "easy to forget", "too difficult", "slightly disappointing"],
+        "ans": 0,
+        "why": "By month three, the progress is clear and impossible to miss.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {"w": "straight", "pt": "seguido / sem parar"},
+      {"w": "trigger", "pt": "gatilho"},
+      {"w": "negotiate with yourself", "pt": "ficar discutindo consigo mesmo"},
+      {"w": "unmistakable", "pt": "inconfundível / evidente"}
+    ]
+  }
+]
