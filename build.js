@@ -13,9 +13,8 @@ if (cfg.googleClientId) code = code.replace("const DEFAULT_CLIENT_ID = '';", "co
 const css = fs.readFileSync(R('src', 'style.css'), 'utf8');
 const safe = s => s.split('</script').join('<\\/script').split(String.fromCharCode(8232)).join('\\u2028').split(String.fromCharCode(8233)).join('\\u2029');
 const favicon = 'data:image/png;base64,' + fs.readFileSync(R('assets', 'favicon-128.png')).toString('base64'); // ícone do app (barra de tarefas)
-const faviconLinks = `<link rel="icon" type="image/png" sizes="256x256" href="data:image/png;base64,${fs.readFileSync(R('assets', 'favicon-256.png')).toString('base64')}">`;
-const faviconOld = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%233454d1'/%3E%3Cpath d='M9 22c3-9 8-12 14-12' stroke='white' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3Ccircle cx='9' cy='22' r='2.5' fill='white'/%3E%3C/svg%3E";
-const page = (installable) => `<!DOCTYPE html>
+const faviconData = `data:image/png;base64,${fs.readFileSync(R('assets', 'favicon-256.png')).toString('base64')}`;
+const page = (installable, iconHref = 'favicon-256.png?v=3') => `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -23,7 +22,7 @@ const page = (installable) => `<!DOCTYPE html>
 <meta name="theme-color" content="#3454d1">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://accounts.google.com https://apis.google.com; style-src 'self' 'unsafe-inline' https://accounts.google.com; font-src 'self'; img-src 'self' data: https:; media-src 'self' data: blob:; connect-src 'self' https://api.anthropic.com https://api.languagetool.org https://*.googleapis.com https://accounts.google.com https://*.wiktionary.org https://api.datamuse.com https://api.mymemory.translated.net; frame-src https://accounts.google.com; object-src 'none'; base-uri 'none'">
 <title>Fluent Path — your personal English tutor</title>
-${faviconLinks}
+<link rel="icon" type="image/png" sizes="256x256" href="${iconHref}">
 ${installable ? '<link rel="manifest" href="manifest.webmanifest">\n<link rel="apple-touch-icon" href="icon-192.png">\n<meta name="apple-mobile-web-app-capable" content="yes">\n<meta name="mobile-web-app-capable" content="yes">' : ''}
 <style>
 ${css}
@@ -39,8 +38,8 @@ ${safe(code)}
 </body>
 </html>`;
 fs.mkdirSync(R('dist'), { recursive: true });
-fs.writeFileSync(R('dist', 'FluentPath.html'), page(false));
-fs.mkdirSync(R('app'), { recursive: true }); fs.copyFileSync(R('dist', 'FluentPath.html'), R('app', 'index.html')); ['icon-192.png', 'icon-512.png', 'fluentpath.ico'].forEach(f => fs.copyFileSync(R('assets', f), R('app', f))); // usada pelo launcher do Windows
+fs.writeFileSync(R('dist', 'FluentPath.html'), page(false, faviconData));
+fs.mkdirSync(R('app'), { recursive: true }); fs.writeFileSync(R('app', 'index.html'), page(false, 'favicon-256.png?v=3')); ['icon-192.png', 'icon-512.png', 'fluentpath.ico', 'favicon-256.png'].forEach(f => fs.copyFileSync(R('assets', f), R('app', f))); // usada pelo launcher do Windows
 // ---- versão instalável (PWA) ----
 const siteHtml = page(true); const ver = crypto.createHash('sha1').update(siteHtml).digest('hex').slice(0, 10);
 fs.mkdirSync(R('site'), { recursive: true });
@@ -50,10 +49,10 @@ fs.writeFileSync(R('site', 'manifest.webmanifest'), JSON.stringify({
   start_url: './index.html', scope: './', display: 'standalone', orientation: 'any', background_color: '#f6f4ef', theme_color: '#3454d1', lang: 'en',
   icons: [{ src: 'icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any maskable' }, { src: 'icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }]
 }, null, 2));
-['icon-192.png', 'icon-512.png'].forEach(f => fs.copyFileSync(R('assets', f), R('site', f)));
+['icon-192.png', 'icon-512.png', 'favicon-256.png'].forEach(f => fs.copyFileSync(R('assets', f), R('site', f)));
 fs.writeFileSync(R('site', 'sw.js'), `// Fluent Path service worker (${ver}): funciona offline; atualiza sozinho quando há versão nova.
 const CACHE = 'fluentpath-${ver}';
-const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
+const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './favicon-256.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
 self.addEventListener('fetch', e => {
