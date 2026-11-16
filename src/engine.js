@@ -45,7 +45,7 @@ function newState() {
   const now = Date.now();
   return {
     v: 1, created: now, onboarded: false, demo: false,
-    profile: { name: '', level: 'B1', target: 'B2', minutes: 10, topics: [], goal: '', situations: [], pain: [], prefs: [] },
+    profile: { name: '', level: 'B1', target: 'B2', minutes: 20, teacher: false, topics: [], goal: '', situations: [], pain: [], prefs: [] },
     settings: { theme: 'system', speed: 1, accent: 'us', ptHelp: 'auto', apiKey: '', model: 'claude-haiku-4-5-20251001', notif: false, sound: false },
     sk, c: {}, win: [], mist: [], ev: [], days: {}, sessions: [], xp: 0, ach: {}, seenEx: {}, assess: [], analyses: [], personal: [],
     lastSpeak: 0, lastListen: 0, lastWrite: 0, diag: null, reports: [], lastRead: 0, quests: null,

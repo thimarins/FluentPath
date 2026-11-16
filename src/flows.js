@@ -8,7 +8,7 @@ const OB_SIT = ['Meetings at work', 'Emails & messages', 'Calls with clients', '
 const OB_PAIN = ['Vocabulary', 'Phrasal verbs', 'Connectors', 'Grammar', 'Speaking', 'Listening', 'Writing', 'Sounding natural'];
 const OB_PREF = ['Speaking', 'Listening', 'Reading', 'Writing'];
 let OB = null;
-route(/^\/onboarding$/, () => { OB = OB || { step: 0, d: { name: S.profile.name || '', goal: '', level: 'B1', target: 'B2', minutes: 10, topics: ['tech', 'travel', 'daily'], situations: [], pain: [], prefs: [] } }; return { html: obHTML(), after: obBind }; });
+route(/^\/onboarding$/, () => { OB = OB || { step: 0, d: { name: S.profile.name || '', goal: '', level: 'B1', target: 'B2', minutes: 20, topics: ['tech', 'travel', 'daily'], situations: [], pain: [], prefs: [] } }; return { html: obHTML(), after: obBind }; });
 function obHTML() {
   const d = OB.d, st = OB.step, steps = 7;
   const chips = (arr, key, multi = true, fmt = x => x) => `<div class="row wrap" style="gap:10px;margin-top:6px">${arr.map(a => { const v = Array.isArray(a) ? a[0] : a, lab = Array.isArray(a) ? a[1] : a; const on = multi ? d[key].includes(v) : d[key] === v; return `<button class="chip ${on ? 'on' : ''}" style="padding:10px 16px;font-size:.95rem" data-a="obset" data-k="${key}" data-v="${esc(v)}" data-m="${multi ? 1 : 0}">${esc(lab)}</button>`; }).join('')}</div>`;

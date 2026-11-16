@@ -1,7 +1,7 @@
 // Testa o modo launcher do Windows contra o servidor REAL (tools\server.ps1 rodando em localhost:8765).
 // Uso: node dev/test7.js  (ele mesmo sobe um servidor ISOLADO: porta 8799 e pasta temporaria; nunca toca em data\\)
 const path = require('path'), fs = require('fs');
-const { JSDOM, VirtualConsole } = require(process.env.JSDOM_PATH || process.env.TEMP + '/pdfx/node_modules/jsdom');
+const { JSDOM, VirtualConsole } = require((() => { try { require.resolve('jsdom'); return 'jsdom'; } catch (e) { return process.env.JSDOM_PATH || process.env.TEMP + '/pdfx/node_modules/jsdom'; } })());
 const html = fs.readFileSync(path.join(__dirname, '..', 'app', 'index.html'), 'utf8');
 const PORT = process.env.TEST_PORT || '8799'; const BASE = 'http://localhost:' + PORT; const errs = [];
 function boot(label, preset) {

@@ -1,11 +1,11 @@
-FLUENT PATH - tutor de ingles (Windows, sem instalar)
+﻿FLUENT PATH - tutor de ingles (Windows, sem instalar)
 =====================================================
 
 COMO USAR
-  Duplo clique em:  "Abrir Fluent Path.bat"
+  Duplo clique em:  FluentPath.exe  (o icone azul na pasta; pode criar um atalho dele onde quiser)
   O app abre em janela propria (Edge ou Chrome ja instalados). Nao instala nada.
   Quando voce fecha a janela, o servidor local se encerra sozinho em ~2 minutos
-  (ou use "Parar Fluent Path.bat" para encerrar na hora).
+  (nao precisa fazer nada).
 
 ONDE FICA O SEU PROGRESSO
   data\progress.json          <- seu progresso, salvo automaticamente a cada resposta
@@ -18,12 +18,16 @@ PRIMEIRA VEZ
   Responda o questionario e o teste de nivelamento (~8 min). Depois, "Start today's session".
   Quer so olhar? Na primeira tela use "Explore with a demo user" (nao grava nada no arquivo).
 
-SE O DUPLO CLIQUE NAO FUNCIONAR (PowerShell bloqueado pela TI)
-  Use "Abrir (modo simples).bat": abre direto, sem servidor.
-  Nesse modo o progresso fica so dentro do navegador: use Settings > Export my data
-  para fazer backup.
+ATALHO
+  Botao direito em FluentPath.exe > Enviar para > Area de trabalho.
+
+SE O .EXE NAO ABRIR (antivirus/TI bloqueou)
+  Rode no PowerShell, dentro desta pasta:  powershell -ExecutionPolicy Bypass -File tools\server.ps1
+  Evite abrir app\index.html direto: o login do Google e o salvamento em arquivo so
+  funcionam pelo endereco http://localhost:8765.
 
 ARQUIVOS
+  FluentPath.exe     lancador (codigo em tools\launcher.cs; recompile com tools\build-exe.bat)
   app\index.html     o programa (arquivo unico, funciona offline)
   tools\server.ps1   mini-servidor local (so aceita conexoes deste computador)
   src\, content\     codigo e conteudo (palavras, gramatica, exercicios)
@@ -35,3 +39,6 @@ ARQUIVOS
 PROXIMA FASE (celular)
   Ver docs\PLANO-V2.md e docs\DEPLOY.md. A sincronizacao pelo Google Drive ja esta
   construida; falta publicar a pasta "site" e criar o client ID do Google.
+
+
+

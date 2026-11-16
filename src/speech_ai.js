@@ -18,20 +18,40 @@ const Speech = {
     const best = natural.length ? natural.concat(pool.filter(v => !natural.includes(v))) : pool;
     return [best[0] || null, best.find(v => v !== best[0] && /female|male|zira|david|aria|guy|jenny|ryan|libby|mark/i.test(v.name) !== /female|zira|aria|jenny|libby/i.test((best[0] || {}).name || '')) || best[1] || best[0] || null];
   },
+  /* gênero da voz pelo nome (Windows/Edge/Mac/Google) e do personagem pelo nome do falante */
+  vGender(v) { const n = v.name || ''; if (/\b(female|zira|aria|jenny|libby|sonia|michelle|ana|emma|ava|samantha|karen|moira|tessa|susan|hazel|heera|natasha|clara|nancy|jane|sara)\b/i.test(n)) return 'f'; if (/\b(male|david|mark|guy|ryan|christopher|eric|roger|steffan|brian|andrew|alex|daniel|fred|tom|george|james|rishi|oliver)\b/i.test(n)) return 'm'; return /google us english|google uk english female/i.test(n) ? 'f' : '?'; },
+  nGender(name) { const n = String(name).toLowerCase(); if (/\b(mrs|ms|miss|mom|mother|sister|woman|girl|wife|she|waitress|receptionist|nurse|mary|anna|ana|sarah|emma|lisa|kate|julia|maria|laura|sofia|emily|jenny|amy|rachel|olivia|sophie|linda|susan|karen|alice|jessica)\b/.test(n)) return 'f'; if (/\b(mr|dad|father|brother|man|boy|husband|he|waiter|john|mike|tom|david|james|peter|paul|mark|jack|ben|alex|daniel|chris|steve|bob|carlos|manager|doctor)\b/.test(n)) return 'm'; return '?'; },
+  /* uma voz distinta por personagem: respeita o gênero quando dá, senão alterna masc/fem e varia o tom */
+  castVoices(names, accent) {
+    const lang = accent === 'gb' ? 'en-GB' : 'en-US'; const en = this.voices.filter(v => v.lang && v.lang.replace('_', '-').toLowerCase().startsWith('en'));
+    const pref = en.filter(v => v.lang.replace('_', '-').startsWith(lang)), rest = en.filter(v => !pref.includes(v)), pool = pref.concat(rest);
+    const rank = v => (/natural|online|neural/i.test(v.name) ? 0 : /google/i.test(v.name) ? 1 : 2) + (pref.includes(v) ? 0 : 3);
+    const sorted = pool.slice().sort((a, b) => rank(a) - rank(b));
+    const F = sorted.filter(v => this.vGender(v) === 'f'), M = sorted.filter(v => this.vGender(v) === 'm'), U = sorted.filter(v => this.vGender(v) === '?');
+    const used = new Set(), cast = {}; let flip = 0;
+    names.forEach((nm, idx) => {
+      let g = this.nGender(nm); if (g === '?') { g = (flip++ % 2 === 0) ? (idx === 0 ? 'f' : 'm') : (idx === 0 ? 'm' : 'f'); if (idx > 0) { const prev = cast[names[idx - 1]]; if (prev && prev.g === g) g = g === 'f' ? 'm' : 'f'; } }
+      const list = (g === 'f' ? F : M).concat(g === 'f' ? M : F, U);
+      let v = list.find(x => !used.has(x)) || list[idx % Math.max(1, list.length)] || null; if (v) used.add(v);
+      const same = [...used].length < idx + 1; // faltou voz: separa pelo tom
+      cast[nm] = { v, g, pitch: same ? (idx % 2 ? (g === 'f' ? 1.25 : .8) : 1) : (v && this.vGender(v) !== g && this.vGender(v) !== '?' ? (g === 'f' ? 1.3 : .75) : 1) };
+    });
+    return cast;
+  },
   stop() { if (this.ok) { speechSynthesis.cancel(); this._speaking = false; } },
   /* fala um script; linhas "Nome: texto" alternam duas vozes */
   speak(script, { rate = 1, accent = 'us', onend, onstart } = {}) {
     if (!this.ok) { onend && onend(); return false; }
     this.stop();
     const lines = String(script).split(/\n+/).map(l => l.trim()).filter(Boolean);
-    const speakers = {}; let order = 0; const [v1, v2] = this.pickVoices(accent);
-    const parts = lines.map(l => { const m = l.match(/^([A-Z][\w .']{0,20}):\s*(.+)$/); if (m) { if (!(m[1] in speakers)) speakers[m[1]] = order++; return { who: speakers[m[1]], t: m[2] }; } return { who: 0, t: l }; });
+    const names = []; const parts = lines.map(l => { const m = l.match(/^([A-Z][\w .']{0,20}):\s*(.+)$/); const nm = m ? m[1] : '_narrator'; if (!names.includes(nm)) names.push(nm); return { nm, t: m ? m[2] : l }; });
+    const cast = this.castVoices(names, accent);
     let i = 0; const token = ++this._queue; this._speaking = true; onstart && onstart();
     const next = () => {
       if (token !== this._queue) return;
       if (i >= parts.length) { this._speaking = false; onend && onend(); return; }
       const p = parts[i++]; const u = new SpeechSynthesisUtterance(p.t);
-      u.lang = accent === 'gb' ? 'en-GB' : 'en-US'; u.rate = rate; const v = p.who % 2 ? v2 : v1; if (v) u.voice = v; u.pitch = p.who % 2 ? (v1 === v2 ? .82 : 1) : 1;
+      u.lang = accent === 'gb' ? 'en-GB' : 'en-US'; u.rate = rate; const c = cast[p.nm] || {}; if (c.v) u.voice = c.v; u.pitch = c.pitch || 1;
       u.onend = () => setTimeout(next, 180); u.onerror = () => { this._speaking = false; onend && onend(); };
       speechSynthesis.speak(u);
     };

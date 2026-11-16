@@ -1,0 +1,21 @@
+// Testa o modo "tenho professor": correção de aula entra no caderno e no reparo; plano com menos fala.
+const fs=require('fs'),path=require('path');
+const {JSDOM,VirtualConsole}=require((()=>{try{require.resolve('jsdom');return 'jsdom'}catch(e){return process.env.JSDOM_PATH||process.env.TEMP+'/pdfx/node_modules/jsdom'}})());
+(async()=>{let bad=0;const ck=(n,ok,x)=>{console.log((ok?'PASS ':'FAIL ')+n+(x?' — '+x:''));if(!ok)bad++};
+const dom=new JSDOM(fs.readFileSync(path.join(__dirname,'..','dist','FluentPath.html'),'utf8'),{runScripts:'dangerously',url:'http://localhost/',pretendToBeVisual:true,virtualConsole:new VirtualConsole(),beforeParse(w){w.matchMedia=()=>({matches:false,addEventListener(){}});w.scrollTo=()=>{};w.speechSynthesis={getVoices:()=>[],speak(){},cancel(){},addEventListener(){}}}});
+await new Promise(r=>setTimeout(r,300));const W=dom.window,d=W.document,ev=s=>W.eval(s);
+ev("S.onboarded=true;S.profile.name='Ana';applyDiagnostic(S,{sk:{reading:3,listening:3,writing:3,speaking:3,vocab:3,grammar:3},theta:3,strengths:[],weaknesses:[],n:0,at:Date.now()});save()");
+ck('novo perfil: meta 20 min e teacher=false',ev('S.profile.minutes')===20&&ev('S.profile.teacher')===false);
+ev("nav('/mistakes')");await new Promise(r=>setTimeout(r,200));
+d.querySelector('#cls-bad').value='I have 10 years working here';d.querySelector('#cls-good').value="I've been working here for 10 years";d.querySelector('#cls-why').value='duration: present perfect continuous';
+d.querySelector('[data-a=clsadd]').click();await new Promise(r=>setTimeout(r,200));
+ck('correção salva no caderno',ev('S.mist.length')===1&&ev('S.mist[0].tag')==='class');
+ck('aparece na tela com a etiqueta "From my teacher"',d.querySelector('main').textContent.includes('From my teacher')&&d.querySelector('main').textContent.includes("I've been working here"));
+d.querySelector('[data-a=clsadd]').click();await new Promise(r=>setTimeout(r,100));ck('campos vazios não criam duplicata',ev('S.mist.length')===1);
+const it=ev('JSON.stringify(repairItem(S.mist[0]))');const o=JSON.parse(it);ck('reparo vira exercício de digitar a versão correta',o.type==='typed'&&o.acc[0]==="I've been working here for 10 years");
+ev('S.lastSpeak=Date.now()');const spk=t=>{let n=0;for(let i=0;i<30;i++){ev('S.profile.teacher='+t);n+=JSON.parse(ev('JSON.stringify(planSession(S,20).blocks.filter(function(b){return /speak/.test(b.key)}).length)'))}return n};
+const a=spk(false),b=spk(true);ck('com professor, sem fala no plano quando você falou há pouco',a===30&&b===0,'sem professor '+a+'/30, com professor '+b+'/30');
+ev('S.lastSpeak=Date.now()-5*864e5;S.profile.teacher=true');ck('com professor, fala volta após 3+ dias sem falar',JSON.parse(ev('JSON.stringify(planSession(S,20).blocks.filter(function(b){return /speak/.test(b.key)}).length)'))===1);
+ev("nav('/settings')");await new Promise(r=>setTimeout(r,200));ck('Settings tem a opção do professor',d.querySelector('main').textContent.includes('I have classes with a teacher'));
+d.querySelector('[data-k=teacher][data-v=true]').click();await new Promise(r=>setTimeout(r,100));ck('ligar a opção grava no perfil',ev('S.profile.teacher')===true);
+console.log(bad?'FALHOU '+bad:'ERRORS: none');process.exit(0)})();

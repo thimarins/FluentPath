@@ -12,25 +12,30 @@ const BLOCK_LABEL = { read: 'Reading', warm: 'Warm-up', vocab: 'Vocabulary recal
 function startRunner(plan, opts = {}) {
   if (!plan || !plan.items || !plan.items.length) { toast('Nothing to practice here yet.', 'alert'); return; }
   Speech.stop(); closeRunner(true);
-  R = { plan, queue: plan.items.slice(), i: 0, res: [], t0: Date.now(), opts, xp: 0, mistakes: 0, levelUps: [], followed: {}, newItems: 0, blocks: {} };
+  R = { plan, queue: plan.items.slice(), i: 0, res: [], t0: Date.now(), opts, xp: 0, mistakes: 0, levelUps: [], followed: {}, newItems: 0, blocks: {}, hist: {}, rev: null, live: null };
   const o = document.createElement('div'); o.id = 'runner';
-  o.innerHTML = `<div class="rtop"><button class="iconbtn" data-a="rquit" aria-label="Close">${I('x')}</button><div class="bar"><i id="rprog" style="width:0"></i></div><span class="small b muted" id="rcount"></span><button class="iconbtn" data-a="rsound" id="rsnd" aria-label="Sound effects" style="width:34px;height:34px">${I(S.settings.sound ? 'volume' : 'volume-x')}</button></div>
+  o.innerHTML = `<div class="rtop"><button class="iconbtn" data-a="rquit" aria-label="Close">${I('x')}</button><button class="iconbtn" data-a="rback" id="rbk" aria-label="Review previous questions" title="Review previous questions (read-only)" style="width:34px;height:34px;display:none"><span style="display:inline-block;transform:scaleX(-1)">${I('arrow')}</span></button><div class="bar"><i id="rprog" style="width:0"></i></div><span class="small b muted" id="rtimer" title="Time on this exercise" style="font-variant-numeric:tabular-nums;min-width:38px;text-align:right">0:00</span><span class="small b muted" id="rcount"></span><button class="iconbtn" data-a="rsound" id="rsnd" aria-label="Sound effects" style="width:34px;height:34px">${I(S.settings.sound ? 'volume' : 'volume-x')}</button></div>
   <div class="rbody"><div class="rwrap" id="rmain"></div></div><div class="rbar"><div class="in" id="rctl"></div></div>`;
   document.body.appendChild(o); document.body.style.overflow = 'hidden'; showItem();
 }
-function closeRunner(silent) { const o = $('#runner'); if (o) { o.remove(); } document.body.style.overflow = ''; Speech.stop(); if (R && R.timer) clearInterval(R.timer); if (R && R.rec) { try { R.rec.stop(); } catch (e) { } } if (!silent && S && S.onboarded) { R = null; render(); } else R = null; }
+function fmtT(ms) { const s = Math.floor(ms / 1000); return Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0'); }
+function tickTimer() { if (!R || !R.cur) return; const e = $('#rtimer'); if (!e) return; const c = R.cur; if (c.phase !== 'done' && R.rev == null) c.shown_ms = Date.now() - c.t0; if (R.rev == null) e.textContent = fmtT(c.shown_ms || 0); }
+function closeRunner(silent) { if (R && R.tick) clearInterval(R.tick); const o = $('#runner'); if (o) { o.remove(); } document.body.style.overflow = ''; Speech.stop(); if (R && R.timer) clearInterval(R.timer); if (R && R.rec) { try { R.rec.stop(); } catch (e) { } } if (!silent && S && S.onboarded) { R = null; render(); } else R = null; }
 ACT.rquit = () => { if (R && R.res.length) finishSession(true); else closeRunner(); };
 const setCtl = html => { $('#rctl').innerHTML = html; };
 
 function showItem() {
   if (!R) return;
   if (R.timer) { clearInterval(R.timer); R.timer = null; }
+  if (R.rev != null) { R.rev = null; R.live = null; const m = $('#rmain'); if (m) m.classList.remove('rev'); }
+  if (R.cur && R.cur.idx != null && R.cur.phase === 'done') { const m = $('#rmain'); if (m) R.hist[R.cur.idx] = m.innerHTML; }
   const it = R.queue[R.i]; if (!it) return finishSession();
-  R.cur = { item: it, t0: Date.now(), hints: 0, phase: 'answer', tries: 0, sel: null, placed: [], extra: {} };
+  R.cur = { item: it, idx: R.i, t0: Date.now(), hints: 0, phase: 'answer', tries: 0, sel: null, placed: [], extra: {} };
+  const bk = $('#rbk'); if (bk) bk.style.display = Object.keys(R.hist).length ? '' : 'none';
   $('#rprog').style.width = (R.i / R.queue.length * 100) + '%'; $('#rcount').textContent = (R.i + 1) + ' / ' + R.queue.length;
   const blk = BLOCK_LABEL[it.block] || 'Practice';
   const head = `<div class="rlabel">${I(BLOCK_ICON[it.block] || 'zap')}<span>${blk}</span><span>·</span><span>${it.kind === 'lis' || it.kind === 'spk' || it.kind === 'wri' ? (it.mode === 'read' ? 'Reading' : SKILL_NAME[it.skill] || '') : TIER_NAME[it.tier] || ''}</span>${lvTag(it.lvl)}<span class="grow"></span><button class="why" data-a="rwhy">${I('help')} Why this?</button></div>`;
-  R.cur.head = head; renderItem();
+  R.cur.head = head; renderItem(); if (R.tick) clearInterval(R.tick); R.tick = setInterval(tickTimer, 500); tickTimer();
   const autoplay = it.tts && ['mcq', 'typed'].includes(it.type) && it.kind !== 'nat' && false;
   window.scrollTo(0, 0); const rb = $('#runner .rbody'); if (rb) rb.scrollTop = 0;
 }
@@ -78,7 +83,25 @@ ACT.rretry = () => {
   else { const inp = $('#rin'); if (inp) { inp.disabled = false; inp.focus(); inp.select && inp.select(); } setCtl(`<span class="muted small">Try once more</span><button class="btn primary lg" data-a="rcheck" id="rgo">Check</button>`); }
 };
 function continueBtn(label = 'Continue') { setCtl(`<span class="muted small" id="rhelp"></span><button class="btn primary lg" data-a="rnext" id="rgo">${label} ${I('arrow')}</button>`); const b = $('#rgo'); b && b.focus(); }
-ACT.rnext = () => { if (R.cur && R.cur.onNext) { const f = R.cur.onNext; R.cur.onNext = null; f(); return; } R.i++; showItem(); };
+/* revisão somente leitura das perguntas já respondidas (não altera respostas nem XP) */
+function showReview(k) {
+  const last = R.cur.idx, m = $('#rmain'); R.rev = k; m.classList.add('rev'); m.innerHTML = R.hist[k]; m.querySelectorAll('input,textarea,button').forEach(x => { x.disabled = true; });
+  const rb = $('#runner .rbody'); if (rb) rb.scrollTop = 0;
+  const hasPrev = k > 0 && R.hist[k - 1] != null, back = last > k + 1 ? 'Next answered' : 'Back to current';
+  setCtl(`<button class="btn ghost sm" data-a="rback" ${hasPrev ? '' : 'disabled'}><span style="display:inline-block;transform:scaleX(-1)">${I('arrow')}</span> Previous</button><span class="muted small">Reviewing ${k + 1} of ${R.queue.length} · read-only</span><button class="btn primary lg" data-a="rrevnext" id="rgo">${back} ${I('arrow')}</button>`);
+}
+ACT.rback = () => {
+  if (!R || !R.cur) return; const m = $('#rmain');
+  if (R.rev == null) { if (R.cur.phase === 'done') R.hist[R.cur.idx] = m.innerHTML; R.live = { html: m.innerHTML, ctl: $('#rctl').innerHTML, scroll: ($('#runner .rbody') || {}).scrollTop || 0 }; const k = R.cur.idx - 1; if (R.hist[k] == null) { R.live = null; return; } showReview(k); }
+  else if (R.rev > 0 && R.hist[R.rev - 1] != null) showReview(R.rev - 1);
+};
+ACT.rrevnext = () => {
+  if (R.rev == null) return; const nx = R.rev + 1;
+  if (nx < R.cur.idx && R.hist[nx] != null) { showReview(nx); return; }
+  const m = $('#rmain'); m.classList.remove('rev'); m.innerHTML = R.live.html; $('#rctl').innerHTML = R.live.ctl; const rb = $('#runner .rbody'); if (rb) rb.scrollTop = R.live.scroll; R.rev = null; R.live = null;
+  const g = $('#rgo'); g && g.focus();
+};
+ACT.rnext = () => { if (R.rev != null) return; if (R.cur && R.cur.onNext) { const f = R.cur.onNext; R.cur.onNext = null; f(); return; } R.i++; showItem(); };
 
 /* ---------- registro + feedback comum ---------- */
 function commit(it, g) {
@@ -119,12 +142,42 @@ function gradeMcq() {
 /* --- digitar --- */
 BODY.typed = it => rq(it) + `<input type="text" id="rin" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Type your answer…" style="font-size:1.15rem;padding:14px 16px">`;
 BIND.typed = it => { setCtl(`<button class="btn ghost sm" data-a="rhint">${I('bulb')} Hint</button><button class="btn primary lg" data-a="rcheck" id="rgo">Check</button>`); const i = $('#rin'); setTimeout(() => i && i.focus(), 60); };
-function gradeTyped() {
-  const c = R.cur, it = c.item, inp = $('#rin'); const val = inp.value.trim(); if (!val) { inp.focus(); return; }
+/* o aluno digitou a frase inteira em vez de só a palavra que faltava: aceita se a palavra certa está lá e o resto bate com a frase */
+/* contrações = forma completa (I've = I have; hasn't = has not) */
+function expandC(s, has) { return norm(s).replace(/\b(it|he|she|that|there|here|what|who|where|how)'s\b/g, has ? '$1 has' : '$1 is').replace(/\blet's\b/g, 'let us').replace(/\bcannot\b/g, 'can not').replace(/\bcan't\b/g, 'can not').replace(/\bwon't\b/g, 'will not').replace(/n't\b/g, ' not').replace(/'ve\b/g, ' have').replace(/'re\b/g, ' are').replace(/'m\b/g, ' am').replace(/'ll\b/g, ' will').replace(/\s+/g, ' ').trim(); }
+/* testa a frase inteira e também só a frase que tem a lacuna (o aluno costuma digitar só ela) */
+function wholeSentenceCheck(it, val) {
+  const ta = document.createElement('textarea'); ta.innerHTML = it.sub; const tpl = ta.value.replace(/\s*\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim();
+  if (/_{2,}/.test(val)) return null;
+  val = val.replace(/\s*\([^)]*\)/g, ' ').replace(/\s+/g, ' ').trim(); // a dica "(a / an)" não conta como resposta
+  const parts = tpl.split(/(?<=[.!?]['"”’]?)\s+/).filter(p => /_{2,}/.test(p));
+  let r = wholeCheckOne(it, val, tpl); if (r) return r;
+  for (const p of parts) if (p !== tpl) { r = wholeCheckOne(it, val, p); if (r) return r; }
+  const colon = tpl.match(/^[A-Za-z ]{2,12}:\s+(.*_{2,}.*)$/); if (colon) { r = wholeCheckOne(it, val, colon[1]); if (r) return r; }
+  return null;
+}
+function wholeCheckOne(it, val, tpl) {
+  const same = (a, b) => expandC(a) === expandC(b) || expandC(a, 1) === expandC(b, 1);
+  for (const a of it.acc) if (same(val, tpl.replace(/_{2,}/, a))) return { score: 1, note: 'You typed the whole sentence — only the missing word is needed.' };
+  const vt = tokens(expandC(val)); let hit = null; const pn = tokens(expandC(tpl.split(/_{2,}/)[0])).length;
+  for (const a of it.acc) { const at = tokens(expandC(a)); if (at.length) for (let j = Math.max(0, pn - 1); j <= pn + 2; j++) if (vt.slice(j, j + at.length).join(' ') === at.join(' ')) { hit = a; break; } if (hit) break; } // a palavra certa tem de estar NO lugar da lacuna
+  if (!hit) return null;
+  const filled = expandC(tpl.replace(/_{2,}/, hit)); if (sim(expandC(val), filled) < .8) return null;
+  const nq = w => w.replace(/'/g, ''), ft = tokens(filled).map(nq), vq = vt.map(nq), odd = vq.filter(w => !ft.includes(w));
+  const exact = !odd.length && vq.length === ft.length;
+  return { score: exact ? 1 : .85, note: 'You typed the whole sentence — only the missing word is needed.' + (exact ? '' : odd.length ? ' Watch the spelling: <b>' + odd.map(esc).join(', ') + '</b> (check the rest of the sentence).' : '') };
+}
+function typedVerdict(it, val) {
   const na = nrm(val); const accs = it.acc.map(nrm);
-  let ok = accs.includes(na), score = ok ? 1 : 0, note = '';
+  let ok = accs.includes(na) || accs.map(expandC).includes(expandC(val)), score = ok ? 1 : 0, note = '';
+  if (!ok && it.sub && /_{2,}/.test(it.sub)) { const r = wholeSentenceCheck(it, val); if (r) { ok = true; score = r.score; note = r.note; } }
   if (!ok && it.fuzzy) { const best = Math.max(...it.acc.map(a => sim(val, a))); if (best >= it.fuzzy) { ok = true; score = .9; note = 'Very close — almost identical.'; } }
   if (!ok && !it.fuzzy) { const near = accs.find(a => a.length >= 5 && lev(a, na) === 1 && !a.includes(' ') === !na.includes(' ')); if (near) { ok = true; score = .85; note = `Watch the spelling: <b>${esc(it.acc[accs.indexOf(near)])}</b>`; } }
+  return { ok, score, note };
+}
+function gradeTyped() {
+  const c = R.cur, it = c.item, inp = $('#rin'); const val = inp.value.trim(); if (!val) { inp.focus(); return; }
+  const { ok, score, note } = typedVerdict(it, val);
   const correct = it.correctText || it.acc[0];
   if (c.tries > 0) { c.phase = 'done'; inp.disabled = true; showFeedback(ok ? fbBlock('part', 'Right this time', it.why || '', actsFor(it, true)) : fbBlock('bad', 'Still not it', `<b>Better:</b> ${esc(correct)}<br>${it.why || ''}`, actsFor(it, false, false))); continueBtn(); return; }
   inp.disabled = true;
@@ -234,30 +287,38 @@ BIND.listen = it => {
 ACT.lspd = el => { R.cur.rate = +el.dataset.s; $$('#lspeed button').forEach(b => b.classList.toggle('on', b === el)); };
 ACT.lplay = () => { const c = R.cur, it = c.item; c.plays++; const btn = $('#lplay'); btn.innerHTML = I('volume'); $('#lstat').textContent = 'Playing…'; Speech.speak(it.script, { rate: c.rate, accent: it.accent, onend: () => { const b = $('#lplay'); if (b) { b.innerHTML = I('refresh'); $('#lstat').textContent = 'Played ' + c.plays + '× — press to replay'; } } }); };
 ACT.lready = () => { Speech.stop(); lisQuestion(); setCtl(`<span class="muted small">Answer the questions</span><span></span>`); };
+const curQs = c => c.list || c.item.qs;
 function lisQuestion() {
-  const c = R.cur, it = c.item; const q = it.qs[c.qi];
-  if (!q) return lisDone();
-  $('#lq').innerHTML = `<div class="rlabel">Question ${c.qi + 1} of ${it.qs.length}</div><div class="rq" style="font-size:1.25rem">${esc(q.q)}</div>` + q.opts.map((o, i) => `<button class="opt" data-a="lans" data-i="${i}"><span class="k">${i + 1}</span><span>${esc(o)}</span></button>`).join('') + '<div id="lfb"></div>';
+  const c = R.cur, it = c.item, qs = curQs(c); const q = qs[c.qi];
+  if (!q) return c.list ? lisRedoDone() : lisDone();
+  $('#lq').innerHTML = `<div class="rlabel">${c.list ? 'Retry · ' : ''}Question ${c.qi + 1} of ${qs.length}</div><div class="rq" style="font-size:1.25rem">${esc(q.q)}</div>` + q.opts.map((o, i) => `<button class="opt" data-a="lans" data-i="${i}"><span class="k">${i + 1}</span><span>${esc(o)}</span></button>`).join('') + '<div id="lfb"></div>';
 }
 ACT.lans = el => {
-  const c = R.cur, it = c.item, q = it.qs[c.qi]; if (c.locked) return; c.locked = true; const i = +el.dataset.i; const ok = i === q.ans;
+  const c = R.cur, it = c.item, qs = curQs(c), q = qs[c.qi]; if (c.locked) return; c.locked = true; const i = +el.dataset.i; const ok = i === q.ans; const practice = !!(c.list || c.retry); c.retry = false;
   $$('#lq .opt').forEach((b, k) => { b.disabled = true; if (k === q.ans) b.classList.add('ok'); else if (k === i) b.classList.add('no'); else b.classList.add('dim'); });
-  if (ok) c.right++;
-  const sub = { kind: 'lis', skill: it.skill, lvl: it.lvl, type: 'mcq', wtype: 'mcq', cid: null, ref: c.qi ? null : it.ref };
-  const out = recordResult(sub, { ok, rt: ok ? 12000 : 9000 }); R.xp += out.gain; if (out.levelUp) R.levelUps.push(out.levelUp);
-  $('#lfb').innerHTML = `<div class="fb ${ok ? 'ok' : 'bad'}"><div class="t">${I(ok ? 'check-circle' : 'x-circle')} ${ok ? 'Correct' : 'Not quite'}</div><div class="d">${esc(q.why || '')}</div></div>`;
-  setCtl(`<span class="muted small">${c.qi + 1}/${it.qs.length}</span><button class="btn primary lg" data-a="lnext" id="rgo">${c.qi + 1 < it.qs.length ? 'Next question' : 'See transcript'} ${I('arrow')}</button>`); $('#rgo').focus();
+  if (practice) { if (ok) c.redoRight = (c.redoRight || 0) + 1; if (c.list && !ok) c.redoMiss = (c.redoMiss || 0) + 1; }
+  else { if (ok) c.right++; else (c.missed = c.missed || []).push(q); const sub = { kind: 'lis', skill: it.skill, lvl: it.lvl, type: 'mcq', wtype: 'mcq', cid: null, ref: c.qi ? null : it.ref };
+    const out = recordResult(sub, { ok, rt: ok ? 12000 : 9000 }); R.xp += out.gain; if (out.levelUp) R.levelUps.push(out.levelUp); }
+  $('#lfb').innerHTML = `<div class="fb ${ok ? (practice && !c.list ? 'part' : 'ok') : 'bad'}"><div class="t">${I(ok ? 'check-circle' : 'x-circle')} ${ok ? (practice ? 'Right this time' : 'Correct') : 'Not quite'}</div><div class="d">${esc(q.why || '')}</div><div class="acts">${!ok && !practice ? `<button class="btn sm" data-a="lretry">${I('refresh')} Try again</button>` : ''}${!it.mode || it.mode !== 'read' ? `<button class="btn sm" data-a="lreplay">${I('volume')} Listen again</button>` : ''}</div></div>`;
+  setCtl(`<span class="muted small">${c.qi + 1}/${qs.length}${practice ? ' · practice, not scored' : ''}</span><button class="btn primary lg" data-a="lnext" id="rgo">${c.qi + 1 < qs.length ? 'Next question' : c.list ? 'See result' : 'See transcript'} ${I('arrow')}</button>`); $('#rgo').focus();
 };
-ACT.lnext = () => { const c = R.cur; c.qi++; c.locked = false; lisQuestion(); if (c.qi >= c.item.qs.length) return; setCtl(`<span class="muted small">Answer the questions</span><span></span>`); };
+ACT.lretry = () => { const c = R.cur; if (!c.locked) return; c.locked = false; c.retry = true; lisQuestion(); setCtl(`<span class="muted small">Try this question again (practice)</span><span></span>`); };
+ACT.lnext = () => { const c = R.cur; c.qi++; c.locked = false; lisQuestion(); if (c.qi >= curQs(c).length) return; setCtl(`<span class="muted small">Answer the questions</span><span></span>`); };
 function lisDone() {
   const c = R.cur, it = c.item, n = it.qs.length; const ok = c.right / n;
   if (it.mode !== 'read') S.lastListen = Date.now(); else S.lastRead = Date.now();
   const mins = (Date.now() - c.t0) / 60000; addMinutes(Math.max(0, mins - .2));
   R.res.push({ item: it, ok: ok >= .6, score: ok, gain: 0, block: it.block }); c.phase = 'done';
   const vocabChips = (it.vocab || []).map(v => { const w = CONTENT.words.find(x => x.w === v) || null; return `<span class="chip" ${w ? `data-a="card" data-t="word" data-id="${w.id}"` : ''}>${esc(v)}</span>`; }).join('');
-  $('#lq').innerHTML = `<div class="fb ${ok >= .66 ? 'ok' : ok >= .34 ? 'part' : 'bad'}"><div class="t">${I('headphones')} ${c.right} of ${n} correct</div><div class="d"><b>Transcript</b><div class="txt" style="margin-top:6px">${esc(it.script).replace(/\n/g, '<br>')}</div><div style="margin-top:10px" class="row wrap">${vocabChips ? '<span class="small muted">Useful:</span>' + vocabChips : ''}</div></div><div class="acts"><button class="btn sm" data-a="lreplay">${I('volume')} Listen again with transcript</button></div></div>`;
+  $('#lq').innerHTML = `<div class="fb ${ok >= .66 ? 'ok' : ok >= .34 ? 'part' : 'bad'}"><div class="t">${I('headphones')} ${c.right} of ${n} correct</div><div class="d"><b>Transcript</b><div class="txt" style="margin-top:6px">${esc(it.script).replace(/\n/g, '<br>')}</div><div style="margin-top:10px" class="row wrap">${vocabChips ? '<span class="small muted">Useful:</span>' + vocabChips : ''}</div></div><div class="acts"><button class="btn sm" data-a="lreplay">${I('volume')} Listen again with transcript</button>${(c.missed || []).length ? `<button class="btn sm" data-a="lredo">${I('refresh')} Retest the ${c.missed.length} I missed</button>` : ''}</div></div>`; c.doneHTML = $('#lq').innerHTML;
   setCtl(`<span class="muted small">+${n} questions recorded</span><button class="btn primary lg" data-a="rnext" id="rgo">Continue ${I('arrow')}</button>`);
   S.seenEx[it.ref] = Date.now(); checkAch(); saveSoon();
+}
+ACT.lredo = () => { const c = R.cur; if (!(c.missed || []).length) return; c.list = c.missed.slice().sort(() => Math.random() - .5); c.qi = 0; c.locked = false; c.redoRight = 0; c.redoMiss = 0; lisQuestion(); setCtl(`<span class="muted small">Retest of your missed questions (not scored)</span><span></span>`); };
+function lisRedoDone() {
+  const c = R.cur, n = c.list.length; const r = c.redoRight || 0; c.missed = c.list.filter(() => false); const left = n - r; c.list = null; c.qi = 0;
+  $('#lq').innerHTML = c.doneHTML.replace(/<button class="btn sm" data-a="lredo">[^]*?<\/button>/, '').replace('</div></div>', `</div><div class="small" style="margin-top:8px"><b>Retest:</b> ${r} of ${n} right this time${left ? ' — the rest will come back in your next sessions.' : ' — nice, that fixed it.'}</div></div>`);
+  setCtl(`<span class="muted small">Retest finished</span><button class="btn primary lg" data-a="rnext" id="rgo">Continue ${I('arrow')}</button>`); $('#rgo').focus();
 }
 ACT.lreplay = () => { const c = R.cur; Speech.speak(c.item.script, { rate: 1, accent: c.item.accent }); };
 
@@ -357,6 +418,7 @@ ACT.rcheck = () => {
 };
 document.addEventListener('keydown', e => {
   if (!R || !$('#runner')) return; const c = R.cur; if (!c) return;
+  if (R.rev != null) { if (e.key === 'Enter') { e.preventDefault(); ACT.rrevnext(); } else if (e.key === 'ArrowLeft') ACT.rback(); return; }
   if (e.key === 'Enter' && !e.shiftKey) { const ta = e.target.tagName === 'TEXTAREA'; if (ta && !(e.ctrlKey || e.metaKey)) return; const g = $('#rgo'); if (g && !g.disabled) { e.preventDefault(); g.click(); } }
   else if (/^[1-4]$/.test(e.key) && c.item.type === 'mcq' && c.phase === 'answer' && !/INPUT|TEXTAREA/.test(e.target.tagName)) { const b = $$('.opt')[+e.key - 1]; if (b && !b.disabled) b.click(); }
 });

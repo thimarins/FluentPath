@@ -16,6 +16,7 @@ if (cfg.googleClientId) code = code.replace("const DEFAULT_CLIENT_ID = '';", "co
 const css = fs.readFileSync(R('src', 'style.css'), 'utf8');
 const safe = s => s.split('</script').join('<\\/script').split(String.fromCharCode(8232)).join('\\u2028').split(String.fromCharCode(8233)).join('\\u2029');
 const favicon = 'data:image/png;base64,' + fs.readFileSync(R('assets', 'favicon-128.png')).toString('base64'); // ícone do app (barra de tarefas)
+const faviconLinks = [16, 32, 48, 64, 128, 256].map(n => `<link rel="icon" type="image/png" sizes="${n}x${n}" href="data:image/png;base64,${fs.readFileSync(R('assets', 'favicon-' + n + '.png')).toString('base64')}">`).join('');
 const faviconOld = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%233454d1'/%3E%3Cpath d='M9 22c3-9 8-12 14-12' stroke='white' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3Ccircle cx='9' cy='22' r='2.5' fill='white'/%3E%3C/svg%3E";
 const page = (installable) => `<!DOCTYPE html>
 <html lang="en">
@@ -25,7 +26,7 @@ const page = (installable) => `<!DOCTYPE html>
 <meta name="theme-color" content="#3454d1">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://accounts.google.com https://apis.google.com; style-src 'self' 'unsafe-inline' https://accounts.google.com; font-src 'self'; img-src 'self' data: https:; media-src 'self' data: blob:; connect-src 'self' https://api.anthropic.com https://api.languagetool.org https://*.googleapis.com https://accounts.google.com https://*.wiktionary.org https://api.datamuse.com https://api.mymemory.translated.net; frame-src https://accounts.google.com; object-src 'none'; base-uri 'none'">
 <title>Fluent Path — your personal English tutor</title>
-<link rel="icon" href="${favicon}">
+${faviconLinks}
 ${installable ? '<link rel="manifest" href="manifest.webmanifest">\n<link rel="apple-touch-icon" href="icon-192.png">\n<meta name="apple-mobile-web-app-capable" content="yes">\n<meta name="mobile-web-app-capable" content="yes">' : ''}
 <style>
 ${css}
