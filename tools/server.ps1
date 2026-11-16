@@ -21,6 +21,7 @@ for ($p = $Port; $p -lt $Port + 20; $p++) {
 }
 if (-not $listener) { Log 'sem porta livre'; throw 'Nenhuma porta livre entre 8765 e 8784.' }
 Set-Content -Path (Join-Path $data 'server.pid') -Value $PID
+Set-Content -Path (Join-Path $data 'server.port') -Value $Port
 $url = "http://localhost:$Port/"
 Log "ouvindo em $url (pid $PID)"
 

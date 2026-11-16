@@ -28,19 +28,25 @@ static class Launcher
         catch (Exception e) { MessageBox.Show("Não consegui iniciar o Fluent Path:\n" + e.Message, "Fluent Path", MessageBoxButtons.OK, MessageBoxIcon.Error); }
     }
 
-    // procura o servidor do Fluent Path nas portas 8765..8784
+    // verifica apenas se o processo do servidor registrado em data\server.pid ainda está vivo (instantâneo, sem varrer 20 portas)
     static int RunningPort()
     {
-        for (int p = 8765; p < 8785; p++)
+        try
         {
-            try
-            {
-                var rq = (HttpWebRequest)WebRequest.Create("http://localhost:" + p + "/api/ping");
-                rq.Timeout = 700; rq.Headers.Add("X-FluentPath", "1");
-                using (var rs = (HttpWebResponse)rq.GetResponse()) if ((int)rs.StatusCode == 200) return p;
-            }
-            catch { }
+            string data = Path.Combine(Root, "data");
+            string pidFile = Path.Combine(data, "server.pid");
+            if (!File.Exists(pidFile)) return 0;
+            int pid;
+            if (!int.TryParse(File.ReadAllText(pidFile).Trim(), out pid)) return 0;
+            try { Process.GetProcessById(pid); } catch { return 0; }
+            int port = 8765;
+            string portFile = Path.Combine(data, "server.port");
+            if (File.Exists(portFile)) int.TryParse(File.ReadAllText(portFile).Trim(), out port);
+            var rq = (HttpWebRequest)WebRequest.Create("http://127.0.0.1:" + port + "/api/ping");
+            rq.Timeout = 200; rq.Headers.Add("X-FluentPath", "1");
+            using (var rs = (HttpWebResponse)rq.GetResponse()) if ((int)rs.StatusCode == 200) return port;
         }
+        catch { }
         return 0;
     }
 
