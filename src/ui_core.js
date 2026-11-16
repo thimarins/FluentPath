@@ -187,9 +187,10 @@ function navHTML() {
   const due = dueCounts();
   return NAV.map(([sec, items]) => `<div class="sec">${sec}</div>` + items.map(([p, ic, name]) => `<a href="#${p}" data-p="${p}">${I(ic)}<span>${name}</span>${p === '/review' && due.total ? `<span class="dot">${due.total}</span>` : ''}</a>`).join('')).join('');
 }
+const BRAND_LOGO = `<svg viewBox="0 0 100 100" width="100%" height="100%" aria-hidden="true"><rect x="15" y="19" width="70" height="48" rx="13" fill="#fff"/><polygon points="25,63 25,84 47,63" fill="#fff"/><path d="M36 30h30v9H46v4.5h14V52H46v7H36z" fill="#2f4fd0"/><circle cx="80" cy="24" r="8.5" fill="#ff7a45"/></svg>`;
 function shell() {
   const app = $('#app');
-  app.innerHTML = `<div class="app"><aside class="side"><div class="brand"><div class="logo">${I('sparkles')}</div>Fluent Path</div><nav class="nav" id="nav"></nav></aside>
+  app.innerHTML = `<div class="app"><aside class="side"><div class="brand"><div class="logo" style="overflow:hidden">${BRAND_LOGO}</div>Fluent Path</div><nav class="nav" id="nav"></nav></aside>
   <div class="main"><header class="top"><div class="search" data-a="palette">${I('search')}<span>Search words, grammar, mistakes…</span><kbd>Ctrl K</kbd></div>
   <div class="chipbar"><button class="pill fire" id="pStreak" data-a="streakInfo" title="Your streak: tap for details"></button><button class="pill xpp" id="pXp" data-a="xpInfo" title="Your level and XP: tap for details"></button><button class="iconbtn" data-a="syncNow" aria-label="Sync" id="syncBtn"></button><button class="iconbtn" data-a="theme" aria-label="Toggle theme" id="themeBtn"></button></div></header>
   <main class="page" id="view"></main></div></div>

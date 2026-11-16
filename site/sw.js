@@ -1,5 +1,5 @@
-// Fluent Path service worker (77dc5b80fd): funciona offline; atualiza sozinho quando há versão nova.
-const CACHE = 'fluentpath-77dc5b80fd';
+// Fluent Path service worker (2e76c9daf1): funciona offline; atualiza sozinho quando há versão nova.
+const CACHE = 'fluentpath-2e76c9daf1';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './favicon-256.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });

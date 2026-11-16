@@ -1740,9 +1740,10 @@ function navHTML() {
   const due = dueCounts();
   return NAV.map(([sec, items]) => `<div class="sec">${sec}</div>` + items.map(([p, ic, name]) => `<a href="#${p}" data-p="${p}">${I(ic)}<span>${name}</span>${p === '/review' && due.total ? `<span class="dot">${due.total}</span>` : ''}</a>`).join('')).join('');
 }
+const BRAND_LOGO = `<svg viewBox="0 0 100 100" width="100%" height="100%" aria-hidden="true"><rect x="15" y="19" width="70" height="48" rx="13" fill="#fff"/><polygon points="25,63 25,84 47,63" fill="#fff"/><path d="M36 30h30v9H46v4.5h14V52H46v7H36z" fill="#2f4fd0"/><circle cx="80" cy="24" r="8.5" fill="#ff7a45"/></svg>`;
 function shell() {
   const app = $('#app');
-  app.innerHTML = `<div class="app"><aside class="side"><div class="brand"><div class="logo">${I('sparkles')}</div>Fluent Path</div><nav class="nav" id="nav"></nav></aside>
+  app.innerHTML = `<div class="app"><aside class="side"><div class="brand"><div class="logo" style="overflow:hidden">${BRAND_LOGO}</div>Fluent Path</div><nav class="nav" id="nav"></nav></aside>
   <div class="main"><header class="top"><div class="search" data-a="palette">${I('search')}<span>Search words, grammar, mistakes…</span><kbd>Ctrl K</kbd></div>
   <div class="chipbar"><button class="pill fire" id="pStreak" data-a="streakInfo" title="Your streak: tap for details"></button><button class="pill xpp" id="pXp" data-a="xpInfo" title="Your level and XP: tap for details"></button><button class="iconbtn" data-a="syncNow" aria-label="Sync" id="syncBtn"></button><button class="iconbtn" data-a="theme" aria-label="Toggle theme" id="themeBtn"></button></div></header>
   <main class="page" id="view"></main></div></div>
@@ -2326,7 +2327,7 @@ function obHTML() {
     `<h2>What feels hardest right now?</h2>${chips(OB_PAIN, 'pain')}`,
     `<h2>Which skills do you enjoy most?</h2><p class="muted">The engine still trains all of them, but it will lean on these.</p>${chips(OB_PREF, 'prefs')}`
   ];
-  return `<div style="max-width:720px;margin:0 auto;padding:36px 0"><div class="row" style="margin-bottom:26px"><div class="brand" style="padding:0"><div class="logo">${I('sparkles')}</div>Fluent Path</div><span class="grow"></span><span class="small muted">${st + 1} / ${steps}</span></div><div class="bar" style="margin-bottom:30px"><i style="width:${(st + 1) / steps * 100}%"></i></div><div class="card" style="padding:30px">${pages[st]}<div class="row between" style="margin-top:30px">${st ? `<button class="btn ghost" data-a="obback">Back</button>` : '<span></span>'}<button class="btn primary lg" data-a="obnext">${st === steps - 1 ? 'Continue to placement test' : 'Next'} ${I('arrow')}</button></div></div></div>`;
+  return `<div style="max-width:720px;margin:0 auto;padding:36px 0"><div class="row" style="margin-bottom:26px"><div class="brand" style="padding:0"><div class="logo" style="overflow:hidden">${BRAND_LOGO}</div>Fluent Path</div><span class="grow"></span><span class="small muted">${st + 1} / ${steps}</span></div><div class="bar" style="margin-bottom:30px"><i style="width:${(st + 1) / steps * 100}%"></i></div><div class="card" style="padding:30px">${pages[st]}<div class="row between" style="margin-top:30px">${st ? `<button class="btn ghost" data-a="obback">Back</button>` : '<span></span>'}<button class="btn primary lg" data-a="obnext">${st === steps - 1 ? 'Continue to placement test' : 'Next'} ${I('arrow')}</button></div></div></div>`;
 }
 function obBind() { const i = $('#obname'); if (i) { i.addEventListener('input', () => OB.d.name = i.value); setTimeout(() => i.focus(), 80); } }
 ACT.obset = el => { const d = OB.d, k = el.dataset.k; let v = el.dataset.v; if (['minutes'].includes(k)) v = +v; if (el.dataset.m === '1') { const a = d[k]; const i = a.indexOf(v); if (i >= 0) a.splice(i, 1); else a.push(v); } else d[k] = v; $('#view').innerHTML = obHTML(); obBind(); };
@@ -2358,7 +2359,7 @@ ACT.obdemo = () => { loadDemo(); OB = null; applyTheme(); toast('Demo user loade
 let DX = null;
 route(/^\/diagnostic$/, () => {
   DX = null;
-  return `<div style="max-width:760px;margin:0 auto;padding:36px 0"><div class="brand" style="padding:0 0 26px"><div class="logo">${I('sparkles')}</div>Fluent Path</div>
+  return `<div style="max-width:760px;margin:0 auto;padding:36px 0"><div class="brand" style="padding:0 0 26px"><div class="logo" style="overflow:hidden">${BRAND_LOGO}</div>Fluent Path</div>
   <div class="card" style="padding:32px"><div class="ico">${I('target')}</div><h1 style="margin-top:14px">Let's find your real level</h1>
   <p class="muted" style="margin-top:10px">An <b>adaptive</b> test: if you answer quickly and correctly, questions get harder; if you struggle, they get easier until we find your limit. It measures vocabulary, grammar, reading, listening, phrasal verbs, natural phrasing and connectors, and ends with a short writing and speaking sample.</p>
   <div class="grid g3 keep" style="margin:22px 0"><div class="stat"><div class="k">Time</div><div class="v">~8 min</div></div><div class="stat"><div class="k">Questions</div><div class="v">16–24</div></div><div class="stat"><div class="k">Result</div><div class="v">By skill</div></div></div>
@@ -2373,7 +2374,7 @@ ACT.dxstart = () => { DX = { kind: 'adaptive', D: dxStart(S.profile), cur: null,
 function dxItemHTML(it, n, total, title) {
   const body = it.skill === 'reading' && it.passage ? `<div class="rsub txt">${esc(it.passage)}</div>` : '';
   const aud = it.skill === 'listening' && it.script ? `<div class="audio"><button class="play" data-a="dxplay" id="dxp">${I('play')}</button><div class="grow"><div class="b" id="dxs">Press play (you can listen twice)</div><div class="small muted">Listen carefully, then answer.</div></div></div>${Speech.ok ? '' : '<div class="fb part">This browser can’t play speech. Try Chrome/Edge — this question will be marked as skipped.</div>'}` : '';
-  return `<div style="max-width:760px;margin:0 auto;padding:30px 0"><div class="row" style="margin-bottom:16px"><div class="brand" style="padding:0;font-size:1rem"><div class="logo" style="width:28px;height:28px;font-size:.9rem">${I('sparkles')}</div>${esc(title)}</div><span class="grow"></span><span class="small b muted">Question ${n}${total ? ' / ' + total : ''}</span></div><div class="bar" style="margin-bottom:24px"><i style="width:${total ? (n - 1) / total * 100 : Math.min(100, (n - 1) / 24 * 100)}%"></i></div>
+  return `<div style="max-width:760px;margin:0 auto;padding:30px 0"><div class="row" style="margin-bottom:16px"><div class="brand" style="padding:0;font-size:1rem"><div class="logo" style="width:28px;height:28px;overflow:hidden">${BRAND_LOGO}</div>${esc(title)}</div><span class="grow"></span><span class="small b muted">Question ${n}${total ? ' / ' + total : ''}</span></div><div class="bar" style="margin-bottom:24px"><i style="width:${total ? (n - 1) / total * 100 : Math.min(100, (n - 1) / 24 * 100)}%"></i></div>
   <div class="stack"><div class="rq">${esc(it.q)}</div>${body}${aud}${it.opts.map((o, i) => `<button class="opt" data-a="dxans" data-i="${i}"><span class="k">${i + 1}</span><span>${esc(o)}</span></button>`).join('')}<div class="center"><button class="btn ghost sm" data-a="dxans" data-i="-1">I don't know</button></div></div></div>`;
 }
 function dxNextScreen() {
