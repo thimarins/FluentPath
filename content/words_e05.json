@@ -1,0 +1,5016 @@
+[
+  {
+    "id": "gamble",
+    "w": "gamble",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "aposta / risco arriscado",
+    "def": "An act of gambling money; or a risky action undertaken in the hope of success.",
+    "ipa": "/ˈɡæmbl/",
+    "ex": "Launching a new mobile app without preliminary user testing is a dangerous commercial gamble.",
+    "form": "gamble",
+    "nat": "He took a gamble by leaving his corporate job to launch an independent startup.",
+    "syn": [
+      "risk",
+      "venture"
+    ],
+    "ant": [
+      "certainty"
+    ],
+    "col": [
+      "take a gamble",
+      "dangerous gamble",
+      "commercial gamble"
+    ],
+    "mis": {
+      "bad": "Investing in crypto was a big gamble of him.",
+      "good": "Investing in crypto was a big gamble for him.",
+      "why": "Use \"gamble for someone\", not \"of him\"."
+    },
+    "fam": [
+      "gamble (verb)",
+      "gambler (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "garner",
+    "w": "garner",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "angariar / granjear / acumular apoio",
+    "def": "To gather or collect something, especially information, support, or approval.",
+    "ipa": "/ˈɡɑːrnər/",
+    "ex": "The open-source developer managed to garner widespread international praise for creating the security tool.",
+    "form": "garner",
+    "nat": "Her proposal garnered substantial financial support from local angel investors.",
+    "syn": [
+      "gather",
+      "acquire"
+    ],
+    "ant": [
+      "lose",
+      "disperse"
+    ],
+    "col": [
+      "garner support",
+      "garner praise",
+      "garner attention"
+    ],
+    "mis": {
+      "bad": "The project garnered to many positive reviews.",
+      "good": "The project garnered many positive reviews.",
+      "why": "\"Garner\" is a transitive verb; do not add \"to\" after it."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "garrison",
+    "w": "garrison",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "guarnição militar / destacamento",
+    "def": "A body of troops stationed in a fortress or town to defend it.",
+    "ipa": "/ˈɡærɪsn/",
+    "ex": "A military garrison was stationed near the international mountain border to maintain regional peace.",
+    "form": "garrison",
+    "nat": "The historic fortress housed an infantry garrison of six hundred soldiers during wartime.",
+    "syn": [
+      "fortress",
+      "detachment"
+    ],
+    "ant": [],
+    "col": [
+      "military garrison",
+      "garrison town",
+      "station a garrison"
+    ],
+    "mis": {
+      "bad": "The soldiers were in the garrison of the city.",
+      "good": "The soldiers were stationed at the garrison.",
+      "why": "Collocate \"stationed at a garrison\", not \"in the garrison of\"."
+    },
+    "fam": [
+      "garrison (verb)"
+    ],
+    "topics": [
+      "culture",
+      "security"
+    ]
+  },
+  {
+    "id": "gasp",
+    "w": "gasp",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "ofegar / abrir a boca de espanto",
+    "def": "To inhale suddenly and sharply with an open mouth, typically through surprise or pain.",
+    "ipa": "/ɡæsp/",
+    "ex": "The audience gasped in astonishment when the magician made the grand piano vanish completely.",
+    "form": "gasped",
+    "nat": "He gasped for breath after sprinting up four flights of concrete stairs.",
+    "syn": [
+      "pant",
+      "gulp"
+    ],
+    "ant": [],
+    "col": [
+      "gasp for breath",
+      "gasp in shock",
+      "audible gasp"
+    ],
+    "mis": {
+      "bad": "She gasped with shock at the news.",
+      "good": "She gasped in shock at the news.",
+      "why": "Say \"gasped in shock\" or \"gasped in surprise\", using \"in\"."
+    },
+    "fam": [
+      "gasp (noun)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "gaze",
+    "w": "gaze",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "fitar / contemplar / olhar fixamente",
+    "def": "To look steadily and intently, especially in admiration, surprise, or deep thought.",
+    "ipa": "/ɡeɪz/",
+    "ex": "We sat on the hotel balcony and gazed at the quiet Mediterranean sunset together.",
+    "form": "gazed",
+    "nat": "She gazed into the distance, pondering the difficult career choice ahead.",
+    "syn": [
+      "stare",
+      "contemplate"
+    ],
+    "ant": [
+      "glance",
+      "ignore"
+    ],
+    "col": [
+      "gaze at",
+      "gaze into the distance",
+      "steady gaze"
+    ],
+    "mis": {
+      "bad": "He gazed to the stars for hours.",
+      "good": "He gazed at the stars for hours.",
+      "why": "Always use the preposition \"at\" after \"gaze\": \"gaze at something\"."
+    },
+    "fam": [
+      "gaze (noun)"
+    ],
+    "topics": [
+      "travel",
+      "relationships"
+    ]
+  },
+  {
+    "id": "generate",
+    "w": "generate",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "gerar / produzir",
+    "def": "To produce or create something such as electricity, revenue, ideas, or files.",
+    "ipa": "/ˈdʒenəreɪt/",
+    "ex": "The solar panel installation will generate clean renewable energy for more than fifty households.",
+    "form": "generate",
+    "nat": "The promotional campaign generated thousands of qualified sales leads in two weeks.",
+    "syn": [
+      "produce",
+      "create"
+    ],
+    "ant": [
+      "destroy"
+    ],
+    "col": [
+      "generate revenue",
+      "generate electricity",
+      "generate leads"
+    ],
+    "mis": {
+      "bad": "The campaign generated to many new clients.",
+      "good": "The campaign generated many new clients.",
+      "why": "\"Generate\" is transitive; do not use \"to\" after the verb."
+    },
+    "fam": [
+      "generator (noun)",
+      "generation (noun)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "generator",
+    "w": "generator",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "gerador (energia ou software)",
+    "def": "A machine or device that converts mechanical energy into electricity, or creates code.",
+    "ipa": "/ˈdʒenəreɪtər/",
+    "ex": "The hospital switched to a diesel emergency generator within seconds of the power failure.",
+    "form": "generator",
+    "nat": "Modern web frameworks provide a command-line code generator to create basic database schemas.",
+    "syn": [
+      "dynamo",
+      "producer"
+    ],
+    "ant": [],
+    "col": [
+      "emergency generator",
+      "diesel generator",
+      "code generator"
+    ],
+    "mis": {
+      "bad": "The hospital has a generator of energy.",
+      "good": "The hospital has a backup generator / power generator.",
+      "why": "Use compound nouns like \"power generator\" or \"backup generator\" rather than \"generator of energy\"."
+    },
+    "fam": [
+      "generate (verb)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "generic",
+    "w": "generic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "genérico / sem marca",
+    "def": "Characteristic of or relating to a class or group of things; not specific.",
+    "ipa": "/dʒəˈnerɪk/",
+    "ex": "Buying generic medication at the pharmacy provides the same active ingredients at lower cost.",
+    "form": "generic",
+    "nat": "The rejection email was completely generic and contained no personalized feedback on my interview.",
+    "syn": [
+      "universal",
+      "nonproprietary"
+    ],
+    "ant": [
+      "specific",
+      "brand-name"
+    ],
+    "col": [
+      "generic drug",
+      "generic term",
+      "generic brand"
+    ],
+    "mis": {
+      "bad": "This medicine is a generic one.",
+      "good": "This medicine is a generic drug / generic.",
+      "why": "Avoid adding redundant \"one\" after \"generic\"; say \"is generic\" or \"is a generic drug\"."
+    },
+    "fam": [
+      "generically (adv)"
+    ],
+    "topics": [
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "generosity",
+    "w": "generosity",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "generosidade",
+    "def": "The quality of being kind and plentiful in giving money or time.",
+    "ipa": "/ˌdʒenəˈrɑːsəti/",
+    "ex": "The disaster relief organization thanked donors for their extraordinary generosity after the earthquake.",
+    "form": "generosity",
+    "nat": "Her hospitality and natural generosity made all international visitors feel immediately welcome.",
+    "syn": [
+      "kindness",
+      "bounty"
+    ],
+    "ant": [
+      "selfishness",
+      "greed"
+    ],
+    "col": [
+      "extraordinary generosity",
+      "act of generosity",
+      "show generosity"
+    ],
+    "mis": {
+      "bad": "He thanked me for my generosity with him.",
+      "good": "He thanked me for my generosity toward him.",
+      "why": "Use \"generosity toward/to someone\", not \"with him\"."
+    },
+    "fam": [
+      "generous (adj)",
+      "generously (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "genius",
+    "w": "genius",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "gênio / genialidade",
+    "def": "Exceptional intellectual or creative power or other natural ability; or such a person.",
+    "ipa": "/ˈdʒiːniəs/",
+    "ex": "Albert Einstein is widely recognized as a scientific genius who reshaped modern physics completely.",
+    "form": "genius",
+    "nat": "Her true genius lies in translating complex algorithmic concepts into simple visual diagrams.",
+    "syn": [
+      "prodigy",
+      "mastermind"
+    ],
+    "ant": [
+      "idiot"
+    ],
+    "col": [
+      "mathematical genius",
+      "stroke of genius",
+      "pure genius"
+    ],
+    "mis": {
+      "bad": "He is an absolute genius in mathematics.",
+      "good": "He is an absolute genius at / in mathematics.",
+      "why": "Say \"a genius at\" when referring to skills (coding, math, chess)."
+    },
+    "fam": [],
+    "topics": [
+      "science",
+      "work"
+    ]
+  },
+  {
+    "id": "genre",
+    "w": "genre",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "gênero (artístico, literário, musical)",
+    "def": "A category of artistic, musical, or literary composition characterized by a particular style.",
+    "ipa": "/ˈʒɑːnrə/",
+    "ex": "Science fiction has always been my favorite literary genre since early middle school.",
+    "form": "genre",
+    "nat": "Streaming platforms use machine learning algorithms to recommend content across various music genres.",
+    "syn": [
+      "category",
+      "class"
+    ],
+    "ant": [],
+    "col": [
+      "musical genre",
+      "literary genre",
+      "film genre"
+    ],
+    "mis": {
+      "bad": "What is your favorite book gender?",
+      "good": "What is your favorite book genre?",
+      "why": "False friend! \"Gender\" refers to male/female identity; \"genre\" (/ˈʒɑːnrə/) refers to artistic or literary category."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "germ",
+    "w": "germ",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "germe / micróbio",
+    "def": "A microorganism, especially one that causes disease; or the initial stage of an idea.",
+    "ipa": "/dʒɜːrm/",
+    "ex": "Washing your hands with warm water and soap eliminates germs that cause seasonal flu.",
+    "form": "germs",
+    "nat": "That brief corridor conversation was the initial germ of our million-dollar product idea.",
+    "syn": [
+      "microbe",
+      "bacterium"
+    ],
+    "ant": [],
+    "col": [
+      "kill germs",
+      "spread germs",
+      "germ of an idea"
+    ],
+    "mis": {
+      "bad": "Wash hands to avoid the microbials.",
+      "good": "Wash your hands to kill germs / avoid germs.",
+      "why": "Use common word \"germs\" rather than technical \"microbials\" in everyday English."
+    },
+    "fam": [
+      "germinate (verb)"
+    ],
+    "topics": [
+      "health",
+      "science"
+    ]
+  },
+  {
+    "id": "germinate",
+    "w": "germinate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "germinar / começar a brotar ou surgir",
+    "def": "To begin to grow and put out shoots after a period of dormancy.",
+    "ipa": "/ˈdʒɜːrmɪneɪt/",
+    "ex": "Tomato seeds need warm moist soil and sunlight in order to germinate properly indoors.",
+    "form": "germinate",
+    "nat": "The ambitious business idea began to germinate while the two friends were traveling abroad.",
+    "syn": [
+      "sprout",
+      "develop"
+    ],
+    "ant": [
+      "wither"
+    ],
+    "col": [
+      "seeds germinate",
+      "idea germinates",
+      "fail to germinate"
+    ],
+    "mis": {
+      "bad": "The seeds germinated out after five days.",
+      "good": "The seeds germinated after five days.",
+      "why": "Do not add \"out\" after \"germinate\"."
+    },
+    "fam": [
+      "germination (noun)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "gigantic",
+    "w": "gigantic",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "gigantesco / colossal",
+    "def": "Of very great size or extent; huge or colossal.",
+    "ipa": "/dʒaɪˈɡæntɪk/",
+    "ex": "The tech corporation built a gigantic data center powered entirely by nearby hydroelectric plants.",
+    "form": "gigantic",
+    "nat": "She faced a gigantic pile of unread emails after returning from two weeks away.",
+    "syn": [
+      "huge",
+      "colossal"
+    ],
+    "ant": [
+      "tiny",
+      "miniature"
+    ],
+    "col": [
+      "gigantic wave",
+      "gigantic proportions",
+      "gigantic task"
+    ],
+    "mis": {
+      "bad": "It was a gigantic big problem for us.",
+      "good": "It was a gigantic problem for us.",
+      "why": "\"Gigantic\" already means very big; never combine it with \"big\"."
+    },
+    "fam": [],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "giggle",
+    "w": "giggle",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "dar risadinhas / rir nervosamente",
+    "def": "To laugh lightly and repeatedly in a silly or nervous way.",
+    "ipa": "/ˈɡɪɡl/",
+    "ex": "The young children could not stop giggling during the funny puppet show performance.",
+    "form": "giggling",
+    "nat": "She giggled nervously when asked to give an impromptu speech to the team.",
+    "syn": [
+      "snicker",
+      "chuckle"
+    ],
+    "ant": [],
+    "col": [
+      "giggle nervously",
+      "burst out giggling",
+      "fit of giggles"
+    ],
+    "mis": {
+      "bad": "They were giving giggles at the back.",
+      "good": "They were giggling at the back of the room.",
+      "why": "Use the verb \"giggle\" directly rather than \"giving giggles\"."
+    },
+    "fam": [
+      "giggle (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "gist",
+    "w": "gist",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ideia principal / essência",
+    "def": "The substance or general meaning of a speech or text; the essence.",
+    "ipa": "/dʒɪst/",
+    "ex": "Even if you miss a few vocabulary words, try to catch the overall gist.",
+    "form": "gist",
+    "nat": "Can you give me the gist of the client meeting in two sentences?",
+    "syn": [
+      "essence",
+      "core"
+    ],
+    "ant": [],
+    "col": [
+      "get the gist",
+      "the general gist",
+      "catch the gist"
+    ],
+    "mis": {
+      "bad": "I understood the gist of the discussion about.",
+      "good": "I understood the gist of the discussion.",
+      "why": "Do not leave a dangling \"about\"; say \"the gist of [something]\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "glamorous",
+    "w": "glamorous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "glamouroso / sofisticado",
+    "def": "Having glamour; excitingly attractive and charming, often superficially so.",
+    "ipa": "/ˈɡlæmərəs/",
+    "ex": "Working in fashion sounds glamorous, but the daily reality involves long hours and heavy lifting.",
+    "form": "glamorous",
+    "nat": "The film festival opened with a glamorous red-carpet ceremony attended by international celebrities.",
+    "syn": [
+      "alluring",
+      "dazzling"
+    ],
+    "ant": [
+      "dull",
+      "drab"
+    ],
+    "col": [
+      "glamorous lifestyle",
+      "glamorous event",
+      "look glamorous"
+    ],
+    "mis": {
+      "bad": "She dressed very glamorous for the gala.",
+      "good": "She dressed very glamorously for the gala.",
+      "why": "Use the adverb \"glamorously\" to modify the verb \"dressed\"."
+    },
+    "fam": [
+      "glamour (noun)",
+      "glamorously (adv)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "glance",
+    "w": "glance",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "olhada rápida / relance",
+    "def": "A brief or hurried look.",
+    "ipa": "/ɡlæns/",
+    "ex": "A quick glance at the dashboard confirmed that all microservices were running healthy today.",
+    "form": "glance",
+    "nat": "She cast a nervous glance toward the exit before beginning her presentation.",
+    "syn": [
+      "peek",
+      "glimpse"
+    ],
+    "ant": [],
+    "col": [
+      "at a glance",
+      "quick glance",
+      "cast a glance"
+    ],
+    "mis": {
+      "bad": "In a glance, I saw the error in code.",
+      "good": "At a glance, I saw the error in the code.",
+      "why": "The correct fixed idiom is \"at a glance\", not \"in a glance\"."
+    },
+    "fam": [
+      "glance (verb)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "glare",
+    "w": "glare",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "olhar com raiva / brilhar ofuscantemente",
+    "def": "To stare in an angry or fierce way, or shine with strong dazzling light.",
+    "ipa": "/ɡler/",
+    "ex": "The midday tropical sun glared relentlessly down on the open agricultural fields all afternoon.",
+    "form": "glared",
+    "nat": "The commuter glared at the passenger who was talking loudly on speakerphone.",
+    "syn": [
+      "scowl",
+      "dazzle"
+    ],
+    "ant": [
+      "smile"
+    ],
+    "col": [
+      "glare at someone",
+      "angry glare",
+      "blinding glare"
+    ],
+    "mis": {
+      "bad": "He glared to me with anger.",
+      "good": "He glared at me in anger.",
+      "why": "Always use \"glare at [someone]\", not \"to\"."
+    },
+    "fam": [
+      "glare (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "gleam",
+    "w": "gleam",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "brilhar suavemente / reluzir",
+    "def": "To shine brightly, especially with reflected light; glimmer.",
+    "ipa": "/ɡliːm/",
+    "ex": "Her eyes gleamed with excitement when she opened the acceptance letter from Stanford.",
+    "form": "gleamed",
+    "nat": "The newly waxed hardwood floors gleamed in the soft morning sunlight.",
+    "syn": [
+      "shine",
+      "glimmer"
+    ],
+    "ant": [
+      "dull"
+    ],
+    "col": [
+      "gleam with pride",
+      "gleam in the light",
+      "softly gleam"
+    ],
+    "mis": {
+      "bad": "His eyes gleamed of happiness.",
+      "good": "His eyes gleamed with happiness.",
+      "why": "Collocate \"gleam with [an emotion]\" (excitement, pride, happiness), using \"with\"."
+    },
+    "fam": [
+      "gleam (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "glide",
+    "w": "glide",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "deslizar suavemente / planar",
+    "def": "To move with a smooth, continuous, and effortless motion.",
+    "ipa": "/ɡlaɪd/",
+    "ex": "Ice skaters glide effortlessly across the frozen pond under the crisp winter sky.",
+    "form": "glide",
+    "nat": "The large eagle spread its wings and glided silently over the green valley.",
+    "syn": [
+      "slide",
+      "drift"
+    ],
+    "ant": [
+      "stumble"
+    ],
+    "col": [
+      "glide across the ice",
+      "glide smoothly",
+      "hang glider"
+    ],
+    "mis": {
+      "bad": "The swans glided on top the lake.",
+      "good": "The swans glided across the lake.",
+      "why": "Use \"glide across\" or \"glide over\" for smooth motion."
+    },
+    "fam": [
+      "glider (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "glimpse",
+    "w": "glimpse",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "vislumbre / relance momentâneo",
+    "def": "A momentary or partial view of someone or something.",
+    "ipa": "/ɡlɪmps/",
+    "ex": "Fans waited outside the concert arena for hours hoping to catch a glimpse of the singer.",
+    "form": "glimpse",
+    "nat": "The documentary gave viewers a fascinating glimpse into life aboard the International Space Station.",
+    "syn": [
+      "peek",
+      "glance"
+    ],
+    "ant": [],
+    "col": [
+      "catch a glimpse of",
+      "brief glimpse",
+      "fleeting glimpse"
+    ],
+    "mis": {
+      "bad": "I had a glimpse at him yesterday.",
+      "good": "I caught a glimpse of him yesterday.",
+      "why": "The natural idiomatic verb phrase is \"catch a glimpse of\", not \"have a glimpse at\"."
+    },
+    "fam": [
+      "glimpse (verb)"
+    ],
+    "topics": [
+      "travel",
+      "culture"
+    ]
+  },
+  {
+    "id": "glisten",
+    "w": "glisten",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "cintilar / reluzir (superfície molhada)",
+    "def": "To shine with a sparkling light, especially from a wet or oily surface.",
+    "ipa": "/ˈɡlɪsn/",
+    "ex": "Morning dew caused the emerald grass blades to glisten brightly in the early sunshine.",
+    "form": "glisten",
+    "nat": "Sweat glistened on the marathon runner's forehead as she approached the finish line.",
+    "syn": [
+      "sparkle",
+      "shimmer"
+    ],
+    "ant": [],
+    "col": [
+      "glisten with dew",
+      "wet streets glisten",
+      "glistening surface"
+    ],
+    "mis": {
+      "bad": "The streets glistened of rain.",
+      "good": "The streets glistened with rain.",
+      "why": "Use the preposition \"with\" with \"glisten\": \"glisten with rain / sweat / dew\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "global",
+    "w": "global",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "global / mundial",
+    "def": "Relating to the whole world; worldwide; or comprehensive.",
+    "ipa": "/ˈɡloʊbl/",
+    "ex": "Climate change is an urgent global challenge that requires unprecedented international diplomatic cooperation.",
+    "form": "global",
+    "nat": "The technology company has established global headquarters in Singapore and offices in London.",
+    "syn": [
+      "worldwide",
+      "international"
+    ],
+    "ant": [
+      "local",
+      "regional"
+    ],
+    "col": [
+      "global economy",
+      "global warming",
+      "global reach"
+    ],
+    "mis": {
+      "bad": "We work in a global scale company.",
+      "good": "We work on a global scale / for a global company.",
+      "why": "Say \"on a global scale\" with preposition \"on\"."
+    },
+    "fam": [
+      "globally (adv)",
+      "globalize (verb)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "glorify",
+    "w": "glorify",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "glorificar / exaltar",
+    "def": "To praise or worship something; or make something appear more splendid than it is.",
+    "ipa": "/ˈɡlɔːrɪfaɪ/",
+    "ex": "Action video games are often criticized for glorifying reckless violence to impressionable teenagers.",
+    "form": "glorifying",
+    "nat": "The historic monument was constructed to glorify the nation's naval victories.",
+    "syn": [
+      "praise",
+      "exalt"
+    ],
+    "ant": [
+      "condemn",
+      "criticize"
+    ],
+    "col": [
+      "glorify violence",
+      "glorify war",
+      "glorify the past"
+    ],
+    "mis": {
+      "bad": "The movie glorifies about criminal lifestyle.",
+      "good": "The movie glorifies the criminal lifestyle.",
+      "why": "\"Glorify\" is transitive; do not insert \"about\" after the verb."
+    },
+    "fam": [
+      "glorious (adj)",
+      "glory (noun)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "glossy",
+    "w": "glossy",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "brilhante / lustroso / sofisticado",
+    "def": "Shiny and smooth; or superficially attractive and stylish.",
+    "ipa": "/ˈɡlɑːsi/",
+    "ex": "The marketing agency printed the new product brochures on premium glossy paper for distributors.",
+    "form": "glossy",
+    "nat": "The horse had a beautiful glossy black coat that shone under the sun.",
+    "syn": [
+      "shiny",
+      "polished"
+    ],
+    "ant": [
+      "matte",
+      "dull"
+    ],
+    "col": [
+      "glossy finish",
+      "glossy paper",
+      "glossy magazine"
+    ],
+    "mis": {
+      "bad": "We chose a glossy finish paint.",
+      "good": "We chose paint with a glossy finish.",
+      "why": "Collocate \"with a glossy finish\" or \"glossy paint\"."
+    },
+    "fam": [
+      "gloss (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "glow",
+    "w": "glow",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "brilhar (com calor/luz suave) / irradiar",
+    "def": "To give out steady light without a flame; or look healthy and warm.",
+    "ipa": "/ɡloʊ/",
+    "ex": "The neon sign continued to glow softly through the thick evening city fog.",
+    "form": "glow",
+    "nat": "Her face glowed with pride as she accepted the university diploma on stage.",
+    "syn": [
+      "radiate",
+      "shine"
+    ],
+    "ant": [
+      "fade"
+    ],
+    "col": [
+      "glow in the dark",
+      "warm glow",
+      "glow with health"
+    ],
+    "mis": {
+      "bad": "The toy glows on the dark.",
+      "good": "The toy glows in the dark.",
+      "why": "The standard idiom is \"glows in the dark\", using \"in\"."
+    },
+    "fam": [
+      "glow (noun)",
+      "glowing (adj)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ]
+  },
+  {
+    "id": "graceful",
+    "w": "graceful",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "gracioso / elegante no movimento",
+    "def": "Having or showing grace or elegance in movement, shape, or behavior.",
+    "ipa": "/ˈɡreɪsfl/",
+    "ex": "The ballerina performed a graceful pirouette across the polished wooden theater stage.",
+    "form": "graceful",
+    "nat": "She gave a graceful concession speech after the election results were officially certified.",
+    "syn": [
+      "elegant",
+      "fluid"
+    ],
+    "ant": [
+      "clumsy",
+      "awkward"
+    ],
+    "col": [
+      "graceful movement",
+      "graceful exit",
+      "graceful curve"
+    ],
+    "mis": {
+      "bad": "The dancer moved very graceful.",
+      "good": "The dancer moved very gracefully.",
+      "why": "Modify the verb with the adverb \"gracefully\"."
+    },
+    "fam": [
+      "grace (noun)",
+      "gracefully (adv)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "gradient",
+    "w": "gradient",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "inclinação / gradiente / taxa de variação",
+    "def": "An inclined part of a road or railway; or a rate of change of a variable.",
+    "ipa": "/ˈɡreɪdiənt/",
+    "ex": "Cyclists struggled to maintain speed on the steep gradient leading up the mountain pass.",
+    "form": "gradient",
+    "nat": "Deep learning models use gradient descent algorithms to minimize error during model training.",
+    "syn": [
+      "slope",
+      "incline"
+    ],
+    "ant": [],
+    "col": [
+      "steep gradient",
+      "temperature gradient",
+      "gradient descent"
+    ],
+    "mis": {
+      "bad": "The road has a steep incline gradient.",
+      "good": "The road has a steep gradient.",
+      "why": "Do not say \"incline gradient\"; \"gradient\" already signifies the degree of incline or slope."
+    },
+    "fam": [],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "grain",
+    "w": "grain",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "grão (cereal ou areia) / textura de madeira",
+    "def": "Wheat or other cultivated cereal fruit; or a single small particle of something.",
+    "ipa": "/ɡreɪn/",
+    "ex": "Whole grain bread provides long-lasting energy and essential B vitamins for busy mornings.",
+    "form": "grain",
+    "nat": "Always sand the wooden tabletop along the natural grain rather than against it.",
+    "syn": [
+      "cereal",
+      "particle"
+    ],
+    "ant": [],
+    "col": [
+      "whole grain",
+      "grain of truth",
+      "against the grain"
+    ],
+    "mis": {
+      "bad": "Eat more whole grains for your diet.",
+      "good": "Eat more whole grain foods / whole grains.",
+      "why": "When referring to crops, \"grain\" is often singular or used in compounds like \"whole grain\"."
+    },
+    "fam": [
+      "grainy (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "grand",
+    "w": "grand",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "imponente / grandioso / magnífico",
+    "def": "Magnificent and imposing in appearance, size, or style.",
+    "ipa": "/ɡrænd/",
+    "ex": "The international delegates attended a grand banquet inside the historic municipal palace last night.",
+    "form": "grand",
+    "nat": "They unveiled a grand plan to transition the entire public bus fleet to electric.",
+    "syn": [
+      "magnificent",
+      "imposing"
+    ],
+    "ant": [
+      "modest",
+      "humble"
+    ],
+    "col": [
+      "grand entrance",
+      "grand plan",
+      "grand total"
+    ],
+    "mis": {
+      "bad": "The house was very grandious inside.",
+      "good": "The house was very grand / grandiose inside.",
+      "why": "\"Grand\" is standard for magnificent; \"grandiose\" often implies pretentious or excessively ambitious."
+    },
+    "fam": [
+      "grandeur (noun)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "grandiose",
+    "w": "grandiose",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "grandioso (pretensioso) / megalomaníaco",
+    "def": "Impressive and imposing in appearance or style, especially pretentiously so.",
+    "ipa": "/ˈɡrændioʊs/",
+    "ex": "The bankrupt startup founder had grandiose ambitions but failed to execute even basic features.",
+    "form": "grandiose",
+    "nat": "The architectural proposal was criticized as overly grandiose for such a quiet residential district.",
+    "syn": [
+      "pretentious",
+      "extravagant"
+    ],
+    "ant": [
+      "modest",
+      "realistic"
+    ],
+    "col": [
+      "grandiose plans",
+      "grandiose scheme",
+      "grandiose delusions"
+    ],
+    "mis": {
+      "bad": "He has grandiose ideas about his future (compliment).",
+      "good": "He has ambitious / great ideas about his future.",
+      "why": "In English, \"grandiose\" almost always carries a negative connotation of being unrealistically pretentious."
+    },
+    "fam": [],
+    "topics": [
+      "abstract",
+      "business"
+    ]
+  },
+  {
+    "id": "grant",
+    "w": "grant",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "conceder / outorgar",
+    "def": "To agree to give or allow something requested; or admit to be true.",
+    "ipa": "/ɡrænt/",
+    "ex": "The university decided to grant her a full academic scholarship for graduate study.",
+    "form": "grant",
+    "nat": "The immigration department granted him a temporary residency visa after thorough review.",
+    "syn": [
+      "accord",
+      "concede"
+    ],
+    "ant": [
+      "deny",
+      "refuse"
+    ],
+    "col": [
+      "grant permission",
+      "grant access",
+      "take for granted"
+    ],
+    "mis": {
+      "bad": "The system granted the access for me.",
+      "good": "The system granted me access.",
+      "why": "Use the double-object pattern: \"grant [someone] [something]\" or \"grant [something] to [someone]\"."
+    },
+    "fam": [
+      "grant (noun)"
+    ],
+    "topics": [
+      "work",
+      "security"
+    ]
+  },
+  {
+    "id": "graphic",
+    "w": "graphic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "gráfico / vívido / explícito",
+    "def": "Relating to visual art, especially drawing or engraving; or giving clear, vivid detail.",
+    "ipa": "/ˈɡræfɪk/",
+    "ex": "The news report issued a trigger warning before showing graphic images of the earthquake damage.",
+    "form": "graphic",
+    "nat": "She works as a graphic designer specializing in user interface typography and branding.",
+    "syn": [
+      "visual",
+      "vivid"
+    ],
+    "ant": [
+      "vague",
+      "implicit"
+    ],
+    "col": [
+      "graphic design",
+      "graphic detail",
+      "graphic images"
+    ],
+    "mis": {
+      "bad": "The documentary gave a graphic description of the battle.",
+      "good": "The documentary gave a vivid / graphic description of the battle.",
+      "why": "\"Graphic\" often implies uncomfortably vivid or gory details when used with \"description\"."
+    },
+    "fam": [
+      "graphics (noun)",
+      "graphically (adv)"
+    ],
+    "topics": [
+      "tech",
+      "culture"
+    ]
+  },
+  {
+    "id": "grapple",
+    "w": "grapple",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "lutar com / tentar resolver (problema complexo)",
+    "def": "To engage in a close fight or struggle without weapons; or struggle to deal with.",
+    "ipa": "/ˈɡræpl/",
+    "ex": "Cities around the world must grapple with housing affordability and rising public transit costs.",
+    "form": "grapple",
+    "nat": "The engineering team is grappling with how to reduce API response latency under heavy load.",
+    "syn": [
+      "wrestle",
+      "struggle"
+    ],
+    "ant": [
+      "yield",
+      "ignore"
+    ],
+    "col": [
+      "grapple with a problem",
+      "grapple with issues",
+      "grapple for control"
+    ],
+    "mis": {
+      "bad": "The team is grappling about the budget.",
+      "good": "The team is grappling with the budget issues.",
+      "why": "Always use the preposition \"with\" with \"grapple\": \"grapple with a problem\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "grasp",
+    "w": "grasp",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "agarrar / compreender profundamente",
+    "def": "To seize and hold firmly, or fully understand the meaning of something complex.",
+    "ipa": "/ɡræsp/",
+    "ex": "It took several weeks of practical exercises to fully grasp the concepts behind distributed computing.",
+    "form": "grasp",
+    "nat": "She grasped the railing firmly as the ferry rolled across the choppy waves.",
+    "syn": [
+      "comprehend",
+      "seize"
+    ],
+    "ant": [
+      "misunderstand",
+      "release"
+    ],
+    "col": [
+      "grasp a concept",
+      "firmly grasp",
+      "grasp the nettle"
+    ],
+    "mis": {
+      "bad": "He failed to grasp of the importance of security.",
+      "good": "He failed to grasp the importance of security.",
+      "why": "\"Grasp\" is transitive; do not insert \"of\" after the verb."
+    },
+    "fam": [
+      "grasp (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "gratitude",
+    "w": "gratitude",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "gratidão / reconhecimento",
+    "def": "The quality of being thankful; readiness to show appreciation for kindness received.",
+    "ipa": "/ˈɡrætɪtuːd/",
+    "ex": "The team expressed deep gratitude to their mentor for her patient guidance during the hackathon.",
+    "form": "gratitude",
+    "nat": "Writing in a daily journal is an effective way to cultivate heartfelt gratitude.",
+    "syn": [
+      "thankfulness",
+      "appreciation"
+    ],
+    "ant": [
+      "ingratitude"
+    ],
+    "col": [
+      "express gratitude",
+      "deep gratitude",
+      "debt of gratitude"
+    ],
+    "mis": {
+      "bad": "I want to express my gratitude for you.",
+      "good": "I want to express my gratitude to you.",
+      "why": "Express gratitude \"to\" someone, and \"for\" a gift or favor: \"gratitude to you for your help\"."
+    },
+    "fam": [
+      "grateful (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "grave",
+    "w": "grave",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "grave / sério / solene",
+    "def": "Giving cause for alarm; serious or solemn in character or manner.",
+    "ipa": "/ɡreɪv/",
+    "ex": "The medical team expressed grave concern regarding the rapid spread of the respiratory virus.",
+    "form": "grave",
+    "nat": "He looked grave as he delivered the news of the company's quarterly losses.",
+    "syn": [
+      "serious",
+      "critical"
+    ],
+    "ant": [
+      "trivial",
+      "lighthearted"
+    ],
+    "col": [
+      "grave concern",
+      "grave consequences",
+      "grave danger"
+    ],
+    "mis": {
+      "bad": "This is a grave error for the system.",
+      "good": "This is a grave / serious error in the system.",
+      "why": "\"Grave\" describes heavy, critical situations; collocate with \"danger\", \"concern\", or \"consequences\"."
+    },
+    "fam": [
+      "gravely (adv)",
+      "gravity (noun)"
+    ],
+    "topics": [
+      "health",
+      "abstract"
+    ]
+  },
+  {
+    "id": "graze",
+    "w": "graze",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "pastar / raspar de leve",
+    "def": "To eat grass in a field, or scrape and break the surface of the skin.",
+    "ipa": "/ɡreɪz/",
+    "ex": "Dairy cows grazed peacefully on the lush green hillsides outside the quiet alpine village.",
+    "form": "grazed",
+    "nat": "The falling rock grazed his shoulder, leaving only a minor superficial scratch.",
+    "syn": [
+      "pasture",
+      "scrape"
+    ],
+    "ant": [],
+    "col": [
+      "cattle graze",
+      "graze your knee",
+      "barely graze"
+    ],
+    "mis": {
+      "bad": "He grazed his knee on the wall.",
+      "good": "He grazed his knee against the wall.",
+      "why": "Say \"grazed his knee against the wall\" or \"on the asphalt\"."
+    },
+    "fam": [
+      "graze (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "grease",
+    "w": "grease",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "graxa / gordura lubrificante",
+    "def": "Thick oily animal fat or semi-solid lubricant used for machinery parts.",
+    "ipa": "/ɡriːs/",
+    "ex": "The bicycle mechanic applied fresh waterproof grease to the wheel bearings before reassembling the hub.",
+    "form": "grease",
+    "nat": "Dish soap helps cut through tough bacon grease on non-stick frying pans.",
+    "syn": [
+      "lubricant",
+      "oil"
+    ],
+    "ant": [],
+    "col": [
+      "bacon grease",
+      "elbow grease",
+      "coat of grease"
+    ],
+    "mis": {
+      "bad": "Clean the grease of the engine.",
+      "good": "Clean the grease from the engine.",
+      "why": "Use \"clean grease from / off something\", not \"of\"."
+    },
+    "fam": [
+      "greasy (adj)"
+    ],
+    "topics": [
+      "daily",
+      "tech"
+    ]
+  },
+  {
+    "id": "greet",
+    "w": "greet",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "cumprimentar / saudar",
+    "def": "To give a polite word or sign of welcome or recognition to someone.",
+    "ipa": "/ɡriːt/",
+    "ex": "The conference organizers greeted international attendees at the registration desk with welcome bags.",
+    "form": "greeted",
+    "nat": "She greeted her former professor with a warm smile and a polite handshake.",
+    "syn": [
+      "welcome",
+      "salute"
+    ],
+    "ant": [
+      "ignore",
+      "snub"
+    ],
+    "col": [
+      "warmly greet",
+      "greet someone with",
+      "greet guests"
+    ],
+    "mis": {
+      "bad": "He greeted to everyone when entering.",
+      "good": "He greeted everyone when entering the room.",
+      "why": "\"Greet\" is transitive; do not use \"to\" before the person."
+    },
+    "fam": [
+      "greeting (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "grim",
+    "w": "grim",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "sombrio / severo / desalentador",
+    "def": "Very serious or gloomy; depressing or uninviting in outlook.",
+    "ipa": "/ɡrɪm/",
+    "ex": "The economic forecast painted a grim picture for small retailers over the coming winter.",
+    "form": "grim",
+    "nat": "Firefighters faced grim working conditions inside the smoke-filled industrial warehouse.",
+    "syn": [
+      "bleak",
+      "gloomy"
+    ],
+    "ant": [
+      "bright",
+      "cheerful"
+    ],
+    "col": [
+      "grim reality",
+      "grim forecast",
+      "grim determination"
+    ],
+    "mis": {
+      "bad": "The situation was in a grim state.",
+      "good": "The situation was grim / looked grim.",
+      "why": "Use the adjective predicate \"was grim\" directly."
+    },
+    "fam": [
+      "grimly (adv)"
+    ],
+    "topics": [
+      "abstract",
+      "business"
+    ]
+  },
+  {
+    "id": "grin",
+    "w": "grin",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "abrir um sorriso largo",
+    "def": "To smile broadly, especially so as to show one's teeth.",
+    "ipa": "/ɡrɪn/",
+    "ex": "He could not help grinning from ear to ear after passing his driving exam.",
+    "form": "grinning",
+    "nat": "She grinned mischievously as she revealed the surprise birthday cake to the team.",
+    "syn": [
+      "smile",
+      "beam"
+    ],
+    "ant": [
+      "frown"
+    ],
+    "col": [
+      "grin from ear to ear",
+      "sheepish grin",
+      "broad grin"
+    ],
+    "mis": {
+      "bad": "He gave a grin smile to me.",
+      "good": "He gave me a broad grin / smiled broadly.",
+      "why": "Do not say \"grin smile\"; \"grin\" is already a broad smile."
+    },
+    "fam": [
+      "grin (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "grind",
+    "w": "grind",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "moer / triturar / ralar (rotina)",
+    "def": "To crush into small particles between hard surfaces; or work relentlessly.",
+    "ipa": "/ɡraɪnd/",
+    "ex": "It is best to grind fresh coffee beans immediately before brewing for maximum aromatic flavor.",
+    "form": "grind",
+    "nat": "Many tech professionals grind long hours for years hoping for a successful startup exit.",
+    "syn": [
+      "crush",
+      "mill"
+    ],
+    "ant": [],
+    "col": [
+      "grind coffee",
+      "daily grind",
+      "grind your teeth"
+    ],
+    "mis": {
+      "bad": "He grinded the beans this morning.",
+      "good": "He ground the beans this morning.",
+      "why": "Irregular past tense: grind — ground — ground."
+    },
+    "fam": [
+      "grinder (noun)",
+      "ground (adj)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "grip",
+    "w": "grip",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "aderência / controle firme / aperto",
+    "def": "A firm hold on something; or an understanding and control over a situation.",
+    "ipa": "/ɡrɪp/",
+    "ex": "Winter tires provide superior road grip when driving on icy, snow-covered highway surfaces.",
+    "form": "grip",
+    "nat": "The company is slowly losing its grip on the domestic smartphone market.",
+    "syn": [
+      "hold",
+      "traction"
+    ],
+    "ant": [
+      "slip"
+    ],
+    "col": [
+      "lose your grip",
+      "tight grip",
+      "firm grip"
+    ],
+    "mis": {
+      "bad": "Keep a firm grip in the handle.",
+      "good": "Keep a firm grip on the handle.",
+      "why": "Use the preposition \"on\": \"a grip on something\"."
+    },
+    "fam": [
+      "grip (verb)",
+      "gripping (adj)"
+    ],
+    "topics": [
+      "travel",
+      "work"
+    ]
+  },
+  {
+    "id": "grit",
+    "w": "grit",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "determinação / resiliência / cascalho fino",
+    "def": "Courage and resolve; strength of character; or small coarse particles of sand or stone.",
+    "ipa": "/ɡrɪt/",
+    "ex": "Succeeding in a demanding startup environment requires exceptional intelligence combined with relentless personal grit.",
+    "form": "grit",
+    "nat": "Road crews spread salt and grit across icy city streets before the freezing morning rush.",
+    "syn": [
+      "perseverance",
+      "resilience"
+    ],
+    "ant": [
+      "cowardice",
+      "frailty"
+    ],
+    "col": [
+      "sheer grit",
+      "mental grit",
+      "true grit"
+    ],
+    "mis": {
+      "bad": "He has much grit for to succeed.",
+      "good": "He showed tremendous grit to succeed.",
+      "why": "Use \"show grit\" or \"have grit\", followed by an infinitive."
+    },
+    "fam": [
+      "gritty (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "groan",
+    "w": "groan",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "gemer (dor ou descontentamento)",
+    "def": "To make a deep inarticulate sound in response to pain or despair.",
+    "ipa": "/ɡroʊn/",
+    "ex": "The entire office groaned audibly when the manager announced another mandatory Saturday morning workshop.",
+    "form": "groaned",
+    "nat": "He groaned in pain as the physiotherapist massaged his injured lower back muscle.",
+    "syn": [
+      "moan",
+      "grumble"
+    ],
+    "ant": [
+      "rejoice"
+    ],
+    "col": [
+      "groan in pain",
+      "audible groan",
+      "groan with frustration"
+    ],
+    "mis": {
+      "bad": "The audience groaned about the delay.",
+      "good": "The audience groaned at the news of the delay.",
+      "why": "Collocate \"groan at [news]\" or \"groan in [pain/frustration]\"."
+    },
+    "fam": [
+      "groan (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "groove",
+    "w": "groove",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ranhura / ritmo constante",
+    "def": "A long, narrow cut or depression; or an established and comfortable routine.",
+    "ipa": "/ɡruːv/",
+    "ex": "After two weeks of orientation, the new software intern finally got into the groove.",
+    "form": "groove",
+    "nat": "Dirt had accumulated deep inside the silicone seal groove around the front door.",
+    "syn": [
+      "slot",
+      "channel"
+    ],
+    "ant": [],
+    "col": [
+      "get into the groove",
+      "find your groove",
+      "narrow groove"
+    ],
+    "mis": {
+      "bad": "It took days to get back in the groove.",
+      "good": "It took days to get back into the groove.",
+      "why": "The standard idiom is \"get into the groove\" or \"back into the groove\"."
+    },
+    "fam": [
+      "groovy (adj)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "groundbreaking",
+    "w": "groundbreaking",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "inovador / revolucionário",
+    "def": "Pioneering; innovative; introducing radical new concepts or methods.",
+    "ipa": "/ˈɡraʊndbreɪkɪŋ/",
+    "ex": "The research team published a groundbreaking paper on quantum error correction in leading physics journals.",
+    "form": "groundbreaking",
+    "nat": "Her groundbreaking research on neural networks earned her the prestigious international Turing Award.",
+    "syn": [
+      "pioneering",
+      "innovative"
+    ],
+    "ant": [
+      "conventional",
+      "traditional"
+    ],
+    "col": [
+      "groundbreaking research",
+      "groundbreaking discovery",
+      "groundbreaking work"
+    ],
+    "mis": {
+      "bad": "The study was very revolutionary groundbreaking.",
+      "good": "The study was groundbreaking / truly groundbreaking.",
+      "why": "Do not combine \"revolutionary\" and \"groundbreaking\"; they are synonymous."
+    },
+    "fam": [],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "groundless",
+    "w": "groundless",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "infundado / sem fundamento",
+    "def": "Not based on any good reason or factual evidence; baseless.",
+    "ipa": "/ˈɡraʊndləs/",
+    "ex": "Management reassured staff that circulating rumors of imminent office closures were completely groundless.",
+    "form": "groundless",
+    "nat": "Her initial fears about speaking English in public proved to be entirely groundless.",
+    "syn": [
+      "baseless",
+      "unfounded"
+    ],
+    "ant": [
+      "justified",
+      "valid"
+    ],
+    "col": [
+      "groundless fears",
+      "groundless rumors",
+      "prove groundless"
+    ],
+    "mis": {
+      "bad": "Those rumors are without ground.",
+      "good": "Those rumors are groundless / baseless.",
+      "why": "Say \"are groundless\" rather than the literal Portuguese \"without ground\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "grove",
+    "w": "grove",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "bosque / pomar de árvores",
+    "def": "A small group of trees, especially one producing nuts or fruit.",
+    "ipa": "/ɡroʊv/",
+    "ex": "We enjoyed a picnic beneath the shade of an ancient olive grove in Tuscany.",
+    "form": "grove",
+    "nat": "The resort features peaceful walking trails through a fragrant citrus grove.",
+    "syn": [
+      "orchard",
+      "copse"
+    ],
+    "ant": [],
+    "col": [
+      "olive grove",
+      "citrus grove",
+      "shaded grove"
+    ],
+    "mis": {
+      "bad": "They walked through a grove of woods.",
+      "good": "They walked through an olive grove / a quiet grove.",
+      "why": "A \"grove\" is specifically a small cluster of trees; don't say \"grove of woods\"."
+    },
+    "fam": [],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "growl",
+    "w": "growl",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "rosnar / roncar (estômago)",
+    "def": "To make a low guttural sound of anger, or rumble quietly.",
+    "ipa": "/ɡraʊl/",
+    "ex": "The guard dog began to growl menacingly when strangers approached the property gate.",
+    "form": "growl",
+    "nat": "My stomach started to growl loudly during the quiet silence of the exam.",
+    "syn": [
+      "snarl",
+      "rumble"
+    ],
+    "ant": [],
+    "col": [
+      "dog growls",
+      "stomach growls",
+      "growl in warning"
+    ],
+    "mis": {
+      "bad": "My stomach is shouting with hunger.",
+      "good": "My stomach is growling / rumbling with hunger.",
+      "why": "In English stomachs \"growl\" or \"rumble\", never \"shout\"."
+    },
+    "fam": [
+      "growl (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "grudge",
+    "w": "grudge",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "rancor / ressentimento guardado",
+    "def": "A persistent feeling of ill will or resentment resulting from a past insult or injury.",
+    "ipa": "/ɡrʌdʒ/",
+    "ex": "Holding a bitter personal grudge against former colleagues will only harm your own career peace.",
+    "form": "grudge",
+    "nat": "She does not hold grudges and always forgives honest misunderstandings quickly.",
+    "syn": [
+      "resentment",
+      "bitterness"
+    ],
+    "ant": [
+      "forgiveness",
+      "goodwill"
+    ],
+    "col": [
+      "hold a grudge",
+      "bear a grudge",
+      "harbor a grudge"
+    ],
+    "mis": {
+      "bad": "He keeps a grudge with his former boss.",
+      "good": "He holds a grudge against his former boss.",
+      "why": "The standard idiom is \"hold a grudge against someone\", not \"with\"."
+    },
+    "fam": [
+      "grudging (adj)",
+      "grudgingly (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "grueling",
+    "w": "grueling",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "extenuante / extenuante e desgastante",
+    "def": "Extremely tiring and demanding; arduous.",
+    "ipa": "/ˈɡruːəlɪŋ/",
+    "ex": "Completing the grueling marathon through humid conditions pushed every runner to absolute physical exhaustion.",
+    "form": "grueling",
+    "nat": "The startup founders survived a grueling three-month fundraising tour across the country.",
+    "syn": [
+      "arduous",
+      "exhausting"
+    ],
+    "ant": [
+      "easy",
+      "effortless"
+    ],
+    "col": [
+      "grueling schedule",
+      "grueling race",
+      "grueling task"
+    ],
+    "mis": {
+      "bad": "It was a grueling work to finish the report.",
+      "good": "It was grueling work to finish the report.",
+      "why": "\"Work\" is uncountable in English; omit \"a\" before \"grueling work\"."
+    },
+    "fam": [],
+    "topics": [
+      "health",
+      "work"
+    ]
+  },
+  {
+    "id": "grumble",
+    "w": "grumble",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "resmungar / queixar-se baixinho",
+    "def": "To complain about something in a bad-tempered but subdued way.",
+    "ipa": "/ˈɡrʌmbl/",
+    "ex": "Employees often grumble about bureaucratic expense report procedures, but they always comply eventually.",
+    "form": "grumble",
+    "nat": "He sat at his desk grumbling under his breath about the new policy.",
+    "syn": [
+      "mutter",
+      "complain"
+    ],
+    "ant": [
+      "praise",
+      "applaud"
+    ],
+    "col": [
+      "grumble about",
+      "grumble under your breath",
+      "constantly grumble"
+    ],
+    "mis": {
+      "bad": "He grumbled with the delay of the train.",
+      "good": "He grumbled about the delay of the train.",
+      "why": "Always use the preposition \"about\" with \"grumble\": \"grumble about something\"."
+    },
+    "fam": [
+      "grumble (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "grumpy",
+    "w": "grumpy",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "mal-humorado / ranzinza",
+    "def": "Bad-tempered and irritable, especially in the morning or when tired.",
+    "ipa": "/ˈɡrʌmpi/",
+    "ex": "He is always slightly grumpy before drinking his first cup of dark roast coffee.",
+    "form": "grumpy",
+    "nat": "Lack of restorative sleep made the toddler unusually grumpy throughout the afternoon.",
+    "syn": [
+      "irritable",
+      "cranky"
+    ],
+    "ant": [
+      "cheerful",
+      "good-humored"
+    ],
+    "col": [
+      "grumpy old man",
+      "feel grumpy",
+      "grumpy mood"
+    ],
+    "mis": {
+      "bad": "He woke up very bad-humored today.",
+      "good": "He woke up very grumpy / in a bad mood today.",
+      "why": "Instead of literal \"bad-humored\", use \"grumpy\" or \"in a bad mood\"."
+    },
+    "fam": [
+      "grumpily (adv)",
+      "grumpiness (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "guarantee",
+    "w": "guarantee",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "garantir / afiançar",
+    "def": "To provide a formal assurance or promise, especially that certain conditions will be fulfilled.",
+    "ipa": "/ˌɡærənˈtiː/",
+    "ex": "The manufacturer will guarantee all hardware components against manufacturing defects for two full years.",
+    "form": "guarantee",
+    "nat": "I cannot guarantee that the server migration will finish before the weekend.",
+    "syn": [
+      "assure",
+      "promise"
+    ],
+    "ant": [
+      "renege"
+    ],
+    "col": [
+      "guarantee satisfaction",
+      "guarantee success",
+      "under guarantee"
+    ],
+    "mis": {
+      "bad": "We guarantee of the quality of our service.",
+      "good": "We guarantee the quality of our service.",
+      "why": "\"Guarantee\" takes a direct object without \"of\"."
+    },
+    "fam": [
+      "guarantee (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "guard",
+    "w": "guard",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "guarda / vigia / proteção",
+    "def": "A person who keeps watch or protects something; or a protective device.",
+    "ipa": "/ɡɑːrd/",
+    "ex": "A security guard checked identification badges before admitting visitors into the data center.",
+    "form": "guard",
+    "nat": "Always wear a protective wrist guard when learning to skateboard or rollerblade.",
+    "syn": [
+      "sentinel",
+      "protector"
+    ],
+    "ant": [],
+    "col": [
+      "security guard",
+      "on guard",
+      "catch off guard"
+    ],
+    "mis": {
+      "bad": "The security guard caught me in surprise.",
+      "good": "The security guard caught me off guard.",
+      "why": "The idiom is \"catch someone off guard\" (pegar de surpresa)."
+    },
+    "fam": [
+      "guard (verb)"
+    ],
+    "topics": [
+      "security",
+      "work"
+    ]
+  },
+  {
+    "id": "guardian",
+    "w": "guardian",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "guardião / tutor legal",
+    "def": "A defender, protector, or keeper; or a person legally responsible for a minor.",
+    "ipa": "/ˈɡɑːrdiən/",
+    "ex": "Parents or a legal guardian must sign the consent form before the school field trip.",
+    "form": "guardian",
+    "nat": "The constitutional court acts as the ultimate guardian of civil liberties and individual rights.",
+    "syn": [
+      "custodian",
+      "protector"
+    ],
+    "ant": [],
+    "col": [
+      "legal guardian",
+      "guardian angel",
+      "guardian of rights"
+    ],
+    "mis": {
+      "bad": "Her uncle is her legal guard.",
+      "good": "Her uncle is her legal guardian.",
+      "why": "Use \"guardian\" for legal custodian or protector of rights; \"guard\" is a physical security watchman."
+    },
+    "fam": [
+      "guardianship (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "guidance",
+    "w": "guidance",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "orientação / mentoria",
+    "def": "Advice or information aimed at resolving a problem or difficulty, given by someone experienced.",
+    "ipa": "/ˈɡaɪdns/",
+    "ex": "Under the expert guidance of senior developers, the interns deployed their first cloud microservice.",
+    "form": "guidance",
+    "nat": "Career guidance counseling helps high school students choose appropriate university degrees.",
+    "syn": [
+      "direction",
+      "counsel"
+    ],
+    "ant": [],
+    "col": [
+      "provide guidance",
+      "seek guidance",
+      "career guidance"
+    ],
+    "mis": {
+      "bad": "She gave me many good guidances for my career.",
+      "good": "She gave me a lot of good guidance / guidance for my career.",
+      "why": "\"Guidance\" is uncountable in English; do not say \"many guidances\"."
+    },
+    "fam": [
+      "guide (verb)",
+      "guide (noun)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ]
+  },
+  {
+    "id": "guide",
+    "w": "guide",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "guiar / orientar / conduzir",
+    "def": "To show the way to others, or direct the motion or positioning of something.",
+    "ipa": "/ɡaɪd/",
+    "ex": "An experienced mountain leader will guide our hiking group across the glacier safely.",
+    "form": "guide",
+    "nat": "Mentors guide junior professionals through difficult career decisions and team negotiations.",
+    "syn": [
+      "lead",
+      "direct"
+    ],
+    "ant": [
+      "mislead"
+    ],
+    "col": [
+      "guide someone through",
+      "guide the way",
+      "expertly guide"
+    ],
+    "mis": {
+      "bad": "He guided to the tourists around the city.",
+      "good": "He guided the tourists around the city.",
+      "why": "\"Guide\" is transitive; do not use \"to\" before the people being guided."
+    },
+    "fam": [
+      "guide (noun)",
+      "guidance (noun)"
+    ],
+    "topics": [
+      "travel",
+      "work"
+    ]
+  },
+  {
+    "id": "guideline",
+    "w": "guideline",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "diretriz / norma recomendada",
+    "def": "A general rule, principle, or piece of advice outlining best practices.",
+    "ipa": "/ˈɡaɪdlaɪn/",
+    "ex": "The engineering organization established clear coding guidelines to ensure consistent architecture across all teams.",
+    "form": "guidelines",
+    "nat": "Health authorities published strict dietary guidelines for managing high blood pressure.",
+    "syn": [
+      "recommendation",
+      "rule"
+    ],
+    "ant": [],
+    "col": [
+      "follow guidelines",
+      "strict guidelines",
+      "issue guidelines"
+    ],
+    "mis": {
+      "bad": "We must follow the security guide lines.",
+      "good": "We must follow the security guidelines.",
+      "why": "\"Guideline\" (or \"guidelines\") is written as one single word."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "health"
+    ]
+  },
+  {
+    "id": "guilt",
+    "w": "guilt",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "culpa (sentimento moral) / culpabilidade",
+    "def": "The fact of having committed a specified or implied offense or crime; or the feeling of having done wrong.",
+    "ipa": "/ɡɪlt/",
+    "ex": "She felt an overwhelming sense of guilt after accidentally deleting her colleague's work.",
+    "form": "guilt",
+    "nat": "The jury reached a unanimous verdict of guilt after reviewing all evidence.",
+    "syn": [
+      "remorse",
+      "culpability"
+    ],
+    "ant": [
+      "innocence"
+    ],
+    "col": [
+      "feel guilt",
+      "sense of guilt",
+      "guilt or innocence"
+    ],
+    "mis": {
+      "bad": "It was my guilt that the glasses broke.",
+      "good": "It was my fault that the glasses broke.",
+      "why": "Use \"fault\" for responsibility for an accident; use \"guilt\" for the moral remorse or legal culpability."
+    },
+    "fam": [
+      "guilty (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "health"
+    ]
+  },
+  {
+    "id": "gullible",
+    "w": "gullible",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "crédulo / ingênuo (fácil de enganar)",
+    "def": "Easily persuaded to believe something; naive and easily tricked.",
+    "ipa": "/ˈɡʌləbl/",
+    "ex": "Phishing scammers target gullible internet users who readily click on suspicious banking email links.",
+    "form": "gullible",
+    "nat": "He was too gullible to realize his friend was playing an elaborate practical joke.",
+    "syn": [
+      "naive",
+      "credulous"
+    ],
+    "ant": [
+      "cynical",
+      "skeptical"
+    ],
+    "col": [
+      "gullible nature",
+      "not gullible",
+      "too gullible"
+    ],
+    "mis": {
+      "bad": "He is very ingenuous to believe that scam.",
+      "good": "He is too gullible to believe that scam.",
+      "why": "False friend! English \"ingenuous\" means innocent/artless; someone who is easily duped is \"gullible\"."
+    },
+    "fam": [
+      "gullibility (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "security"
+    ]
+  },
+  {
+    "id": "gulp",
+    "w": "gulp",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "engolir sofregamente / dar um trago",
+    "def": "To swallow food or drink quickly or in large mouthfuls.",
+    "ipa": "/ɡʌlp/",
+    "ex": "The thirsty runner gulped down two full glasses of cold water immediately after finishing.",
+    "form": "gulped",
+    "nat": "He took a deep breath and gulped nervously before opening the exam envelope.",
+    "syn": [
+      "swallow",
+      "chug"
+    ],
+    "ant": [
+      "sip"
+    ],
+    "col": [
+      "gulp down",
+      "gulp for air",
+      "audible gulp"
+    ],
+    "mis": {
+      "bad": "He gulped the water in one only sip.",
+      "good": "He gulped down the water in one single gulp.",
+      "why": "Use the phrasal verb \"gulp down\" and noun phrase \"in one single gulp\"."
+    },
+    "fam": [
+      "gulp (noun)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "gust",
+    "w": "gust",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "rajada de vento",
+    "def": "A brief, strong rush of wind.",
+    "ipa": "/ɡʌst/",
+    "ex": "A sudden powerful gust of wind blew her umbrella inside out during the thunderstorm.",
+    "form": "gust",
+    "nat": "Wind gusts of up to sixty miles per hour knocked down roadside power lines.",
+    "syn": [
+      "blast",
+      "rush"
+    ],
+    "ant": [
+      "calm"
+    ],
+    "col": [
+      "gust of wind",
+      "strong gust",
+      "sudden gust"
+    ],
+    "mis": {
+      "bad": "A big wind gust made the door close.",
+      "good": "A strong gust of wind blew the door shut.",
+      "why": "Say \"a strong gust of wind\" rather than \"a big wind gust\"."
+    },
+    "fam": [
+      "gusty (adj)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "gut",
+    "w": "gut",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "intestino / intuição visceral / coragem",
+    "def": "The stomach or intestines; or instinct and intuition; or courage.",
+    "ipa": "/ɡʌt/",
+    "ex": "When choosing between two promising job offers, sometimes you must trust your gut.",
+    "form": "gut",
+    "nat": "Fermented yogurt and kimchi help maintain a healthy, balanced gut microbiome balance.",
+    "syn": [
+      "instinct",
+      "intestine"
+    ],
+    "ant": [],
+    "col": [
+      "gut feeling",
+      "trust your gut",
+      "gut health"
+    ],
+    "mis": {
+      "bad": "I had a feeling in my stomach about the decision.",
+      "good": "I had a gut feeling about the decision.",
+      "why": "The natural English idiom for intuitive instinct is \"gut feeling\" or \"trust your gut\"."
+    },
+    "fam": [
+      "gutsy (adj)"
+    ],
+    "topics": [
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "gutter",
+    "w": "gutter",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "calha (telhado) / sarjeta",
+    "def": "A shallow trough below the edge of a roof, or at the side of a street.",
+    "ipa": "/ˈɡʌtər/",
+    "ex": "Homeowners should clean dry fallen leaves out of roof gutters every autumn before rains.",
+    "form": "gutters",
+    "nat": "Rainwater rushed down the street gutter toward the municipal storm drain at high speed.",
+    "syn": [
+      "drain",
+      "trough"
+    ],
+    "ant": [],
+    "col": [
+      "clean the gutters",
+      "street gutter",
+      "rain gutter"
+    ],
+    "mis": {
+      "bad": "Water overflowed the roof calha.",
+      "good": "Water overflowed the roof gutter.",
+      "why": "The English word for a roof or street drainage channel is \"gutter\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "garment",
+    "w": "garment",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "peça de vestuário / roupa",
+    "def": "An item of clothing; a formal word for apparel or attire.",
+    "ipa": "/ˈɡɑːrmənt/",
+    "ex": "Always read the washing instruction label stitched inside the garment to prevent fabric shrinkage.",
+    "form": "garment",
+    "nat": "The local fashion boutique sells handcrafted organic cotton garments made by regional artisans.",
+    "syn": [
+      "clothing",
+      "apparel"
+    ],
+    "ant": [],
+    "col": [
+      "garment industry",
+      "waterproof garment",
+      "delicate garment"
+    ],
+    "mis": {
+      "bad": "I bought a new cloth yesterday.",
+      "good": "I bought a new garment / item of clothing yesterday.",
+      "why": "\"Cloth\" is the raw textile material; a specific item of clothing is a \"garment\" or \"item of clothing\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "gateway",
+    "w": "gateway",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "portal de acesso / portal de pagamento",
+    "def": "An opening in a wall or fence; or a means of access to something.",
+    "ipa": "/ˈɡeɪtweɪ/",
+    "ex": "Our e-commerce checkout seamlessly connects to a secure international credit card payment gateway.",
+    "form": "gateway",
+    "nat": "Miami is often described as the commercial and cultural gateway to Latin America.",
+    "syn": [
+      "portal",
+      "entrance"
+    ],
+    "ant": [],
+    "col": [
+      "payment gateway",
+      "gateway to",
+      "default gateway"
+    ],
+    "mis": {
+      "bad": "The country is a gateway for South America.",
+      "good": "The country is a gateway to South America.",
+      "why": "Use the preposition \"to\" after \"gateway\": \"gateway to Latin America\"."
+    },
+    "fam": [],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "hail",
+    "w": "hail",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "aclamar / saudar / chover granizo",
+    "def": "To acclaim or enthusiastically praise; or precipitate pellets of frozen rain.",
+    "ipa": "/heɪl/",
+    "ex": "Critics across the globe hailed the indie video game as an artistic masterpiece of storytelling.",
+    "form": "hailed",
+    "nat": "Giant hailstones damaged parked cars throughout the city during the severe summer storm.",
+    "syn": [
+      "acclaim",
+      "praise"
+    ],
+    "ant": [
+      "criticize",
+      "condemn"
+    ],
+    "col": [
+      "hail as a success",
+      "hail a taxi",
+      "hail from"
+    ],
+    "mis": {
+      "bad": "He hailed from Brazil in his speech.",
+      "good": "He hails from Brazil (meaning he is originally from Brazil).",
+      "why": "The idiom \"hail from\" means to originate from or be a native of a place."
+    },
+    "fam": [
+      "hail (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "hallmark",
+    "w": "hallmark",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "marca registrada / traço distintivo",
+    "def": "A distinctive feature or characteristic of something, especially one indicating high quality.",
+    "ipa": "/ˈhɔːlmɑːrk/",
+    "ex": "Clean, readable code with automated test coverage is the hallmark of a disciplined engineering organization.",
+    "form": "hallmark",
+    "nat": "Meticulous attention to detail has always been the hallmark of Swiss watchmaking.",
+    "syn": [
+      "trademark",
+      "characteristic"
+    ],
+    "ant": [],
+    "col": [
+      "hallmark of quality",
+      "classic hallmark",
+      "enduring hallmark"
+    ],
+    "mis": {
+      "bad": "Attention to detail is a hallmark to great developers.",
+      "good": "Attention to detail is a hallmark of great developers.",
+      "why": "Always use the preposition \"of\" after \"hallmark\": \"hallmark of something\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "halt",
+    "w": "halt",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "interromper / parar subitamente",
+    "def": "To bring or come to an abrupt stop.",
+    "ipa": "/hɔːlt/",
+    "ex": "Management decided to halt construction on the new office tower pending environmental safety approvals.",
+    "form": "halt",
+    "nat": "Train operations ground to a complete halt due to severe snowdrifts across the tracks.",
+    "syn": [
+      "stop",
+      "suspend"
+    ],
+    "ant": [
+      "resume",
+      "continue"
+    ],
+    "col": [
+      "come to a halt",
+      "grind to a halt",
+      "halt production"
+    ],
+    "mis": {
+      "bad": "The train made a halt in the station.",
+      "good": "The train came to a halt at the station.",
+      "why": "Use the idiom \"come to a halt\" or \"brought to a halt\", not \"made a halt\"."
+    },
+    "fam": [
+      "halt (noun)"
+    ],
+    "topics": [
+      "travel",
+      "work"
+    ]
+  },
+  {
+    "id": "halve",
+    "w": "halve",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "reduzir pela metade / dividir em duas partes iguais",
+    "def": "To divide into two equal parts, or reduce or decrease by half.",
+    "ipa": "/hæv/",
+    "ex": "Switching to cloud infrastructure allowed the e-commerce company to halve its monthly hosting expenditures.",
+    "form": "halve",
+    "nat": "Halve the cherry tomatoes before tossing them into the fresh garden salad.",
+    "syn": [
+      "reduce by half",
+      "bisect"
+    ],
+    "ant": [
+      "double"
+    ],
+    "col": [
+      "halve the cost",
+      "cut in half",
+      "halve the time"
+    ],
+    "mis": {
+      "bad": "The company reduced by half its expenses (or \"halved in half\").",
+      "good": "The company halved its expenses.",
+      "why": "\"Halve\" already means reduce by half; do not say \"halve in half\" or \"halve by half\"."
+    },
+    "fam": [
+      "half (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "hamper",
+    "w": "hamper",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "atrapalhar / prejudicar / dificultar",
+    "def": "To hinder or impede the movement, progress, or development of someone or something.",
+    "ipa": "/ˈhæmpər/",
+    "ex": "Heavy winter fog and icy runways continued to hamper flight operations at the busy international hub.",
+    "form": "hamper",
+    "nat": "A severe lack of budget funding will hamper scientific research into renewable solar batteries.",
+    "syn": [
+      "hinder",
+      "impede"
+    ],
+    "ant": [
+      "assist",
+      "facilitate"
+    ],
+    "col": [
+      "hamper progress",
+      "hamper efforts",
+      "severely hamper"
+    ],
+    "mis": {
+      "bad": "The rain hampered the team to finish the job.",
+      "good": "The rain hampered the team's progress / prevented the team from finishing.",
+      "why": "\"Hamper\" is transitive and takes a direct object (progress, efforts), not \"hamper someone to do\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "travel"
+    ]
+  },
+  {
+    "id": "handful",
+    "w": "handful",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "punhado / meia dúzia (poucos)",
+    "def": "A quantity that fills the hand; or a small number of people or things.",
+    "ipa": "/ˈhændfʊl/",
+    "ex": "Only a small handful of senior engineers truly understand the entire legacy backend codebase.",
+    "form": "handful",
+    "nat": "Grab a handful of roasted almonds from the pantry for an afternoon protein snack.",
+    "syn": [
+      "few",
+      "smattering"
+    ],
+    "ant": [
+      "multitude",
+      "abundance"
+    ],
+    "col": [
+      "handful of",
+      "small handful",
+      "quite a handful"
+    ],
+    "mis": {
+      "bad": "Only a handful of peoples attended the lecture.",
+      "good": "Only a handful of people attended the lecture.",
+      "why": "\"People\" is the irregular plural of \"person\"; never write \"peoples\" in this context."
+    },
+    "fam": [
+      "hand (noun)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "handy",
+    "w": "handy",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "prático / útil / à mão",
+    "def": "Convenient to handle or use; useful; or placed close at hand.",
+    "ipa": "/ˈhændi/",
+    "ex": "Keep a portable phone charger handy inside your carry-on bag during long international layovers.",
+    "form": "handy",
+    "nat": "This keyboard shortcut reference sheet is extremely handy for junior software developers.",
+    "syn": [
+      "convenient",
+      "useful"
+    ],
+    "ant": [
+      "useless",
+      "cumbersome"
+    ],
+    "col": [
+      "come in handy",
+      "keep handy",
+      "handy tool"
+    ],
+    "mis": {
+      "bad": "This tool will be very practice for us.",
+      "good": "This tool will be very handy / practical for us.",
+      "why": "False friend! In English, \"practice\" is a noun/verb; the adjective meaning useful and convenient is \"handy\" or \"practical\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "tech"
+    ]
+  },
+  {
+    "id": "haphazard",
+    "w": "haphazard",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "desordenado / aleatório / feito a esmo",
+    "def": "Lacking any obvious principle of organization; random and disorganized.",
+    "ipa": "/hæpˈhæzərd/",
+    "ex": "Their haphazard approach to version control caused constant merge conflicts and lost code updates.",
+    "form": "haphazard",
+    "nat": "Books were stacked in a haphazard pile beside the living room armchair.",
+    "syn": [
+      "random",
+      "disorganized"
+    ],
+    "ant": [
+      "methodical",
+      "systematic"
+    ],
+    "col": [
+      "haphazard manner",
+      "haphazard approach",
+      "seem haphazard"
+    ],
+    "mis": {
+      "bad": "The files were stored in a haphazardly way.",
+      "good": "The files were stored in a haphazard way / stored haphazardly.",
+      "why": "Use the adjective \"haphazard\" before \"way\" or the adverb \"haphazardly\" directly after the verb."
+    },
+    "fam": [
+      "haphazardly (adv)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "hapless",
+    "w": "hapless",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "azarado / desventurado",
+    "def": "Unfortunate; having bad luck or unfortunate circumstances.",
+    "ipa": "/ˈhæpləs/",
+    "ex": "The hapless tourist lost both his passport and wallet during his very first day in Rome.",
+    "form": "hapless",
+    "nat": "Customer support had to guide the hapless user through a simple password reset process.",
+    "syn": [
+      "unfortunate",
+      "unlucky"
+    ],
+    "ant": [
+      "lucky",
+      "fortunate"
+    ],
+    "col": [
+      "hapless victim",
+      "hapless tourist",
+      "hapless soul"
+    ],
+    "mis": {
+      "bad": "He was very hapless with his investment.",
+      "good": "He was very unlucky with his investment / a hapless investor.",
+      "why": "\"Hapless\" is predominantly used as an attributive adjective before a noun: \"hapless victim/tourist\"."
+    },
+    "fam": [],
+    "topics": [
+      "relationships",
+      "travel"
+    ]
+  },
+  {
+    "id": "harbor",
+    "w": "harbor",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "abrigar / nutrir (sentimento ou pensamento)",
+    "def": "To keep a thought or feeling in mind; or give shelter to someone.",
+    "ipa": "/ˈhɑːrbər/",
+    "ex": "Despite their past professional rivalry, she harbored no resentment toward her former business partner.",
+    "form": "harbored",
+    "nat": "Old damp buildings can harbor toxic black mold behind bathroom drywall panels.",
+    "syn": [
+      "nurture",
+      "shelter"
+    ],
+    "ant": [
+      "dismiss",
+      "banish"
+    ],
+    "col": [
+      "harbor feelings",
+      "harbor doubts",
+      "harbor resentment"
+    ],
+    "mis": {
+      "bad": "He harbored doubts with the project success.",
+      "good": "He harbored doubts about the project's success.",
+      "why": "Collocate \"harbor doubts about [something]\", not \"with\"."
+    },
+    "fam": [
+      "harbor (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "abstract"
+    ]
+  },
+  {
+    "id": "hardship",
+    "w": "hardship",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "dificuldade / provação / penúria",
+    "def": "Severe suffering or privation; conditions that make life very difficult.",
+    "ipa": "/ˈhɑːrdʃɪp/",
+    "ex": "Refugee families endured severe economic hardship while waiting months for emergency settlement visas.",
+    "form": "hardship",
+    "nat": "He overcame tremendous personal hardship to become a leading physician and medical researcher.",
+    "syn": [
+      "privation",
+      "adversity"
+    ],
+    "ant": [
+      "prosperity",
+      "ease"
+    ],
+    "col": [
+      "economic hardship",
+      "endure hardship",
+      "severe hardship"
+    ],
+    "mis": {
+      "bad": "They faced many hardships in their life (plural note).",
+      "good": "They faced severe hardship / many hardships in life.",
+      "why": "\"Hardship\" is commonly used uncountably to describe adversity or economic suffering."
+    },
+    "fam": [
+      "hard (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "finance"
+    ]
+  },
+  {
+    "id": "harmless",
+    "w": "harmless",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "inofensivo / sem perigo",
+    "def": "Not able or likely to cause harm or damage.",
+    "ipa": "/ˈhɑːrmləs/",
+    "ex": "Most garden spiders found in the region are completely harmless to adult humans.",
+    "form": "harmless",
+    "nat": "It was just a harmless joke, but his colleague took offense immediately.",
+    "syn": [
+      "innocuous",
+      "safe"
+    ],
+    "ant": [
+      "harmful",
+      "dangerous"
+    ],
+    "col": [
+      "harmless joke",
+      "completely harmless",
+      "harmless fun"
+    ],
+    "mis": {
+      "bad": "The snake is harmless for people.",
+      "good": "The snake is harmless to humans / people.",
+      "why": "Use the preposition \"to\" after \"harmless\": \"harmless to someone\"."
+    },
+    "fam": [
+      "harm (noun)",
+      "harmful (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "harmonize",
+    "w": "harmonize",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "harmonizar / alinhar",
+    "def": "To bring into agreement or harmony, or sing and make music in harmony.",
+    "ipa": "/ˈhɑːrmənaɪz/",
+    "ex": "European nations worked together for years to harmonize cross-border corporate tax and tariff regulations.",
+    "form": "harmonize",
+    "nat": "The choir singers harmonized beautifully during the opening hymn of the concert.",
+    "syn": [
+      "coordinate",
+      "blend"
+    ],
+    "ant": [
+      "clash",
+      "conflict"
+    ],
+    "col": [
+      "harmonize regulations",
+      "harmonize with",
+      "harmonize efforts"
+    ],
+    "mis": {
+      "bad": "We need to harmonize our strategy to their vision.",
+      "good": "We need to harmonize our strategy with their vision.",
+      "why": "Use the preposition \"with\" with \"harmonize\": \"harmonize A with B\"."
+    },
+    "fam": [
+      "harmony (noun)",
+      "harmonious (adj)"
+    ],
+    "topics": [
+      "business",
+      "culture"
+    ]
+  },
+  {
+    "id": "harsh",
+    "w": "harsh",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "severo / áspero / duro",
+    "def": "Unpleasantly rough or jarring to the senses; or cruel and severe.",
+    "ipa": "/hɑːrʃ/",
+    "ex": "Arctic wildlife has adapted over millennia to survive the brutally harsh polar winter conditions.",
+    "form": "harsh",
+    "nat": "Her feedback was unexpectedly harsh, which discouraged the junior developer during code review.",
+    "syn": [
+      "severe",
+      "stern"
+    ],
+    "ant": [
+      "mild",
+      "gentle"
+    ],
+    "col": [
+      "harsh reality",
+      "harsh criticism",
+      "harsh climate"
+    ],
+    "mis": {
+      "bad": "The winter in Canada was very rude (meaning harsh).",
+      "good": "The winter in Canada was very harsh / severe.",
+      "why": "False friend! \"Rude\" means impolite; for severe weather or stern conditions, use \"harsh\" or \"severe\"."
+    },
+    "fam": [
+      "harshly (adv)",
+      "harshness (noun)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "hastily",
+    "w": "hastily",
+    "pos": "adv",
+    "lvl": "B2",
+    "pt": "apressadamente / às pressas",
+    "def": "With excessive speed or urgency; hurriedly.",
+    "ipa": "/ˈheɪstɪli/",
+    "ex": "The startup team hastily shipped a buggy patch without running standard automated integration tests.",
+    "form": "hastily",
+    "nat": "She packed her suitcase hastily and rushed to catch the early airport shuttle.",
+    "syn": [
+      "hurriedly",
+      "rashly"
+    ],
+    "ant": [
+      "slowly",
+      "deliberately"
+    ],
+    "col": [
+      "hastily prepared",
+      "leave hastily",
+      "decide hastily"
+    ],
+    "mis": {
+      "bad": "He hastily decided to quit without thinking.",
+      "good": "He made a hasty decision / decided hastily to quit.",
+      "why": "Use \"hastily\" to modify verbs; collocate \"hastily assembled\" or \"hastily decided\"."
+    },
+    "fam": [
+      "hasty (adj)",
+      "haste (noun)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "hasty",
+    "w": "hasty",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "precipitado / apressado",
+    "def": "Done or acting with excessive speed or urgency; hurried and careless.",
+    "ipa": "/ˈheɪsti/",
+    "ex": "Do not make a hasty decision about leaving your current job before securing another offer.",
+    "form": "hasty",
+    "nat": "After a hasty breakfast of toast and coffee, she hurried to the subway.",
+    "syn": [
+      "hurried",
+      "rash"
+    ],
+    "ant": [
+      "deliberate",
+      "considered"
+    ],
+    "col": [
+      "hasty decision",
+      "hasty retreat",
+      "don't be hasty"
+    ],
+    "mis": {
+      "bad": "It was a precipitated decision to invest all our money.",
+      "good": "It was a hasty / rash decision to invest all our money.",
+      "why": "False friend! In English \"precipitated\" is not used for human choices; use \"hasty\" or \"rash decision\"."
+    },
+    "fam": [
+      "hastily (adv)",
+      "haste (noun)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hatch",
+    "w": "hatch",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "chocar (ovo) / tramar (plano)",
+    "def": "To emerge from an egg; or conspire to devise a secret plot or plan.",
+    "ipa": "/hætʃ/",
+    "ex": "Baby sea turtles hatch from sandy coastal nests and crawl instinctively toward the open ocean.",
+    "form": "hatch",
+    "nat": "The rival executives secretly hatched a plan to launch a competing cloud software venture.",
+    "syn": [
+      "incubate",
+      "concoct"
+    ],
+    "ant": [],
+    "col": [
+      "hatch a plan",
+      "hatch a plot",
+      "eggs hatch"
+    ],
+    "mis": {
+      "bad": "The turtles born from the eggs on the beach.",
+      "good": "The turtles hatched from their eggs on the beach.",
+      "why": "Animals emerging from eggs \"hatch\", not \"born\"."
+    },
+    "fam": [
+      "hatch (noun)"
+    ],
+    "topics": [
+      "science",
+      "business"
+    ]
+  },
+  {
+    "id": "haul",
+    "w": "haul",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "puxar / rebocar / transportar carga pesada",
+    "def": "To pull or drag with effort or force; or transport cargo in a truck.",
+    "ipa": "/hɔːl/",
+    "ex": "Heavy cargo freight trains haul thousands of tons of coal and grain across North America.",
+    "form": "haul",
+    "nat": "He hauled the heavy wooden wardrobe up three flights of stairs without any elevator.",
+    "syn": [
+      "drag",
+      "transport"
+    ],
+    "ant": [
+      "push"
+    ],
+    "col": [
+      "haul freight",
+      "long haul",
+      "haul away"
+    ],
+    "mis": {
+      "bad": "We had to pull the heavy luggage with effort.",
+      "good": "We had to haul the heavy luggage up the stairs.",
+      "why": "Use \"haul\" specifically when dragging or transporting heavy, bulky loads with great effort."
+    },
+    "fam": [
+      "haul (noun)",
+      "hauler (noun)"
+    ],
+    "topics": [
+      "travel",
+      "work"
+    ]
+  },
+  {
+    "id": "haunt",
+    "w": "haunt",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "assombrar / perseguir a memória",
+    "def": "To manifest as a ghost; or cause repeated suffering or anxiety to a person.",
+    "ipa": "/hɔːnt/",
+    "ex": "The painful memory of missing that crucial penalty kick continued to haunt him for years.",
+    "form": "haunt",
+    "nat": "Local legends claim that the spirit of an ancient sea captain haunts the rocky lighthouse.",
+    "syn": [
+      "plague",
+      "torment"
+    ],
+    "ant": [
+      "comfort",
+      "soothe"
+    ],
+    "col": [
+      "haunt someone",
+      "come back to haunt",
+      "haunted house"
+    ],
+    "mis": {
+      "bad": "The mistake haunted on him for months.",
+      "good": "The mistake haunted him for months.",
+      "why": "\"Haunt\" is a transitive verb; do not add \"on\" after it."
+    },
+    "fam": [
+      "haunted (adj)",
+      "haunting (adj)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "haven",
+    "w": "haven",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "refúgio / porto seguro",
+    "def": "A place of safety or refuge; a harbor or small port for ships.",
+    "ipa": "/ˈheɪvn/",
+    "ex": "The quiet public library was a welcome haven for students studying during intensive exam week.",
+    "form": "haven",
+    "nat": "The offshore island has long served as a notorious tax haven for billionaire investors.",
+    "syn": [
+      "refuge",
+      "sanctuary"
+    ],
+    "ant": [
+      "hazard",
+      "minefield"
+    ],
+    "col": [
+      "safe haven",
+      "tax haven",
+      "haven for wildlife"
+    ],
+    "mis": {
+      "bad": "Switzerland is considered a fiscal paradise for investors.",
+      "good": "Switzerland is considered a tax haven for investors.",
+      "why": "False friend! Portuguese \"paraíso fiscal\" translates to English \"tax haven\", not \"fiscal paradise\"."
+    },
+    "fam": [],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "havoc",
+    "w": "havoc",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "estragos / caos / devastação",
+    "def": "Widespread destruction, confusion, or disorder.",
+    "ipa": "/ˈhævək/",
+    "ex": "A single severe ransomware attack can wreak havoc across a hospital's entire administrative infrastructure.",
+    "form": "havoc",
+    "nat": "Unseasonal heavy snowfall wreaked havoc on commuter traffic throughout the metropolitan region yesterday.",
+    "syn": [
+      "chaos",
+      "destruction"
+    ],
+    "ant": [
+      "order",
+      "calm"
+    ],
+    "col": [
+      "wreak havoc",
+      "cause havoc",
+      "play havoc with"
+    ],
+    "mis": {
+      "bad": "The storm made a big havoc in the city.",
+      "good": "The storm wreaked havoc / caused havoc in the city.",
+      "why": "The standard idiom is \"wreak havoc\" (/reɪk ˈhævək/), not \"make havoc\"."
+    },
+    "fam": [],
+    "topics": [
+      "security",
+      "abstract"
+    ]
+  },
+  {
+    "id": "hazard",
+    "w": "hazard",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "perigo / risco à saúde ou segurança",
+    "def": "A danger or risk that could cause harm, injury, or loss.",
+    "ipa": "/ˈhæzərd/",
+    "ex": "Wearing safety goggles and heavy gloves protects lab technicians against severe chemical hazard risks.",
+    "form": "hazard",
+    "nat": "Icy sidewalk conditions pose a serious slip hazard for elderly pedestrians during winter.",
+    "syn": [
+      "danger",
+      "peril"
+    ],
+    "ant": [
+      "safety",
+      "protection"
+    ],
+    "col": [
+      "health hazard",
+      "fire hazard",
+      "safety hazard"
+    ],
+    "mis": {
+      "bad": "Smoking is a big risk for the health.",
+      "good": "Smoking is a serious health hazard.",
+      "why": "Use compound noun \"health hazard\" or \"fire hazard\" for physical dangers."
+    },
+    "fam": [
+      "hazardous (adj)"
+    ],
+    "topics": [
+      "health",
+      "security"
+    ]
+  },
+  {
+    "id": "hazardous",
+    "w": "hazardous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "perigoso / de alto risco",
+    "def": "Risky or dangerous, especially to health or human safety.",
+    "ipa": "/ˈhæzərdəs/",
+    "ex": "Workers wore specialized protective hazmat suits when handling hazardous chemical waste at the recycling plant.",
+    "form": "hazardous",
+    "nat": "Driving through dense mountain fog and freezing rain is extremely hazardous even with snow chains.",
+    "syn": [
+      "dangerous",
+      "perilous"
+    ],
+    "ant": [
+      "safe",
+      "secure"
+    ],
+    "col": [
+      "hazardous waste",
+      "hazardous materials",
+      "hazardous conditions"
+    ],
+    "mis": {
+      "bad": "The factory disposed hazardous residues in the river.",
+      "good": "The factory dumped hazardous waste into the river.",
+      "why": "Use \"hazardous waste\" rather than literal translation \"hazardous residues\"."
+    },
+    "fam": [
+      "hazard (noun)",
+      "hazardously (adv)"
+    ],
+    "topics": [
+      "health",
+      "security"
+    ]
+  },
+  {
+    "id": "hazy",
+    "w": "hazy",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "nebuloso / vago / esfumaçado",
+    "def": "Covered by a haze; misty; or vague and indistinct in memory.",
+    "ipa": "/ˈheɪzi/",
+    "ex": "The distant mountain peaks appeared hazy and faint under the warm afternoon summer smog.",
+    "form": "hazy",
+    "nat": "I have only a hazy recollection of my family's first apartment in the city.",
+    "syn": [
+      "misty",
+      "vague"
+    ],
+    "ant": [
+      "clear",
+      "distinct"
+    ],
+    "col": [
+      "hazy memory",
+      "hazy recollection",
+      "hazy sunshine"
+    ],
+    "mis": {
+      "bad": "My memory of that day is very confused.",
+      "good": "My memory of that day is very hazy / vague.",
+      "why": "Use \"hazy\" or \"vague\" to describe faint or indistinct memories."
+    },
+    "fam": [
+      "haze (noun)",
+      "hazily (adv)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "hearty",
+    "w": "hearty",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "caloroso / substancioso (refeição)",
+    "def": "Loudly vigorous and cheerful; or wholesome and substantial (of food).",
+    "ipa": "/ˈhɑːrti/",
+    "ex": "After hiking ten miles through the cold rain, we enjoyed a hearty bowl of soup.",
+    "form": "hearty",
+    "nat": "The grandfather greeted his visiting grandchildren with a hearty laugh and a warm hug.",
+    "syn": [
+      "substantial",
+      "warm"
+    ],
+    "ant": [
+      "frail",
+      "meager"
+    ],
+    "col": [
+      "hearty meal",
+      "hearty laugh",
+      "hearty appetite"
+    ],
+    "mis": {
+      "bad": "We ate a very strong lunch today (meaning substantial).",
+      "good": "We ate a very hearty / substantial meal today.",
+      "why": "In English, meals are \"hearty\" or \"substantial\", never \"strong lunch\"."
+    },
+    "fam": [
+      "heartily (adv)",
+      "heartiness (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "heated",
+    "w": "heated",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "acalorado / inflamado (discussão)",
+    "def": "Made warm or hot; or passionate and vehement in disagreement.",
+    "ipa": "/ˈhiːtɪd/",
+    "ex": "The architecture committee engaged in a heated debate over whether to adopt microservices architecture.",
+    "form": "heated",
+    "nat": "The resort features an outdoor heated swimming pool open even during snowy winter months.",
+    "syn": [
+      "intense",
+      "vehement"
+    ],
+    "ant": [
+      "calm",
+      "cool"
+    ],
+    "col": [
+      "heated debate",
+      "heated argument",
+      "heated pool"
+    ],
+    "mis": {
+      "bad": "We had a hot discussion about the budget.",
+      "good": "We had a heated discussion about the budget.",
+      "why": "False friend! An angry debate is a \"heated discussion\" or \"heated argument\", not \"hot discussion\"."
+    },
+    "fam": [
+      "heat (noun)",
+      "heatedly (adv)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ]
+  },
+  {
+    "id": "heave",
+    "w": "heave",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "levantar com esforço / arfar",
+    "def": "To lift or haul something heavy with great effort; or rise and fall rhythmically.",
+    "ipa": "/hiːv/",
+    "ex": "Together the four warehouse workers managed to heave the heavy iron safe into the truck.",
+    "form": "heave",
+    "nat": "His chest heaved rapidly as he recovered his breath following the four-hundred-meter sprint.",
+    "syn": [
+      "lift",
+      "hoist"
+    ],
+    "ant": [
+      "drop"
+    ],
+    "col": [
+      "heave a sigh",
+      "heave upward",
+      "chest heaves"
+    ],
+    "mis": {
+      "bad": "He heaved a sigh of relief when he passed.",
+      "good": "He breathed a sigh of relief / heaved a sigh of relief.",
+      "why": "The idiom is \"heave a sigh of relief\" (dar um suspiro de alívio)."
+    },
+    "fam": [
+      "heave (noun)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "hectic",
+    "w": "hectic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "agitado / frenético / caótico",
+    "def": "Full of incessant or frantic activity; very busy and rushed.",
+    "ipa": "/ˈhektɪk/",
+    "ex": "Working at a fast-growing tech startup can be incredibly hectic during end-of-quarter product launches.",
+    "form": "hectic",
+    "nat": "After a hectic week of back-to-back customer meetings, she spent Sunday relaxing quietly at home.",
+    "syn": [
+      "frenetic",
+      "chaotic"
+    ],
+    "ant": [
+      "calm",
+      "peaceful"
+    ],
+    "col": [
+      "hectic schedule",
+      "hectic pace",
+      "hectic day"
+    ],
+    "mis": {
+      "bad": "My week was very agitated with meetings.",
+      "good": "My week was very hectic / busy with meetings.",
+      "why": "False friend! In English, a busy week is \"hectic\", not \"agitated\" (which means nervous/irritated)."
+    },
+    "fam": [
+      "hectically (adv)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "hedge",
+    "w": "hedge",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "proteger-se financeiramente / cercar-se de cuidados",
+    "def": "To protect against financial loss by other transactions; or avoid making a direct statement.",
+    "ipa": "/hedʒ/",
+    "ex": "Multinational corporations frequently hedge against currency fluctuations using forward foreign exchange derivative contracts.",
+    "form": "hedge",
+    "nat": "The politician hedged her answers carefully when questioned about controversial new tax proposals.",
+    "syn": [
+      "insure",
+      "equivocate"
+    ],
+    "ant": [],
+    "col": [
+      "hedge against risk",
+      "hedge a bet",
+      "hedge your bets"
+    ],
+    "mis": {
+      "bad": "We need to hedge about currency risks.",
+      "good": "We need to hedge against currency risks.",
+      "why": "Always use the preposition \"against\" with \"hedge\": \"hedge against risk/inflation\"."
+    },
+    "fam": [
+      "hedge (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "heed",
+    "w": "heed",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "dar ouvidos a / atentar para",
+    "def": "To pay attention to someone's advice, warning, or instructions; take notice of.",
+    "ipa": "/hiːd/",
+    "ex": "Motorists were strongly warned to heed weather warnings and stay off mountain highways tonight.",
+    "form": "heed",
+    "nat": "If he had heeded his doctor's early advice, he might have avoided surgery.",
+    "syn": [
+      "listen to",
+      "obey"
+    ],
+    "ant": [
+      "ignore",
+      "disregard"
+    ],
+    "col": [
+      "heed a warning",
+      "heed advice",
+      "fail to heed"
+    ],
+    "mis": {
+      "bad": "He did not pay heed to the warnings.",
+      "good": "He did not heed the warnings / pay heed to the warnings.",
+      "why": "\"Heed\" is a transitive verb; you can say \"heed the warnings\" without \"to\"."
+    },
+    "fam": [
+      "heed (noun)",
+      "heedful (adj)"
+    ],
+    "topics": [
+      "health",
+      "abstract"
+    ]
+  },
+  {
+    "id": "hefty",
+    "w": "hefty",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "pesado / vultoso (preço, quantia, multa)",
+    "def": "Large, heavy, and powerful; or impressive in size or monetary amount.",
+    "ipa": "/ˈhefti/",
+    "ex": "Violating local data protection regulations can result in a hefty fine from European regulators.",
+    "form": "hefty",
+    "nat": "The moving crew needed two hefty men to carry the heavy antique oak bookcase.",
+    "syn": [
+      "substantial",
+      "heavy"
+    ],
+    "ant": [
+      "light",
+      "modest"
+    ],
+    "col": [
+      "hefty fine",
+      "hefty price tag",
+      "hefty sum"
+    ],
+    "mis": {
+      "bad": "The company received a heavy fine for pollution.",
+      "good": "The company received a hefty / heavy fine for pollution.",
+      "why": "\"Hefty fine\" is an especially natural, native collocation in business and legal English."
+    },
+    "fam": [],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "heighten",
+    "w": "heighten",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "intensificar / acentuar",
+    "def": "To make or become more intense, acute, or prominent.",
+    "ipa": "/ˈhaɪtn/",
+    "ex": "Recent international cyberattacks have served to heighten security concerns across banking and defense sectors.",
+    "form": "heighten",
+    "nat": "Suspense heightened in the cinema as the mystery plot reached its climactic final twist.",
+    "syn": [
+      "intensify",
+      "enhance"
+    ],
+    "ant": [
+      "diminish",
+      "lower"
+    ],
+    "col": [
+      "heighten awareness",
+      "heighten concerns",
+      "heighten tensions"
+    ],
+    "mis": {
+      "bad": "The news heightened up the fears of people.",
+      "good": "The news heightened people's fears.",
+      "why": "Do not add \"up\" after \"heighten\"; the verb already means increase intensity."
+    },
+    "fam": [
+      "height (noun)"
+    ],
+    "topics": [
+      "security",
+      "abstract"
+    ]
+  },
+  {
+    "id": "heinous",
+    "w": "heinous",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "hediondo / atroz",
+    "def": "Of a person or wrongful act, especially a crime: utterly odious or wicked.",
+    "ipa": "/ˈheɪnəs/",
+    "ex": "The international criminal court prosecuted the former dictator for heinous crimes against innocent civilians.",
+    "form": "heinous",
+    "nat": "Kidnapping and human trafficking are universally condemned as heinous offenses against humanity.",
+    "syn": [
+      "atrocious",
+      "abominable"
+    ],
+    "ant": [
+      "admirable",
+      "noble"
+    ],
+    "col": [
+      "heinous crime",
+      "heinous act",
+      "heinous offense"
+    ],
+    "mis": {
+      "bad": "He committed an hediond crime.",
+      "good": "He committed a heinous crime.",
+      "why": "The English equivalent of Portuguese \"hediondo\" is \"heinous\" (/ˈheɪnəs/)."
+    },
+    "fam": [],
+    "topics": [
+      "security",
+      "culture"
+    ]
+  },
+  {
+    "id": "helmet",
+    "w": "helmet",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "capacete",
+    "def": "A hard or padded protective hat, worn by motorcyclists, cyclists, or construction workers.",
+    "ipa": "/ˈhelmɪt/",
+    "ex": "City regulations require all electric scooter riders to wear a protective safety helmet outdoors.",
+    "form": "helmet",
+    "nat": "Construction workers must keep their hard helmet securely buckled while on the job site.",
+    "syn": [
+      "hard hat",
+      "headgear"
+    ],
+    "ant": [],
+    "col": [
+      "safety helmet",
+      "bike helmet",
+      "wear a helmet"
+    ],
+    "mis": {
+      "bad": "Put your helmet on your head.",
+      "good": "Put your helmet on / wear your helmet.",
+      "why": "Say \"put your helmet on\" rather than redundant \"on your head\"."
+    },
+    "fam": [],
+    "topics": [
+      "health",
+      "travel"
+    ]
+  },
+  {
+    "id": "helpless",
+    "w": "helpless",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "indefeso / desamparado",
+    "def": "Unable to defend oneself or to act without help; powerless.",
+    "ipa": "/ˈhelpləs/",
+    "ex": "Volunteers stepped in to protect helpless newborn kittens abandoned outside the animal rescue shelter.",
+    "form": "helpless",
+    "nat": "I felt completely helpless watching the database crash without any administrative terminal access.",
+    "syn": [
+      "powerless",
+      "defenseless"
+    ],
+    "ant": [
+      "strong",
+      "capable"
+    ],
+    "col": [
+      "feel helpless",
+      "helpless victim",
+      "utterly helpless"
+    ],
+    "mis": {
+      "bad": "I felt very non-helpful during the crisis.",
+      "good": "I felt completely helpless during the crisis.",
+      "why": "Distinguish \"helpless\" (powerless) from \"unhelpful\" (not willing or able to provide assistance)."
+    },
+    "fam": [
+      "helplessly (adv)",
+      "helplessness (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "health"
+    ]
+  },
+  {
+    "id": "herald",
+    "w": "herald",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "anunciar / inaugurar / prenunciar",
+    "def": "To be a sign that something is about to happen; or announce publicly.",
+    "ipa": "/ˈherəld/",
+    "ex": "The discovery of quantum supremacy may herald a brand new era in modern scientific computation.",
+    "form": "herald",
+    "nat": "Golden autumn leaves herald the arrival of cooler mountain temperatures across New England.",
+    "syn": [
+      "usher in",
+      "signal"
+    ],
+    "ant": [
+      "conceal"
+    ],
+    "col": [
+      "herald a new era",
+      "herald the arrival",
+      "widely heralded"
+    ],
+    "mis": {
+      "bad": "The innovation heralded to a new era.",
+      "good": "The innovation heralded a new era.",
+      "why": "\"Herald\" is a transitive verb; do not add \"to\" after it."
+    },
+    "fam": [
+      "herald (noun)"
+    ],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "heredity",
+    "w": "heredity",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "hereditariedade / herança genética",
+    "def": "The passing on of physical or mental characteristics genetically from one generation to another.",
+    "ipa": "/həˈredəti/",
+    "ex": "Both diet and biological heredity play significant roles in determining long-term cardiovascular health risks.",
+    "form": "heredity",
+    "nat": "Mendel conducted pioneering genetic experiments on pea plants to understand the laws of heredity.",
+    "syn": [
+      "inheritance",
+      "genetics"
+    ],
+    "ant": [],
+    "col": [
+      "laws of heredity",
+      "biological heredity",
+      "influence of heredity"
+    ],
+    "mis": {
+      "bad": "Eye color is determined by the hereditability.",
+      "good": "Eye color is determined by heredity / genetics.",
+      "why": "Use \"heredity\" for the general biological passing of traits from parents to offspring."
+    },
+    "fam": [
+      "hereditary (adj)"
+    ],
+    "topics": [
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hero",
+    "w": "hero",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "herói / exemplo inspirador",
+    "def": "A person admired for courage, outstanding achievements, or noble qualities.",
+    "ipa": "/ˈhɪroʊ/",
+    "ex": "Firefighters who risked their lives to rescue trapped residents were celebrated as local heroes.",
+    "form": "heroes",
+    "nat": "Her grandmother has always been her greatest childhood hero and mentor in life.",
+    "syn": [
+      "champion",
+      "idol"
+    ],
+    "ant": [
+      "villain",
+      "coward"
+    ],
+    "col": [
+      "national hero",
+      "unsung hero",
+      "hero of the story"
+    ],
+    "mis": {
+      "bad": "The firefighters were named as heroes of the city.",
+      "good": "The firefighters were hailed as heroes of the city.",
+      "why": "Collocate \"hailed as heroes\" or \"celebrated as heroes\"."
+    },
+    "fam": [
+      "heroic (adj)",
+      "heroism (noun)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "heroic",
+    "w": "heroic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "heroico / corajoso",
+    "def": "Having the characteristics of a hero or showing extreme courage and bravery.",
+    "ipa": "/həˈroʊɪk/",
+    "ex": "Volunteers made a heroic effort to rescue stranded villagers during the sudden mountain flash flood.",
+    "form": "heroic",
+    "nat": "The doctor performed heroic emergency surgery under difficult blackout conditions in the field hospital.",
+    "syn": [
+      "brave",
+      "valiant"
+    ],
+    "ant": [
+      "cowardly",
+      "fearful"
+    ],
+    "col": [
+      "heroic effort",
+      "heroic deed",
+      "heroic sacrifice"
+    ],
+    "mis": {
+      "bad": "He made an heroical rescue yesterday.",
+      "good": "He made a heroic rescue yesterday.",
+      "why": "The standard English adjective is \"heroic\", never \"heroical\"."
+    },
+    "fam": [
+      "heroically (adv)",
+      "hero (noun)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "heroine",
+    "w": "heroine",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "heroína (protagonista feminina)",
+    "def": "A woman admired for courage or outstanding achievements, or the chief female character.",
+    "ipa": "/ˈheroʊɪn/",
+    "ex": "The courageous young journalist became a national heroine after exposing widespread government financial corruption.",
+    "form": "heroine",
+    "nat": "Elizabeth Bennet is the beloved independent heroine of Jane Austen's classic Pride and Prejudice.",
+    "syn": [
+      "champion",
+      "protagonist"
+    ],
+    "ant": [
+      "villainess"
+    ],
+    "col": [
+      "tragic heroine",
+      "unsung heroine",
+      "female heroine"
+    ],
+    "mis": {
+      "bad": "She is a heroin of the civil rights movement.",
+      "good": "She is a heroine of the civil rights movement.",
+      "why": "Watch the spelling: \"heroine\" (female hero) has a final \"-e\"; \"heroin\" (without -e) is the illegal narcotic drug."
+    },
+    "fam": [
+      "hero (noun)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "heyday",
+    "w": "heyday",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "apogeu / auge / época de ouro",
+    "def": "The period of a person's or thing's greatest success, popularity, or vigor.",
+    "ipa": "/ˈheɪdeɪ/",
+    "ex": "In its nineties heyday, the downtown shopping arcade was filled with thriving luxury boutiques.",
+    "form": "heyday",
+    "nat": "During his athletic heyday, the sprinter held three simultaneous Olympic track world records.",
+    "syn": [
+      "prime",
+      "peak"
+    ],
+    "ant": [
+      "decline"
+    ],
+    "col": [
+      "in its heyday",
+      "during his heyday",
+      "past its heyday"
+    ],
+    "mis": {
+      "bad": "The city was in its prime heyday.",
+      "good": "The city was in its heyday / in its prime.",
+      "why": "Do not say \"prime heyday\"; both words denote the peak golden era."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "hidden",
+    "w": "hidden",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "escondido / oculto",
+    "def": "Kept out of sight; concealed or secret.",
+    "ipa": "/ˈhɪdn/",
+    "ex": "Travelers should always read the fine print carefully to avoid paying unexpected hidden fees.",
+    "form": "hidden",
+    "nat": "There is a quiet hidden garden nestled behind the ancient stone church downtown.",
+    "syn": [
+      "concealed",
+      "secret"
+    ],
+    "ant": [
+      "obvious",
+      "visible"
+    ],
+    "col": [
+      "hidden costs",
+      "hidden talent",
+      "hidden camera"
+    ],
+    "mis": {
+      "bad": "The app has many hided costs for users.",
+      "good": "The app has many hidden costs for users.",
+      "why": "Irregular past participle: hide — hid — hidden. Never say \"hided\"."
+    },
+    "fam": [
+      "hide (verb)"
+    ],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "hilarious",
+    "w": "hilarious",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "hilário / muito engraçado",
+    "def": "Extremely amusing or entertaining; causing loud laughter.",
+    "ipa": "/hɪˈleriəs/",
+    "ex": "The stand-up comedian delivered a hilarious routine that had the entire theater crying with laughter.",
+    "form": "hilarious",
+    "nat": "It was hilarious watching the confused kitten try to catch a red laser pointer dot.",
+    "syn": [
+      "funny",
+      "uproarious"
+    ],
+    "ant": [
+      "serious",
+      "boring"
+    ],
+    "col": [
+      "hilarious joke",
+      "find it hilarious",
+      "absolutely hilarious"
+    ],
+    "mis": {
+      "bad": "The movie was very hilarious to watch.",
+      "good": "The movie was hilarious / absolutely hilarious to watch.",
+      "why": "\"Hilarious\" is an extreme adjective meaning extremely funny; modify with \"absolutely\", not \"very\"."
+    },
+    "fam": [
+      "hilariously (adv)",
+      "hilarity (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "hinge",
+    "w": "hinge",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "girar em torno de / depender crucialmente de",
+    "def": "To attach with a hinge; or depend entirely on a single condition.",
+    "ipa": "/hɪndʒ/",
+    "ex": "The success of our international expansion will hinge on hiring an experienced regional operations director.",
+    "form": "hinge",
+    "nat": "The courtroom trial hinges on whether the digital surveillance footage can be authenticated.",
+    "syn": [
+      "depend on",
+      "pivot on"
+    ],
+    "ant": [],
+    "col": [
+      "hinge on",
+      "hinge upon",
+      "entirely hinge"
+    ],
+    "mis": {
+      "bad": "Our future hinges in this decision.",
+      "good": "Our future hinges on this decision.",
+      "why": "Always use the preposition \"on\" (or \"upon\") after \"hinge\": \"hinge on something\"."
+    },
+    "fam": [
+      "hinge (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "hint",
+    "w": "hint",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "dica / pista / sugestão sutil",
+    "def": "A slight or indirect indication or suggestion; or a small piece of practical advice.",
+    "ipa": "/hɪnt/",
+    "ex": "The engineering mentor gave me a helpful hint on how to optimize database queries.",
+    "form": "hint",
+    "nat": "Dark gray clouds on the distant horizon offered the first hint of rain.",
+    "syn": [
+      "clue",
+      "tip"
+    ],
+    "ant": [],
+    "col": [
+      "helpful hint",
+      "drop a hint",
+      "take a hint"
+    ],
+    "mis": {
+      "bad": "Give me a tip hint for the crossword.",
+      "good": "Give me a hint for the crossword puzzle.",
+      "why": "Do not say \"tip hint\"; use \"hint\" for clues/suggestions or \"tip\" for practical pointers."
+    },
+    "fam": [
+      "hint (verb)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "hiss",
+    "w": "hiss",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "sussurrar (cobra/vapor) / vaiar com silvo",
+    "def": "To make a sharp sibilant sound as of the letter s, or express disapproval.",
+    "ipa": "/hɪs/",
+    "ex": "Steam began to hiss loudly from the pressure release valve on top of the boiler.",
+    "form": "hiss",
+    "nat": "The cornered snake raised its head and hissed aggressively at the approaching dog.",
+    "syn": [
+      "sizzle",
+      "fizz"
+    ],
+    "ant": [],
+    "col": [
+      "steam hisses",
+      "snake hisses",
+      "hiss with anger"
+    ],
+    "mis": {
+      "bad": "The tea kettle was hissing steam out.",
+      "good": "The tea kettle was hissing steam.",
+      "why": "Say \"hissing steam\" without adding redundant \"out\"."
+    },
+    "fam": [
+      "hiss (noun)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ]
+  },
+  {
+    "id": "hoard",
+    "w": "hoard",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "acumular compulsivamente / estocar",
+    "def": "To amass money or valued objects and hide or store them away.",
+    "ipa": "/hɔːrd/",
+    "ex": "Panicked consumers rushed to hoard bottled water and canned food ahead of the winter blizzard.",
+    "form": "hoard",
+    "nat": "Some people tend to hoard old obsolete electronic cables that they never actually use.",
+    "syn": [
+      "amass",
+      "stockpile"
+    ],
+    "ant": [
+      "distribute",
+      "spend"
+    ],
+    "col": [
+      "hoard supplies",
+      "hoard wealth",
+      "tendency to hoard"
+    ],
+    "mis": {
+      "bad": "He hoarded up all the toilet paper.",
+      "good": "He hoarded all the toilet paper / stockpiled it.",
+      "why": "Do not add \"up\" after \"hoard\"; \"hoard\" is directly transitive."
+    },
+    "fam": [
+      "hoarder (noun)",
+      "hoard (noun)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "hollow",
+    "w": "hollow",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "oco / vazio por dentro / superficial",
+    "def": "Having a hole or empty space inside; or without real significance or value.",
+    "ipa": "/ˈhɑːloʊ/",
+    "ex": "The antique wooden dining table was surprisingly light because the legs were completely hollow inside.",
+    "form": "hollow",
+    "nat": "Winning the lawsuit felt like a hollow victory after losing their closest business partner.",
+    "syn": [
+      "empty",
+      "vacant"
+    ],
+    "ant": [
+      "solid",
+      "substantial"
+    ],
+    "col": [
+      "hollow victory",
+      "hollow sound",
+      "hollow promise"
+    ],
+    "mis": {
+      "bad": "It was a victory with hollow feeling.",
+      "good": "It was a hollow victory.",
+      "why": "Use the classic collocation \"hollow victory\" (vitória de Pirro / sem valor real)."
+    },
+    "fam": [
+      "hollowness (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "daily"
+    ]
+  },
+  {
+    "id": "homage",
+    "w": "homage",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "homenagem / tributo",
+    "def": "Special honor or respect shown publicly to someone or their artistic work.",
+    "ipa": "/ˈhɑːmɪdʒ/",
+    "ex": "The film director paid heartfelt homage to classic Japanese cinema through dramatic black-and-white cinematography.",
+    "form": "homage",
+    "nat": "Musicians gathered at the concert hall to pay homage to the legendary jazz trumpeter.",
+    "syn": [
+      "tribute",
+      "respect"
+    ],
+    "ant": [
+      "disrespect",
+      "scorn"
+    ],
+    "col": [
+      "pay homage to",
+      "in homage to",
+      "fitting homage"
+    ],
+    "mis": {
+      "bad": "The band made an homage to the singer.",
+      "good": "The band paid homage to the singer.",
+      "why": "The standard collocation in English is \"pay homage to someone\", not \"make an homage\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "homeland",
+    "w": "homeland",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "pátria / terra natal",
+    "def": "A person's native land or country of origin.",
+    "ipa": "/ˈhoʊmlænd/",
+    "ex": "Many international tech immigrants dream of eventually returning to build businesses in their homeland.",
+    "form": "homeland",
+    "nat": "Political unrest forced thousands of families to flee their beloved homeland and seek asylum.",
+    "syn": [
+      "motherland",
+      "native land"
+    ],
+    "ant": [],
+    "col": [
+      "defend the homeland",
+      "beloved homeland",
+      "return to the homeland"
+    ],
+    "mis": {
+      "bad": "He returned to his born country.",
+      "good": "He returned to his homeland / native country.",
+      "why": "Say \"homeland\" or \"native country\", not \"born country\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "homogenize",
+    "w": "homogenize",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "homogeneizar / uniformizar",
+    "def": "To make uniform or similar; or treat milk so that the fat is evenly distributed.",
+    "ipa": "/həˈmɑːdʒənaɪz/",
+    "ex": "Globalization can sometimes homogenize urban cultures, making shopping streets look identical across European cities.",
+    "form": "homogenize",
+    "nat": "Commercial dairy processing plants homogenize fresh milk to prevent cream from separating to the top.",
+    "syn": [
+      "standardize",
+      "blend"
+    ],
+    "ant": [
+      "differentiate"
+    ],
+    "col": [
+      "homogenize culture",
+      "homogenized milk",
+      "homogenize data"
+    ],
+    "mis": {
+      "bad": "They tried to homegeneize the process.",
+      "good": "They tried to homogenize the process.",
+      "why": "Check English spelling: \"homogenize\" (American) with \"-genize\", not \"-geneize\"."
+    },
+    "fam": [
+      "homogeneous (adj)",
+      "homogenization (noun)"
+    ],
+    "topics": [
+      "science",
+      "culture"
+    ]
+  },
+  {
+    "id": "honor",
+    "w": "honor",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "honrar / cumprir (promessa) / homenagear",
+    "def": "To regard with great respect; or fulfill an obligation or agreement.",
+    "ipa": "/ˈɑːnər/",
+    "ex": "The airline refused to honor the discounted tickets due to an obvious pricing system glitch.",
+    "form": "honor",
+    "nat": "We gathered at the university auditorium to honor our retiring department chair.",
+    "syn": [
+      "respect",
+      "fulfill"
+    ],
+    "ant": [
+      "dishonor",
+      "break"
+    ],
+    "col": [
+      "honor a commitment",
+      "honor an agreement",
+      "greatly honored"
+    ],
+    "mis": {
+      "bad": "The company did not honor with its promise.",
+      "good": "The company did not honor its promise / commitment.",
+      "why": "\"Honor\" is transitive; do not insert \"with\" when meaning fulfill a contract or promise."
+    },
+    "fam": [
+      "honor (noun)",
+      "honorable (adj)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "honorable",
+    "w": "honorable",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "honorável / honrado / íntegro",
+    "def": "Bringing or deserving honor; showing high moral standards.",
+    "ipa": "/ˈɑːnərəbl/",
+    "ex": "Resigning immediately after admitting his mistake was widely viewed as an honorable personal decision.",
+    "form": "honorable",
+    "nat": "He dedicated thirty honorable years to public education in his underserved rural hometown.",
+    "syn": [
+      "noble",
+      "principled"
+    ],
+    "ant": [
+      "dishonorable",
+      "shameful"
+    ],
+    "col": [
+      "honorable discharge",
+      "honorable intention",
+      "honorable mention"
+    ],
+    "mis": {
+      "bad": "He made an honory decision to leave.",
+      "good": "He made an honorable decision to leave.",
+      "why": "The adjective is \"honorable\" (/ˈɑːnərəbl/), with a silent \"h\" (use \"an honorable\")."
+    },
+    "fam": [
+      "honorably (adv)",
+      "honor (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "hopeful",
+    "w": "hopeful",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "esperançoso / otimista / promissor",
+    "def": "Feeling or inspiring optimism about a future event or situation.",
+    "ipa": "/ˈhoʊpfl/",
+    "ex": "Scientists are hopeful that new vaccine candidates will provide long-lasting immunity against respiratory viruses.",
+    "form": "hopeful",
+    "nat": "The recent drop in monthly inflation figures is a hopeful sign for the national economy.",
+    "syn": [
+      "optimistic",
+      "promising"
+    ],
+    "ant": [
+      "hopeless",
+      "pessimistic"
+    ],
+    "col": [
+      "hopeful sign",
+      "hopeful about",
+      "remain hopeful"
+    ],
+    "mis": {
+      "bad": "I am very hopeful with the new project.",
+      "good": "I am very hopeful about the new project.",
+      "why": "Always use the preposition \"about\" after \"hopeful\": \"hopeful about something\"."
+    },
+    "fam": [
+      "hopefully (adv)",
+      "hope (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "health"
+    ]
+  },
+  {
+    "id": "horizontal",
+    "w": "horizontal",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "horizontal / nivelado",
+    "def": "Parallel to the plane of the horizon; at right angles to the vertical.",
+    "ipa": "/ˌhɔːrəˈzɑːntl/",
+    "ex": "Hold your mobile smartphone in a horizontal orientation to record widescreen high-definition video.",
+    "form": "horizontal",
+    "nat": "The architect drew clean horizontal lines across the blueprint to emphasize the low roofline.",
+    "syn": [
+      "level",
+      "flat"
+    ],
+    "ant": [
+      "vertical",
+      "upright"
+    ],
+    "col": [
+      "horizontal line",
+      "horizontal axis",
+      "horizontal position"
+    ],
+    "mis": {
+      "bad": "Record the video in the horizontal.",
+      "good": "Record the video horizontally / in landscape mode.",
+      "why": "Say \"horizontally\" or \"in landscape mode\" rather than \"in the horizontal\"."
+    },
+    "fam": [
+      "horizontally (adv)",
+      "horizon (noun)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "horror",
+    "w": "horror",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "horror / pavor",
+    "def": "An intense feeling of fear, shock, or disgust; or a genre of fiction.",
+    "ipa": "/ˈhɔːrər/",
+    "ex": "She watched in horror as the high waves swept the wooden boat toward the rocks.",
+    "form": "horror",
+    "nat": "Many young moviegoers love watching classic psychological horror films in theaters around Halloween.",
+    "syn": [
+      "dread",
+      "terror"
+    ],
+    "ant": [
+      "delight",
+      "pleasure"
+    ],
+    "col": [
+      "in horror",
+      "horror film",
+      "sense of horror"
+    ],
+    "mis": {
+      "bad": "She looked to the accident with horror.",
+      "good": "She watched the accident in horror.",
+      "why": "Use the fixed prepositional phrase \"in horror\" (em choque/pavor), not \"with horror\"."
+    },
+    "fam": [
+      "horrific (adj)",
+      "horrify (verb)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "hospitable",
+    "w": "hospitable",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "hospitaleiro / acolhedor",
+    "def": "Friendly and welcoming to strangers or guests; providing favorable conditions.",
+    "ipa": "/hɑːˈspɪtəbl/",
+    "ex": "Local villagers were exceptionally hospitable, inviting our lost hiking group inside for warm herbal tea.",
+    "form": "hospitable",
+    "nat": "The harsh desert climate is hardly hospitable to delicate agricultural plant varieties.",
+    "syn": [
+      "welcoming",
+      "friendly"
+    ],
+    "ant": [
+      "inhospitable",
+      "hostile"
+    ],
+    "col": [
+      "warmly hospitable",
+      "hospitable environment",
+      "hospitable hosts"
+    ],
+    "mis": {
+      "bad": "The people were very hospital with us.",
+      "good": "The people were very hospitable to us.",
+      "why": "False friend! \"Hospital\" is a noun for medical clinics; the adjective for welcoming is \"hospitable\" (/hɑːˈspɪtəbl/)."
+    },
+    "fam": [
+      "hospitality (noun)"
+    ],
+    "topics": [
+      "travel",
+      "relationships"
+    ]
+  },
+  {
+    "id": "host",
+    "w": "host",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "sediar / hospedar (evento, site, hóspedes)",
+    "def": "To act as host at an event; or provide computer server space for a website.",
+    "ipa": "/hoʊst/",
+    "ex": "Our company agreed to host the international developer conference at our downtown auditorium next May.",
+    "form": "host",
+    "nat": "Cloud providers allow developers to host web applications across globally distributed edge servers.",
+    "syn": [
+      "stage",
+      "organize"
+    ],
+    "ant": [],
+    "col": [
+      "host a conference",
+      "host a website",
+      "host guests"
+    ],
+    "mis": {
+      "bad": "Brazil hosted to the World Cup in 2014.",
+      "good": "Brazil hosted the World Cup in 2014.",
+      "why": "\"Host\" is a transitive verb in English; do not insert \"to\" after it."
+    },
+    "fam": [
+      "host (noun)"
+    ],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "hover",
+    "w": "hover",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "pairar / passar o cursor do mouse",
+    "def": "To remain in one place in the air; or move mouse cursor over a digital element.",
+    "ipa": "/ˈhʌvər/",
+    "ex": "Users can hover over the interactive chart to reveal exact revenue statistics for each quarter.",
+    "form": "hover",
+    "nat": "A rescue helicopter hovered quietly above the stormy ocean while lowering a rescue basket.",
+    "syn": [
+      "drift",
+      "hang"
+    ],
+    "ant": [],
+    "col": [
+      "hover over",
+      "hover in the air",
+      "hover button"
+    ],
+    "mis": {
+      "bad": "Hover your mouse on the button.",
+      "good": "Hover over the button / hover your mouse over the button.",
+      "why": "The standard technical collocation in software UI is \"hover over [an element]\", not \"on\"."
+    },
+    "fam": [
+      "hover (noun)"
+    ],
+    "topics": [
+      "tech",
+      "travel"
+    ]
+  },
+  {
+    "id": "howl",
+    "w": "howl",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "uivar / bramir (vento) / dar gargalhadas",
+    "def": "To make a long, loud, mournful sound like a dog, or roar with laughter.",
+    "ipa": "/haʊl/",
+    "ex": "Strong arctic winds began to howl through the narrow mountain valleys as darkness fell.",
+    "form": "howl",
+    "nat": "The entire comedy club audience howled with laughter at the comedian's sharp political jokes.",
+    "syn": [
+      "wail",
+      "roar"
+    ],
+    "ant": [],
+    "col": [
+      "wind howls",
+      "howl with laughter",
+      "howl in pain"
+    ],
+    "mis": {
+      "bad": "The wind was screaming outside.",
+      "good": "The wind was howling outside.",
+      "why": "In English, strong winds \"howl\", they do not \"scream\"."
+    },
+    "fam": [
+      "howl (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "hub",
+    "w": "hub",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "centro de conexões / polo estratégico",
+    "def": "The effective center of an activity, region, or network; or central airport.",
+    "ipa": "/hʌb/",
+    "ex": "Singapore has long established itself as the leading financial and technological hub of Southeast Asia.",
+    "form": "hub",
+    "nat": "Atlanta operates the world's busiest passenger airline hub with hundreds of connecting daily flights.",
+    "syn": [
+      "center",
+      "nucleus"
+    ],
+    "ant": [
+      "periphery"
+    ],
+    "col": [
+      "tech hub",
+      "transport hub",
+      "central hub"
+    ],
+    "mis": {
+      "bad": "The city is a polo of technology.",
+      "good": "The city is a tech hub / technology hub.",
+      "why": "False friend! In Portuguese \"polo tecnológico\" translates to English \"tech hub\", not \"polo\"."
+    },
+    "fam": [],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "hue",
+    "w": "hue",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "tonalidade / matiz de cor",
+    "def": "A color or shade; the attribute of a color by virtue of which it is discernible.",
+    "ipa": "/hjuː/",
+    "ex": "The setting autumn sun cast a brilliant golden-orange hue across the calm waters of the bay.",
+    "form": "hue",
+    "nat": "Designers carefully adjusted the color hue on the digital monitor to ensure accurate printing.",
+    "syn": [
+      "shade",
+      "tint"
+    ],
+    "ant": [],
+    "col": [
+      "golden hue",
+      "subtle hue",
+      "hue and cry"
+    ],
+    "mis": {
+      "bad": "The sky had a red color tone (or \"tom\").",
+      "good": "The sky had a reddish hue / tint.",
+      "why": "Use \"hue\" or \"tint\" for specific nuanced color shades, rather than \"color tone\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "tech"
+    ]
+  },
+  {
+    "id": "humid",
+    "w": "humid",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "úmido (clima ou ar abafado)",
+    "def": "Marked by a relatively high level of water vapor in the atmosphere.",
+    "ipa": "/ˈhjuːmɪd/",
+    "ex": "Summer afternoons in Rio de Janeiro can feel intensely hot and humid for foreign visitors.",
+    "form": "humid",
+    "nat": "Air conditioning units not only cool indoor air but also extract excess humid moisture.",
+    "syn": [
+      "muggy",
+      "damp"
+    ],
+    "ant": [
+      "arid",
+      "dry"
+    ],
+    "col": [
+      "hot and humid",
+      "humid climate",
+      "humid air"
+    ],
+    "mis": {
+      "bad": "The weather today is very moist.",
+      "good": "The weather today is very humid.",
+      "why": "Use \"humid\" for air/weather; use \"moist\" for food (cake) or skin."
+    },
+    "fam": [
+      "humidity (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "humiliate",
+    "w": "humiliate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "humilhar / envergonhar publicamente",
+    "def": "To make someone feel ashamed and foolish by injuring their dignity, especially publicly.",
+    "ipa": "/hjuːˈmɪlieɪt/",
+    "ex": "A good engineering manager will never humiliate a junior developer during public pull request reviews.",
+    "form": "humiliate",
+    "nat": "The basketball champion was careful not to humiliate the outmatched amateur opponents on court.",
+    "syn": [
+      "degrade",
+      "mortify"
+    ],
+    "ant": [
+      "honor",
+      "respect"
+    ],
+    "col": [
+      "publicly humiliate",
+      "humiliate someone",
+      "feel humiliated"
+    ],
+    "mis": {
+      "bad": "He humiliated to his colleague in the meeting.",
+      "good": "He humiliated his colleague in the meeting.",
+      "why": "\"Humiliate\" is transitive; do not use \"to\" before the person."
+    },
+    "fam": [
+      "humiliation (noun)",
+      "humiliated (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "hunch",
+    "w": "hunch",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "palpite / intuição / pressentimento",
+    "def": "A feeling or guess based on intuition rather than known fact.",
+    "ipa": "/hʌntʃ/",
+    "ex": "Following a strong hunch, the lead detective re-examined the initial timestamp logs on the server.",
+    "form": "hunch",
+    "nat": "I have a hunch that our international client will approve the project proposal tomorrow.",
+    "syn": [
+      "intuition",
+      "suspicion"
+    ],
+    "ant": [
+      "certainty",
+      "proof"
+    ],
+    "col": [
+      "have a hunch",
+      "follow a hunch",
+      "confirm a hunch"
+    ],
+    "mis": {
+      "bad": "I had a palpitation that something went wrong (meaning feeling/hunch).",
+      "good": "I had a hunch that something had gone wrong.",
+      "why": "False friend! \"Palpitation\" refers to rapid heartbeats; for an intuitive guess, use \"hunch\"."
+    },
+    "fam": [
+      "hunch (verb)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "hurdle",
+    "w": "hurdle",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "obstáculo / barreira / obstáculo de corrida",
+    "def": "An obstacle or difficulty that must be overcome; or a frame jumped in races.",
+    "ipa": "/ˈhɜːrdl/",
+    "ex": "Securing regulatory government approval proved to be the biggest hurdle for the autonomous drone delivery startup.",
+    "form": "hurdle",
+    "nat": "Athletes leaped gracefully over each hurdle along the straight four-hundred-meter Olympic track.",
+    "syn": [
+      "obstacle",
+      "barrier"
+    ],
+    "ant": [
+      "advantage",
+      "aid"
+    ],
+    "col": [
+      "overcome a hurdle",
+      "major hurdle",
+      "first hurdle"
+    ],
+    "mis": {
+      "bad": "We passed over the obstacle hurdle.",
+      "good": "We overcame the hurdle / cleared the hurdle.",
+      "why": "The natural English verbs with \"hurdle\" are \"overcome a hurdle\" or \"clear a hurdle\"."
+    },
+    "fam": [
+      "hurdler (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "hurl",
+    "w": "hurl",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "arremessar com fúria / disparar insultos",
+    "def": "To throw an object with great force; or utter vehement insults at someone.",
+    "ipa": "/hɜːrl/",
+    "ex": "Angry protesters began to hurl stones and smoke canisters at the protective police barricade.",
+    "form": "hurl",
+    "nat": "The frustrated client began to hurl insults at our frontline customer support representative.",
+    "syn": [
+      "fling",
+      "pitch"
+    ],
+    "ant": [],
+    "col": [
+      "hurl insults",
+      "hurl abuse",
+      "hurl stones"
+    ],
+    "mis": {
+      "bad": "He hurled insults to the referee.",
+      "good": "He hurled insults at the referee.",
+      "why": "Always use the preposition \"at\" with \"hurl\": \"hurl insults at someone\"."
+    },
+    "fam": [],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "hustle",
+    "w": "hustle",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "correr atrás / esforçar-se intensamente / apressar",
+    "def": "To force someone to move hurriedly; or work aggressively to achieve commercial success.",
+    "ipa": "/ˈhʌsl/",
+    "ex": "Young entrepreneurs often have to hustle tirelessly every single day to acquire their first hundred customers.",
+    "form": "hustle",
+    "nat": "The basketball coach shouted at the players to hustle back on defense after missed shots.",
+    "syn": [
+      "strive",
+      "hasten"
+    ],
+    "ant": [
+      "slacken",
+      "idle"
+    ],
+    "col": [
+      "hustle and bustle",
+      "daily hustle",
+      "hustle hard"
+    ],
+    "mis": {
+      "bad": "He is making a hustle for money.",
+      "good": "He is hustling to build his business.",
+      "why": "Use \"hustle\" as a verb directly: \"hustle to do something\". Note silent \"t\" (/ˈhʌsl/)."
+    },
+    "fam": [
+      "hustle (noun)",
+      "hustler (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "hybrid",
+    "w": "hybrid",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "híbrido / misto",
+    "def": "Of mixed character or composed of mixed parts; combining two different technologies.",
+    "ipa": "/ˈhaɪbrɪd/",
+    "ex": "Most global technology organizations now operate under a permanent hybrid remote-work policy for engineering staff.",
+    "form": "hybrid",
+    "nat": "Hybrid electric vehicles combine an internal combustion engine with an electric battery propulsion motor.",
+    "syn": [
+      "composite",
+      "mixed"
+    ],
+    "ant": [
+      "pure",
+      "homogeneous"
+    ],
+    "col": [
+      "hybrid model",
+      "hybrid vehicle",
+      "hybrid cloud"
+    ],
+    "mis": {
+      "bad": "We adopt an hybrid system for meetings.",
+      "good": "We adopt a hybrid system for meetings.",
+      "why": "The \"h\" in \"hybrid\" is pronounced (/ˈhaɪbrɪd/), so use article \"a\", not \"an\"."
+    },
+    "fam": [
+      "hybrid (noun)",
+      "hybridize (verb)"
+    ],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "hygienic",
+    "w": "hygienic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "higiênico / asséptico",
+    "def": "Conducive to maintaining health and preventing disease, especially through cleanliness.",
+    "ipa": "/haɪˈdʒenɪk/",
+    "ex": "Maintaining strictly hygienic kitchen conditions is essential for commercial restaurants to prevent foodborne bacterial contamination.",
+    "form": "hygienic",
+    "nat": "Stainless steel medical instruments must be kept completely hygienic in sterilized surgical trays.",
+    "syn": [
+      "sanitary",
+      "clean"
+    ],
+    "ant": [
+      "unhygienic",
+      "insanitary"
+    ],
+    "col": [
+      "hygienic conditions",
+      "hygienic practices",
+      "strictly hygienic"
+    ],
+    "mis": {
+      "bad": "The restaurant was very clean and hygienical.",
+      "good": "The restaurant was very clean and hygienic.",
+      "why": "The standard English adjective is \"hygienic\", never \"hygienical\"."
+    },
+    "fam": [
+      "hygiene (noun)",
+      "hygienically (adv)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  }
+]

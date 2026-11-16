@@ -1,0 +1,5100 @@
+[
+  {
+    "id": "earnings",
+    "w": "earnings",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ganhos / rendimentos",
+    "def": "The money obtained from working or from investing capital.",
+    "ipa": "/ˈɜːrnɪŋz/",
+    "ex": "The software company reported record quarterly earnings during the investor conference call.",
+    "form": "earnings",
+    "nat": "Inflation has significantly reduced average real earnings this year.",
+    "syn": [
+      "income",
+      "revenue"
+    ],
+    "ant": [
+      "losses"
+    ],
+    "col": [
+      "quarterly earnings",
+      "average earnings",
+      "earnings report"
+    ],
+    "mis": {
+      "bad": "He invested all his earning in stocks.",
+      "good": "He invested all his earnings in stocks.",
+      "why": "\"Earnings\" is always plural when referring to income or company profits."
+    },
+    "fam": [
+      "earn (verb)",
+      "earner (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "eccentric",
+    "w": "eccentric",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "excêntrico / peculiar",
+    "def": "Unconventional and slightly strange in behavior or appearance.",
+    "ipa": "/ɪkˈsentrɪk/",
+    "ex": "Our lead architect has an eccentric habit of coding only late at night.",
+    "form": "eccentric",
+    "nat": "His eccentric wardrobe always attracted attention at design conferences.",
+    "syn": [
+      "quirky",
+      "unconventional"
+    ],
+    "ant": [
+      "conventional",
+      "ordinary"
+    ],
+    "col": [
+      "eccentric behavior",
+      "eccentric habit",
+      "somewhat eccentric"
+    ],
+    "mis": {
+      "bad": "He is an eccentric person about his food.",
+      "good": "He is very eccentric about his food.",
+      "why": "Use \"eccentric about\" or simply describe the behavior without redundant words."
+    },
+    "fam": [
+      "eccentricity (noun)",
+      "eccentrically (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "echo",
+    "w": "echo",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "ecoar / repercutir",
+    "def": "To repeat sound by reflection, or closely imitate or reflect an idea.",
+    "ipa": "/ˈekoʊ/",
+    "ex": "Her thoughtful recommendations echoed throughout the executive boardroom during the entire meeting.",
+    "form": "echoed",
+    "nat": "The loud footsteps echoed in the empty corridor.",
+    "syn": [
+      "resonate",
+      "reflect"
+    ],
+    "ant": [],
+    "col": [
+      "echo off the walls",
+      "loudly echo",
+      "echo concerns"
+    ],
+    "mis": {
+      "bad": "The sound echoed on the walls of the room.",
+      "good": "The sound echoed off the walls of the room.",
+      "why": "Sound echoes \"off\" or \"around\" a surface or space, not \"on\"."
+    },
+    "fam": [
+      "echo (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "daily"
+    ]
+  },
+  {
+    "id": "eclipse",
+    "w": "eclipse",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "eclipsar / ofuscar",
+    "def": "To obscure the light from, or surpass in importance or prominence.",
+    "ipa": "/ɪˈklɪps/",
+    "ex": "The new smartphone launch will easily eclipse all previous sales milestones this quarter.",
+    "form": "eclipse",
+    "nat": "Her athletic achievements eventually eclipsed those of her older sister.",
+    "syn": [
+      "overshadow",
+      "surpass"
+    ],
+    "ant": [],
+    "col": [
+      "eclipse competitors",
+      "totally eclipse",
+      "solar eclipse"
+    ],
+    "mis": {
+      "bad": "The news eclipsed all other informations today.",
+      "good": "The news eclipsed all other news today.",
+      "why": "\"Information\" is uncountable in English; use \"other news\" or \"pieces of information\"."
+    },
+    "fam": [
+      "eclipse (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "science"
+    ]
+  },
+  {
+    "id": "economical",
+    "w": "economical",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "econômico / que economiza",
+    "def": "Giving good value or return in relation to money, time, or effort spent.",
+    "ipa": "/ˌiːkəˈnɑːmɪkl/",
+    "ex": "Riding a bicycle to the office is both healthy and highly economical.",
+    "form": "economical",
+    "nat": "Electric heat pumps provide an economical way to warm your home.",
+    "syn": [
+      "cost-effective",
+      "frugal"
+    ],
+    "ant": [
+      "wasteful",
+      "expensive"
+    ],
+    "col": [
+      "economical car",
+      "economical way",
+      "highly economical"
+    ],
+    "mis": {
+      "bad": "This hybrid car is very economic on fuel.",
+      "good": "This hybrid car is very economical on fuel.",
+      "why": "False friend! \"Economic\" relates to the economy; \"economical\" means saving money or resources."
+    },
+    "fam": [
+      "economize (verb)",
+      "economy (noun)"
+    ],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "edge",
+    "w": "edge",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "vantagem / borda",
+    "def": "An advantage over competitors, or the outside limit of an object.",
+    "ipa": "/edʒ/",
+    "ex": "Fluent English gives job candidates a distinct competitive edge in international tech interviews.",
+    "form": "edge",
+    "nat": "Be careful not to leave your glass near the table edge.",
+    "syn": [
+      "advantage",
+      "border"
+    ],
+    "ant": [
+      "disadvantage"
+    ],
+    "col": [
+      "competitive edge",
+      "cutting edge",
+      "on the edge"
+    ],
+    "mis": {
+      "bad": "Our company has an edge above other competitors.",
+      "good": "Our company has an edge over other competitors.",
+      "why": "Use the preposition \"over\" with \"edge\" when expressing an advantage over someone."
+    },
+    "fam": [
+      "edgy (adj)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "edible",
+    "w": "edible",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "comestível",
+    "def": "Fit or suitable to be eaten; not toxic or poisonous.",
+    "ipa": "/ˈedəbl/",
+    "ex": "Only collect wild mushrooms if you are completely certain that they are edible.",
+    "form": "edible",
+    "nat": "The cake was decorated with delicate edible flowers.",
+    "syn": [
+      "consumable",
+      "eatable"
+    ],
+    "ant": [
+      "inedible",
+      "poisonous"
+    ],
+    "col": [
+      "edible plants",
+      "safe and edible",
+      "edible oils"
+    ],
+    "mis": {
+      "bad": "Are these berries eatable or toxic?",
+      "good": "Are these berries edible or toxic?",
+      "why": "While \"eatable\" exists, \"edible\" is the standard word for safe to consume."
+    },
+    "fam": [
+      "inedible (adj)"
+    ],
+    "topics": [
+      "health",
+      "travel"
+    ]
+  },
+  {
+    "id": "eerie",
+    "w": "eerie",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "estranho / misterioso / sinistro",
+    "def": "Strange and frightening; suggesting supernatural influence.",
+    "ipa": "/ˈɪri/",
+    "ex": "An eerie silence settled over the deserted train platform late at night.",
+    "form": "eerie",
+    "nat": "The abandoned factory looked eerie under the pale moonlight.",
+    "syn": [
+      "creepy",
+      "spooky"
+    ],
+    "ant": [
+      "comforting",
+      "ordinary"
+    ],
+    "col": [
+      "eerie silence",
+      "eerie glow",
+      "eerie feeling"
+    ],
+    "mis": {
+      "bad": "The street was with an eerie atmosphere.",
+      "good": "The street had an eerie atmosphere.",
+      "why": "Use \"had an eerie atmosphere\" rather than \"was with\"."
+    },
+    "fam": [
+      "eerily (adv)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "effective",
+    "w": "effective",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "eficaz / eficiente",
+    "def": "Successful in producing a desired or intended result.",
+    "ipa": "/ɪˈfektɪv/",
+    "ex": "Regular spaced repetition is an effective technique for memorizing long vocabulary lists.",
+    "form": "effective",
+    "nat": "The new security policy proved effective within its first month.",
+    "syn": [
+      "efficacious",
+      "successful"
+    ],
+    "ant": [
+      "ineffective",
+      "useless"
+    ],
+    "col": [
+      "effective method",
+      "cost-effective",
+      "highly effective"
+    ],
+    "mis": {
+      "bad": "This medicine was very efficient for my headache.",
+      "good": "This medicine was very effective for my headache.",
+      "why": "\"Effective\" means achieving the desired result; \"efficient\" means doing it without wasting time/effort."
+    },
+    "fam": [
+      "effectively (adv)",
+      "effectiveness (noun)"
+    ],
+    "topics": [
+      "health",
+      "work"
+    ]
+  },
+  {
+    "id": "effortless",
+    "w": "effortless",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "fácil / que parece sem esforço",
+    "def": "Requiring no physical or mental exertion; achieved with admirable ease.",
+    "ipa": "/ˈefərtləs/",
+    "ex": "Her presentation flowed so smoothly that speaking in public seemed completely effortless.",
+    "form": "effortless",
+    "nat": "With enough practice, switching keyboard shortcuts becomes almost effortless.",
+    "syn": [
+      "easy",
+      "natural"
+    ],
+    "ant": [
+      "difficult",
+      "laborious"
+    ],
+    "col": [
+      "effortless grace",
+      "seem effortless",
+      "make it look effortless"
+    ],
+    "mis": {
+      "bad": "He made the speech look very effortlessly.",
+      "good": "He made the speech look very effortless.",
+      "why": "After linking verbs like \"look\" or \"seem\", use the adjective \"effortless\", not an adverb."
+    },
+    "fam": [
+      "effortlessly (adv)",
+      "effort (noun)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "ego",
+    "w": "ego",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ego / autoestima",
+    "def": "A person's sense of self-esteem or self-importance.",
+    "ipa": "/ˈiːɡoʊ/",
+    "ex": "A good team leader keeps personal ego out of technical architecture debates.",
+    "form": "ego",
+    "nat": "Criticism can damage a junior developer's fragile ego.",
+    "syn": [
+      "pride",
+      "self-esteem"
+    ],
+    "ant": [
+      "humility",
+      "modesty"
+    ],
+    "col": [
+      "fragile ego",
+      "huge ego",
+      "boost someone's ego"
+    ],
+    "mis": {
+      "bad": "He has a very big egoism.",
+      "good": "He has a very big ego.",
+      "why": "\"Egoism\" is philosophical selfishness; use \"ego\" for self-esteem or pride."
+    },
+    "fam": [
+      "egotistical (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "elastic",
+    "w": "elastic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "elástico / flexível",
+    "def": "Able to resume normal shape after contraction or distortion; flexible and adaptable.",
+    "ipa": "/ɪˈlæstɪk/",
+    "ex": "Cloud computing allows companies to scale servers quickly using an elastic infrastructure model.",
+    "form": "elastic",
+    "nat": "The waist of these running pants is made from elastic fabric.",
+    "syn": [
+      "flexible",
+      "adaptable"
+    ],
+    "ant": [
+      "rigid",
+      "inflexible"
+    ],
+    "col": [
+      "elastic demand",
+      "elastic waistband",
+      "elastic limit"
+    ],
+    "mis": {
+      "bad": "Our budget needs to be plastic for changes.",
+      "good": "Our budget needs to be elastic / flexible for changes.",
+      "why": "Do not say \"plastic\" for flexibility in English; use \"elastic\" or \"flexible\"."
+    },
+    "fam": [
+      "elasticity (noun)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "elderly",
+    "w": "elderly",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "idoso / de idade",
+    "def": "A polite word for people who are old.",
+    "ipa": "/ˈeldərli/",
+    "ex": "Volunteers delivered warm meals to elderly residents who could not leave their homes.",
+    "form": "elderly",
+    "nat": "The bus driver waited patiently for the elderly passenger to sit down.",
+    "syn": [
+      "aged",
+      "senior"
+    ],
+    "ant": [
+      "young",
+      "youthful"
+    ],
+    "col": [
+      "elderly people",
+      "elderly relatives",
+      "frail elderly"
+    ],
+    "mis": {
+      "bad": "There were several elderlies waiting in the clinic.",
+      "good": "There were several elderly people waiting in the clinic.",
+      "why": "\"Elderly\" is an adjective; use \"elderly people\" or \"the elderly\", not \"elderlies\"."
+    },
+    "fam": [
+      "elder (noun)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "elegant",
+    "w": "elegant",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "elegante / refinado",
+    "def": "Pleasingly graceful and stylish in appearance or manner; ingeniously simple.",
+    "ipa": "/ˈelɪɡənt/",
+    "ex": "The software architect designed an elegant solution that required only twenty lines of code.",
+    "form": "elegant",
+    "nat": "She wore an elegant dark suit to the final interview.",
+    "syn": [
+      "graceful",
+      "sophisticated"
+    ],
+    "ant": [
+      "clumsy",
+      "crude"
+    ],
+    "col": [
+      "elegant solution",
+      "elegant design",
+      "simple yet elegant"
+    ],
+    "mis": {
+      "bad": "She solved the bug very elegant.",
+      "good": "She solved the bug very elegantly.",
+      "why": "Use the adverb \"elegantly\" to modify verbs."
+    },
+    "fam": [
+      "elegance (noun)",
+      "elegantly (adv)"
+    ],
+    "topics": [
+      "tech",
+      "culture"
+    ]
+  },
+  {
+    "id": "element",
+    "w": "element",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "elemento / componente",
+    "def": "An essential or characteristic part of something abstract or physical.",
+    "ipa": "/ˈelɪmənt/",
+    "ex": "Clear communication between team members is a vital element of any successful project.",
+    "form": "element",
+    "nat": "Phosphorus is a chemical element essential for cellular energy.",
+    "syn": [
+      "component",
+      "factor"
+    ],
+    "ant": [],
+    "col": [
+      "key element",
+      "essential element",
+      "element of surprise"
+    ],
+    "mis": {
+      "bad": "Trust is an important element from a good relationship.",
+      "good": "Trust is an important element of a good relationship.",
+      "why": "Use \"element of\", not \"element from\"."
+    },
+    "fam": [
+      "elementary (adj)"
+    ],
+    "topics": [
+      "science",
+      "work"
+    ]
+  },
+  {
+    "id": "elevate",
+    "w": "elevate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "elevar / promover",
+    "def": "To raise to a more important or higher status, level, or position.",
+    "ipa": "/ˈelɪveɪt/",
+    "ex": "Completing high-profile cloud projects helped elevate her standing within the global organization.",
+    "form": "elevate",
+    "nat": "Regular cardio exercise will elevate your heart rate safely.",
+    "syn": [
+      "raise",
+      "promote"
+    ],
+    "ant": [
+      "lower",
+      "demote"
+    ],
+    "col": [
+      "elevate status",
+      "elevate heart rate",
+      "elevate the discussion"
+    ],
+    "mis": {
+      "bad": "The manager elevated him for senior engineer.",
+      "good": "The manager elevated him to senior engineer.",
+      "why": "Use \"elevate to [a title or rank]\", not \"for\"."
+    },
+    "fam": [
+      "elevation (noun)",
+      "elevator (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "eligible",
+    "w": "eligible",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "elegível / qualificado",
+    "def": "Having the right qualifications or satisfying the necessary conditions.",
+    "ipa": "/ˈelɪdʒəbl/",
+    "ex": "Employees who complete six months of service become eligible for annual bonus payments.",
+    "form": "eligible",
+    "nat": "Only registered voters are eligible to participate in the primary election.",
+    "syn": [
+      "qualified",
+      "entitled"
+    ],
+    "ant": [
+      "ineligible",
+      "disqualified"
+    ],
+    "col": [
+      "eligible for",
+      "eligible to vote",
+      "fully eligible"
+    ],
+    "mis": {
+      "bad": "He is eligible to the promotion after one year.",
+      "good": "He is eligible for the promotion after one year.",
+      "why": "Use \"eligible for + noun\" and \"eligible to + verb\"."
+    },
+    "fam": [
+      "eligibility (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "eliminate",
+    "w": "eliminate",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "eliminar / erradicar",
+    "def": "To completely remove or get rid of something undesirable.",
+    "ipa": "/ɪˈlɪmɪneɪt/",
+    "ex": "Automating the data pipeline will eliminate manual entry errors across our billing system.",
+    "form": "eliminate",
+    "nat": "The team was eliminated in the tournament semi-finals.",
+    "syn": [
+      "remove",
+      "eradicate"
+    ],
+    "ant": [
+      "create",
+      "introduce"
+    ],
+    "col": [
+      "eliminate waste",
+      "eliminate errors",
+      "completely eliminate"
+    ],
+    "mis": {
+      "bad": "We need to eliminate of these unnecessary meetings.",
+      "good": "We need to eliminate these unnecessary meetings.",
+      "why": "\"Eliminate\" is transitive; do not insert \"of\" after it."
+    },
+    "fam": [
+      "elimination (noun)"
+    ],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "elite",
+    "w": "elite",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "de elite / de ponta",
+    "def": "Representing the best, highest-ranking, or most powerful group of people.",
+    "ipa": "/eɪˈliːt/",
+    "ex": "The company recruited elite software engineers from top universities around the world.",
+    "form": "elite",
+    "nat": "Elite marathon runners maintain an astonishing pace throughout the entire race.",
+    "syn": [
+      "top-tier",
+      "prestigious"
+    ],
+    "ant": [
+      "ordinary",
+      "inferior"
+    ],
+    "col": [
+      "elite athletes",
+      "elite universities",
+      "elite squad"
+    ],
+    "mis": {
+      "bad": "He belongs to an elitist group of scientists.",
+      "good": "He belongs to an elite group of scientists.",
+      "why": "\"Elitist\" carries a negative snobbish tone; \"elite\" simply means top-ranking or highest quality."
+    },
+    "fam": [
+      "elitism (noun)"
+    ],
+    "topics": [
+      "work",
+      "culture"
+    ]
+  },
+  {
+    "id": "eloquent",
+    "w": "eloquent",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "eloquente / bem articulado",
+    "def": "Fluent or persuasive in speaking or writing clearly and expressively.",
+    "ipa": "/ˈeləkwənt/",
+    "ex": "The young lawyer gave an eloquent closing argument that deeply moved the jury.",
+    "form": "eloquent",
+    "nat": "Her silence was an eloquent reminder of how disappointed she felt.",
+    "syn": [
+      "articulate",
+      "persuasive"
+    ],
+    "ant": [
+      "inarticulate",
+      "hesitant"
+    ],
+    "col": [
+      "eloquent speech",
+      "eloquent defense",
+      "highly eloquent"
+    ],
+    "mis": {
+      "bad": "He made an eloquent speech with many words.",
+      "good": "He gave an eloquent speech.",
+      "why": "Say \"give a speech\" rather than \"make a speech\", and avoid redundancy with \"eloquent\"."
+    },
+    "fam": [
+      "eloquence (noun)",
+      "eloquently (adv)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "elusive",
+    "w": "elusive",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "esquivo / difícil de capturar ou definir",
+    "def": "Difficult to find, catch, achieve, or remember clearly.",
+    "ipa": "/ɪˈluːsɪv/",
+    "ex": "Finding an elusive race condition bug took the senior engineering team several days.",
+    "form": "elusive",
+    "nat": "True work-life balance often remains elusive for startup founders.",
+    "syn": [
+      "evasive",
+      "intangible"
+    ],
+    "ant": [
+      "accessible",
+      "attainable"
+    ],
+    "col": [
+      "remain elusive",
+      "elusive target",
+      "elusive concept"
+    ],
+    "mis": {
+      "bad": "The solution remained elusive for our entire team.",
+      "good": "The solution remained elusive to our entire team.",
+      "why": "Use \"elusive to [someone]\", not \"for\"."
+    },
+    "fam": [
+      "elude (verb)"
+    ],
+    "topics": [
+      "abstract",
+      "tech"
+    ]
+  },
+  {
+    "id": "embargo",
+    "w": "embargo",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "embargo / restrição comercial",
+    "def": "An official ban on trade or other commercial activity with a particular country.",
+    "ipa": "/ɪmˈbɑːrɡoʊ/",
+    "ex": "Several European nations placed a strict trade embargo on the hostile foreign regime.",
+    "form": "embargo",
+    "nat": "The publication embargo lifts tomorrow morning at eight o'clock sharp.",
+    "syn": [
+      "ban",
+      "restriction"
+    ],
+    "ant": [],
+    "col": [
+      "trade embargo",
+      "arms embargo",
+      "lift an embargo"
+    ],
+    "mis": {
+      "bad": "The government put an embargo in imports.",
+      "good": "The government placed an embargo on imports.",
+      "why": "Use the collocation \"place an embargo on\", not \"put an embargo in\"."
+    },
+    "fam": [
+      "embargo (verb)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "embrace",
+    "w": "embrace",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "abraçar (ideia, mudança) / acolher",
+    "def": "To accept or support a belief, theory, or change willingly and enthusiastically.",
+    "ipa": "/ɪmˈbreɪs/",
+    "ex": "Modern tech companies must embrace remote work to attract the best global talent.",
+    "form": "embrace",
+    "nat": "The two friends embraced warmly at the arrivals gate.",
+    "syn": [
+      "adopt",
+      "welcome"
+    ],
+    "ant": [
+      "reject",
+      "resist"
+    ],
+    "col": [
+      "embrace change",
+      "embrace technology",
+      "warmly embrace"
+    ],
+    "mis": {
+      "bad": "Our company must embrace to the digital transformation.",
+      "good": "Our company must embrace digital transformation.",
+      "why": "\"Embrace\" is transitive; do not place \"to\" after the verb."
+    },
+    "fam": [
+      "embrace (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "eminent",
+    "w": "eminent",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "eminente / ilustre",
+    "def": "Famous and respected within a particular sphere, profession, or discipline.",
+    "ipa": "/ˈemɪnənt/",
+    "ex": "The keynote address was delivered by an eminent professor of artificial intelligence.",
+    "form": "eminent",
+    "nat": "She studied under an eminent neurosurgeon at Johns Hopkins Hospital.",
+    "syn": [
+      "distinguished",
+      "renowned"
+    ],
+    "ant": [
+      "unknown",
+      "obscure"
+    ],
+    "col": [
+      "eminent scholar",
+      "eminent scientist",
+      "eminent authority"
+    ],
+    "mis": {
+      "bad": "The collapse of the bridge was eminent.",
+      "good": "The collapse of the bridge was imminent.",
+      "why": "Do not confuse \"eminent\" (distinguished) with \"imminent\" (about to happen)."
+    },
+    "fam": [
+      "eminence (noun)"
+    ],
+    "topics": [
+      "science",
+      "work"
+    ]
+  },
+  {
+    "id": "emit",
+    "w": "emit",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "emitir (luz, som, gás)",
+    "def": "To discharge or produce something such as gas, radiation, or sound.",
+    "ipa": "/iˈmɪt/",
+    "ex": "Older diesel buses emit significantly more harmful particles than modern electric vehicles.",
+    "form": "emit",
+    "nat": "The device will emit a high-pitched beep when battery voltage drops.",
+    "syn": [
+      "release",
+      "discharge"
+    ],
+    "ant": [
+      "absorb"
+    ],
+    "col": [
+      "emit carbon",
+      "emit radiation",
+      "emit a sound"
+    ],
+    "mis": {
+      "bad": "The engine emits out dangerous fumes.",
+      "good": "The engine emits dangerous fumes.",
+      "why": "Do not add \"out\" after \"emit\"; the verb already implies outward release."
+    },
+    "fam": [
+      "emission (noun)",
+      "emitter (noun)"
+    ],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "emotion",
+    "w": "emotion",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "emoção / sentimento",
+    "def": "A strong feeling deriving from one's circumstances, mood, or relationships with others.",
+    "ipa": "/ɪˈmoʊʃn/",
+    "ex": "His trembling voice was filled with deep emotion as he thanked his parents.",
+    "form": "emotion",
+    "nat": "It is normal to experience a wide range of emotions during difficult transitions.",
+    "syn": [
+      "feeling",
+      "sentiment"
+    ],
+    "ant": [
+      "apathy"
+    ],
+    "col": [
+      "intense emotion",
+      "express emotion",
+      "hide your emotions"
+    ],
+    "mis": {
+      "bad": "He could not control his emotion during the speech.",
+      "good": "He could not control his emotions during the speech.",
+      "why": "When referring to someone's internal feelings in general, use the plural \"emotions\"."
+    },
+    "fam": [
+      "emotional (adj)",
+      "emotionally (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "emotional",
+    "w": "emotional",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "emocional / emotivo",
+    "def": "Relating to a person's feelings or the expression of feelings.",
+    "ipa": "/ɪˈmoʊʃənl/",
+    "ex": "Moving to a new country was an emotional journey for our whole family.",
+    "form": "emotional",
+    "nat": "She offered valuable emotional support while I recovered from surgery.",
+    "syn": [
+      "affective",
+      "moving"
+    ],
+    "ant": [
+      "unemotional",
+      "cold"
+    ],
+    "col": [
+      "emotional support",
+      "emotional intelligence",
+      "highly emotional"
+    ],
+    "mis": {
+      "bad": "I felt very emotional with the ending of the book.",
+      "good": "I felt very emotional about / at the ending of the book.",
+      "why": "Use \"emotional about\" or \"emotional at\", not \"with\"."
+    },
+    "fam": [
+      "emotion (noun)",
+      "emotionally (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "health"
+    ]
+  },
+  {
+    "id": "enable",
+    "w": "enable",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "habilitar / possibilitar",
+    "def": "To give someone the authority or means to do something; make possible.",
+    "ipa": "/ɪˈneɪbl/",
+    "ex": "This new software update will enable remote teams to collaborate seamlessly in real time.",
+    "form": "enable",
+    "nat": "Two-factor authentication enables users to protect their accounts against fraud.",
+    "syn": [
+      "allow",
+      "permit"
+    ],
+    "ant": [
+      "prevent",
+      "disable"
+    ],
+    "col": [
+      "enable users to",
+      "enable innovation",
+      "enable features"
+    ],
+    "mis": {
+      "bad": "This tool enables to export files to PDF.",
+      "good": "This tool enables users to export files to PDF.",
+      "why": "\"Enable\" requires a direct object: \"enable [someone] to [do something]\"."
+    },
+    "fam": [
+      "enabled (adj)",
+      "enabler (noun)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "enact",
+    "w": "enact",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "promulgar / decretar",
+    "def": "To make a bill or proposal into law; or put into practice.",
+    "ipa": "/ɪnˈækt/",
+    "ex": "Parliament voted overwhelmingly to enact strict regulations on artificial intelligence consumer products.",
+    "form": "enact",
+    "nat": "The school board enacted a comprehensive anti-bullying policy last semester.",
+    "syn": [
+      "pass",
+      "legislate"
+    ],
+    "ant": [
+      "repeal",
+      "revoke"
+    ],
+    "col": [
+      "enact legislation",
+      "enact policies",
+      "enact laws"
+    ],
+    "mis": {
+      "bad": "The government enacted to a new privacy law.",
+      "good": "The government enacted a new privacy law.",
+      "why": "\"Enact\" is a transitive verb; omit \"to\"."
+    },
+    "fam": [
+      "enactment (noun)"
+    ],
+    "topics": [
+      "business",
+      "security"
+    ]
+  },
+  {
+    "id": "enchant",
+    "w": "enchant",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "encantar / fascinar",
+    "def": "To fill someone with great delight or charm; or put under a magical spell.",
+    "ipa": "/ɪnˈtʃænt/",
+    "ex": "The historic architecture of the ancient capital will enchant visitors from every nation.",
+    "form": "enchant",
+    "nat": "Her lovely singing voice enchanted the entire audience last night.",
+    "syn": [
+      "charm",
+      "captivate"
+    ],
+    "ant": [
+      "repel",
+      "bore"
+    ],
+    "col": [
+      "enchant visitors",
+      "thoroughly enchant",
+      "enchanting melody"
+    ],
+    "mis": {
+      "bad": "I was very enchanted with the old town.",
+      "good": "I was enchanted by the old town.",
+      "why": "Use the preposition \"by\" when passive: \"enchanted by something\"."
+    },
+    "fam": [
+      "enchanting (adj)",
+      "enchantment (noun)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "enclose",
+    "w": "enclose",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "anexar / cercar",
+    "def": "To surround on all sides, or place something inside an envelope or package.",
+    "ipa": "/ɪnˈkloʊz/",
+    "ex": "Please sign the contract and return it in the enclosed postage-paid envelope.",
+    "form": "enclosed",
+    "nat": "A high wooden fence encloses the private garden behind the house.",
+    "syn": [
+      "surround",
+      "insert"
+    ],
+    "ant": [
+      "open",
+      "expose"
+    ],
+    "col": [
+      "enclose a document",
+      "high fence encloses",
+      "enclosed space"
+    ],
+    "mis": {
+      "bad": "Please find enclose my resume for your review.",
+      "good": "Please find enclosed my resume for your review.",
+      "why": "Use the past participle \"enclosed\" in the standard business formula \"Please find enclosed\"."
+    },
+    "fam": [
+      "enclosure (noun)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "encompass",
+    "w": "encompass",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "abranger / englobar",
+    "def": "To include or contain a wide range of things or ideas.",
+    "ipa": "/ɪnˈkʌmpəs/",
+    "ex": "The computer science curriculum will encompass machine learning, cybersecurity, and cloud architecture.",
+    "form": "encompass",
+    "nat": "Her duties encompass managing client relationships and overseeing product development.",
+    "syn": [
+      "include",
+      "span"
+    ],
+    "ant": [
+      "exclude"
+    ],
+    "col": [
+      "encompass a wide range",
+      "fully encompass",
+      "encompass all aspects"
+    ],
+    "mis": {
+      "bad": "The training encompasses about five different programming languages.",
+      "good": "The training encompasses five different programming languages.",
+      "why": "\"Encompass\" is transitive and does not take \"about\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "science"
+    ]
+  },
+  {
+    "id": "encounter",
+    "w": "encounter",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "deparar-se com / encontrar",
+    "def": "To unexpectedly experience or be faced with something difficult or hostile.",
+    "ipa": "/ɪnˈkaʊntər/",
+    "ex": "Software developers frequently encounter mysterious bugs when migrating code to new cloud platforms.",
+    "form": "encounter",
+    "nat": "We encountered severe turbulence during our flight across the Andes.",
+    "syn": [
+      "confront",
+      "face"
+    ],
+    "ant": [
+      "avoid",
+      "evade"
+    ],
+    "col": [
+      "encounter problems",
+      "encounter resistance",
+      "first encounter"
+    ],
+    "mis": {
+      "bad": "I encountered with an error while downloading the file.",
+      "good": "I encountered an error while downloading the file.",
+      "why": "\"Encounter\" is transitive in English; do not add \"with\"."
+    },
+    "fam": [
+      "encounter (noun)"
+    ],
+    "topics": [
+      "tech",
+      "travel"
+    ]
+  },
+  {
+    "id": "encourage",
+    "w": "encourage",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "incentivar / encorajar",
+    "def": "To give support, confidence, or hope to someone.",
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "ex": "Our engineering manager always encourages developers to learn new tools and frameworks.",
+    "form": "encourages",
+    "nat": "Her parents encouraged her to pursue a career in aerospace engineering.",
+    "syn": [
+      "support",
+      "inspire"
+    ],
+    "ant": [
+      "discourage",
+      "dissuade"
+    ],
+    "col": [
+      "encourage someone to",
+      "strongly encourage",
+      "encourage growth"
+    ],
+    "mis": {
+      "bad": "My manager encouraged me doing the English course.",
+      "good": "My manager encouraged me to do the English course.",
+      "why": "Use the pattern \"encourage someone to + base verb\", not \"-ing\"."
+    },
+    "fam": [
+      "encouragement (noun)",
+      "encouraging (adj)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ]
+  },
+  {
+    "id": "endeavor",
+    "w": "endeavor",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "esforço / empenho / empreitada",
+    "def": "An attempt to achieve a goal; earnest and conscientious effort.",
+    "ipa": "/ɪnˈdevər/",
+    "ex": "Launching an electric vehicle startup is an expensive and complex technological endeavor.",
+    "form": "endeavor",
+    "nat": "We wish you every success in all your future artistic endeavors.",
+    "syn": [
+      "undertaking",
+      "effort"
+    ],
+    "ant": [
+      "inactivity"
+    ],
+    "col": [
+      "scientific endeavor",
+      "future endeavors",
+      "worthwhile endeavor"
+    ],
+    "mis": {
+      "bad": "We made an endeavor for finish before Friday.",
+      "good": "We made an endeavor to finish before Friday.",
+      "why": "Use \"endeavor to + base verb\", not \"for + verb\"."
+    },
+    "fam": [
+      "endeavor (verb)"
+    ],
+    "topics": [
+      "business",
+      "abstract"
+    ]
+  },
+  {
+    "id": "endow",
+    "w": "endow",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "dotar / beneficiar",
+    "def": "To provide with a quality, ability, or asset, or establish with funds.",
+    "ipa": "/ɪnˈdaʊ/",
+    "ex": "The prestigious tech university was generously endowed by several prominent Silicon Valley entrepreneurs.",
+    "form": "endowed",
+    "nat": "Nature has endowed the region with breathtaking scenic beauty.",
+    "syn": [
+      "fund",
+      "bestow"
+    ],
+    "ant": [
+      "strip",
+      "deprive"
+    ],
+    "col": [
+      "heavily endowed",
+      "endow a chair",
+      "endowed with talent"
+    ],
+    "mis": {
+      "bad": "He was endowed of extraordinary mathematical talent.",
+      "good": "He was endowed with extraordinary mathematical talent.",
+      "why": "Always use the preposition \"with\" after \"endowed\": \"endowed with [talent/wealth]\"."
+    },
+    "fam": [
+      "endowment (noun)"
+    ],
+    "topics": [
+      "finance",
+      "culture"
+    ]
+  },
+  {
+    "id": "endure",
+    "w": "endure",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "suportar / aguentar / perdurar",
+    "def": "To suffer patiently something painful or difficult, or remain in existence.",
+    "ipa": "/ɪnˈdʊr/",
+    "ex": "Passengers had to endure four hours of delays during the sudden airport power outage.",
+    "form": "endure",
+    "nat": "Their friendship has endured through thirty years of changing circumstances.",
+    "syn": [
+      "tolerate",
+      "withstand"
+    ],
+    "ant": [
+      "perish",
+      "fade"
+    ],
+    "col": [
+      "endure pain",
+      "endure hardship",
+      "endure for years"
+    ],
+    "mis": {
+      "bad": "I cannot endure with this continuous loud drilling.",
+      "good": "I cannot endure this continuous loud drilling.",
+      "why": "\"Endure\" is a transitive verb; do not add \"with\" after it."
+    },
+    "fam": [
+      "endurance (noun)",
+      "enduring (adj)"
+    ],
+    "topics": [
+      "daily",
+      "abstract"
+    ]
+  },
+  {
+    "id": "energetic",
+    "w": "energetic",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "enérgico / cheio de energia",
+    "def": "Showing or involving great activity, enthusiasm, or vitality.",
+    "ipa": "/ˌenərˈdʒetɪk/",
+    "ex": "The fitness trainer led an energetic morning workout that motivated the entire group.",
+    "form": "energetic",
+    "nat": "Puppies are naturally energetic and need plenty of space to run.",
+    "syn": [
+      "active",
+      "lively"
+    ],
+    "ant": [
+      "lethargic",
+      "exhausted"
+    ],
+    "col": [
+      "energetic person",
+      "energetic pace",
+      "highly energetic"
+    ],
+    "mis": {
+      "bad": "He is an energic worker who never slows down.",
+      "good": "He is an energetic worker who never slows down.",
+      "why": "The standard English adjective is \"energetic\", not \"energic\"."
+    },
+    "fam": [
+      "energy (noun)",
+      "energetically (adv)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "engine",
+    "w": "engine",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "motor (carro, avião) / mecanismo",
+    "def": "A machine with moving parts that converts power into motion, or software engine.",
+    "ipa": "/ˈendʒɪn/",
+    "ex": "The aircraft maintenance crew checked the left jet engine thoroughly before departure.",
+    "form": "engine",
+    "nat": "Google developed a powerful search engine to index internet websites.",
+    "syn": [
+      "motor",
+      "machine"
+    ],
+    "ant": [],
+    "col": [
+      "search engine",
+      "jet engine",
+      "engine failure"
+    ],
+    "mis": {
+      "bad": "The car has a motor problem under the hood.",
+      "good": "The car has engine trouble under the hood.",
+      "why": "In vehicles, the internal combustion power unit is called an \"engine\", while \"motor\" is usually electric."
+    },
+    "fam": [
+      "engineer (noun)"
+    ],
+    "topics": [
+      "tech",
+      "travel"
+    ]
+  },
+  {
+    "id": "engrossed",
+    "w": "engrossed",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "absorto / compenetrado",
+    "def": "Having all one's attention or interest absorbed by someone or something.",
+    "ipa": "/ɪnˈɡroʊst/",
+    "ex": "She was so engrossed in her programming tutorial that she missed dinner completely.",
+    "form": "engrossed",
+    "nat": "He sat quietly by the window, engrossed in a mystery novel.",
+    "syn": [
+      "absorbed",
+      "captivated"
+    ],
+    "ant": [
+      "distracted",
+      "bored"
+    ],
+    "col": [
+      "deeply engrossed",
+      "engrossed in thought",
+      "engrossed in a book"
+    ],
+    "mis": {
+      "bad": "He was engrossed on his phone during the lecture.",
+      "good": "He was engrossed in his phone / book during the lecture.",
+      "why": "Always use the preposition \"in\" with \"engrossed\": \"engrossed in something\"."
+    },
+    "fam": [
+      "engross (verb)"
+    ],
+    "topics": [
+      "daily",
+      "abstract"
+    ]
+  },
+  {
+    "id": "enigma",
+    "w": "enigma",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "enigma / mistério",
+    "def": "A person or thing that is mysterious, puzzling, or difficult to understand.",
+    "ipa": "/ɪˈnɪɡmə/",
+    "ex": "Why the production database suddenly restarted without any logged errors remains an enigma.",
+    "form": "enigma",
+    "nat": "The mysterious painting has been an enigma to art historians for centuries.",
+    "syn": [
+      "mystery",
+      "puzzle"
+    ],
+    "ant": [
+      "clarity",
+      "certainty"
+    ],
+    "col": [
+      "remain an enigma",
+      "unravel an enigma",
+      "complete enigma"
+    ],
+    "mis": {
+      "bad": "His sudden resignation is an enigma for our team.",
+      "good": "His sudden resignation is an enigma to our team.",
+      "why": "Use \"an enigma to [someone]\", not \"for\"."
+    },
+    "fam": [
+      "enigmatic (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "tech"
+    ]
+  },
+  {
+    "id": "enjoyable",
+    "w": "enjoyable",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "agradável / prazeroso",
+    "def": "Giving delight or pleasure; satisfying.",
+    "ipa": "/ɪnˈdʒɔɪəbl/",
+    "ex": "We spent a thoroughly enjoyable weekend hiking through the national park with friends.",
+    "form": "enjoyable",
+    "nat": "Learning a language should be an enjoyable experience rather than a stressful chore.",
+    "syn": [
+      "pleasant",
+      "delightful"
+    ],
+    "ant": [
+      "unpleasant",
+      "dreadful"
+    ],
+    "col": [
+      "enjoyable experience",
+      "thoroughly enjoyable",
+      "make it enjoyable"
+    ],
+    "mis": {
+      "bad": "The trip was very much enjoyable to all.",
+      "good": "The trip was very enjoyable for all of us.",
+      "why": "Say \"very enjoyable\", not \"very much enjoyable\", and use \"for all of us\"."
+    },
+    "fam": [
+      "enjoy (verb)",
+      "enjoyment (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "enlarge",
+    "w": "enlarge",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "ampliar / aumentar",
+    "def": "To make or become bigger or more extensive in size.",
+    "ipa": "/ɪnˈlɑːrdʒ/",
+    "ex": "Click on the thumbnail if you wish to enlarge the diagram on screen.",
+    "form": "enlarge",
+    "nat": "The hospital plans to enlarge its emergency department next year.",
+    "syn": [
+      "expand",
+      "magnify"
+    ],
+    "ant": [
+      "reduce",
+      "shrink"
+    ],
+    "col": [
+      "enlarge an image",
+      "enlarge a photograph",
+      "greatly enlarge"
+    ],
+    "mis": {
+      "bad": "Can you enlarge the font more bigger?",
+      "good": "Can you enlarge the font? / make the font bigger?",
+      "why": "Do not say \"enlarge more bigger\"; \"enlarge\" already means make bigger."
+    },
+    "fam": [
+      "enlargement (noun)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "enlighten",
+    "w": "enlighten",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "esclarecer / instruir",
+    "def": "To give greater knowledge and understanding about a subject or situation.",
+    "ipa": "/ɪnˈlaɪtn/",
+    "ex": "Could someone please enlighten our team on why this architectural change was approved?",
+    "form": "enlighten",
+    "nat": "The documentary will enlighten viewers about marine ecosystem conservation.",
+    "syn": [
+      "illuminate",
+      "clarify"
+    ],
+    "ant": [
+      "confuse",
+      "mislead"
+    ],
+    "col": [
+      "enlighten someone on",
+      "enlighten the public",
+      "greatly enlighten"
+    ],
+    "mis": {
+      "bad": "Could you enlighten to me about this decision?",
+      "good": "Could you enlighten me on / about this decision?",
+      "why": "\"Enlighten\" takes a direct personal object without \"to\": \"enlighten me\"."
+    },
+    "fam": [
+      "enlightenment (noun)",
+      "enlightened (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "enormous",
+    "w": "enormous",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "enorme / gigantesco",
+    "def": "Very large in size, quantity, or extent.",
+    "ipa": "/ɪˈnɔːrməs/",
+    "ex": "The construction of the new high-speed rail line requires an enormous financial investment.",
+    "form": "enormous",
+    "nat": "She felt an enormous sense of relief when the surgery ended successfully.",
+    "syn": [
+      "huge",
+      "immense"
+    ],
+    "ant": [
+      "tiny",
+      "minute"
+    ],
+    "col": [
+      "enormous amount",
+      "enormous potential",
+      "enormous challenge"
+    ],
+    "mis": {
+      "bad": "It was an enormous big challenge for the team.",
+      "good": "It was an enormous challenge for the team.",
+      "why": "Never say \"enormous big\"; \"enormous\" is an extreme adjective that already means very big."
+    },
+    "fam": [
+      "enormously (adv)",
+      "enormity (noun)"
+    ],
+    "topics": [
+      "business",
+      "daily"
+    ]
+  },
+  {
+    "id": "enrich",
+    "w": "enrich",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "enriquecer (mente, experiência, solo)",
+    "def": "To improve or enhance the quality or value of something.",
+    "ipa": "/ɪnˈrɪtʃ/",
+    "ex": "Living in another country for a year will enrich your cultural perspective immensely.",
+    "form": "enrich",
+    "nat": "Organic compost is used by farmers to enrich depleted agricultural soil.",
+    "syn": [
+      "enhance",
+      "augment"
+    ],
+    "ant": [
+      "deplete",
+      "spoil"
+    ],
+    "col": [
+      "enrich lives",
+      "enrich the soil",
+      "enrich an experience"
+    ],
+    "mis": {
+      "bad": "Reading books enriches of your knowledge.",
+      "good": "Reading books enriches your knowledge.",
+      "why": "\"Enrich\" is a transitive verb; do not add \"of\" after it."
+    },
+    "fam": [
+      "enrichment (noun)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "ensure",
+    "w": "ensure",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "garantir / assegurar que",
+    "def": "To make certain that something will occur or be so.",
+    "ipa": "/ɪnˈʃʊr/",
+    "ex": "Please run all automated unit tests before merging to ensure nothing is broken.",
+    "form": "ensure",
+    "nat": "Safety harnesses ensure the security of high-rise construction workers.",
+    "syn": [
+      "guarantee",
+      "make sure"
+    ],
+    "ant": [
+      "neglect"
+    ],
+    "col": [
+      "ensure safety",
+      "ensure compliance",
+      "ensure that"
+    ],
+    "mis": {
+      "bad": "We need to ensure of the quality of code.",
+      "good": "We need to ensure the quality of the code.",
+      "why": "\"Ensure\" takes a direct object or a \"that\" clause, never \"of\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "enterprise",
+    "w": "enterprise",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "empresa (porte médio/grande) / empreendimento",
+    "def": "A project or undertaking, typically one that is difficult or requires effort; or a large business.",
+    "ipa": "/ˈentərpraɪz/",
+    "ex": "Our cloud software platform is designed specifically for large enterprise customers across banking.",
+    "form": "enterprise",
+    "nat": "Starting a business in a foreign country is a daring commercial enterprise.",
+    "syn": [
+      "business",
+      "undertaking"
+    ],
+    "ant": [],
+    "col": [
+      "enterprise software",
+      "commercial enterprise",
+      "private enterprise"
+    ],
+    "mis": {
+      "bad": "He opened a small enterprise in his neighborhood.",
+      "good": "He opened a small business in his neighborhood.",
+      "why": "In business, \"enterprise\" usually implies a large corporate scale; use \"small business\" for small shops."
+    },
+    "fam": [
+      "enterprising (adj)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "entertain",
+    "w": "entertain",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "entreter / considerar (uma ideia)",
+    "def": "To provide someone with amusement, or give attention and consideration to an idea.",
+    "ipa": "/ˌentərˈteɪn/",
+    "ex": "The board of directors refused to entertain any buyout offers from aggressive foreign competitors.",
+    "form": "entertain",
+    "nat": "Comedians entertained the guests during the annual charity dinner.",
+    "syn": [
+      "amuse",
+      "consider"
+    ],
+    "ant": [
+      "bore",
+      "dismiss"
+    ],
+    "col": [
+      "entertain an idea",
+      "entertain guests",
+      "entertain thoughts"
+    ],
+    "mis": {
+      "bad": "The clown entertained to all the children.",
+      "good": "The clown entertained all the children.",
+      "why": "\"Entertain\" is transitive; do not place \"to\" before the audience."
+    },
+    "fam": [
+      "entertainment (noun)",
+      "entertainer (noun)"
+    ],
+    "topics": [
+      "culture",
+      "business"
+    ]
+  },
+  {
+    "id": "entity",
+    "w": "entity",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "entidade / organização autônoma",
+    "def": "A thing with distinct and independent existence in business, law, or philosophy.",
+    "ipa": "/ˈentəti/",
+    "ex": "The company established a separate legal entity to handle its international cloud operations.",
+    "form": "entity",
+    "nat": "Each department operates as a semi-autonomous financial entity within the university.",
+    "syn": [
+      "organization",
+      "unit"
+    ],
+    "ant": [],
+    "col": [
+      "legal entity",
+      "separate entity",
+      "corporate entity"
+    ],
+    "mis": {
+      "bad": "The branch is an independent entity from the parent.",
+      "good": "The branch is an independent entity separate from the parent.",
+      "why": "Say \"an independent entity\" or \"separate from\", rather than \"independent entity from\"."
+    },
+    "fam": [],
+    "topics": [
+      "business",
+      "abstract"
+    ]
+  },
+  {
+    "id": "entitle",
+    "w": "entitle",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "dar direito a / intitular",
+    "def": "To give someone a legal right or a just claim to receive or do something.",
+    "ipa": "/ɪnˈtaɪtl/",
+    "ex": "Your monthly premium membership will entitle you to unlimited access to our audio courses.",
+    "form": "entitle",
+    "nat": "The author entitled her memoir after a line from Shakespeare.",
+    "syn": [
+      "qualify",
+      "authorize"
+    ],
+    "ant": [
+      "disqualify",
+      "forbid"
+    ],
+    "col": [
+      "entitle someone to",
+      "fully entitled",
+      "entitle benefits"
+    ],
+    "mis": {
+      "bad": "This voucher entitles to get a free coffee.",
+      "good": "This voucher entitles you to get a free coffee.",
+      "why": "\"Entitle\" needs a personal object: \"entitle [someone] to [something]\"."
+    },
+    "fam": [
+      "entitlement (noun)",
+      "entitled (adj)"
+    ],
+    "topics": [
+      "business",
+      "daily"
+    ]
+  },
+  {
+    "id": "entrance",
+    "w": "entrance",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "entrada / acesso",
+    "def": "An opening or passage through which someone enters a building, room, or space.",
+    "ipa": "/ˈentrəns/",
+    "ex": "Please gather near the main entrance of the conference center at nine o'clock.",
+    "form": "entrance",
+    "nat": "The grand entrance to the palace was decorated with polished marble columns.",
+    "syn": [
+      "entry",
+      "doorway"
+    ],
+    "ant": [
+      "exit"
+    ],
+    "col": [
+      "main entrance",
+      "entrance fee",
+      "grand entrance"
+    ],
+    "mis": {
+      "bad": "The entrance for the subway is across the street.",
+      "good": "The entrance to the subway is across the street.",
+      "why": "Use the preposition \"to\" after \"entrance\", not \"for\"."
+    },
+    "fam": [
+      "enter (verb)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "entry",
+    "w": "entry",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "entrada / item cadastrado",
+    "def": "An act of going or coming in; or an item written in a list, diary, or database.",
+    "ipa": "/ˈentri/",
+    "ex": "Our system generates a detailed audit entry whenever a database record is modified.",
+    "form": "entry",
+    "nat": "Entry into the competition is open to all university undergraduate students.",
+    "syn": [
+      "record",
+      "admission"
+    ],
+    "ant": [
+      "exit",
+      "departure"
+    ],
+    "col": [
+      "entry level",
+      "data entry",
+      "entry requirement"
+    ],
+    "mis": {
+      "bad": "The entry to the museum is free on Sundays.",
+      "good": "Entry to / into the museum is free on Sundays.",
+      "why": "Use \"entry to\" or \"entry into\" without the definite article when meaning permission to enter."
+    },
+    "fam": [
+      "enter (verb)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "envelope",
+    "w": "envelope",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "envelope",
+    "def": "A flat paper container with a sealable flap, used for enclosing a letter or document.",
+    "ipa": "/ˈɑːnvəloʊp/",
+    "ex": "She sealed the handwritten letter inside a white envelope and stamped it carefully.",
+    "form": "envelope",
+    "nat": "The courier handed over a thick sealed envelope containing legal contracts.",
+    "syn": [
+      "packet",
+      "cover"
+    ],
+    "ant": [],
+    "col": [
+      "sealed envelope",
+      "stamped envelope",
+      "push the envelope"
+    ],
+    "mis": {
+      "bad": "Put the document inside of the envelope.",
+      "good": "Put the document inside the envelope.",
+      "why": "Avoid the informal redundant \"inside of\"; simply say \"inside the envelope\"."
+    },
+    "fam": [
+      "envelop (verb)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "envision",
+    "w": "envision",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "vislumbrar / idealizar",
+    "def": "To imagine as a future possibility; visualize a potential outcome.",
+    "ipa": "/ɪnˈvɪʒn/",
+    "ex": "The founders envision a future where autonomous electric shuttles replace personal city vehicles.",
+    "form": "envision",
+    "nat": "She envisions expanding the online training platform into Latin America next summer.",
+    "syn": [
+      "visualize",
+      "foresee"
+    ],
+    "ant": [],
+    "col": [
+      "envision a future",
+      "clearly envision",
+      "envision changes"
+    ],
+    "mis": {
+      "bad": "I envision to work remotely from Europe next year.",
+      "good": "I envision working remotely from Europe next year.",
+      "why": "Follow \"envision\" with a gerund (\"-ing\"), not an infinitive (\"to work\")."
+    },
+    "fam": [
+      "vision (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "ephemeral",
+    "w": "ephemeral",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "efêmero / passageiro",
+    "def": "Lasting for a very short time; transient or fleeting.",
+    "ipa": "/ɪˈfemərəl/",
+    "ex": "Fame gained from viral social media videos is usually ephemeral and quickly forgotten.",
+    "form": "ephemeral",
+    "nat": "Spring cherry blossoms have an ephemeral beauty that lasts only a few days.",
+    "syn": [
+      "transient",
+      "fleeting"
+    ],
+    "ant": [
+      "permanent",
+      "enduring"
+    ],
+    "col": [
+      "ephemeral nature",
+      "ephemeral pleasure",
+      "ephemeral trend"
+    ],
+    "mis": {
+      "bad": "Internet trends are very ephemerals in nature.",
+      "good": "Internet trends are very ephemeral in nature.",
+      "why": "English adjectives never take a plural \"-s\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "epic",
+    "w": "epic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "épico / grandioso",
+    "def": "Heroic or grand in scale or character; exceptionally impressive.",
+    "ipa": "/ˈepɪk/",
+    "ex": "The development team concluded an epic six-month migration without any major production downtime.",
+    "form": "epic",
+    "nat": "We watched an epic historical drama film at the film festival.",
+    "syn": [
+      "monumental",
+      "heroic"
+    ],
+    "ant": [
+      "minor",
+      "modest"
+    ],
+    "col": [
+      "epic journey",
+      "epic scale",
+      "epic struggle"
+    ],
+    "mis": {
+      "bad": "It was an epic adventure with many difficulties.",
+      "good": "It was an epic adventure despite the difficulties.",
+      "why": "Collocate \"epic\" directly with grand nouns like \"journey\", \"scale\", or \"adventure\"."
+    },
+    "fam": [
+      "epic (noun)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "epoch",
+    "w": "epoch",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "época / era marcante",
+    "def": "A period of time in history or a person's life, typically marked by notable events.",
+    "ipa": "/ˈepək/",
+    "ex": "The mass commercialization of generative artificial intelligence clearly marks a new technological epoch.",
+    "form": "epoch",
+    "nat": "The industrial epoch transformed agricultural communities into crowded industrial cities.",
+    "syn": [
+      "era",
+      "age"
+    ],
+    "ant": [],
+    "col": [
+      "new epoch",
+      "digital epoch",
+      "geological epoch"
+    ],
+    "mis": {
+      "bad": "We live in an epoch of great informations.",
+      "good": "We live in an epoch of great technological change.",
+      "why": "Remember \"information\" is uncountable, and \"epoch\" pairs naturally with \"technological change\" or \"discovery\"."
+    },
+    "fam": [
+      "epochal (adj)"
+    ],
+    "topics": [
+      "science",
+      "culture"
+    ]
+  },
+  {
+    "id": "equal",
+    "w": "equal",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "igual / equivalente",
+    "def": "Being the same in quantity, size, degree, or value.",
+    "ipa": "/ˈiːkwəl/",
+    "ex": "Every applicant must be given an equal opportunity to interview for the job opening.",
+    "form": "equal",
+    "nat": "Dividing the company profits into equal shares satisfied all four founding partners.",
+    "syn": [
+      "identical",
+      "equivalent"
+    ],
+    "ant": [
+      "unequal",
+      "different"
+    ],
+    "col": [
+      "equal opportunity",
+      "equal rights",
+      "equal pay"
+    ],
+    "mis": {
+      "bad": "Men and women must be treated equal in work.",
+      "good": "Men and women must be treated equally at work.",
+      "why": "Use the adverb \"equally\" to modify a verb, and \"at work\" for the location."
+    },
+    "fam": [
+      "equally (adv)",
+      "equality (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "equality",
+    "w": "equality",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "igualdade",
+    "def": "The state of being equal, especially in status, rights, and opportunities.",
+    "ipa": "/iˈkwɑːləti/",
+    "ex": "The progressive organization campaigns tirelessly for gender equality and equal pay in technology.",
+    "form": "equality",
+    "nat": "Racial equality remains a fundamental civil rights objective around the globe.",
+    "syn": [
+      "fairness",
+      "parity"
+    ],
+    "ant": [
+      "inequality",
+      "disparity"
+    ],
+    "col": [
+      "gender equality",
+      "racial equality",
+      "strive for equality"
+    ],
+    "mis": {
+      "bad": "We must promote the equality between all workers.",
+      "good": "We must promote equality among all workers.",
+      "why": "Use \"equality among [more than two]\" and omit \"the\" when speaking generally about equality."
+    },
+    "fam": [
+      "equal (adj)",
+      "equalize (verb)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "equate",
+    "w": "equate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "equiparar / associar como igual",
+    "def": "To consider one thing to be the same as or equivalent to another.",
+    "ipa": "/iˈkweɪt/",
+    "ex": "One should never equate working long hours with being productive or truly effective.",
+    "form": "equate",
+    "nat": "Many people incorrectly equate high price tags with superior product quality.",
+    "syn": [
+      "associate",
+      "identify"
+    ],
+    "ant": [
+      "distinguish",
+      "separate"
+    ],
+    "col": [
+      "equate A with B",
+      "falsely equate",
+      "cannot equate"
+    ],
+    "mis": {
+      "bad": "Do not equate high salary to happiness.",
+      "good": "Do not equate high salary with happiness.",
+      "why": "The standard collocation is \"equate A with B\", not \"to\"."
+    },
+    "fam": [
+      "equation (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "work"
+    ]
+  },
+  {
+    "id": "equilibrium",
+    "w": "equilibrium",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "equilíbrio (físico, químico, emocional)",
+    "def": "A state in which opposing forces or influences are balanced.",
+    "ipa": "/ˌiːkwɪˈlɪbriəm/",
+    "ex": "After weeks of market volatility, tech stock prices finally reached a stable economic equilibrium.",
+    "form": "equilibrium",
+    "nat": "Yoga and meditation help restore mental equilibrium after periods of severe stress.",
+    "syn": [
+      "balance",
+      "stability"
+    ],
+    "ant": [
+      "imbalance",
+      "instability"
+    ],
+    "col": [
+      "reach equilibrium",
+      "restore equilibrium",
+      "chemical equilibrium"
+    ],
+    "mis": {
+      "bad": "The market stayed in an equilibrium balance.",
+      "good": "The market reached an equilibrium.",
+      "why": "Do not say \"equilibrium balance\"; \"equilibrium\" already means a state of balance."
+    },
+    "fam": [],
+    "topics": [
+      "science",
+      "finance"
+    ]
+  },
+  {
+    "id": "equip",
+    "w": "equip",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "equipar / capacitar",
+    "def": "To supply with the necessary items for a particular purpose or task.",
+    "ipa": "/ɪˈkwɪp/",
+    "ex": "The company will equip all remote engineers with ergonomic chairs and high-resolution monitors.",
+    "form": "equip",
+    "nat": "Practical speaking workshops equip students with confidence for job interviews abroad.",
+    "syn": [
+      "furnish",
+      "outfit"
+    ],
+    "ant": [
+      "strip"
+    ],
+    "col": [
+      "equip with",
+      "fully equipped",
+      "equip someone for"
+    ],
+    "mis": {
+      "bad": "The laboratory is equipped by modern computers.",
+      "good": "The laboratory is equipped with modern computers.",
+      "why": "Always use \"equipped with [tools/gear]\", not \"by\"."
+    },
+    "fam": [
+      "equipment (noun)"
+    ],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "equitable",
+    "w": "equitable",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "equitativo / justo e imparcial",
+    "def": "Fair and impartial; dealing fairly and equally with all concerned.",
+    "ipa": "/ˈekwɪtəbl/",
+    "ex": "The board introduced an equitable distribution model for annual employee stock option grants.",
+    "form": "equitable",
+    "nat": "Access to clean drinking water should be equitable across all city districts.",
+    "syn": [
+      "fair",
+      "just"
+    ],
+    "ant": [
+      "unfair",
+      "inequitable"
+    ],
+    "col": [
+      "equitable distribution",
+      "equitable access",
+      "equitable settlement"
+    ],
+    "mis": {
+      "bad": "We need an equitable solution for everyone involved.",
+      "good": "We need an equitable solution for all parties involved.",
+      "why": "Use \"equitable\" for fair sharing of resources or justice among parties."
+    },
+    "fam": [
+      "equitably (adv)",
+      "equity (noun)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "equivalent",
+    "w": "equivalent",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "equivalente / correspondente",
+    "def": "Equal in value, amount, function, or meaning to something else.",
+    "ipa": "/ɪˈkwɪvələnt/",
+    "ex": "Completing this advanced cybersecurity course is equivalent to two full years of experience.",
+    "form": "equivalent",
+    "nat": "Send ten dollars or the equivalent amount in your local currency.",
+    "syn": [
+      "comparable",
+      "equal"
+    ],
+    "ant": [
+      "different",
+      "unequal"
+    ],
+    "col": [
+      "roughly equivalent",
+      "equivalent to",
+      "functional equivalent"
+    ],
+    "mis": {
+      "bad": "This degree is equivalent with a master's degree.",
+      "good": "This degree is equivalent to a master's degree.",
+      "why": "Always use the preposition \"to\" after \"equivalent\": \"equivalent to\"."
+    },
+    "fam": [
+      "equivalent (noun)",
+      "equivalence (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "eradicate",
+    "w": "eradicate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "erradicar / extirpar",
+    "def": "To destroy completely; put an end to something undesirable or harmful.",
+    "ipa": "/ɪˈrædɪkeɪt/",
+    "ex": "Global health agencies have worked tirelessly for decades to eradicate infectious diseases completely.",
+    "form": "eradicate",
+    "nat": "Good hygiene protocols can eradicate bacteria from hospital operating rooms.",
+    "syn": [
+      "eliminate",
+      "exterminate"
+    ],
+    "ant": [
+      "cultivate",
+      "foster"
+    ],
+    "col": [
+      "eradicate poverty",
+      "eradicate disease",
+      "completely eradicate"
+    ],
+    "mis": {
+      "bad": "The government tried to eradicate of corruption.",
+      "good": "The government tried to eradicate corruption.",
+      "why": "\"Eradicate\" is a transitive verb; do not add \"of\" after it."
+    },
+    "fam": [
+      "eradication (noun)"
+    ],
+    "topics": [
+      "health",
+      "science"
+    ]
+  },
+  {
+    "id": "erase",
+    "w": "erase",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "apagar / deletar",
+    "def": "To rub out or remove writing, recorded data, or painful memories.",
+    "ipa": "/ɪˈreɪs/",
+    "ex": "Be careful not to erase the configuration files while cleaning up your disk.",
+    "form": "erase",
+    "nat": "Time alone could not erase the painful memories of the accident.",
+    "syn": [
+      "delete",
+      "wipe"
+    ],
+    "ant": [
+      "record",
+      "write"
+    ],
+    "col": [
+      "erase data",
+      "erase a file",
+      "erase from memory"
+    ],
+    "mis": {
+      "bad": "I erased the file by mistake from my computer.",
+      "good": "I erased the file from my computer by mistake.",
+      "why": "Place adverbial phrases like \"by mistake\" at the end of the sentence."
+    },
+    "fam": [
+      "eraser (noun)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "erode",
+    "w": "erode",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "corroer / erodir / desgastar",
+    "def": "To gradually wear away soil, stone, or gradually destroy rights or confidence.",
+    "ipa": "/ɪˈroʊd/",
+    "ex": "High monthly inflation rates will erode consumer purchasing power across the entire economy.",
+    "form": "erode",
+    "nat": "Ocean waves constantly erode the sandy cliffs along the southern coastline.",
+    "syn": [
+      "wear away",
+      "undermine"
+    ],
+    "ant": [
+      "reinforce",
+      "build"
+    ],
+    "col": [
+      "erode confidence",
+      "erode purchasing power",
+      "erode trust"
+    ],
+    "mis": {
+      "bad": "Inflation erodes of our savings over time.",
+      "good": "Inflation erodes our savings over time.",
+      "why": "\"Erode\" is transitive; do not use \"of\" after the verb."
+    },
+    "fam": [
+      "erosion (noun)"
+    ],
+    "topics": [
+      "finance",
+      "science"
+    ]
+  },
+  {
+    "id": "erroneous",
+    "w": "erroneous",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "errôneo / incorreto",
+    "def": "Wrong; incorrect or based on mistaken beliefs or invalid data.",
+    "ipa": "/ɪˈroʊniəs/",
+    "ex": "The financial projection was based on completely erroneous assumptions about consumer demand growth.",
+    "form": "erroneous",
+    "nat": "Investigators quickly dismissed the erroneous witness statements from the accident report.",
+    "syn": [
+      "incorrect",
+      "mistaken"
+    ],
+    "ant": [
+      "accurate",
+      "correct"
+    ],
+    "col": [
+      "erroneous conclusion",
+      "erroneous assumption",
+      "erroneous data"
+    ],
+    "mis": {
+      "bad": "His conclusion was totally erroneous in the report.",
+      "good": "His conclusion was totally erroneous.",
+      "why": "Collocate \"erroneous\" with \"assumption\", \"belief\", \"data\", or \"conclusion\"."
+    },
+    "fam": [
+      "erroneously (adv)",
+      "error (noun)"
+    ],
+    "topics": [
+      "science",
+      "work"
+    ]
+  },
+  {
+    "id": "escape",
+    "w": "escape",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "escapar / fugir",
+    "def": "To break free from confinement or control, or avoid danger or notice.",
+    "ipa": "/ɪˈskeɪp/",
+    "ex": "The clever software engineer managed to escape the meeting before questions began.",
+    "form": "escape",
+    "nat": "Two dangerous convicts escaped from the maximum-security prison last night.",
+    "syn": [
+      "flee",
+      "evade"
+    ],
+    "ant": [
+      "capture",
+      "trap"
+    ],
+    "col": [
+      "escape injury",
+      "escape from prison",
+      "narrowly escape"
+    ],
+    "mis": {
+      "bad": "He escaped from the fine because he was polite.",
+      "good": "He escaped a fine because he was polite.",
+      "why": "When meaning avoid a penalty or harm, use \"escape + noun\" without \"from\"."
+    },
+    "fam": [
+      "escape (noun)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "fabric",
+    "w": "fabric",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "tecido / pano / estrutura",
+    "def": "Cloth or other material produced by weaving or knitting fibers; or basic structure.",
+    "ipa": "/ˈfæbrɪk/",
+    "ex": "The breathable cotton fabric helps athletes stay cool and comfortable during intense training sessions.",
+    "form": "fabric",
+    "nat": "Trust among teammates forms the very fabric of our company culture.",
+    "syn": [
+      "cloth",
+      "material"
+    ],
+    "ant": [],
+    "col": [
+      "cotton fabric",
+      "delicate fabric",
+      "fabric of society"
+    ],
+    "mis": {
+      "bad": "My father works in a car fabric.",
+      "good": "My father works in an automobile factory.",
+      "why": "False friend! \"Fabric\" means tecido or structure; a place where things are manufactured is a \"factory\"."
+    },
+    "fam": [
+      "fabricate (verb)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "fabricate",
+    "w": "fabricate",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "fabricar / forjar / inventar (mentira)",
+    "def": "To invent or concoct something, typically with deceitful intent; or construct an industrial item.",
+    "ipa": "/ˈfæbrɪkeɪt/",
+    "ex": "The dishonest employee attempted to fabricate false receipts to claim unauthorized business travel expenses.",
+    "form": "fabricate",
+    "nat": "Specialized workshops fabricate custom aluminum frames for solar panels.",
+    "syn": [
+      "concoct",
+      "manufacture"
+    ],
+    "ant": [
+      "destroy"
+    ],
+    "col": [
+      "fabricate evidence",
+      "fabricate a story",
+      "fabricate metal"
+    ],
+    "mis": {
+      "bad": "He fabricated an excuse to not come.",
+      "good": "He fabricated an excuse for not coming.",
+      "why": "Use \"excuse for not coming\" or \"excuse not to come\"."
+    },
+    "fam": [
+      "fabrication (noun)"
+    ],
+    "topics": [
+      "business",
+      "security"
+    ]
+  },
+  {
+    "id": "fabulous",
+    "w": "fabulous",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "fabuloso / incrível",
+    "def": "Extraordinarily good or wonderful; or resembling a fable.",
+    "ipa": "/ˈfæbjələs/",
+    "ex": "We spent a fabulous afternoon exploring the historic cobblestone streets of old Lisbon.",
+    "form": "fabulous",
+    "nat": "The company achieved fabulous financial returns during its first year in operation.",
+    "syn": [
+      "wonderful",
+      "marvelous"
+    ],
+    "ant": [
+      "terrible",
+      "awful"
+    ],
+    "col": [
+      "fabulous view",
+      "fabulous time",
+      "fabulous meal"
+    ],
+    "mis": {
+      "bad": "We had a fabulous time in our travel.",
+      "good": "We had a fabulous time on our trip.",
+      "why": "Collocate \"on our trip\", not \"in our travel\"."
+    },
+    "fam": [
+      "fabulously (adv)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "facade",
+    "w": "facade",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "fachada (prédio) / aparência enganosa",
+    "def": "The front of a building; or an outward appearance maintained to conceal a less pleasant reality.",
+    "ipa": "/fəˈsɑːd/",
+    "ex": "Behind his cheerful and confident facade, the startup founder hid immense anxiety and exhaustion.",
+    "form": "facade",
+    "nat": "The historic museum facade was restored using traditional lime mortar.",
+    "syn": [
+      "front",
+      "exterior"
+    ],
+    "ant": [
+      "reality",
+      "interior"
+    ],
+    "col": [
+      "crumbling facade",
+      "maintain a facade",
+      "behind the facade"
+    ],
+    "mis": {
+      "bad": "He showed a false facade of happiness.",
+      "good": "He maintained a facade of happiness.",
+      "why": "Collocate with verbs like \"maintain\", \"put on\", or \"hide behind a facade\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "fade",
+    "w": "fade",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "desbotar / esvanecer",
+    "def": "To gradually grow faint and disappear, or lose color or brightness.",
+    "ipa": "/feɪd/",
+    "ex": "Direct summer sunlight will cause brightly colored curtain fabrics to fade over several months.",
+    "form": "fade",
+    "nat": "The applause began to fade as the speaker stepped up to the microphone.",
+    "syn": [
+      "diminish",
+      "dull"
+    ],
+    "ant": [
+      "brighten",
+      "intensify"
+    ],
+    "col": [
+      "fade away",
+      "fade into memory",
+      "slowly fade"
+    ],
+    "mis": {
+      "bad": "The memory faded out from my mind.",
+      "good": "The memory faded from my mind.",
+      "why": "Say \"fade from memory\" or \"fade away\", not \"fade out from\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "abstract"
+    ]
+  },
+  {
+    "id": "faint",
+    "w": "faint",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "fraco / tênue / imperceptível",
+    "def": "Barely perceptible to the senses; weak or dizzy.",
+    "ipa": "/feɪnt/",
+    "ex": "The technician heard a faint clicking sound coming from inside the broken laptop casing.",
+    "form": "faint",
+    "nat": "She felt dizzy and faint after skipping both breakfast and lunch.",
+    "syn": [
+      "dim",
+      "subtle"
+    ],
+    "ant": [
+      "strong",
+      "loud"
+    ],
+    "col": [
+      "faint smell",
+      "faint light",
+      "faint smile"
+    ],
+    "mis": {
+      "bad": "I heard a weak noise downstairs late at night.",
+      "good": "I heard a faint noise downstairs late at night.",
+      "why": "Use \"faint\" rather than \"weak\" to describe barely audible sounds or faint lights."
+    },
+    "fam": [
+      "faintly (adv)",
+      "faint (verb)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "fairness",
+    "w": "fairness",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "justiça / imparcialidade",
+    "def": "Impartial and just treatment or behavior without favoritism or discrimination.",
+    "ipa": "/ˈfernəs/",
+    "ex": "Employees appreciated the total fairness with which the manager allocated flexible remote shifts.",
+    "form": "fairness",
+    "nat": "In all fairness, both candidates performed remarkably well during the final round.",
+    "syn": [
+      "justice",
+      "equity"
+    ],
+    "ant": [
+      "unfairness",
+      "bias"
+    ],
+    "col": [
+      "in all fairness",
+      "sense of fairness",
+      "ensure fairness"
+    ],
+    "mis": {
+      "bad": "The boss acted with fairness for everyone.",
+      "good": "The boss treated everyone with fairness.",
+      "why": "Collocate \"with fairness\" with verbs of treatment: \"treated everyone with fairness / fairly\"."
+    },
+    "fam": [
+      "fair (adj)",
+      "fairly (adv)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ]
+  },
+  {
+    "id": "faithful",
+    "w": "faithful",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "fiel / leal",
+    "def": "Remaining loyal and steadfast; or accurately copying an original.",
+    "ipa": "/ˈfeɪθfl/",
+    "ex": "The movie adaptation remained remarkably faithful to the original plot of the classic novel.",
+    "form": "faithful",
+    "nat": "Our dog has been a faithful companion through ten years of city life.",
+    "syn": [
+      "loyal",
+      "devoted"
+    ],
+    "ant": [
+      "disloyal",
+      "unfaithful"
+    ],
+    "col": [
+      "faithful companion",
+      "faithful reproduction",
+      "remain faithful"
+    ],
+    "mis": {
+      "bad": "He remained faithful with his core values.",
+      "good": "He remained faithful to his core values.",
+      "why": "Always use the preposition \"to\" after \"faithful\": \"faithful to something/someone\"."
+    },
+    "fam": [
+      "faithfully (adv)",
+      "faith (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "fake",
+    "w": "fake",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "falso / falsificado",
+    "def": "Not genuine; imitation or counterfeit intended to deceive.",
+    "ipa": "/feɪk/",
+    "ex": "Cybersecurity analysts warned users not to enter personal passwords on fake banking login pages.",
+    "form": "fake",
+    "nat": "He bought a fake designer watch at a tourist night market.",
+    "syn": [
+      "counterfeit",
+      "forged"
+    ],
+    "ant": [
+      "genuine",
+      "authentic"
+    ],
+    "col": [
+      "fake news",
+      "fake profile",
+      "obviously fake"
+    ],
+    "mis": {
+      "bad": "He presented a falsified document (or \"faked\").",
+      "good": "He presented a fake / forged document.",
+      "why": "Use \"fake\" or \"forged\" as the natural adjective before nouns like document or passport."
+    },
+    "fam": [
+      "fake (noun)",
+      "fake (verb)"
+    ],
+    "topics": [
+      "security",
+      "tech"
+    ]
+  },
+  {
+    "id": "fallacy",
+    "w": "fallacy",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "falácia / equívoco lógico",
+    "def": "A mistaken belief, especially one based on unsound argument or invalid reasoning.",
+    "ipa": "/ˈfæləsi/",
+    "ex": "Believing that more developers on a delayed project will accelerate delivery is a fallacy.",
+    "form": "fallacy",
+    "nat": "The philosopher dismantled the opponent's argument by exposing a fundamental logical fallacy.",
+    "syn": [
+      "misconception",
+      "delusion"
+    ],
+    "ant": [
+      "truth",
+      "fact"
+    ],
+    "col": [
+      "logical fallacy",
+      "common fallacy",
+      "expose a fallacy"
+    ],
+    "mis": {
+      "bad": "That idea is a complete fallacy thought.",
+      "good": "That idea is a complete fallacy.",
+      "why": "\"Fallacy\" is a noun meaning false belief; do not combine it redundantly with \"thought\"."
+    },
+    "fam": [
+      "fallacious (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "science"
+    ]
+  },
+  {
+    "id": "falsify",
+    "w": "falsify",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "falsificar / adulterar",
+    "def": "To alter or make false, especially so as to deceive; tamper with.",
+    "ipa": "/ˈfɔːlsɪfaɪ/",
+    "ex": "The rogue accountant was arrested after attempting to falsify quarterly tax records repeatedly.",
+    "form": "falsify",
+    "nat": "A scientific hypothesis must be testable so that future experiments could potentially falsify it.",
+    "syn": [
+      "alter",
+      "manipulate"
+    ],
+    "ant": [
+      "verify",
+      "validate"
+    ],
+    "col": [
+      "falsify data",
+      "falsify records",
+      "falsify test results"
+    ],
+    "mis": {
+      "bad": "He tried to false the financial report.",
+      "good": "He tried to falsify the financial report.",
+      "why": "\"False\" is an adjective; the corresponding verb in English is \"falsify\"."
+    },
+    "fam": [
+      "falsification (noun)"
+    ],
+    "topics": [
+      "security",
+      "business"
+    ]
+  },
+  {
+    "id": "falter",
+    "w": "falter",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "vacilar / fraquejar",
+    "def": "To start to lose strength or momentum; speak or move hesitantly.",
+    "ipa": "/ˈfɔːltər/",
+    "ex": "Despite intense questioning from journalists, her voice did not falter for a single second.",
+    "form": "falter",
+    "nat": "Economic growth began to falter following unexpected hikes in commercial lending interest rates.",
+    "syn": [
+      "hesitate",
+      "waver"
+    ],
+    "ant": [
+      "persevere",
+      "thrive"
+    ],
+    "col": [
+      "falter in confidence",
+      "never falter",
+      "begin to falter"
+    ],
+    "mis": {
+      "bad": "Her courage faltered away during the interview.",
+      "good": "Her courage faltered during the interview.",
+      "why": "Do not add \"away\" to \"falter\"; use the verb simply as \"falter\"."
+    },
+    "fam": [
+      "faltering (adj)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "famine",
+    "w": "famine",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "fome generalizada / escassez extrema",
+    "def": "Extreme scarcity of food causing widespread starvation across a geographical region.",
+    "ipa": "/ˈfæmɪn/",
+    "ex": "Severe drought and regional armed conflict combined to threaten millions of civilians with famine.",
+    "form": "famine",
+    "nat": "International aid organizations rushed emergency supplies to relieve the catastrophic famine.",
+    "syn": [
+      "starvation",
+      "food shortage"
+    ],
+    "ant": [
+      "plenty",
+      "abundance"
+    ],
+    "col": [
+      "widespread famine",
+      "relieve famine",
+      "threat of famine"
+    ],
+    "mis": {
+      "bad": "There is a big famine in the countryside.",
+      "good": "There is widespread famine in the countryside.",
+      "why": "Collocate \"famine\" with adjectives like \"widespread\" or \"severe\", rather than \"big\"."
+    },
+    "fam": [],
+    "topics": [
+      "health",
+      "culture"
+    ]
+  },
+  {
+    "id": "famous",
+    "w": "famous",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "famoso / renomado",
+    "def": "Known about by many people; renowned.",
+    "ipa": "/ˈfeɪməs/",
+    "ex": "The coastal Italian city is famous for its colorful cliffside houses and fresh seafood.",
+    "form": "famous",
+    "nat": "She dreamed of becoming a famous software innovator known across the world.",
+    "syn": [
+      "renowned",
+      "celebrated"
+    ],
+    "ant": [
+      "unknown",
+      "obscure"
+    ],
+    "col": [
+      "famous for",
+      "world famous",
+      "become famous"
+    ],
+    "mis": {
+      "bad": "The author is famous by his mystery novels.",
+      "good": "The author is famous for his mystery novels.",
+      "why": "Always use \"famous for [an achievement]\", never \"by\"."
+    },
+    "fam": [
+      "fame (noun)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "fanatic",
+    "w": "fanatic",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "fanático / aficionado fervoroso",
+    "def": "A person filled with excessive and single-minded zeal, or a passionate enthusiast.",
+    "ipa": "/fəˈnætɪk/",
+    "ex": "Our lead mobile developer is a fitness fanatic who cycles twenty miles every morning.",
+    "form": "fanatic",
+    "nat": "Political fanatics rarely listen to opposing viewpoints with an open and fair mind.",
+    "syn": [
+      "enthusiast",
+      "zealot"
+    ],
+    "ant": [
+      "moderate"
+    ],
+    "col": [
+      "fitness fanatic",
+      "religious fanatic",
+      "sports fanatic"
+    ],
+    "mis": {
+      "bad": "He is a fanatic of football matches.",
+      "good": "He is a football fanatic.",
+      "why": "Place the subject directly before \"fanatic\" as a compound noun: \"fitness fanatic\", \"football fanatic\"."
+    },
+    "fam": [
+      "fanatical (adj)",
+      "fanatically (adv)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "fanciful",
+    "w": "fanciful",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "fantasioso / imaginário",
+    "def": "Overimaginative and unrealistic; existing only in imagination.",
+    "ipa": "/ˈfænsɪfl/",
+    "ex": "The initial startup pitch included several fanciful projections that seasoned investors quickly dismissed.",
+    "form": "fanciful",
+    "nat": "Children love stories set in fanciful worlds where animals speak and fly.",
+    "syn": [
+      "whimsical",
+      "unrealistic"
+    ],
+    "ant": [
+      "realistic",
+      "practical"
+    ],
+    "col": [
+      "fanciful idea",
+      "fanciful notion",
+      "fanciful designs"
+    ],
+    "mis": {
+      "bad": "He wears a fanciful costume for carnival.",
+      "good": "He wears a colorful / whimsical costume for carnival.",
+      "why": "\"Fanciful\" means unrealistic or imaginative in concept, not elaborate in clothing (\"costume\")."
+    },
+    "fam": [
+      "fancy (noun)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "fascinating",
+    "w": "fascinating",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "fascinante / muito interessante",
+    "def": "Extremely interesting and charming; captivating.",
+    "ipa": "/ˈfæsɪneɪtɪŋ/",
+    "ex": "The documentary provided a fascinating look into how deep-sea creatures survive extreme water pressures.",
+    "form": "fascinating",
+    "nat": "Quantum computing is a fascinating field that merges physics with advanced computer science.",
+    "syn": [
+      "captivating",
+      "intriguing"
+    ],
+    "ant": [
+      "boring",
+      "dull"
+    ],
+    "col": [
+      "fascinating story",
+      "find it fascinating",
+      "utterly fascinating"
+    ],
+    "mis": {
+      "bad": "I was very fascinating by the presentation.",
+      "good": "I was very fascinated by the presentation.",
+      "why": "Use \"-ing\" for the thing that causes interest (\"fascinating talk\") and \"-ed\" for the person feeling it (\"fascinated\")."
+    },
+    "fam": [
+      "fascinate (verb)",
+      "fascination (noun)"
+    ],
+    "topics": [
+      "science",
+      "culture"
+    ]
+  },
+  {
+    "id": "fashion",
+    "w": "fashion",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "moda / modo / maneira",
+    "def": "A popular trend, especially in styles of dress; or a manner of doing something.",
+    "ipa": "/ˈfæʃn/",
+    "ex": "The software team answered user inquiries in a prompt and highly organized fashion.",
+    "form": "fashion",
+    "nat": "Sustainable fashion brands are gaining popularity among environmentally conscious millennial shoppers.",
+    "syn": [
+      "trend",
+      "manner"
+    ],
+    "ant": [],
+    "col": [
+      "in a timely fashion",
+      "fashion industry",
+      "out of fashion"
+    ],
+    "mis": {
+      "bad": "She always dresses in the fashion.",
+      "good": "She always dresses in fashion / fashionable clothes.",
+      "why": "Say \"in fashion\" (trendy) or \"fashionably\", not \"in the fashion\"."
+    },
+    "fam": [
+      "fashionable (adj)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "fasten",
+    "w": "fasten",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "afivelar / prender / fechar",
+    "def": "To close or join securely, especially a belt, button, or gate.",
+    "ipa": "/ˈfæsn/",
+    "ex": "Flight attendants reminded all passengers to fasten their seatbelts before the plane departed.",
+    "form": "fasten",
+    "nat": "Fasten the screws tightly so the metal bracket cannot shake loose.",
+    "syn": [
+      "secure",
+      "buckle"
+    ],
+    "ant": [
+      "unfasten",
+      "release"
+    ],
+    "col": [
+      "fasten your seatbelt",
+      "fasten securely",
+      "fasten a latch"
+    ],
+    "mis": {
+      "bad": "Please fasten up your seatbelt now.",
+      "good": "Please fasten your seatbelt now.",
+      "why": "Do not add \"up\" after \"fasten\"; note also the silent \"t\" (/ˈfæsn/)."
+    },
+    "fam": [
+      "fastener (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "fatal",
+    "w": "fatal",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "fatal / letal",
+    "def": "Causing death; or leading to complete failure or disaster.",
+    "ipa": "/ˈfeɪtl/",
+    "ex": "Ignoring software security vulnerabilities can prove fatal to a startup's commercial survival.",
+    "form": "fatal",
+    "nat": "The reckless driver miraculously walked away unharmed from the fatal highway collision.",
+    "syn": [
+      "deadly",
+      "lethal"
+    ],
+    "ant": [
+      "minor",
+      "harmless"
+    ],
+    "col": [
+      "fatal flaw",
+      "fatal mistake",
+      "fatal accident"
+    ],
+    "mis": {
+      "bad": "He had a fatal accident and went to hospital.",
+      "good": "He had a serious accident and went to hospital.",
+      "why": "If someone went to the hospital and survived, it was NOT fatal! \"Fatal\" strictly means causing death."
+    },
+    "fam": [
+      "fatality (noun)",
+      "fatally (adv)"
+    ],
+    "topics": [
+      "health",
+      "security"
+    ]
+  },
+  {
+    "id": "fatigue",
+    "w": "fatigue",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "fadiga / cansaço extremo",
+    "def": "Extreme tiredness resulting from mental or physical exertion or illness.",
+    "ipa": "/fəˈtiːɡ/",
+    "ex": "Software engineers often experience severe eye fatigue after staring at screens all afternoon.",
+    "form": "fatigue",
+    "nat": "Decision fatigue makes it much harder to choose healthy options after work.",
+    "syn": [
+      "exhaustion",
+      "weariness"
+    ],
+    "ant": [
+      "energy",
+      "vitality"
+    ],
+    "col": [
+      "mental fatigue",
+      "chronic fatigue",
+      "combat fatigue"
+    ],
+    "mis": {
+      "bad": "I felt a lot of fatigue after the run.",
+      "good": "I felt severe fatigue / felt fatigued after the run.",
+      "why": "Say \"felt fatigued\" or \"suffered from fatigue\" rather than \"felt a lot of fatigue\"."
+    },
+    "fam": [
+      "fatigued (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "fault",
+    "w": "fault",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "culpa / falha / defeito",
+    "def": "Responsibility for an accident or misfortune; or an imperfection in a system.",
+    "ipa": "/fɔːlt/",
+    "ex": "The system crashed due to a technical fault in the legacy database synchronization script.",
+    "form": "fault",
+    "nat": "It was completely my fault that the meeting started fifteen minutes late.",
+    "syn": [
+      "blame",
+      "defect"
+    ],
+    "ant": [
+      "strength"
+    ],
+    "col": [
+      "at fault",
+      "find fault with",
+      "technical fault"
+    ],
+    "mis": {
+      "bad": "It is not my guilt that the bus was late.",
+      "good": "It is not my fault that the bus was late.",
+      "why": "False friend! \"Guilt\" is the moral feeling of culpability; use \"fault\" for responsibility for an error."
+    },
+    "fam": [
+      "faulty (adj)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "faulty",
+    "w": "faulty",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "defeituoso / falho",
+    "def": "Working incorrectly or having defects; imperfect.",
+    "ipa": "/ˈfɔːlti/",
+    "ex": "The technician replaced the faulty memory module, which immediately resolved all server crashes.",
+    "form": "faulty",
+    "nat": "The entire argument collapsed because it rested on faulty economic premises.",
+    "syn": [
+      "defective",
+      "flawed"
+    ],
+    "ant": [
+      "flawless",
+      "working"
+    ],
+    "col": [
+      "faulty wiring",
+      "faulty logic",
+      "faulty equipment"
+    ],
+    "mis": {
+      "bad": "The charger was with defect.",
+      "good": "The charger was faulty / defective.",
+      "why": "Avoid literal translation \"with defect\"; use the adjective \"faulty\" or \"defective\"."
+    },
+    "fam": [
+      "fault (noun)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "feat",
+    "w": "feat",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "façanha / proeza",
+    "def": "An achievement that requires great courage, skill, or strength.",
+    "ipa": "/fiːt/",
+    "ex": "Building an operating system kernel from scratch is an extraordinary feat of engineering.",
+    "form": "feat",
+    "nat": "Running an ultramarathon across the desert was an unforgettable physical feat.",
+    "syn": [
+      "achievement",
+      "triumph"
+    ],
+    "ant": [
+      "failure"
+    ],
+    "col": [
+      "remarkable feat",
+      "feat of engineering",
+      "no mean feat"
+    ],
+    "mis": {
+      "bad": "Winning the prize was an heroic fact.",
+      "good": "Winning the prize was a heroic feat.",
+      "why": "False friend! Portuguese \"feito\" (accomplishment/deed) translates to English \"feat\", not \"fact\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "ferocious",
+    "w": "ferocious",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "feroz / selvagem",
+    "def": "Savagely fierce, cruel, or violent; extreme and unpleasant.",
+    "ipa": "/fəˈroʊʃəs/",
+    "ex": "The island was battered by ferocious winds and torrential rain throughout the entire night.",
+    "form": "ferocious",
+    "nat": "Tech companies face ferocious competition when recruiting senior artificial intelligence researchers.",
+    "syn": [
+      "fierce",
+      "savage"
+    ],
+    "ant": [
+      "gentle",
+      "mild"
+    ],
+    "col": [
+      "ferocious attack",
+      "ferocious competition",
+      "ferocious storm"
+    ],
+    "mis": {
+      "bad": "The dog made a ferocious bark at us.",
+      "good": "The dog barked ferociously at us.",
+      "why": "Use the adverb \"ferociously\" to describe the action of barking or attacking."
+    },
+    "fam": [
+      "ferocity (noun)",
+      "ferociously (adv)"
+    ],
+    "topics": [
+      "daily",
+      "business"
+    ]
+  },
+  {
+    "id": "fervent",
+    "w": "fervent",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "fervoroso / fervoroso defensor",
+    "def": "Having or displaying a passionate intensity of feeling or belief.",
+    "ipa": "/ˈfɜːrvənt/",
+    "ex": "She is a fervent advocate for open-source software and transparent online privacy standards.",
+    "form": "fervent",
+    "nat": "The charity expressed fervent hopes that peace talks would succeed this week.",
+    "syn": [
+      "passionate",
+      "ardent"
+    ],
+    "ant": [
+      "apathetic",
+      "indifferent"
+    ],
+    "col": [
+      "fervent hope",
+      "fervent supporter",
+      "fervent belief"
+    ],
+    "mis": {
+      "bad": "He has a fervent desire for to travel.",
+      "good": "He has a fervent desire to travel.",
+      "why": "Use \"desire to + base verb\", not \"for to\"."
+    },
+    "fam": [
+      "fervor (noun)",
+      "fervently (adv)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "festive",
+    "w": "festive",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "festivo / alegre",
+    "def": "Cheerful and jolly; suitable for a festival or celebratory holiday.",
+    "ipa": "/ˈfestɪv/",
+    "ex": "The historic downtown plaza took on a festive atmosphere with thousands of glittering lights.",
+    "form": "festive",
+    "nat": "We enjoyed a wonderful festive dinner with friends on Christmas Eve.",
+    "syn": [
+      "celebratory",
+      "joyful"
+    ],
+    "ant": [
+      "gloomy",
+      "somber"
+    ],
+    "col": [
+      "festive season",
+      "festive mood",
+      "festive atmosphere"
+    ],
+    "mis": {
+      "bad": "The office was in a very festive ambient.",
+      "good": "The office had a very festive atmosphere.",
+      "why": "Do not use \"ambient\" for environment/vibe; use \"festive atmosphere\" or \"festive mood\"."
+    },
+    "fam": [
+      "festival (noun)",
+      "festivity (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "fetch",
+    "w": "fetch",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "buscar / trazer",
+    "def": "To go for and bring back someone or something; or sell for a specified price.",
+    "ipa": "/fetʃ/",
+    "ex": "Could you please fetch me the blue notebook sitting on my office desk?",
+    "form": "fetch",
+    "nat": "The rare first-edition book is expected to fetch thousands at the auction.",
+    "syn": [
+      "retrieve",
+      "bring"
+    ],
+    "ant": [],
+    "col": [
+      "fetch water",
+      "fetch a high price",
+      "fetch someone"
+    ],
+    "mis": {
+      "bad": "I went to search my jacket from the car.",
+      "good": "I went to fetch my jacket from the car.",
+      "why": "Use \"fetch\" (go and bring back) rather than literal \"search\" when you know where the item is."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "feud",
+    "w": "feud",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "inimizade prolongada / rixa",
+    "def": "A prolonged and bitter quarrel, dispute, or state of conflict between parties.",
+    "ipa": "/fjuːd/",
+    "ex": "A bitter legal feud between the two patent holders delayed the product release.",
+    "form": "feud",
+    "nat": "The historical feud between the rival families lasted for nearly a century.",
+    "syn": [
+      "quarrel",
+      "dispute"
+    ],
+    "ant": [
+      "harmony",
+      "alliance"
+    ],
+    "col": [
+      "family feud",
+      "bitter feud",
+      "feud between"
+    ],
+    "mis": {
+      "bad": "They had a long fight that feud them.",
+      "good": "They were caught in a long feud.",
+      "why": "Use \"feud\" as a noun with verbs like \"have a feud\" or \"be locked in a feud\"."
+    },
+    "fam": [
+      "feud (verb)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "fiber",
+    "w": "fiber",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "fibra (alimentar ou têxtil) / fibra óptica",
+    "def": "Dietary material that resists digestion; a thread of material; or optical fiber.",
+    "ipa": "/ˈfaɪbər/",
+    "ex": "Eating meals rich in dietary fiber helps maintain healthy digestion and steady blood sugar.",
+    "form": "fiber",
+    "nat": "High-speed fiber internet has been installed throughout the entire suburban neighborhood.",
+    "syn": [
+      "thread",
+      "roughage"
+    ],
+    "ant": [],
+    "col": [
+      "dietary fiber",
+      "optical fiber",
+      "high in fiber"
+    ],
+    "mis": {
+      "bad": "The doctor recommended eating more fibers.",
+      "good": "The doctor recommended eating more fiber.",
+      "why": "When referring to dietary roughage, \"fiber\" is uncountable in English."
+    },
+    "fam": [
+      "fibrous (adj)"
+    ],
+    "topics": [
+      "health",
+      "tech"
+    ]
+  },
+  {
+    "id": "fictional",
+    "w": "fictional",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "fictício / de ficção",
+    "def": "Relating to or occurring in fiction; invented rather than true.",
+    "ipa": "/ˈfɪkʃənl/",
+    "ex": "Sherlock Holmes is perhaps the most famous fictional detective in modern English literature.",
+    "form": "fictional",
+    "nat": "The novel is set in a fictional kingdom on the Mediterranean coast.",
+    "syn": [
+      "imaginary",
+      "invented"
+    ],
+    "ant": [
+      "real",
+      "factual"
+    ],
+    "col": [
+      "fictional character",
+      "fictional universe",
+      "purely fictional"
+    ],
+    "mis": {
+      "bad": "The detective is a fiction character.",
+      "good": "The detective is a fictional character.",
+      "why": "Use the adjective form \"fictional\" before nouns like character, world, or town."
+    },
+    "fam": [
+      "fiction (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "fiercely",
+    "w": "fiercely",
+    "pos": "adv",
+    "lvl": "B2",
+    "pt": "ferozmente / intensamente",
+    "def": "In a savagely violent, aggressive, or intensely determined manner.",
+    "ipa": "/ˈfɪrsli/",
+    "ex": "Global technology companies compete fiercely to attract the best machine learning research engineers.",
+    "form": "fiercely",
+    "nat": "The local residents fought fiercely to preserve their historic neighborhood park.",
+    "syn": [
+      "intensely",
+      "passionately"
+    ],
+    "ant": [
+      "mildly",
+      "weakly"
+    ],
+    "col": [
+      "compete fiercely",
+      "fiercely independent",
+      "fiercely loyal"
+    ],
+    "mis": {
+      "bad": "They competed very fierce for the contract.",
+      "good": "They competed fiercely for the contract.",
+      "why": "Use the adverb \"fiercely\" to modify verbs such as \"compete\", \"fight\", or \"protect\"."
+    },
+    "fam": [
+      "fierce (adj)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "fiery",
+    "w": "fiery",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "ardente / inflamado / impulsivo",
+    "def": "Consisting of fire, or having a passionate, quick-tempered nature or spicy taste.",
+    "ipa": "/ˈfaɪəri/",
+    "ex": "The young opposition politician delivered a fiery speech against corporate tax loopholes yesterday.",
+    "form": "fiery",
+    "nat": "This traditional Mexican chili sauce has a fiery kick that surprises tourists.",
+    "syn": [
+      "passionate",
+      "blazing"
+    ],
+    "ant": [
+      "calm",
+      "mild"
+    ],
+    "col": [
+      "fiery speech",
+      "fiery temper",
+      "fiery sunset"
+    ],
+    "mis": {
+      "bad": "The sauce is very fired.",
+      "good": "The sauce is very fiery / hot.",
+      "why": "Do not say \"fired\" (which means dismissed from a job); the adjective for spicy/blazing is \"fiery\"."
+    },
+    "fam": [
+      "fire (noun)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "finalize",
+    "w": "finalize",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "finalizar / concluir detalhes",
+    "def": "To complete or settle the remaining details of an arrangement or agreement.",
+    "ipa": "/ˈfaɪnəlaɪz/",
+    "ex": "The legal teams worked late into the night to finalize the acquisition contract.",
+    "form": "finalize",
+    "nat": "We should finalize our holiday travel itinerary before ticket prices rise again.",
+    "syn": [
+      "conclude",
+      "settle"
+    ],
+    "ant": [
+      "start",
+      "initiate"
+    ],
+    "col": [
+      "finalize a deal",
+      "finalize plans",
+      "finalize details"
+    ],
+    "mis": {
+      "bad": "We need to finalize about the contract terms.",
+      "good": "We need to finalize the contract terms.",
+      "why": "\"Finalize\" is transitive; do not insert \"about\" after the verb."
+    },
+    "fam": [
+      "final (adj)",
+      "finalization (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "firm",
+    "w": "firm",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "firme / sólido / decidido",
+    "def": "Solid and unyielding to pressure; or strongly established and resolute.",
+    "ipa": "/fɜːrm/",
+    "ex": "The company maintains a firm policy against sharing user data with outside advertisers.",
+    "form": "firm",
+    "nat": "Make sure you have a firm grip on the handlebars while riding.",
+    "syn": [
+      "solid",
+      "resolute"
+    ],
+    "ant": [
+      "soft",
+      "indecisive"
+    ],
+    "col": [
+      "firm belief",
+      "firm grip",
+      "firm foundation"
+    ],
+    "mis": {
+      "bad": "He gave me a very firmly handshake.",
+      "good": "He gave me a very firm handshake.",
+      "why": "Use the adjective \"firm\" to describe nouns like \"handshake\" or \"decision\"."
+    },
+    "fam": [
+      "firmly (adv)",
+      "firmness (noun)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ]
+  },
+  {
+    "id": "firsthand",
+    "w": "firsthand",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "em primeira mão / direto da fonte",
+    "def": "Coming directly from original observation or personal experience; direct.",
+    "ipa": "/ˌfɜːrstˈhænd/",
+    "ex": "Living abroad gives professionals firsthand experience navigating unfamiliar cultural and business environments.",
+    "form": "firsthand",
+    "nat": "She gave the police a firsthand account of the bank robbery.",
+    "syn": [
+      "direct",
+      "immediate"
+    ],
+    "ant": [
+      "secondhand",
+      "indirect"
+    ],
+    "col": [
+      "firsthand experience",
+      "firsthand knowledge",
+      "firsthand account"
+    ],
+    "mis": {
+      "bad": "I have experience in first hand with this issue.",
+      "good": "I have firsthand experience with this issue.",
+      "why": "Use the compound adjective \"firsthand\" before nouns: \"firsthand experience\", not \"in first hand\"."
+    },
+    "fam": [
+      "firsthand (adv)"
+    ],
+    "topics": [
+      "work",
+      "travel"
+    ]
+  },
+  {
+    "id": "fiscal",
+    "w": "fiscal",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "fiscal / orçamentário",
+    "def": "Relating to government or corporate revenue, taxation, and public spending.",
+    "ipa": "/ˈfɪskl/",
+    "ex": "The corporation reported higher net profits during the third quarter of the fiscal year.",
+    "form": "fiscal",
+    "nat": "Tight fiscal policy helped reduce government deficits across the euro area.",
+    "syn": [
+      "financial",
+      "monetary"
+    ],
+    "ant": [],
+    "col": [
+      "fiscal year",
+      "fiscal policy",
+      "fiscal deficit"
+    ],
+    "mis": {
+      "bad": "He works as a fiscal inspector in taxes.",
+      "good": "He works as a tax auditor / inspector.",
+      "why": "In Portuguese \"fiscal\" can be a noun (inspector/auditor); in English \"fiscal\" is strictly an adjective relating to budgets/taxes."
+    },
+    "fam": [
+      "fiscally (adv)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "fit",
+    "w": "fit",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "em boa forma / adequado",
+    "def": "In good physical health, especially because of regular physical exercise.",
+    "ipa": "/fɪt/",
+    "ex": "Running three times a week helped him stay remarkably fit and energized throughout winter.",
+    "form": "fit",
+    "nat": "The doctor confirmed she was physically fit to run the marathon.",
+    "syn": [
+      "healthy",
+      "in shape"
+    ],
+    "ant": [
+      "unfit",
+      "out of shape"
+    ],
+    "col": [
+      "stay fit",
+      "physically fit",
+      "keep fit"
+    ],
+    "mis": {
+      "bad": "These shoes do not suit me well (meaning wrong size).",
+      "good": "These shoes do not fit me well.",
+      "why": "\"Fit\" refers to size/measurements; \"suit\" refers to style or appropriateness."
+    },
+    "fam": [
+      "fitness (noun)",
+      "fit (verb)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "fitting",
+    "w": "fitting",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "adequado / apropriado",
+    "def": "Suitable or appropriate under the given circumstances.",
+    "ipa": "/ˈfɪtɪŋ/",
+    "ex": "A standing ovation was a fitting tribute to her thirty years of outstanding teaching.",
+    "form": "fitting",
+    "nat": "It seems fitting that the conference opens on International Women's Day.",
+    "syn": [
+      "appropriate",
+      "suitable"
+    ],
+    "ant": [
+      "unfitting",
+      "inappropriate"
+    ],
+    "col": [
+      "fitting tribute",
+      "fitting end",
+      "seem fitting"
+    ],
+    "mis": {
+      "bad": "It was a fittingly celebration for the team.",
+      "good": "It was a fitting celebration for the team.",
+      "why": "Use the adjective \"fitting\" before a noun, not the adverb \"fittingly\"."
+    },
+    "fam": [
+      "fittingly (adv)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "fixture",
+    "w": "fixture",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "peça fixa / evento tradicional permanente",
+    "def": "A piece of equipment fixed in position; or an established regular event.",
+    "ipa": "/ˈfɪkstʃər/",
+    "ex": "The annual international design summit has become a permanent fixture on our team calendar.",
+    "form": "fixture",
+    "nat": "The plumber installed new brass fixtures in both upstairs guest bathrooms.",
+    "syn": [
+      "installation",
+      "institution"
+    ],
+    "ant": [],
+    "col": [
+      "permanent fixture",
+      "plumbing fixtures",
+      "light fixture"
+    ],
+    "mis": {
+      "bad": "The lights fixtures were broken in the room.",
+      "good": "The light fixtures were broken in the room.",
+      "why": "When used as an adjective modifying \"fixtures\", use singular \"light\": \"light fixtures\"."
+    },
+    "fam": [
+      "fix (verb)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "flagrant",
+    "w": "flagrant",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "flagrante / escandaloso / descarado",
+    "def": "Conspicuously and outrageously bad, offensive, or reprehensible.",
+    "ipa": "/ˈfleɪɡrənt/",
+    "ex": "Leaking sensitive customer credit card details constitutes a flagrant violation of global privacy laws.",
+    "form": "flagrant",
+    "nat": "The referee showed an immediate red card for the player's flagrant foul.",
+    "syn": [
+      "blatant",
+      "glaring"
+    ],
+    "ant": [
+      "subtle",
+      "covert"
+    ],
+    "col": [
+      "flagrant violation",
+      "flagrant foul",
+      "flagrant disregard"
+    ],
+    "mis": {
+      "bad": "He was caught in flagrant with the money.",
+      "good": "He was caught red-handed with the money.",
+      "why": "False friend! In Portuguese \"em flagrante\" translates to \"caught red-handed\", not \"in flagrant\"."
+    },
+    "fam": [
+      "flagrantly (adv)"
+    ],
+    "topics": [
+      "security",
+      "abstract"
+    ]
+  },
+  {
+    "id": "flake",
+    "w": "flake",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "floco / lasca",
+    "def": "A small, flat, very thin piece of something, typically one that has broken off.",
+    "ipa": "/fleɪk/",
+    "ex": "Delicate white snow flakes drifted softly through the cold mountain air all morning.",
+    "form": "flakes",
+    "nat": "Dry wall paint was peeling off in large thin flakes.",
+    "syn": [
+      "chip",
+      "shaving"
+    ],
+    "ant": [],
+    "col": [
+      "snow flakes",
+      "paint flakes",
+      "chili flakes"
+    ],
+    "mis": {
+      "bad": "Dry skin was coming out in flakes of skin.",
+      "good": "Dry skin was flaking off.",
+      "why": "Use the verb \"flake off\" or simply say \"peeling in flakes\"."
+    },
+    "fam": [
+      "flake (verb)",
+      "flaky (adj)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ]
+  },
+  {
+    "id": "flamboyant",
+    "w": "flamboyant",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "extravagante / vistoso",
+    "def": "Tending to attract attention because of their exuberance, confidence, and stylish color.",
+    "ipa": "/flæmˈbɔɪənt/",
+    "ex": "The famous singer was known worldwide for his flamboyant costumes and energetic stage performances.",
+    "form": "flamboyant",
+    "nat": "She brought a flamboyant personality to an otherwise quiet academic department.",
+    "syn": [
+      "ostentatious",
+      "exuberant"
+    ],
+    "ant": [
+      "modest",
+      "understated"
+    ],
+    "col": [
+      "flamboyant style",
+      "flamboyant personality",
+      "flamboyant colors"
+    ],
+    "mis": {
+      "bad": "His clothes were very flamboyants.",
+      "good": "His clothes were very flamboyant.",
+      "why": "Adjectives never take a plural \"-s\" in English."
+    },
+    "fam": [
+      "flamboyance (noun)",
+      "flamboyantly (adv)"
+    ],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "flame",
+    "w": "flame",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "chama / labareda",
+    "def": "A hot glowing body of ignited gas that is generated by something on fire.",
+    "ipa": "/fleɪm/",
+    "ex": "The flickering candle flame cast long dancing shadows across the wooden living room walls.",
+    "form": "flame",
+    "nat": "Firefighters worked courageously to prevent the flames from spreading to nearby buildings.",
+    "syn": [
+      "fire",
+      "blaze"
+    ],
+    "ant": [],
+    "col": [
+      "burst into flames",
+      "open flame",
+      "tiny flame"
+    ],
+    "mis": {
+      "bad": "The building caught in flames quickly.",
+      "good": "The building burst into flames / went up in flames.",
+      "why": "The idiomatic expressions are \"burst into flames\" or \"go up in flames\", not \"caught in flames\"."
+    },
+    "fam": [
+      "flaming (adj)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ]
+  },
+  {
+    "id": "flare",
+    "w": "flare",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "intensificar-se subitamente / chamejar",
+    "def": "To burn with a sudden intensity, or suddenly erupt in violence or emotion.",
+    "ipa": "/fler/",
+    "ex": "Tensions flared between union leaders and corporate management during the prolonged wage negotiations.",
+    "form": "flared",
+    "nat": "The campfire flared brightly when dry pine needles were added.",
+    "syn": [
+      "erupt",
+      "blaze"
+    ],
+    "ant": [
+      "calm down",
+      "subside"
+    ],
+    "col": [
+      "tempers flare",
+      "tensions flare",
+      "flare up"
+    ],
+    "mis": {
+      "bad": "Tensions flared up themselves during the meeting.",
+      "good": "Tensions flared up during the meeting.",
+      "why": "\"Flare up\" is intransitive; do not use a reflexive pronoun (\"themselves\")."
+    },
+    "fam": [
+      "flare (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "flash",
+    "w": "flash",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "lampejo / flash / clarão",
+    "def": "A sudden brief burst of bright light or a sudden realization.",
+    "ipa": "/flæʃ/",
+    "ex": "A brilliant flash of lightning illuminated the entire dark mountain valley for one second.",
+    "form": "flash",
+    "nat": "In a flash of inspiration, she finally solved the elusive coding puzzle.",
+    "syn": [
+      "burst",
+      "gleam"
+    ],
+    "ant": [],
+    "col": [
+      "flash of lightning",
+      "in a flash",
+      "flash of genius"
+    ],
+    "mis": {
+      "bad": "The lightning made a big flash of light.",
+      "good": "There was a bright flash of lightning.",
+      "why": "Collocate \"flash of lightning\" naturally; avoid \"made a big flash\"."
+    },
+    "fam": [
+      "flash (verb)"
+    ],
+    "topics": [
+      "daily",
+      "science"
+    ]
+  },
+  {
+    "id": "flatter",
+    "w": "flatter",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "lisonjear / bajular",
+    "def": "To praise someone lavishly, often insincerely, or make someone appear attractive.",
+    "ipa": "/ˈflætər/",
+    "ex": "The junior executive tried to flatter the chief executive by laughing at every joke.",
+    "form": "flatter",
+    "nat": "That dark tailored jacket really flatters your shoulders and posture.",
+    "syn": [
+      "praise",
+      "compliment"
+    ],
+    "ant": [
+      "insult",
+      "criticize"
+    ],
+    "col": [
+      "flatter yourself",
+      "deeply flattered",
+      "flatter someone"
+    ],
+    "mis": {
+      "bad": "I was very flattering with your invitation.",
+      "good": "I was very flattered by your invitation.",
+      "why": "Use \"-ed\" for feelings (\"I was flattered\") and \"-ing\" for actions/things (\"a flattering dress\")."
+    },
+    "fam": [
+      "flattery (noun)",
+      "flattering (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "flaunt",
+    "w": "flaunt",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "ostentar / exibir-se",
+    "def": "To display something ostentatiously, especially in order to provoke envy or admiration.",
+    "ipa": "/flɔːnt/",
+    "ex": "He liked to flaunt his luxury sports car and designer watches in front of colleagues.",
+    "form": "flaunt",
+    "nat": "True leaders demonstrate quiet confidence rather than flaunting their executive authority.",
+    "syn": [
+      "show off",
+      "parade"
+    ],
+    "ant": [
+      "hide",
+      "conceal"
+    ],
+    "col": [
+      "flaunt wealth",
+      "flaunt success",
+      "openly flaunt"
+    ],
+    "mis": {
+      "bad": "He flaunted about his new sports car.",
+      "good": "He flaunted his new sports car.",
+      "why": "\"Flaunt\" is transitive; do not insert \"about\" after it."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "relationships"
+    ]
+  },
+  {
+    "id": "flaw",
+    "w": "flaw",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "falha / imperfeição / defeito",
+    "def": "A mark, fault, or other imperfection that mars a substance or system.",
+    "ipa": "/flɔː/",
+    "ex": "A critical security flaw was discovered in the third-party open-source encryption library today.",
+    "form": "flaw",
+    "nat": "The diamond was significantly cheaper because of a microscopic internal flaw.",
+    "syn": [
+      "defect",
+      "blemish"
+    ],
+    "ant": [
+      "perfection",
+      "strength"
+    ],
+    "col": [
+      "fatal flaw",
+      "security flaw",
+      "design flaw"
+    ],
+    "mis": {
+      "bad": "There is a flaw on the program code.",
+      "good": "There is a flaw in the program code.",
+      "why": "Use the preposition \"in\" with \"flaw\": \"a flaw in the code/system\"."
+    },
+    "fam": [
+      "flawed (adj)",
+      "flawless (adj)"
+    ],
+    "topics": [
+      "tech",
+      "security"
+    ]
+  },
+  {
+    "id": "flawless",
+    "w": "flawless",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "impecável / perfeito",
+    "def": "Without any blemishes, defects, or errors; completely perfect.",
+    "ipa": "/ˈflɔːləs/",
+    "ex": "Her English pronunciation and natural rhythm during the keynote address were almost flawless.",
+    "form": "flawless",
+    "nat": "The gymnastics champion delivered a flawless routine on the balance beam.",
+    "syn": [
+      "impeccable",
+      "perfect"
+    ],
+    "ant": [
+      "flawed",
+      "defective"
+    ],
+    "col": [
+      "flawless performance",
+      "flawless execution",
+      "flawless skin"
+    ],
+    "mis": {
+      "bad": "She gave a flawlessly performance on stage.",
+      "good": "She gave a flawless performance on stage.",
+      "why": "Use the adjective \"flawless\" before a noun like \"performance\"."
+    },
+    "fam": [
+      "flawlessly (adv)",
+      "flaw (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "fleet",
+    "w": "fleet",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "frota (veículos, navios)",
+    "def": "A group of ships, airplanes, or motor vehicles operating together under the same ownership.",
+    "ipa": "/fliːt/",
+    "ex": "The delivery startup replaced its entire commercial fleet with zero-emission electric cargo vans.",
+    "form": "fleet",
+    "nat": "The naval fleet conducted joint maritime security maneuvers across the Baltic Sea.",
+    "syn": [
+      "group",
+      "armada"
+    ],
+    "ant": [],
+    "col": [
+      "fleet of vehicles",
+      "commercial fleet",
+      "naval fleet"
+    ],
+    "mis": {
+      "bad": "The company owns a fleet of car.",
+      "good": "The company owns a fleet of cars / vehicles.",
+      "why": "Use plural nouns after \"fleet of\": \"fleet of cars\", \"fleet of aircraft\"."
+    },
+    "fam": [],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "fleeting",
+    "w": "fleeting",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "fugaz / efêmero",
+    "def": "Lasting for only a very short time; brief.",
+    "ipa": "/ˈfliːtɪŋ/",
+    "ex": "He caught only a fleeting glimpse of the deer before it leaped into the forest.",
+    "form": "fleeting",
+    "nat": "Childhood is a fleeting phase, so cherish every moment with your young kids.",
+    "syn": [
+      "brief",
+      "transient"
+    ],
+    "ant": [
+      "lasting",
+      "permanent"
+    ],
+    "col": [
+      "fleeting glimpse",
+      "fleeting moment",
+      "fleeting visit"
+    ],
+    "mis": {
+      "bad": "Happiness was only a fleetingly feeling for him.",
+      "good": "Happiness was only a fleeting feeling for him.",
+      "why": "Use the adjective \"fleeting\" before nouns, not \"fleetingly\"."
+    },
+    "fam": [
+      "fleet (verb)"
+    ],
+    "topics": [
+      "abstract",
+      "relationships"
+    ]
+  },
+  {
+    "id": "flesh",
+    "w": "flesh",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "carne (corpo humano/animal) / polpa de fruta",
+    "def": "The soft substance consisting of muscle and fat that forms part of the body.",
+    "ipa": "/fleʃ/",
+    "ex": "The surgeon carefully examined the damaged flesh around the deep laceration before stitching.",
+    "form": "flesh",
+    "nat": "The juicy mango has sweet, aromatic orange flesh surrounding the flat seed.",
+    "syn": [
+      "muscle",
+      "tissue"
+    ],
+    "ant": [
+      "bone",
+      "skeleton"
+    ],
+    "col": [
+      "flesh and blood",
+      "in the flesh",
+      "sweet flesh"
+    ],
+    "mis": {
+      "bad": "I bought two pounds of bovine flesh at the butcher.",
+      "good": "I bought two pounds of beef at the butcher.",
+      "why": "Do not use \"flesh\" for meat you eat; use \"meat\", \"beef\", \"chicken\", or \"pork\"."
+    },
+    "fam": [
+      "fleshy (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "flexible",
+    "w": "flexible",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "flexível / adaptável",
+    "def": "Capable of bending easily without breaking; or ready and able to adapt to changes.",
+    "ipa": "/ˈfleksəbl/",
+    "ex": "Offering flexible working hours helps tech companies attract and retain experienced working parents.",
+    "form": "flexible",
+    "nat": "Silicon tubing is heat-resistant and extremely flexible for chemical laboratories.",
+    "syn": [
+      "adaptable",
+      "pliable"
+    ],
+    "ant": [
+      "rigid",
+      "inflexible"
+    ],
+    "col": [
+      "flexible schedule",
+      "flexible hours",
+      "remain flexible"
+    ],
+    "mis": {
+      "bad": "My manager is very flexible with the times.",
+      "good": "My manager is very flexible about working hours.",
+      "why": "Use \"flexible about\" or \"flexible with rules/hours\"."
+    },
+    "fam": [
+      "flexibility (noun)",
+      "flexibly (adv)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "flicker",
+    "w": "flicker",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "piscar / oscilar (luz, chama)",
+    "def": "To shine with an unsteady or wavering light; flutter rapidly.",
+    "ipa": "/ˈflɪkər/",
+    "ex": "The fluorescent light in the office hallway started to flicker whenever someone walked by.",
+    "form": "flicker",
+    "nat": "A flicker of hope reappeared when rescue teams reached the remote mountain village.",
+    "syn": [
+      "glimmer",
+      "twinkle"
+    ],
+    "ant": [],
+    "col": [
+      "flicker out",
+      "candle flickers",
+      "flicker of hope"
+    ],
+    "mis": {
+      "bad": "The monitor flickered on and off continuously.",
+      "good": "The monitor flickered continuously.",
+      "why": "Say \"flickered continuously\" or \"kept flickering\"; \"on and off\" is redundant with \"flicker\"."
+    },
+    "fam": [
+      "flicker (noun)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "fling",
+    "w": "fling",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "arremessar / lançar com força",
+    "def": "To throw or hurl forcefully, casually, or carelessly.",
+    "ipa": "/flɪŋ/",
+    "ex": "After working twelve straight hours, he flung his heavy backpack onto the living room couch.",
+    "form": "flung",
+    "nat": "She flung open the heavy wooden shutters to let in the morning sunlight.",
+    "syn": [
+      "hurl",
+      "toss"
+    ],
+    "ant": [],
+    "col": [
+      "fling open",
+      "fling yourself into",
+      "fling down"
+    ],
+    "mis": {
+      "bad": "He flinged his coat on the chair.",
+      "good": "He flung his coat onto the chair.",
+      "why": "Irregular past tense: fling — flung — flung."
+    },
+    "fam": [
+      "fling (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "flip",
+    "w": "flip",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "virar / folhear / alternar",
+    "def": "To turn over with a quick movement, or toss a coin.",
+    "ipa": "/flɪp/",
+    "ex": "Let us flip a coin to decide who gives the opening conference presentation.",
+    "form": "flip",
+    "nat": "He flipped through the textbook to review key grammar concepts before the exam.",
+    "syn": [
+      "turn over",
+      "toss"
+    ],
+    "ant": [],
+    "col": [
+      "flip a coin",
+      "flip through",
+      "flip the switch"
+    ],
+    "mis": {
+      "bad": "She fliped the page of the magazine.",
+      "good": "She flipped the page of the magazine.",
+      "why": "Double the consonant when adding -ed or -ing: \"flipped\", \"flipping\"."
+    },
+    "fam": [
+      "flip (noun)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "float",
+    "w": "float",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "flutuar / boiar",
+    "def": "To rest or move on or near the surface of a liquid without sinking.",
+    "ipa": "/floʊt/",
+    "ex": "Hot air balloons float gently over the dramatic rock valleys of Cappadocia at sunrise.",
+    "form": "float",
+    "nat": "Oil floats on water because its physical density is lower than water density.",
+    "syn": [
+      "drift",
+      "hover"
+    ],
+    "ant": [
+      "sink"
+    ],
+    "col": [
+      "float on water",
+      "float in the air",
+      "float an idea"
+    ],
+    "mis": {
+      "bad": "The wood was floating in top of the lake.",
+      "good": "The wood was floating on top of the lake.",
+      "why": "Use \"on top of\", not \"in top of\"."
+    },
+    "fam": [
+      "floating (adj)"
+    ],
+    "topics": [
+      "science",
+      "travel"
+    ]
+  },
+  {
+    "id": "flock",
+    "w": "flock",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "bando (pássaros) / rebanho (ovelhas)",
+    "def": "A number of birds or domestic animals of one kind feeding or resting together.",
+    "ipa": "/flɑːk/",
+    "ex": "A large flock of migratory birds flew south across the clear autumn sky yesterday.",
+    "form": "flock",
+    "nat": "Tourists flock to the historic beach town every summer to enjoy warm weather.",
+    "syn": [
+      "herd",
+      "swarm"
+    ],
+    "ant": [],
+    "col": [
+      "flock of birds",
+      "flock of sheep",
+      "flock to"
+    ],
+    "mis": {
+      "bad": "We saw a group of birds flying south.",
+      "good": "We saw a flock of birds flying south.",
+      "why": "Use the specific collective noun \"flock\" for birds and sheep, rather than generic \"group\"."
+    },
+    "fam": [
+      "flock (verb)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "flourish",
+    "w": "flourish",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "florescer / prosperar",
+    "def": "To grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment.",
+    "ipa": "/ˈflɜːrɪʃ/",
+    "ex": "Independent coffee shops and bookshops flourish in this vibrant, walkable university neighborhood.",
+    "form": "flourish",
+    "nat": "Her confidence flourished after receiving constructive feedback from the engineering director.",
+    "syn": [
+      "thrive",
+      "prosper"
+    ],
+    "ant": [
+      "wither",
+      "decline"
+    ],
+    "col": [
+      "flourish and grow",
+      "continue to flourish",
+      "flourish under"
+    ],
+    "mis": {
+      "bad": "Small businesses are flourishing very well here.",
+      "good": "Small businesses are flourishing here.",
+      "why": "Do not say \"flourishing very well\"; \"flourish\" already means develop very well."
+    },
+    "fam": [],
+    "topics": [
+      "business",
+      "culture"
+    ]
+  },
+  {
+    "id": "fluent",
+    "w": "fluent",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "fluente",
+    "def": "Able to express oneself easily, smoothly, and articulately in a language.",
+    "ipa": "/ˈfluːənt/",
+    "ex": "She became remarkably fluent in Portuguese after living and working in São Paulo for two years.",
+    "form": "fluent",
+    "nat": "Being fluent in English opens up international remote work opportunities for global software developers.",
+    "syn": [
+      "articulate",
+      "smooth"
+    ],
+    "ant": [
+      "hesitant",
+      "stammering"
+    ],
+    "col": [
+      "fluent in English",
+      "fluent speaker",
+      "highly fluent"
+    ],
+    "mis": {
+      "bad": "He speaks a very fluent English.",
+      "good": "He speaks fluent English / is fluent in English.",
+      "why": "Say \"speaks fluent English\" without \"a\", or \"is fluent in English\"."
+    },
+    "fam": [
+      "fluency (noun)",
+      "fluently (adv)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "fluff",
+    "w": "fluff",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "penugem / felpa / coisa fútil",
+    "def": "Soft fibers from fabrics or feathers that accumulate; or superficial trivial matter.",
+    "ipa": "/flʌf/",
+    "ex": "Use a sticky lint roller to remove white cat fluff from your dark navy suit.",
+    "form": "fluff",
+    "nat": "The initial draft was thirty percent informative content and seventy percent corporate fluff.",
+    "syn": [
+      "lint",
+      "fuzz"
+    ],
+    "ant": [],
+    "col": [
+      "cat fluff",
+      "corporate fluff",
+      "bit of fluff"
+    ],
+    "mis": {
+      "bad": "Please remove the pelugem from the sofa.",
+      "good": "Please remove the fluff / lint from the sofa.",
+      "why": "Use \"fluff\" or \"lint\" for soft fibers that stick to clothes and furniture."
+    },
+    "fam": [
+      "fluffy (adj)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "fluid",
+    "w": "fluid",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "fluido / líquido",
+    "def": "A substance that has no fixed shape and yields easily to external pressure.",
+    "ipa": "/ˈfluːɪd/",
+    "ex": "Doctors advise drinking plenty of fluids like warm tea and electrolyte water when sick.",
+    "form": "fluids",
+    "nat": "Brake fluid levels must be inspected regularly to maintain vehicle stopping performance.",
+    "syn": [
+      "liquid",
+      "solution"
+    ],
+    "ant": [
+      "solid"
+    ],
+    "col": [
+      "intake of fluids",
+      "bodily fluids",
+      "brake fluid"
+    ],
+    "mis": {
+      "bad": "Drink many fluids when you have a cold.",
+      "good": "Drink plenty of fluids when you have a cold.",
+      "why": "Collocate \"plenty of fluids\" or \"lots of fluids\", rather than \"many fluids\"."
+    },
+    "fam": [
+      "fluid (adj)",
+      "fluidity (noun)"
+    ],
+    "topics": [
+      "health",
+      "science"
+    ]
+  },
+  {
+    "id": "fluke",
+    "w": "fluke",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "golpe de sorte / acaso",
+    "def": "An unlikely chance occurrence, especially a surprising piece of luck.",
+    "ipa": "/fluːk/",
+    "ex": "Winning the regional coding competition on his first try was definitely not a lucky fluke.",
+    "form": "fluke",
+    "nat": "Their first viral video was a complete fluke that happened by pure accident.",
+    "syn": [
+      "stroke of luck",
+      "coincidence"
+    ],
+    "ant": [
+      "misfortune"
+    ],
+    "col": [
+      "lucky fluke",
+      "pure fluke",
+      "complete fluke"
+    ],
+    "mis": {
+      "bad": "It was by a fluke that we won.",
+      "good": "It was a fluke that we won.",
+      "why": "Use \"it was a fluke\" directly as a noun predicate, not \"by a fluke\"."
+    },
+    "fam": [],
+    "topics": [
+      "abstract",
+      "daily"
+    ]
+  },
+  {
+    "id": "flush",
+    "w": "flush",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "limpar (cache/tubulação) / dar descarga / ruborizar",
+    "def": "To cleanse by causing water to pass through; clear cache data; or blush red.",
+    "ipa": "/flʌʃ/",
+    "ex": "Developers should flush the Redis cache whenever deploying breaking updates to user profile schemas.",
+    "form": "flush",
+    "nat": "Her cheeks flushed red with embarrassment when her microphone unmuted unexpectedly.",
+    "syn": [
+      "purge",
+      "blush"
+    ],
+    "ant": [],
+    "col": [
+      "flush the cache",
+      "flush the toilet",
+      "flush with embarrassment"
+    ],
+    "mis": {
+      "bad": "Remember of flush the toilet.",
+      "good": "Remember to flush the toilet.",
+      "why": "Follow \"remember\" with an infinitive for duties: \"remember to flush\"."
+    },
+    "fam": [
+      "flush (noun)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "fold",
+    "w": "fold",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "dobrar / cruzar (braços)",
+    "def": "To bend something over on itself so that one part covers another.",
+    "ipa": "/foʊld/",
+    "ex": "Please fold the clean laundry neatly before placing it inside the bedroom wardrobe.",
+    "form": "fold",
+    "nat": "He sat quietly with his arms folded while listening to the keynote lecture.",
+    "syn": [
+      "crease",
+      "bend"
+    ],
+    "ant": [
+      "unfold",
+      "open"
+    ],
+    "col": [
+      "fold your arms",
+      "fold neatly",
+      "fold in half"
+    ],
+    "mis": {
+      "bad": "He doblated the paper in half.",
+      "good": "He folded the paper in half.",
+      "why": "The English verb is \"fold\", not a Portuguese loanword."
+    },
+    "fam": [
+      "unfold (verb)",
+      "folder (noun)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "fond",
+    "w": "fond",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "afeiçoado / que gosta muito",
+    "def": "Having an affection or liking for someone or something; foolishly affectionate.",
+    "ipa": "/fɑːnd/",
+    "ex": "I have very fond memories of spending summer vacations at my grandparents' farm.",
+    "form": "fond",
+    "nat": "She is extremely fond of classical piano music and attends concerts regularly.",
+    "syn": [
+      "affectionate",
+      "caring"
+    ],
+    "ant": [
+      "indifferent",
+      "hostile"
+    ],
+    "col": [
+      "fond memories",
+      "fond of",
+      "grow fond of"
+    ],
+    "mis": {
+      "bad": "I am very fond for Italian cooking.",
+      "good": "I am very fond of Italian cooking.",
+      "why": "Always use the preposition \"of\" after \"fond\": \"fond of something\"."
+    },
+    "fam": [
+      "fondness (noun)",
+      "fondly (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "foolish",
+    "w": "foolish",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "tolo / insensato",
+    "def": "Lacking good sense or judgment; unwise and imprudent.",
+    "ipa": "/ˈfuːlɪʃ/",
+    "ex": "It would be foolish to deploy unverified database migrations directly to the live server.",
+    "form": "foolish",
+    "nat": "He felt foolish when he realized he had worn mismatched shoes to work.",
+    "syn": [
+      "unwise",
+      "silly"
+    ],
+    "ant": [
+      "sensible",
+      "wise"
+    ],
+    "col": [
+      "foolish mistake",
+      "foolish decision",
+      "look foolish"
+    ],
+    "mis": {
+      "bad": "It was a fool mistake to click that phishing link.",
+      "good": "It was a foolish mistake to click that phishing link.",
+      "why": "Use the adjective \"foolish\" before nouns; \"fool\" is a noun."
+    },
+    "fam": [
+      "fool (noun)",
+      "foolishly (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "footnote",
+    "w": "footnote",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "nota de rodapé / detalhe secundário",
+    "def": "An ancillary piece of information printed at the bottom of a page.",
+    "ipa": "/ˈfʊtnoʊt/",
+    "ex": "Always consult the explanatory footnote at the bottom of the table for calculation definitions.",
+    "form": "footnote",
+    "nat": "The scandal will likely become just a brief footnote in the company's long history.",
+    "syn": [
+      "annotation",
+      "citation"
+    ],
+    "ant": [],
+    "col": [
+      "explanatory footnote",
+      "brief footnote",
+      "footnote to history"
+    ],
+    "mis": {
+      "bad": "Check the footnote on the bottom of the page.",
+      "good": "Check the footnote at the bottom of the page.",
+      "why": "Use \"at the bottom of the page\", not \"on\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "footage",
+    "w": "footage",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "filmadora / imagens gravadas",
+    "def": "Recorded film material or video representing a specific event.",
+    "ipa": "/ˈfʊtɪdʒ/",
+    "ex": "The police reviewed hours of security camera footage to identify the suspect vehicle.",
+    "form": "footage",
+    "nat": "Documentary filmmakers captured extraordinary drone footage of the erupting Icelandic volcano.",
+    "syn": [
+      "recording",
+      "video"
+    ],
+    "ant": [],
+    "col": [
+      "security footage",
+      "archive footage",
+      "raw footage"
+    ],
+    "mis": {
+      "bad": "They showed many footages of the accident.",
+      "good": "They showed hours of footage / a lot of footage of the accident.",
+      "why": "\"Footage\" is uncountable in English; do not pluralize to \"footages\"."
+    },
+    "fam": [],
+    "topics": [
+      "tech",
+      "culture"
+    ]
+  }
+]

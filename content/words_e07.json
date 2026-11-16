@@ -1,0 +1,5000 @@
+[
+  {
+    "id": "machinery",
+    "w": "machinery",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "máquinas / maquinário",
+    "def": "Machines collectively, or the components of a machine.",
+    "ipa": "/məˈʃiːnəri/",
+    "ex": "Workers must wear protective yellow helmets when operating heavy industrial machinery in the warehouse.",
+    "form": "machinery",
+    "nat": "The agricultural cooperative purchased modern machinery to speed up autumn grain harvesting.",
+    "syn": [
+      "equipment",
+      "apparatus"
+    ],
+    "ant": [],
+    "col": [
+      "heavy machinery",
+      "industrial machinery",
+      "piece of machinery"
+    ],
+    "mis": {
+      "bad": "The company bought new machineries yesterday.",
+      "good": "The company bought new machinery yesterday.",
+      "why": "\"Machinery\" is uncountable; never add an \"-s\" or use \"machineries\"."
+    },
+    "fam": [
+      "machine (noun)"
+    ],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "madness",
+    "w": "madness",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "loucura / insanidade / insensatez",
+    "def": "The state of being mentally ill, or extremely foolish behavior.",
+    "ipa": "/ˈmædnəs/",
+    "ex": "Driving through a severe blizzard without snow tires is complete madness on mountain passes.",
+    "form": "madness",
+    "nat": "During holiday sales, the downtown shopping mall turns into utter madness and chaos.",
+    "syn": [
+      "insanity",
+      "folly"
+    ],
+    "ant": [
+      "sanity",
+      "wisdom"
+    ],
+    "col": [
+      "complete madness",
+      "sheer madness",
+      "utter madness"
+    ],
+    "mis": {
+      "bad": "It is a madness to drive so fast.",
+      "good": "It is madness to drive so fast.",
+      "why": "Omit the indefinite article: say \"it is madness\", not \"a madness\"."
+    },
+    "fam": [
+      "mad (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "daily"
+    ]
+  },
+  {
+    "id": "magical",
+    "w": "magical",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "mágico / encantador",
+    "def": "Relating to, using, or resembling magic; wonderful or enchanting.",
+    "ipa": "/ˈmædʒɪkl/",
+    "ex": "Watching the aurora borealis illuminate the night sky was truly a magical travel experience.",
+    "form": "magical",
+    "nat": "The children listened with open mouths to the magical fairy tale about enchanted castles.",
+    "syn": [
+      "enchanting",
+      "mystical"
+    ],
+    "ant": [
+      "ordinary",
+      "mundane"
+    ],
+    "col": [
+      "magical experience",
+      "magical evening",
+      "truly magical"
+    ],
+    "mis": {
+      "bad": "We spent a magic evening together.",
+      "good": "We spent a magical evening together.",
+      "why": "Use \"magical\" for figurative or delightful experiences; \"magic\" usually refers to literal illusionist acts."
+    },
+    "fam": [
+      "magic (noun)",
+      "magician (noun)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "magistrate",
+    "w": "magistrate",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "magistrado / juiz de pequenas causas",
+    "def": "A civil officer or lay judge who administers the law, especially in minor offenses.",
+    "ipa": "/ˈmædʒɪstreɪt/",
+    "ex": "The local magistrate ordered the landlord to refund the tenant's security deposit immediately.",
+    "form": "magistrate",
+    "nat": "Minor traffic infractions are usually handled quickly before a city magistrate rather than a jury.",
+    "syn": [
+      "judge",
+      "justice"
+    ],
+    "ant": [],
+    "col": [
+      "appear before a magistrate",
+      "local magistrate",
+      "city magistrate"
+    ],
+    "mis": {
+      "bad": "The case was presented to a magistrated judge.",
+      "good": "The case was presented to a local magistrate.",
+      "why": "\"Magistrate\" is a noun referring to the official; do not invent \"magistrated\"."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "culture"
+    ]
+  },
+  {
+    "id": "magnify",
+    "w": "magnify",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "ampliar / aumentar / exagerar",
+    "def": "To make something appear larger than it is, especially with a lens, or intensify.",
+    "ipa": "/ˈmæɡnɪfaɪ/",
+    "ex": "The laboratory microscope will magnify tiny bacteria cells up to one thousand times clearly.",
+    "form": "magnify",
+    "nat": "Spreading unverified rumors online will only magnify unnecessary panic during public health emergencies.",
+    "syn": [
+      "enlarge",
+      "amplify"
+    ],
+    "ant": [
+      "reduce",
+      "diminish"
+    ],
+    "col": [
+      "magnify an image",
+      "magnify problems",
+      "magnify ten times"
+    ],
+    "mis": {
+      "bad": "The lens magnifies up the picture.",
+      "good": "The lens magnifies the picture.",
+      "why": "Do not add \"up\" after \"magnify\"; it takes a direct object."
+    },
+    "fam": [
+      "magnification (noun)",
+      "magnifier (noun)"
+    ],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "magnitude",
+    "w": "magnitude",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "magnitude / grandeza / dimensão",
+    "def": "The great size or extent of something, or a numerical measure of earthquake intensity.",
+    "ipa": "/ˈmæɡnɪtuːd/",
+    "ex": "Government officials did not immediately realize the tremendous magnitude of the environmental disaster.",
+    "form": "magnitude",
+    "nat": "A powerful earthquake of magnitude seven struck off the southern coast early this morning.",
+    "syn": [
+      "scale",
+      "immensity"
+    ],
+    "ant": [
+      "smallness",
+      "insignificance"
+    ],
+    "col": [
+      "order of magnitude",
+      "tremendous magnitude",
+      "magnitude of the problem"
+    ],
+    "mis": {
+      "bad": "An earthquake with magnitude seven occurred.",
+      "good": "An earthquake of magnitude seven occurred.",
+      "why": "Use \"of magnitude [number]\", not \"with magnitude\"."
+    },
+    "fam": [
+      "magnify (verb)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "maiden",
+    "w": "maiden",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "inaugural / de estreia",
+    "def": "Being the first of its kind; inaugural.",
+    "ipa": "/ˈmeɪdn/",
+    "ex": "The luxury ocean liner departed Southampton on its historic maiden voyage across the Atlantic.",
+    "form": "maiden",
+    "nat": "The newly elected senator delivered her maiden speech before a crowded congressional chamber yesterday.",
+    "syn": [
+      "inaugural",
+      "initial"
+    ],
+    "ant": [
+      "final"
+    ],
+    "col": [
+      "maiden voyage",
+      "maiden flight",
+      "maiden speech"
+    ],
+    "mis": {
+      "bad": "The ship made its initial maiden voyage.",
+      "good": "The ship made its maiden voyage.",
+      "why": "\"Maiden voyage\" already means the first trip; avoid combining with \"initial\"."
+    },
+    "fam": [],
+    "topics": [
+      "travel",
+      "culture"
+    ]
+  },
+  {
+    "id": "mainstream",
+    "w": "mainstream",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "convencional / popular / de grande público",
+    "def": "Belonging to or characteristic of the prevailing current or direction of activity or style.",
+    "ipa": "/ˈmeɪnstriːm/",
+    "ex": "Electric vehicles have moved rapidly from a niche hobby into mainstream consumer adoption worldwide.",
+    "form": "mainstream",
+    "nat": "Alternative indie musicians often prefer independent record labels over large mainstream media conglomerates.",
+    "syn": [
+      "conventional",
+      "prevalent"
+    ],
+    "ant": [
+      "niche",
+      "alternative"
+    ],
+    "col": [
+      "mainstream media",
+      "mainstream adoption",
+      "enter the mainstream"
+    ],
+    "mis": {
+      "bad": "The idea entered into the mainstream.",
+      "good": "The idea entered the mainstream.",
+      "why": "\"Enter\" takes a direct object: \"entered the mainstream\", not \"into\"."
+    },
+    "fam": [
+      "mainstream (noun)"
+    ],
+    "topics": [
+      "culture",
+      "business"
+    ]
+  },
+  {
+    "id": "majestic",
+    "w": "majestic",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "majestoso / imponente",
+    "def": "Having or showing impressive beauty or dignity.",
+    "ipa": "/məˈdʒestɪk/",
+    "ex": "Tourists marveled at the majestic snow-capped peaks rising above the emerald green alpine lake.",
+    "form": "majestic",
+    "nat": "An eagle soared gracefully over the deep river canyon in truly majestic flight yesterday.",
+    "syn": [
+      "magnificent",
+      "grand"
+    ],
+    "ant": [
+      "modest",
+      "humble"
+    ],
+    "col": [
+      "majestic mountain",
+      "majestic view",
+      "truly majestic"
+    ],
+    "mis": {
+      "bad": "The palace has a majestic appearance of outside.",
+      "good": "The palace has a majestic appearance on the outside.",
+      "why": "Say \"on the outside\", not \"of outside\"."
+    },
+    "fam": [
+      "majesty (noun)",
+      "majestically (adv)"
+    ],
+    "topics": [
+      "travel",
+      "culture"
+    ]
+  },
+  {
+    "id": "malice",
+    "w": "malice",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "maldade / má-fé / malevolência",
+    "def": "The intention or desire to do evil; ill will.",
+    "ipa": "/ˈmælɪs/",
+    "ex": "The journalist stated clearly that her critical investigation was conducted without any personal malice.",
+    "form": "malice",
+    "nat": "The cybercriminal demonstrated clear malice by deploying ransomware that crippled local hospital systems.",
+    "syn": [
+      "spite",
+      "ill will"
+    ],
+    "ant": [
+      "benevolence",
+      "goodwill"
+    ],
+    "col": [
+      "with malice",
+      "without malice",
+      "bear malice"
+    ],
+    "mis": {
+      "bad": "He did it for malice.",
+      "good": "He did it out of malice / with malice.",
+      "why": "The standard idiom is \"do something out of malice\"."
+    },
+    "fam": [
+      "malicious (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "security"
+    ]
+  },
+  {
+    "id": "malicious",
+    "w": "malicious",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "malicioso / nocivo / mal-intencionado",
+    "def": "Characterized by malice; intending or intended to do harm.",
+    "ipa": "/məˈlɪʃəs/",
+    "ex": "The security team blocked suspicious incoming traffic originating from a known malicious server network.",
+    "form": "malicious",
+    "nat": "Spreading malicious rumors about colleagues can lead to disciplinary termination in corporate settings.",
+    "syn": [
+      "spiteful",
+      "malevolent"
+    ],
+    "ant": [
+      "benevolent",
+      "kind"
+    ],
+    "col": [
+      "malicious software",
+      "malicious intent",
+      "malicious attack"
+    ],
+    "mis": {
+      "bad": "He sent me a malicious link in intention to hack.",
+      "good": "He sent me a malicious link with the intention of hacking.",
+      "why": "Say \"with the intention of + -ing\"."
+    },
+    "fam": [
+      "malice (noun)",
+      "maliciously (adv)"
+    ],
+    "topics": [
+      "security",
+      "tech"
+    ]
+  },
+  {
+    "id": "malign",
+    "w": "malign",
+    "pos": "verb",
+    "lvl": "B2+",
+    "pt": "caluniar / difamar",
+    "def": "To speak about someone in a spitefully critical manner.",
+    "ipa": "/məˈlaɪn/",
+    "ex": "Competitors tried unfairly to malign the startup's reputation by posting anonymous fabricated negative reviews.",
+    "form": "malign",
+    "nat": "Public figures often find it difficult to stop tabloids that deliberately malign their families.",
+    "syn": [
+      "defame",
+      "slander"
+    ],
+    "ant": [
+      "praise",
+      "laud"
+    ],
+    "col": [
+      "malign someone's reputation",
+      "unfairly malign",
+      "malign a character"
+    ],
+    "mis": {
+      "bad": "He maligned about his former manager.",
+      "good": "He maligned his former manager.",
+      "why": "\"Malign\" is transitive; do not insert the preposition \"about\"."
+    },
+    "fam": [
+      "malign (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "work"
+    ]
+  },
+  {
+    "id": "malleable",
+    "w": "malleable",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "maleável / moldável / flexível",
+    "def": "Able to be hammered or pressed permanently out of shape without breaking, or easily influenced.",
+    "ipa": "/ˈmæliəbl/",
+    "ex": "Pure gold is an extraordinarily malleable metal that can be hammered into microscopic sheets.",
+    "form": "malleable",
+    "nat": "Young children possess remarkably malleable minds that absorb new foreign languages with incredible ease.",
+    "syn": [
+      "pliable",
+      "adaptable"
+    ],
+    "ant": [
+      "rigid",
+      "inflexible"
+    ],
+    "col": [
+      "malleable metal",
+      "malleable mind",
+      "highly malleable"
+    ],
+    "mis": {
+      "bad": "The iron becomes malleable with high temperatures.",
+      "good": "The iron becomes malleable at high temperatures.",
+      "why": "Use \"at high temperatures\", not \"with\"."
+    },
+    "fam": [
+      "malleability (noun)"
+    ],
+    "topics": [
+      "science",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mammoth",
+    "w": "mammoth",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "gigantesco / colossal",
+    "def": "Huge; gigantic.",
+    "ipa": "/ˈmæməθ/",
+    "ex": "Organizing the international climate conference proved to be a mammoth undertaking for the committee.",
+    "form": "mammoth",
+    "nat": "The tech conglomerate invested a mammoth twenty billion dollars into generative neural infrastructure projects.",
+    "syn": [
+      "gigantic",
+      "colossal"
+    ],
+    "ant": [
+      "tiny",
+      "minute"
+    ],
+    "col": [
+      "mammoth task",
+      "mammoth project",
+      "mammoth effort"
+    ],
+    "mis": {
+      "bad": "It was a mammoth of a project.",
+      "good": "It was a mammoth project / a mammoth task.",
+      "why": "Use \"mammoth\" directly as an adjective before the noun: \"a mammoth task\"."
+    },
+    "fam": [
+      "mammoth (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "manageable",
+    "w": "manageable",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "gerenciável / tratável / viável",
+    "def": "Able to be controlled, handled, or dealt with without undue difficulty.",
+    "ipa": "/ˈmænɪdʒəbl/",
+    "ex": "Breaking large software feature requests into small manageable user stories prevents developer burnout effectively.",
+    "form": "manageable",
+    "nat": "With regular daily study habits, achieving conversational English fluency becomes a completely manageable goal.",
+    "syn": [
+      "controllable",
+      "achievable"
+    ],
+    "ant": [
+      "unmanageable",
+      "difficult"
+    ],
+    "col": [
+      "manageable workload",
+      "manageable chunks",
+      "perfectly manageable"
+    ],
+    "mis": {
+      "bad": "The workload is manageable for do.",
+      "good": "The workload is manageable to handle / manageable.",
+      "why": "Avoid \"manageable for do\"; use \"manageable\" alone or \"manageable to handle\"."
+    },
+    "fam": [
+      "manage (verb)",
+      "management (noun)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "management",
+    "w": "management",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "gestão / administração / diretoria",
+    "def": "The process of dealing with or controlling things or people, or the executive team.",
+    "ipa": "/ˈmænɪdʒmənt/",
+    "ex": "Effective time management is the most valuable professional skill for remote software engineering teams.",
+    "form": "management",
+    "nat": "Senior management decided to approve flexible hybrid working hours starting the first of January.",
+    "syn": [
+      "administration",
+      "direction"
+    ],
+    "ant": [],
+    "col": [
+      "time management",
+      "senior management",
+      "project management"
+    ],
+    "mis": {
+      "bad": "I want to speak with the gerency.",
+      "good": "I want to speak with management / the manager.",
+      "why": "In Portuguese \"gerência\" translates to \"management\" or \"the manager\", never \"gerency\"."
+    },
+    "fam": [
+      "manage (verb)",
+      "manager (noun)"
+    ],
+    "topics": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "id": "mandatory",
+    "w": "mandatory",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "obrigatório / mandatório",
+    "def": "Required by law or rules; compulsory.",
+    "ipa": "/ˈmændətɔːri/",
+    "ex": "Wearing safety goggles and closed-toe footwear is strictly mandatory inside the chemistry research laboratory.",
+    "form": "mandatory",
+    "nat": "Attending the Monday morning engineering sprint planning meeting is mandatory for all team developers.",
+    "syn": [
+      "compulsory",
+      "obligatory"
+    ],
+    "ant": [
+      "optional",
+      "voluntary"
+    ],
+    "col": [
+      "mandatory requirement",
+      "strictly mandatory",
+      "mandatory attendance"
+    ],
+    "mis": {
+      "bad": "This meeting is mandatory for everyone attend.",
+      "good": "This meeting is mandatory for everyone to attend.",
+      "why": "Remember the infinitive \"to\": \"mandatory for everyone to attend\"."
+    },
+    "fam": [
+      "mandate (noun)"
+    ],
+    "topics": [
+      "work",
+      "security"
+    ]
+  },
+  {
+    "id": "manifest",
+    "w": "manifest",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "manifestar / demonstrar / tornar evidente",
+    "def": "To clear or show a quality or feeling by one's acts or appearance; demonstrate.",
+    "ipa": "/ˈmænɪfest/",
+    "ex": "Chronic workplace anxiety can easily manifest as physical symptoms like persistent insomnia and headaches.",
+    "form": "manifest",
+    "nat": "The team's dedication manifested in their spotless record of delivering every project on time.",
+    "syn": [
+      "display",
+      "exhibit"
+    ],
+    "ant": [
+      "hide",
+      "conceal"
+    ],
+    "col": [
+      "manifest itself",
+      "manifest as",
+      "clearly manifest"
+    ],
+    "mis": {
+      "bad": "The stress manifested on physical pain.",
+      "good": "The stress manifested as physical pain.",
+      "why": "Use \"manifest as [symptoms]\", not \"on\"."
+    },
+    "fam": [
+      "manifestation (noun)",
+      "manifest (adj)"
+    ],
+    "topics": [
+      "health",
+      "abstract"
+    ]
+  },
+  {
+    "id": "manipulate",
+    "w": "manipulate",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "manipular / operar com habilidade",
+    "def": "To handle or control a tool or mechanism, or influence people unscrupulously.",
+    "ipa": "/məˈnɪpjuleɪt/",
+    "ex": "The skilled surgeon used robotic arms to manipulate tiny surgical instruments inside the patient.",
+    "form": "manipulate",
+    "nat": "Untrustworthy leaders often try to manipulate public opinion through emotional speeches and false claims.",
+    "syn": [
+      "control",
+      "influence"
+    ],
+    "ant": [],
+    "col": [
+      "manipulate data",
+      "manipulate the market",
+      "easily manipulate"
+    ],
+    "mis": {
+      "bad": "He manipulated with the database.",
+      "good": "He manipulated the database.",
+      "why": "\"Manipulate\" is transitive; do not use \"with\"."
+    },
+    "fam": [
+      "manipulation (noun)",
+      "manipulative (adj)"
+    ],
+    "topics": [
+      "tech",
+      "relationships"
+    ]
+  },
+  {
+    "id": "mankind",
+    "w": "mankind",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "humanidade",
+    "def": "The human race; human beings considered collectively.",
+    "ipa": "/mænˈkaɪnd/",
+    "ex": "Landing astronauts safely on the moon was described as a giant leap for all mankind.",
+    "form": "mankind",
+    "nat": "Curing infectious viral diseases remains one of the greatest collaborative challenges facing modern mankind.",
+    "syn": [
+      "humanity",
+      "humankind"
+    ],
+    "ant": [],
+    "col": [
+      "future of mankind",
+      "benefit of mankind",
+      "history of mankind"
+    ],
+    "mis": {
+      "bad": "The mankind must protect the planet.",
+      "good": "Mankind must protect the planet.",
+      "why": "Never use the definite article \"the\" before \"mankind\" when referring to humanity."
+    },
+    "fam": [],
+    "topics": [
+      "science",
+      "culture"
+    ]
+  },
+  {
+    "id": "manned",
+    "w": "manned",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "tripulado / operado por pessoas",
+    "def": "Having a human crew; operated by people.",
+    "ipa": "/mænd/",
+    "ex": "Space agencies are actively preparing their first manned mission to the Martian planetary surface.",
+    "form": "manned",
+    "nat": "The security checkpoint is manned twenty-four hours a day by trained private security personnel.",
+    "syn": [
+      "crewed",
+      "staffed"
+    ],
+    "ant": [
+      "unmanned",
+      "automated"
+    ],
+    "col": [
+      "manned mission",
+      "manned spacecraft",
+      "manned flight"
+    ],
+    "mis": {
+      "bad": "The station is manned by five persons.",
+      "good": "The station is manned by five people.",
+      "why": "Use \"five people\" rather than \"five persons\" in natural English."
+    },
+    "fam": [
+      "unmanned (adj)"
+    ],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "manner",
+    "w": "manner",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "maneira / modo / comportamento",
+    "def": "A way in which a thing is done or happens, or a person's outward behavior.",
+    "ipa": "/ˈmænər/",
+    "ex": "She answered all the difficult interview questions in a calm, confident, and professional manner.",
+    "form": "manner",
+    "nat": "Teaching young children table manners early helps them behave politely during formal family dinners.",
+    "syn": [
+      "way",
+      "method"
+    ],
+    "ant": [],
+    "col": [
+      "in a timely manner",
+      "professional manner",
+      "good manners"
+    ],
+    "mis": {
+      "bad": "He did it in this manner of way.",
+      "good": "He did it in this manner / in this way.",
+      "why": "Do not say \"manner of way\"; use either \"manner\" or \"way\"."
+    },
+    "fam": [
+      "mannered (adj)"
+    ],
+    "topics": [
+      "work",
+      "culture"
+    ]
+  },
+  {
+    "id": "mansion",
+    "w": "mansion",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "mansão",
+    "def": "A large, impressive, and stately house.",
+    "ipa": "/ˈmænʃn/",
+    "ex": "The wealthy technology investor purchased a historic stone mansion overlooking the Pacific Ocean coastline.",
+    "form": "mansion",
+    "nat": "Tourists took guided bus tours through Beverly Hills to view celebrity mansions and gardens.",
+    "syn": [
+      "estate",
+      "villa"
+    ],
+    "ant": [
+      "cottage",
+      "shack"
+    ],
+    "col": [
+      "historic mansion",
+      "luxury mansion",
+      "sprawling mansion"
+    ],
+    "mis": {
+      "bad": "He lives in a big mansion house.",
+      "good": "He lives in a big mansion.",
+      "why": "\"Mansion\" already implies a house; omit the redundant word \"house\"."
+    },
+    "fam": [],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "manual",
+    "w": "manual",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "manual de instruções / guia do usuário",
+    "def": "A book of instructions, especially for operating a machine or learning a subject.",
+    "ipa": "/ˈmænjuəl/",
+    "ex": "Always consult the official user manual before attempting to disassemble any internal computer components.",
+    "form": "manual",
+    "nat": "The airline provides pilots with an exhaustive flight operations manual for every aircraft model.",
+    "syn": [
+      "handbook",
+      "guide"
+    ],
+    "ant": [],
+    "col": [
+      "instruction manual",
+      "user manual",
+      "read the manual"
+    ],
+    "mis": {
+      "bad": "I read the manual of instructions.",
+      "good": "I read the instruction manual.",
+      "why": "Use the compound noun \"instruction manual\" rather than \"manual of instructions\"."
+    },
+    "fam": [
+      "manual (adj)",
+      "manually (adv)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "manuscript",
+    "w": "manuscript",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "manuscrito / texto original",
+    "def": "A book, document, or piece of music written by hand rather than typed or printed.",
+    "ipa": "/ˈmænjuskrɪpt/",
+    "ex": "The author submitted her completed fantasy novel manuscript to three major literary publishers yesterday.",
+    "form": "manuscript",
+    "nat": "Historians carefully preserved ancient parchment manuscripts discovered inside dry desert monastery caves.",
+    "syn": [
+      "text",
+      "document"
+    ],
+    "ant": [],
+    "col": [
+      "original manuscript",
+      "submit a manuscript",
+      "ancient manuscript"
+    ],
+    "mis": {
+      "bad": "She gave the manuscript to the editor by hand.",
+      "good": "She submitted her manuscript to the editor.",
+      "why": "Collocate naturally with \"submit a manuscript to an editor\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "marathon",
+    "w": "marathon",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "maratona",
+    "def": "A long-distance running race of strictly 26.2 miles, or an arduous long task.",
+    "ipa": "/ˈmærəθɑːn/",
+    "ex": "She trained rigorously for six months before completing her first Boston Marathon under four hours.",
+    "form": "marathon",
+    "nat": "The engineering team completed a grueling twenty-hour hackathon marathon to ship the product feature.",
+    "syn": [
+      "race"
+    ],
+    "ant": [],
+    "col": [
+      "run a marathon",
+      "marathon session",
+      "complete a marathon"
+    ],
+    "mis": {
+      "bad": "He ran in the marathon of Chicago.",
+      "good": "He ran the Chicago Marathon.",
+      "why": "Say \"ran the Chicago Marathon\" without awkward prepositions."
+    },
+    "fam": [],
+    "topics": [
+      "health",
+      "travel"
+    ]
+  },
+  {
+    "id": "marble",
+    "w": "marble",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "mármore / bolinha de gude",
+    "def": "A hard crystalline metamorphic form of limestone, or a small glass ball used in games.",
+    "ipa": "/ˈmɑːrbl/",
+    "ex": "The museum lobby features gleaming white Italian marble floors and tall polished classical pillars.",
+    "form": "marble",
+    "nat": "Children used to spend hours playing marble games on dusty school playgrounds during recess.",
+    "syn": [
+      "limestone"
+    ],
+    "ant": [],
+    "col": [
+      "white marble",
+      "marble statue",
+      "marble floors"
+    ],
+    "mis": {
+      "bad": "The statue was sculpted in marble stone.",
+      "good": "The statue was sculpted in marble.",
+      "why": "\"Marble\" is already a stone; omit \"stone\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "march",
+    "w": "march",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "marchar / desfilar / avançar a passos largos",
+    "def": "To walk with regular, measured steps, often in a group or as a military unit.",
+    "ipa": "/mɑːrtʃ/",
+    "ex": "Thousands of peaceful citizens decided to march through downtown streets demanding cleaner renewable energy.",
+    "form": "march",
+    "nat": "Soldiers marched in perfect unison across the paved courtyard during the annual national parade.",
+    "syn": [
+      "stride",
+      "parade"
+    ],
+    "ant": [],
+    "col": [
+      "march in protest",
+      "march forward",
+      "march in unison"
+    ],
+    "mis": {
+      "bad": "They marched through the streets by protesting.",
+      "good": "They marched through the streets in protest.",
+      "why": "Use the fixed prepositional phrase \"in protest\", not \"by protesting\"."
+    },
+    "fam": [
+      "march (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "marginal",
+    "w": "marginal",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "marginal / insignificante / secundário",
+    "def": "Of secondary or minor importance; not central, or relating to a border.",
+    "ipa": "/ˈmɑːrdʒɪnl/",
+    "ex": "The new software update resulted in only a marginal improvement in overall battery efficiency.",
+    "form": "marginal",
+    "nat": "Economists analyze marginal cost to determine the optimal production level for profitable manufacturing operations.",
+    "syn": [
+      "slight",
+      "minor"
+    ],
+    "ant": [
+      "significant",
+      "major"
+    ],
+    "col": [
+      "marginal cost",
+      "marginal improvement",
+      "marginal difference"
+    ],
+    "mis": {
+      "bad": "The change had a marginal effect to performance.",
+      "good": "The change had a marginal effect on performance.",
+      "why": "Use \"effect on [something]\", not \"effect to\"."
+    },
+    "fam": [
+      "margin (noun)",
+      "marginally (adv)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "markup",
+    "w": "markup",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "margem de lucro / marcação de código",
+    "def": "The amount added to the cost price of goods to cover overhead and profit.",
+    "ipa": "/ˈmɑːrkʌp/",
+    "ex": "The boutique clothing retailer applies a standard hundred percent markup on wholesale designer imported shoes.",
+    "form": "markup",
+    "nat": "HyperText Markup Language forms the foundational building block for constructing modern accessible website pages.",
+    "syn": [
+      "profit margin",
+      "price hike"
+    ],
+    "ant": [
+      "discount",
+      "markdown"
+    ],
+    "col": [
+      "standard markup",
+      "percentage markup",
+      "markup language"
+    ],
+    "mis": {
+      "bad": "The store puts a high mark up in prices.",
+      "good": "The store adds a high markup to prices.",
+      "why": "Write as a single noun \"markup\" and use \"add a markup to prices\"."
+    },
+    "fam": [
+      "mark up (verb)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "martial",
+    "w": "martial",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "marcial / guerreiro / militar",
+    "def": "Appropriate to war; warlike; relating to fighting or armed forces.",
+    "ipa": "/ˈmɑːrʃl/",
+    "ex": "Practicing traditional Japanese martial arts helps students develop physical discipline, mental focus, and respect.",
+    "form": "martial",
+    "nat": "The prime minister declared martial law across the capital after violent civil unrest erupted.",
+    "syn": [
+      "military",
+      "warlike"
+    ],
+    "ant": [
+      "civilian",
+      "peaceful"
+    ],
+    "col": [
+      "martial arts",
+      "martial law",
+      "martial discipline"
+    ],
+    "mis": {
+      "bad": "He practices martial arts since five years.",
+      "good": "He has been practicing martial arts for five years.",
+      "why": "Use the present perfect with \"for [duration]\", not \"since [duration]\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "health"
+    ]
+  },
+  {
+    "id": "marvel",
+    "w": "marvel",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "maravilhar-se / admirar-se",
+    "def": "To be filled with wonder or astonishment.",
+    "ipa": "/ˈmɑːrvl/",
+    "ex": "Astronomers still marvel at the breathtaking complexity and immense scale of the observable universe.",
+    "form": "marvel",
+    "nat": "Tourists marvel at the ancient stone pyramids standing silently against the golden Egyptian desert.",
+    "syn": [
+      "wonder",
+      "admire"
+    ],
+    "ant": [],
+    "col": [
+      "marvel at",
+      "marvel that",
+      "marvel over"
+    ],
+    "mis": {
+      "bad": "We marveled with the view from the top.",
+      "good": "We marveled at the view from the top.",
+      "why": "Always use \"marvel at [something]\", not \"with\"."
+    },
+    "fam": [
+      "marvel (noun)",
+      "marvelous (adj)"
+    ],
+    "topics": [
+      "travel",
+      "culture"
+    ]
+  },
+  {
+    "id": "marvelous",
+    "w": "marvelous",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "maravilhoso / formidável",
+    "def": "Causing great wonder; extraordinary; extremely good.",
+    "ipa": "/ˈmɑːrvələs/",
+    "ex": "We had a marvelous weekend exploring the cobblestone alleys and artisan cafes of Lisbon.",
+    "form": "marvelous",
+    "nat": "The pianist gave a marvelous performance that earned a standing ovation from the entire theater.",
+    "syn": [
+      "wonderful",
+      "splendid"
+    ],
+    "ant": [
+      "terrible",
+      "dreadful"
+    ],
+    "col": [
+      "marvelous performance",
+      "marvelous time",
+      "absolutely marvelous"
+    ],
+    "mis": {
+      "bad": "It was a marvelous for us.",
+      "good": "It was marvelous for us / We had a marvelous time.",
+      "why": "\"Marvelous\" is an adjective, so do not say \"a marvelous\" without a noun."
+    },
+    "fam": [
+      "marvel (verb)",
+      "marvelously (adv)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "masculine",
+    "w": "masculine",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "masculino / viril",
+    "def": "Having qualities or an appearance traditionally associated with men.",
+    "ipa": "/ˈmæskjəlɪn/",
+    "ex": "The interior designer opted for dark leather furniture and brushed metal accents for a masculine feel.",
+    "form": "masculine",
+    "nat": "In Portuguese grammar, all nouns are categorized as possessing either masculine or feminine grammatical gender.",
+    "syn": [
+      "manly",
+      "male"
+    ],
+    "ant": [
+      "feminine"
+    ],
+    "col": [
+      "masculine gender",
+      "masculine traits",
+      "masculine voice"
+    ],
+    "mis": {
+      "bad": "The word table has a masculine gender.",
+      "good": "In Portuguese, the word for table has feminine gender.",
+      "why": "Be careful not to mix grammatical gender with gender identity."
+    },
+    "fam": [
+      "masculinity (noun)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mask",
+    "w": "mask",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "máscara / disfarce",
+    "def": "A covering for all or part of the face, worn as a disguise or for protection.",
+    "ipa": "/mæsk/",
+    "ex": "Carpenters wear a protective dust mask when sanding hardwood floors inside an enclosed residential room.",
+    "form": "mask",
+    "nat": "Venetian carnival participants wore ornate handcrafted masks adorned with golden feathers and delicate jewels.",
+    "syn": [
+      "disguise",
+      "shield"
+    ],
+    "ant": [],
+    "col": [
+      "face mask",
+      "protective mask",
+      "wear a mask"
+    ],
+    "mis": {
+      "bad": "Put the mask in your face.",
+      "good": "Put the mask on your face / wear a mask.",
+      "why": "Use \"put on a mask\" or \"wear a mask on your face\", not \"in your face\"."
+    },
+    "fam": [
+      "mask (verb)"
+    ],
+    "topics": [
+      "health",
+      "security"
+    ]
+  },
+  {
+    "id": "mass",
+    "w": "mass",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "massa / grande quantidade / aglomeração",
+    "def": "A coherent, typically large body of matter with no definite shape, or a large number.",
+    "ipa": "/mæs/",
+    "ex": "A dense mass of storm clouds formed rapidly over the mountains during the late afternoon.",
+    "form": "mass",
+    "nat": "The innovative electric car entered mass production after factory robotics finished installation and testing.",
+    "syn": [
+      "bulk",
+      "majority"
+    ],
+    "ant": [],
+    "col": [
+      "mass production",
+      "mass media",
+      "critical mass"
+    ],
+    "mis": {
+      "bad": "The company entered in mass production.",
+      "good": "The company entered mass production.",
+      "why": "\"Enter\" takes a direct object without \"in\": \"entered mass production\"."
+    },
+    "fam": [
+      "massive (adj)"
+    ],
+    "topics": [
+      "science",
+      "business"
+    ]
+  },
+  {
+    "id": "massacre",
+    "w": "massacre",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "massacre / carnificina",
+    "def": "An indiscriminate and brutal slaughter of many people, or a crushing sporting defeat.",
+    "ipa": "/ˈmæsəkər/",
+    "ex": "Historians documented the horrific civilian massacre that occurred during the final weeks of the war.",
+    "form": "massacre",
+    "nat": "The local soccer derby turned into an embarrassing five-nil massacre for the visiting team.",
+    "syn": [
+      "slaughter",
+      "bloodbath"
+    ],
+    "ant": [],
+    "col": [
+      "brutal massacre",
+      "prevent a massacre",
+      "civilian massacre"
+    ],
+    "mis": {
+      "bad": "The battle was a massacre of soldiers.",
+      "good": "The battle was a massacre.",
+      "why": "Avoid clumsy redundant phrases like \"massacre of soldiers\" when context is clear."
+    },
+    "fam": [
+      "massacre (verb)"
+    ],
+    "topics": [
+      "culture",
+      "security"
+    ]
+  },
+  {
+    "id": "massive",
+    "w": "massive",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "maciço / enorme / volumoso",
+    "def": "Large and heavy or solid; exceptionally large, severe, or extensive.",
+    "ipa": "/ˈmæsɪv/",
+    "ex": "The sudden power outage caused massive disruption to subway transit systems throughout the entire metropolitan area.",
+    "form": "massive",
+    "nat": "The startup received a massive surge in website traffic after being featured on national television.",
+    "syn": [
+      "enormous",
+      "gigantic"
+    ],
+    "ant": [
+      "tiny",
+      "slight"
+    ],
+    "col": [
+      "massive scale",
+      "massive surge",
+      "massive amount"
+    ],
+    "mis": {
+      "bad": "There was a massive of people.",
+      "good": "There was a massive crowd / a massive number of people.",
+      "why": "\"Massive\" is an adjective and cannot be used with \"a massive of\"."
+    },
+    "fam": [
+      "mass (noun)",
+      "massively (adv)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "mastery",
+    "w": "mastery",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "domínio completo / maestria",
+    "def": "Comprehensive knowledge or skill in a subject or accomplishment.",
+    "ipa": "/ˈmæstəri/",
+    "ex": "Achieving true mastery of conversational English requires hundreds of hours of deliberate speaking practice.",
+    "form": "mastery",
+    "nat": "Her technical mastery of the piano allowed her to play complex concertos without sheet music.",
+    "syn": [
+      "proficiency",
+      "expertise"
+    ],
+    "ant": [
+      "incompetence"
+    ],
+    "col": [
+      "gain mastery",
+      "complete mastery",
+      "mastery of a skill"
+    ],
+    "mis": {
+      "bad": "He has mastery on English.",
+      "good": "He has mastery of English / has mastered English.",
+      "why": "Say \"mastery of [a language/subject]\", not \"mastery on\"."
+    },
+    "fam": [
+      "master (verb)",
+      "master (noun)"
+    ],
+    "topics": [
+      "work",
+      "culture"
+    ]
+  },
+  {
+    "id": "match",
+    "w": "match",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "partida / fósforo / par compatível",
+    "def": "A contest in which people or teams compete, or a stick for lighting fires.",
+    "ipa": "/mætʃ/",
+    "ex": "Thousands of enthusiastic fans attended the exciting championship football match at the national stadium.",
+    "form": "match",
+    "nat": "He struck a wooden match against the sandpaper strip to light the scented candle.",
+    "syn": [
+      "game",
+      "contest"
+    ],
+    "ant": [],
+    "col": [
+      "football match",
+      "strike a match",
+      "perfect match"
+    ],
+    "mis": {
+      "bad": "We watched the football game match.",
+      "good": "We watched the football match / the football game.",
+      "why": "Use either \"match\" or \"game\", never combine them as \"game match\"."
+    },
+    "fam": [
+      "match (verb)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "maternal",
+    "w": "maternal",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "materno",
+    "def": "Relating to a mother, especially during pregnancy or shortly after childbirth.",
+    "ipa": "/məˈtɜːrnl/",
+    "ex": "Good access to prenatal healthcare significantly reduces maternal mortality rates in rural developing regions.",
+    "form": "maternal",
+    "nat": "She felt a strong maternal instinct to protect her newborn twin daughters from any harm.",
+    "syn": [
+      "motherly"
+    ],
+    "ant": [
+      "paternal"
+    ],
+    "col": [
+      "maternal instinct",
+      "maternal health",
+      "maternal grandfather"
+    ],
+    "mis": {
+      "bad": "My maternal grandfather was born on Italy.",
+      "good": "My maternal grandfather was born in Italy.",
+      "why": "Use \"in Italy\" for countries, not \"on Italy\"."
+    },
+    "fam": [
+      "maternity (noun)"
+    ],
+    "topics": [
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "maternity",
+    "w": "maternity",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "maternidade / licença-maternidade",
+    "def": "The period during pregnancy and shortly after childbirth, or motherhood.",
+    "ipa": "/məˈtɜːrnəti/",
+    "ex": "The company offers six months of paid maternity leave to all full-time female employees.",
+    "form": "maternity",
+    "nat": "She gave birth to healthy twin boys at the downtown private maternity hospital yesterday.",
+    "syn": [
+      "motherhood"
+    ],
+    "ant": [
+      "paternity"
+    ],
+    "col": [
+      "maternity leave",
+      "maternity ward",
+      "maternity hospital"
+    ],
+    "mis": {
+      "bad": "She is on licency maternity.",
+      "good": "She is on maternity leave.",
+      "why": "Translate Portuguese \"licença-maternidade\" as \"maternity leave\"."
+    },
+    "fam": [
+      "maternal (adj)"
+    ],
+    "topics": [
+      "work",
+      "health"
+    ]
+  },
+  {
+    "id": "mathematical",
+    "w": "mathematical",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "matemático",
+    "def": "Of, relating to, or using the science of numbers, quantities, and shapes.",
+    "ipa": "/ˌmæθəˈmætɪkl/",
+    "ex": "Cryptography relies heavily on rigorous mathematical proofs to guarantee data privacy and system security.",
+    "form": "mathematical",
+    "nat": "The algorithm uses a complex mathematical model to predict severe changes in weather patterns.",
+    "syn": [
+      "computational",
+      "analytical"
+    ],
+    "ant": [],
+    "col": [
+      "mathematical model",
+      "mathematical proof",
+      "mathematical formula"
+    ],
+    "mis": {
+      "bad": "He solved the problem with a mathematic formula.",
+      "good": "He solved the problem with a mathematical formula.",
+      "why": "Use the adjective \"mathematical\" before nouns, not \"mathematic\"."
+    },
+    "fam": [
+      "mathematics (noun)",
+      "mathematician (noun)"
+    ],
+    "topics": [
+      "science",
+      "tech"
+    ]
+  },
+  {
+    "id": "matrix",
+    "w": "matrix",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "matriz / rede estrutural",
+    "def": "An environment or material in which something develops, or a rectangular array of numbers.",
+    "ipa": "/ˈmeɪtrɪks/",
+    "ex": "Product managers use a prioritization matrix to decide which engineering tasks deliver the highest impact.",
+    "form": "matrix",
+    "nat": "Graphics processing units multiply large numerical matrices at blinding speeds to render realistic video game graphics.",
+    "syn": [
+      "grid",
+      "array"
+    ],
+    "ant": [],
+    "col": [
+      "decision matrix",
+      "matrix structure",
+      "dot matrix"
+    ],
+    "mis": {
+      "bad": "They organized the tasks in a matrix of priorities.",
+      "good": "They organized the tasks in a prioritization matrix.",
+      "why": "Use the compound noun \"prioritization matrix\" for natural business English."
+    },
+    "fam": [],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "maximize",
+    "w": "maximize",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "maximizar / aproveitar ao máximo",
+    "def": "To make as large or great as possible, or make the best use of.",
+    "ipa": "/ˈmæksɪmaɪz/",
+    "ex": "Remote software workers often use time-blocking productivity methods to maximize their daily deep-focus hours.",
+    "form": "maximize",
+    "nat": "You should click the top-right window button to maximize the spreadsheet across the entire monitor.",
+    "syn": [
+      "optimize",
+      "boost"
+    ],
+    "ant": [
+      "minimize",
+      "reduce"
+    ],
+    "col": [
+      "maximize profit",
+      "maximize efficiency",
+      "maximize the window"
+    ],
+    "mis": {
+      "bad": "We need to maximize up our results.",
+      "good": "We need to maximize our results.",
+      "why": "Do not say \"maximize up\"; \"maximize\" already means increasing to the highest level."
+    },
+    "fam": [
+      "maximum (noun)",
+      "maximization (noun)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "maximum",
+    "w": "maximum",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "máximo / limite superior",
+    "def": "As great, high, or intense as possible or permitted.",
+    "ipa": "/ˈmæksɪməm/",
+    "ex": "The maximum speed limit on rural interstate highways is typically seventy-five miles per hour.",
+    "form": "maximum",
+    "nat": "The auditorium has a maximum legal seating capacity of four hundred people during concerts.",
+    "syn": [
+      "greatest",
+      "highest"
+    ],
+    "ant": [
+      "minimum",
+      "lowest"
+    ],
+    "col": [
+      "maximum speed",
+      "maximum capacity",
+      "maximum score"
+    ],
+    "mis": {
+      "bad": "The max capacity was exceeded.",
+      "good": "The maximum capacity was exceeded.",
+      "why": "In formal or written contexts, use the full word \"maximum\" rather than the abbreviation \"max\"."
+    },
+    "fam": [
+      "maximum (noun)",
+      "maximize (verb)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "maze",
+    "w": "maze",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "labirinto / emaranhado",
+    "def": "A network of paths and hedges designed as a puzzle through which one must find a way.",
+    "ipa": "/meɪz/",
+    "ex": "The tourists got completely lost inside the historic city's maze of narrow winding cobblestone streets.",
+    "form": "maze",
+    "nat": "Navigating the maze of federal tax regulations requires consulting an experienced certified public accountant.",
+    "syn": [
+      "labyrinth",
+      "puzzle"
+    ],
+    "ant": [],
+    "col": [
+      "hedge maze",
+      "maze of streets",
+      "navigate a maze"
+    ],
+    "mis": {
+      "bad": "We entered into a hedge maze.",
+      "good": "We entered a hedge maze.",
+      "why": "\"Enter\" takes a direct object without \"into\": \"entered a hedge maze\"."
+    },
+    "fam": [],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "meantime",
+    "w": "meantime",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "meio-tempo / ínterim",
+    "def": "The intervening time; the period between two events.",
+    "ipa": "/ˈmiːntaɪm/",
+    "ex": "The staging build will take twenty minutes; in the meantime, let's grab a quick coffee.",
+    "form": "meantime",
+    "nat": "The contractor promised to fix the leak tomorrow, but offered a bucket for the meantime.",
+    "syn": [
+      "interim",
+      "meantime"
+    ],
+    "ant": [],
+    "col": [
+      "in the meantime",
+      "for the meantime",
+      "during the meantime"
+    ],
+    "mis": {
+      "bad": "On the meantime, we can review the slides.",
+      "good": "In the meantime, we can review the slides.",
+      "why": "Always use \"in the meantime\", never \"on the meantime\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "meanwhile",
+    "w": "meanwhile",
+    "pos": "adv",
+    "lvl": "B1+",
+    "pt": "enquanto isso / ao mesmo tempo",
+    "def": "At the same time; in the intervening period.",
+    "ipa": "/ˈmiːnwaɪl/",
+    "ex": "Engineers worked frantically to patch the server; meanwhile, customer support agents reassured anxious enterprise clients.",
+    "form": "meanwhile",
+    "nat": "The pasta sauce was simmering on the stove; meanwhile, Carlos chopped fresh salad vegetables.",
+    "syn": [
+      "in the meantime",
+      "simultaneously"
+    ],
+    "ant": [],
+    "col": [
+      "meanwhile back",
+      "meanwhile in",
+      "meanwhile happening"
+    ],
+    "mis": {
+      "bad": "While that, he finished the presentation.",
+      "good": "Meanwhile, he finished the presentation / In the meantime, he finished.",
+      "why": "Do not translate \"enquanto isso\" as \"while that\"; use \"meanwhile\" or \"in the meantime\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "mechanic",
+    "w": "mechanic",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "mecânico",
+    "def": "A person who repairs and maintains machinery, especially motor vehicles.",
+    "ipa": "/məˈkænɪk/",
+    "ex": "Take your car to a certified mechanic as soon as the check-engine light turns on.",
+    "form": "mechanic",
+    "nat": "The experienced aircraft mechanic performed a thorough pre-flight safety inspection of the jet turbine.",
+    "syn": [
+      "technician",
+      "repairer"
+    ],
+    "ant": [],
+    "col": [
+      "auto mechanic",
+      "certified mechanic",
+      "visit the mechanic"
+    ],
+    "mis": {
+      "bad": "He works as mechanical in the garage.",
+      "good": "He works as a mechanic in the garage.",
+      "why": "The person is a \"mechanic\"; \"mechanical\" is an adjective."
+    },
+    "fam": [
+      "mechanical (adj)",
+      "mechanism (noun)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "mechanical",
+    "w": "mechanical",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "mecânico / relativo a máquinas",
+    "def": "Operated by a machine or mechanism; relating to machines.",
+    "ipa": "/məˈkænɪkl/",
+    "ex": "The vintage watch uses an intricate mechanical spring movement rather than modern quartz electronic batteries.",
+    "form": "mechanical",
+    "nat": "A sudden mechanical failure forced the cargo airplane to make an emergency landing yesterday.",
+    "syn": [
+      "automated",
+      "motorized"
+    ],
+    "ant": [
+      "manual",
+      "electronic"
+    ],
+    "col": [
+      "mechanical failure",
+      "mechanical engineer",
+      "mechanical keyboard"
+    ],
+    "mis": {
+      "bad": "He works in the mechanic engineering department.",
+      "good": "He works in the mechanical engineering department.",
+      "why": "Use the adjective \"mechanical\" before \"engineering\", not the noun \"mechanic\"."
+    },
+    "fam": [
+      "mechanic (noun)",
+      "mechanically (adv)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "mechanism",
+    "w": "mechanism",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "mecanismo / dispositivo / processo",
+    "def": "A system of parts working together in a machine; a piece of machinery or natural process.",
+    "ipa": "/ˈmekənɪzəm/",
+    "ex": "The locking mechanism inside the hotel safe jammed, requiring a maintenance technician to open it.",
+    "form": "mechanism",
+    "nat": "Scientists discovered the exact biological mechanism by which cancer cells resist standard chemotherapy drugs.",
+    "syn": [
+      "apparatus",
+      "device"
+    ],
+    "ant": [],
+    "col": [
+      "coping mechanism",
+      "locking mechanism",
+      "defense mechanism"
+    ],
+    "mis": {
+      "bad": "He uses humor as a mechanism of defense.",
+      "good": "He uses humor as a defense mechanism.",
+      "why": "Use the compound noun \"defense mechanism\", not \"mechanism of defense\"."
+    },
+    "fam": [
+      "mechanical (adj)"
+    ],
+    "topics": [
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "medal",
+    "w": "medal",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "medalha",
+    "def": "A metal disc awarded as a distinction for actions or victory in sports competitions.",
+    "ipa": "/ˈmedl/",
+    "ex": "The Brazilian gymnast wept tears of joy after winning the Olympic gold medal in Paris.",
+    "form": "medal",
+    "nat": "Veterans proudly wore their service medals on their lapels during the memorial day parade.",
+    "syn": [
+      "award",
+      "decoration"
+    ],
+    "ant": [],
+    "col": [
+      "gold medal",
+      "win a medal",
+      "service medal"
+    ],
+    "mis": {
+      "bad": "He won a gold meddle in the tournament.",
+      "good": "He won a gold medal in the tournament.",
+      "why": "Do not confuse \"medal\" (award) with \"meddle\" (interfere) or \"metal\" (material)."
+    },
+    "fam": [
+      "medalist (noun)"
+    ],
+    "topics": [
+      "daily",
+      "culture"
+    ]
+  },
+  {
+    "id": "media",
+    "w": "media",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "mídia / meios de comunicação",
+    "def": "The main means of mass communication regarded collectively.",
+    "ipa": "/ˈmiːdiə/",
+    "ex": "Social media platforms have transformed how modern consumers discover new products and connect online.",
+    "form": "media",
+    "nat": "The controversial courtroom trial received intense coverage across national media outlets throughout the week.",
+    "syn": [
+      "press",
+      "broadcasting"
+    ],
+    "ant": [],
+    "col": [
+      "social media",
+      "mass media",
+      "media coverage"
+    ],
+    "mis": {
+      "bad": "The medias are reporting the story.",
+      "good": "The media is / media are reporting the story.",
+      "why": "\"Media\" is plural in form (from medium) and functions collectively; do not say \"the medias\"."
+    },
+    "fam": [
+      "medium (noun)"
+    ],
+    "topics": [
+      "culture",
+      "tech"
+    ]
+  },
+  {
+    "id": "medication",
+    "w": "medication",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "medicamento / medicação",
+    "def": "A substance used for medical treatment, especially a medicine or drug.",
+    "ipa": "/ˌmedɪˈkeɪʃn/",
+    "ex": "Always take your prescription blood pressure medication with a glass of water every morning.",
+    "form": "medication",
+    "nat": "The patient experienced mild drowsiness as a side effect of the newly prescribed medication.",
+    "syn": [
+      "medicine",
+      "remedy"
+    ],
+    "ant": [],
+    "col": [
+      "take medication",
+      "prescribe medication",
+      "on medication"
+    ],
+    "mis": {
+      "bad": "I took many medications for my headache.",
+      "good": "I took medication for my headache / took some medication.",
+      "why": "\"Medication\" is often treated as uncountable; say \"took some medication\" or \"took painkillers\"."
+    },
+    "fam": [
+      "medicate (verb)"
+    ],
+    "topics": [
+      "health"
+    ]
+  },
+  {
+    "id": "medicine",
+    "w": "medicine",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "remédio / medicina",
+    "def": "The science or practice of diagnosis, treatment, and prevention of disease, or a therapeutic substance.",
+    "ipa": "/ˈmedɪsn/",
+    "ex": "She decided to study medicine at university because of her strong desire to heal people.",
+    "form": "medicine",
+    "nat": "Store liquid cough medicine in a cool, dry place out of reach of children.",
+    "syn": [
+      "medication",
+      "physic"
+    ],
+    "ant": [],
+    "col": [
+      "practice medicine",
+      "cough medicine",
+      "take medicine"
+    ],
+    "mis": {
+      "bad": "He gave me a good remedy for my flu.",
+      "good": "He gave me good medicine for my flu / recommended a good medicine.",
+      "why": "In Portuguese \"remédio\" usually translates to \"medicine\" or \"medication\", while English \"remedy\" often implies a home or natural solution."
+    },
+    "fam": [
+      "medical (adj)"
+    ],
+    "topics": [
+      "health",
+      "science"
+    ]
+  },
+  {
+    "id": "medieval",
+    "w": "medieval",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "medieval",
+    "def": "Relating to the Middle Ages, or antiquated and old-fashioned.",
+    "ipa": "/ˌmediˈiːvl/",
+    "ex": "Tourists walked along the towering stone walls of the preserved medieval castle in southern France.",
+    "form": "medieval",
+    "nat": "The computer system at the municipal licensing office felt completely medieval compared to modern apps.",
+    "syn": [
+      "feudal",
+      "ancient"
+    ],
+    "ant": [
+      "modern",
+      "contemporary"
+    ],
+    "col": [
+      "medieval castle",
+      "medieval period",
+      "medieval history"
+    ],
+    "mis": {
+      "bad": "The village has a medieval style of architecture.",
+      "good": "The village has medieval architecture.",
+      "why": "Use \"medieval\" directly as an adjective modifying \"architecture\"."
+    },
+    "fam": [],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "meditate",
+    "w": "meditate",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "meditar / ponderar",
+    "def": "To focus one's mind for a period of time, in silence or with chanting, for relaxation.",
+    "ipa": "/ˈmedɪteɪt/",
+    "ex": "She likes to meditate for fifteen quiet minutes every morning before opening her work emails.",
+    "form": "meditate",
+    "nat": "Philosophers often meditate on deep ethical questions regarding technological advances and human nature.",
+    "syn": [
+      "contemplate",
+      "reflect"
+    ],
+    "ant": [],
+    "col": [
+      "meditate on",
+      "daily meditate",
+      "meditate quietly"
+    ],
+    "mis": {
+      "bad": "He meditated about the problem all night.",
+      "good": "He meditated on the problem all night / contemplated the problem.",
+      "why": "The preposition used with \"meditate\" is \"on\", not \"about\"."
+    },
+    "fam": [
+      "meditation (noun)",
+      "meditative (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "meditation",
+    "w": "meditation",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "meditação",
+    "def": "The practice of meditating, or a continuous and profound contemplation on a subject.",
+    "ipa": "/ˌmedɪˈteɪʃn/",
+    "ex": "Daily mindfulness meditation has been shown to reduce chronic psychological stress and lower blood pressure.",
+    "form": "meditation",
+    "nat": "She attended a weekend silent meditation retreat in the mountains to recharge her mental energy.",
+    "syn": [
+      "reflection",
+      "contemplation"
+    ],
+    "ant": [],
+    "col": [
+      "mindfulness meditation",
+      "practice meditation",
+      "guided meditation"
+    ],
+    "mis": {
+      "bad": "She made a meditation this morning.",
+      "good": "She practiced meditation this morning / she meditated this morning.",
+      "why": "Use \"practice meditation\" or the verb \"meditate\", never \"make a meditation\"."
+    },
+    "fam": [
+      "meditate (verb)",
+      "meditative (adj)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "medium",
+    "w": "medium",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "médio / intermediário",
+    "def": "About halfway between two extremes of size or degree; average.",
+    "ipa": "/ˈmiːdiəm/",
+    "ex": "He ordered a grilled burger cooked to medium doneness with seasoned french fries on the side.",
+    "form": "medium",
+    "nat": "Small and medium enterprises form the economic backbone of employment across Latin American economies.",
+    "syn": [
+      "intermediate",
+      "moderate"
+    ],
+    "ant": [
+      "extreme",
+      "large"
+    ],
+    "col": [
+      "medium size",
+      "medium rare",
+      "medium term"
+    ],
+    "mis": {
+      "bad": "I wear a size middle in shirts.",
+      "good": "I wear a size medium in shirts.",
+      "why": "For clothing sizes, always use \"medium\", never \"middle\"."
+    },
+    "fam": [
+      "medium (noun)"
+    ],
+    "topics": [
+      "daily",
+      "business"
+    ]
+  },
+  {
+    "id": "meek",
+    "w": "meek",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "manso / dócil / subserviente",
+    "def": "Quiet, gentle, and easily imposed on; submissive.",
+    "ipa": "/miːk/",
+    "ex": "The meek customer service representative rarely pushed back when clients made unreasonable and loud demands.",
+    "form": "meek",
+    "nat": "Do not mistake her quiet and meek demeanor for a lack of fierce internal determination.",
+    "syn": [
+      "submissive",
+      "gentle"
+    ],
+    "ant": [
+      "assertive",
+      "bold"
+    ],
+    "col": [
+      "meek and mild",
+      "meek response",
+      "seem meek"
+    ],
+    "mis": {
+      "bad": "He was very meek to speak.",
+      "good": "He was too meek to speak up.",
+      "why": "Say \"too meek to speak up\" for someone afraid to assert themselves."
+    },
+    "fam": [
+      "meekness (noun)",
+      "meekly (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "abstract"
+    ]
+  },
+  {
+    "id": "melancholy",
+    "w": "melancholy",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "melancólico / tristonho",
+    "def": "A feeling of pensive sadness, typically with no obvious cause; or causing sadness.",
+    "ipa": "/ˈmelənkɑːli/",
+    "ex": "The cellist played a melancholy melody that brought tears to the eyes of the audience.",
+    "form": "melancholy",
+    "nat": "Walking through the rain-soaked empty autumn park filled him with a quiet, pensive melancholy.",
+    "syn": [
+      "gloomy",
+      "sorrowful"
+    ],
+    "ant": [
+      "cheerful",
+      "joyful"
+    ],
+    "col": [
+      "melancholy mood",
+      "melancholy melody",
+      "feel melancholy"
+    ],
+    "mis": {
+      "bad": "He was in a melancholic state of mind.",
+      "good": "He was in a melancholy mood / felt melancholy.",
+      "why": "In modern English, \"melancholy\" is preferred as both adjective and noun."
+    },
+    "fam": [
+      "melancholia (noun)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mellow",
+    "w": "mellow",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "suave / brando / maduro",
+    "def": "Pleasantly smooth or soft in sound, taste, or character; relaxed.",
+    "ipa": "/ˈmeloʊ/",
+    "ex": "The acoustic coffee shop played mellow jazz music that created an ideal remote working atmosphere.",
+    "form": "mellow",
+    "nat": "As the red wine ages in oak barrels, it develops a delightfully rich, mellow flavor.",
+    "syn": [
+      "smooth",
+      "laid-back"
+    ],
+    "ant": [
+      "harsh",
+      "abrasive"
+    ],
+    "col": [
+      "mellow tone",
+      "mellow wine",
+      "grow mellow"
+    ],
+    "mis": {
+      "bad": "The sound of his voice is very melow.",
+      "good": "The sound of his voice is very mellow.",
+      "why": "Watch the spelling: \"mellow\" has double \"l\"."
+    },
+    "fam": [
+      "mellow (verb)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "melody",
+    "w": "melody",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "melodia / tom agradável",
+    "def": "A sequence of single notes that is musically satisfying; a tune.",
+    "ipa": "/ˈmelədi/",
+    "ex": "The catchy piano melody stayed stuck in my head for the rest of the day.",
+    "form": "melody",
+    "nat": "She hummed a sweet folk melody while watering the blossoming geranium plants on her balcony.",
+    "syn": [
+      "tune",
+      "song"
+    ],
+    "ant": [],
+    "col": [
+      "catchy melody",
+      "simple melody",
+      "sweet melody"
+    ],
+    "mis": {
+      "bad": "He whistled the music of the film.",
+      "good": "He whistled the melody of the film / whistled the theme tune.",
+      "why": "Use \"melody\" or \"tune\" for the specific sequence of notes whistled or hummed."
+    },
+    "fam": [
+      "melodic (adj)",
+      "melodious (adj)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "melt",
+    "w": "melt",
+    "pos": "verb",
+    "lvl": "B1",
+    "pt": "derreter / fundir",
+    "def": "To make or become liquefied by heat.",
+    "ipa": "/melt/",
+    "ex": "Rising global temperatures cause polar ice sheets to melt at an unprecedented and alarming rate.",
+    "form": "melt",
+    "nat": "Gently melt two tablespoons of unsalted butter in a hot skillet before adding the eggs.",
+    "syn": [
+      "thaw",
+      "dissolve"
+    ],
+    "ant": [
+      "freeze",
+      "solidify"
+    ],
+    "col": [
+      "melt away",
+      "melt down",
+      "start to melt"
+    ],
+    "mis": {
+      "bad": "The ice melted into water by the sun.",
+      "good": "The ice melted in the sun.",
+      "why": "Say \"melted in the sun\", not \"by the sun\"."
+    },
+    "fam": [
+      "molten (adj)"
+    ],
+    "topics": [
+      "science",
+      "daily"
+    ]
+  },
+  {
+    "id": "membership",
+    "w": "membership",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "associação / filiação / mensalidade",
+    "def": "The state of being a member of a group or organization.",
+    "ipa": "/ˈmembərʃɪp/",
+    "ex": "You must renew your annual gym membership before the end of this month to avoid penalties.",
+    "form": "membership",
+    "nat": "The museum offers discounted family membership packages with free entry to special temporary cultural exhibitions.",
+    "syn": [
+      "enrollment",
+      "affiliation"
+    ],
+    "ant": [],
+    "col": [
+      "gym membership",
+      "membership fee",
+      "renew membership"
+    ],
+    "mis": {
+      "bad": "I canceled my association in the gym.",
+      "good": "I canceled my gym membership.",
+      "why": "Do not translate \"associação à academia\" as \"association\"; use \"gym membership\"."
+    },
+    "fam": [
+      "member (noun)"
+    ],
+    "topics": [
+      "daily",
+      "business"
+    ]
+  },
+  {
+    "id": "memo",
+    "w": "memo",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "memorando / comunicado interno",
+    "def": "A written message in business or diplomacy.",
+    "ipa": "/ˈmemoʊ/",
+    "ex": "The CEO sent an urgent internal memo clarifying the updated hybrid remote working policy yesterday.",
+    "form": "memo",
+    "nat": "Please read the security memo before connecting personal mobile devices to the corporate private network.",
+    "syn": [
+      "memorandum",
+      "note"
+    ],
+    "ant": [],
+    "col": [
+      "internal memo",
+      "send a memo",
+      "confidential memo"
+    ],
+    "mis": {
+      "bad": "The boss sent a memorand to all.",
+      "good": "The boss sent a memo to all staff.",
+      "why": "The natural common word in business English is \"memo\", not \"memorand\"."
+    },
+    "fam": [
+      "memorandum (noun)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "memorable",
+    "w": "memorable",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "memorável / inesquecível",
+    "def": "Easily remembered, especially because of being special or unusual.",
+    "ipa": "/ˈmemərəbl/",
+    "ex": "Our road trip through the national parks of Utah was an extraordinarily memorable family adventure.",
+    "form": "memorable",
+    "nat": "The keynote speaker closed her inspiring presentation with a memorable quote about lifelong continuous learning.",
+    "syn": [
+      "unforgettable",
+      "notable"
+    ],
+    "ant": [
+      "forgettable"
+    ],
+    "col": [
+      "memorable experience",
+      "memorable moment",
+      "truly memorable"
+    ],
+    "mis": {
+      "bad": "It was an unforgettable and memorable time.",
+      "good": "It was a memorable time / truly memorable experience.",
+      "why": "Avoid piling up identical adjectives like \"unforgettable and memorable\"."
+    },
+    "fam": [
+      "memory (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "memorial",
+    "w": "memorial",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "memorial / monumento comemorativo",
+    "def": "A statue or other structure established to remind people of a person or event.",
+    "ipa": "/məˈmɔːriəl/",
+    "ex": "Citizens gathered at the national marble memorial to honor veterans who died during the war.",
+    "form": "memorial",
+    "nat": "The city council decided to erect a memorial plaque in tribute to the civic hero.",
+    "syn": [
+      "monument",
+      "tribute"
+    ],
+    "ant": [],
+    "col": [
+      "war memorial",
+      "memorial service",
+      "living memorial"
+    ],
+    "mis": {
+      "bad": "They attended to the memorial service.",
+      "good": "They attended the memorial service.",
+      "why": "\"Attend\" takes a direct object without \"to\": \"attended the memorial service\"."
+    },
+    "fam": [
+      "memorize (verb)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "menace",
+    "w": "menace",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "ameaça / perigo",
+    "def": "A person or thing that is likely to cause harm; a threat or danger.",
+    "ipa": "/ˈmenəs/",
+    "ex": "Reckless drivers speeding through quiet school zones are a constant menace to pedestrian child safety.",
+    "form": "menace",
+    "nat": "Untreated industrial waste dumping poses an acute ecological menace to local freshwater river basins.",
+    "syn": [
+      "threat",
+      "danger"
+    ],
+    "ant": [
+      "benefit",
+      "blessing"
+    ],
+    "col": [
+      "pose a menace",
+      "menace to society",
+      "growing menace"
+    ],
+    "mis": {
+      "bad": "He was a menace for the neighborhood.",
+      "good": "He was a menace to the neighborhood.",
+      "why": "Use \"a menace to [someone/something]\", not \"for\"."
+    },
+    "fam": [
+      "menacing (adj)"
+    ],
+    "topics": [
+      "security",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mend",
+    "w": "mend",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "consertar / remendar / reparar",
+    "def": "To repair something that is broken or damaged, or improve a strained relationship.",
+    "ipa": "/mend/",
+    "ex": "She used a needle and strong matching thread to mend the torn jacket pocket seam.",
+    "form": "mend",
+    "nat": "The two rival co-founders scheduled a dinner to try and mend their damaged professional relationship.",
+    "syn": [
+      "repair",
+      "fix"
+    ],
+    "ant": [
+      "break",
+      "damage"
+    ],
+    "col": [
+      "mend fences",
+      "mend a relationship",
+      "on the mend"
+    ],
+    "mis": {
+      "bad": "The patient is in the mend.",
+      "good": "The patient is on the mend.",
+      "why": "The correct idiom for recovering health is \"on the mend\", not \"in the mend\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "mental",
+    "w": "mental",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "mental / psicológico",
+    "def": "Relating to the mind, or relating to the disorders of the mind.",
+    "ipa": "/ˈmentl/",
+    "ex": "Prioritizing sleep and regular breaks is vital for maintaining good mental health during intense projects.",
+    "form": "mental",
+    "nat": "Solving complex algorithmic puzzles requires tremendous mental stamina and sharp analytical thinking from engineers.",
+    "syn": [
+      "psychological",
+      "cognitive"
+    ],
+    "ant": [
+      "physical"
+    ],
+    "col": [
+      "mental health",
+      "mental capacity",
+      "mental exhaustion"
+    ],
+    "mis": {
+      "bad": "He had a mental problem of stress.",
+      "good": "He had mental stress / struggled with his mental health.",
+      "why": "Avoid stigmatizing phrasing like \"a mental problem of stress\"; use \"struggled with mental health\"."
+    },
+    "fam": [
+      "mentally (adv)"
+    ],
+    "topics": [
+      "health",
+      "work"
+    ]
+  },
+  {
+    "id": "mentorship",
+    "w": "mentorship",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "mentoria / orientação profissional",
+    "def": "The guidance provided by a mentor, especially an experienced person in a company.",
+    "ipa": "/ˈmentɔːrʃɪp/",
+    "ex": "Joining the corporate engineering mentorship program helped new hires integrate into teams much faster.",
+    "form": "mentorship",
+    "nat": "She expressed deep gratitude for her director's generous career mentorship over the past five years.",
+    "syn": [
+      "guidance",
+      "tutelage"
+    ],
+    "ant": [],
+    "col": [
+      "mentorship program",
+      "provide mentorship",
+      "seek mentorship"
+    ],
+    "mis": {
+      "bad": "I received a good mentoring of him.",
+      "good": "I received good mentorship from him.",
+      "why": "Use \"mentorship from [someone]\", not \"mentoring of him\"."
+    },
+    "fam": [
+      "mentor (noun)",
+      "mentor (verb)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "mercenary",
+    "w": "mercenary",
+    "pos": "noun",
+    "lvl": "B2+",
+    "pt": "mercenário / soldado de aluguel",
+    "def": "A professional soldier hired to serve in a foreign army, or an opportunistic person.",
+    "ipa": "/ˈmɜːrsəneri/",
+    "ex": "The authoritarian regime hired foreign mercenaries to protect valuable diamond mines against rebel militia forces.",
+    "form": "mercenaries",
+    "nat": "He was criticized as a corporate mercenary who moved from startup to startup solely for bonuses.",
+    "syn": [
+      "hireling",
+      "soldier of fortune"
+    ],
+    "ant": [],
+    "col": [
+      "foreign mercenary",
+      "mercenary attitude",
+      "hired mercenary"
+    ],
+    "mis": {
+      "bad": "He is very mercenary about his friends.",
+      "good": "He has a mercenary attitude toward friendship.",
+      "why": "Collocate naturally with \"mercenary attitude toward\"."
+    },
+    "fam": [
+      "mercenary (adj)"
+    ],
+    "topics": [
+      "security",
+      "business"
+    ]
+  },
+  {
+    "id": "merciless",
+    "w": "merciless",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "implacável / impiedoso",
+    "def": "Showing no mercy; cruel and without pity.",
+    "ipa": "/ˈmɜːrsɪləs/",
+    "ex": "The desert sun was merciless, beating down on the stranded hikers with blistering midday heat.",
+    "form": "merciless",
+    "nat": "The sports media was merciless in criticizing the national soccer coach following the embarrassing defeat.",
+    "syn": [
+      "ruthless",
+      "relentless"
+    ],
+    "ant": [
+      "merciful",
+      "compassionate"
+    ],
+    "col": [
+      "merciless heat",
+      "merciless criticism",
+      "merciless attack"
+    ],
+    "mis": {
+      "bad": "The critic was merciless with the novel.",
+      "good": "The critic was merciless in his criticism of the novel.",
+      "why": "Say \"merciless in [action]\" rather than \"merciless with\"."
+    },
+    "fam": [
+      "mercy (noun)",
+      "mercilessly (adv)"
+    ],
+    "topics": [
+      "abstract",
+      "culture"
+    ]
+  },
+  {
+    "id": "merge",
+    "w": "merge",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "fundir / mesclar / unir",
+    "def": "To combine or cause to combine to form a single entity, or join traffic.",
+    "ipa": "/mɜːrdʒ/",
+    "ex": "Drivers must yield carefully before attempting to merge onto the crowded morning commuter expressway lanes.",
+    "form": "merge",
+    "nat": "The lead engineer approved the pull request and merged the code into the main branch.",
+    "syn": [
+      "unite",
+      "combine"
+    ],
+    "ant": [
+      "separate",
+      "split"
+    ],
+    "col": [
+      "merge onto",
+      "merge into",
+      "merge traffic"
+    ],
+    "mis": {
+      "bad": "The road merged with into the highway.",
+      "good": "The road merged into the highway.",
+      "why": "Use \"merge into\" or \"merge with\", never combine them as \"with into\"."
+    },
+    "fam": [
+      "merger (noun)"
+    ],
+    "topics": [
+      "tech",
+      "travel"
+    ]
+  },
+  {
+    "id": "merit",
+    "w": "merit",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "mérito / merecimento / vantagem",
+    "def": "The quality of being particularly good or worthy, especially so as to deserve praise.",
+    "ipa": "/ˈmerɪt/",
+    "ex": "Promotions at the engineering company are awarded strictly on technical merit rather than office politics.",
+    "form": "merit",
+    "nat": "Each startup funding proposal will be evaluated thoroughly on its own individual economic merits.",
+    "syn": [
+      "worth",
+      "value"
+    ],
+    "ant": [
+      "fault",
+      "demerit"
+    ],
+    "col": [
+      "on merit",
+      "artistic merit",
+      "relative merits"
+    ],
+    "mis": {
+      "bad": "He got promoted by his merits.",
+      "good": "He was promoted on merit.",
+      "why": "The standard idiom is \"promoted on merit\", not \"by his merits\"."
+    },
+    "fam": [
+      "meritorious (adj)"
+    ],
+    "topics": [
+      "work",
+      "business"
+    ]
+  },
+  {
+    "id": "merry",
+    "w": "merry",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "alegre / festivo",
+    "def": "Cheerful and lively; festive.",
+    "ipa": "/ˈmeri/",
+    "ex": "Carolers sang merry holiday songs outside the town hall while snowflakes fell on the square.",
+    "form": "merry",
+    "nat": "The festive pub was filled with merry laughter and the clinking of cold beer mugs.",
+    "syn": [
+      "cheerful",
+      "jolly"
+    ],
+    "ant": [
+      "gloomy",
+      "miserable"
+    ],
+    "col": [
+      "Merry Christmas",
+      "merry mood",
+      "make merry"
+    ],
+    "mis": {
+      "bad": "We wished everyone a happy and merry.",
+      "good": "We wished everyone a Merry Christmas / happy holiday.",
+      "why": "\"Merry\" is predominantly used in the formula \"Merry Christmas\" or before nouns like \"merry mood\"."
+    },
+    "fam": [
+      "merriment (noun)"
+    ],
+    "topics": [
+      "culture",
+      "daily"
+    ]
+  },
+  {
+    "id": "mesh",
+    "w": "mesh",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "engrenar / combinar harmoniosamente",
+    "def": "To entangle or fit together, or work harmoniously together.",
+    "ipa": "/meʃ/",
+    "ex": "Her practical managerial experience meshed perfectly with his creative engineering vision for the product.",
+    "form": "meshed",
+    "nat": "Make sure the metal gear teeth mesh cleanly without grinding before tightening the motor bolts.",
+    "syn": [
+      "harmonize",
+      "interlock"
+    ],
+    "ant": [
+      "clash",
+      "conflict"
+    ],
+    "col": [
+      "mesh well with",
+      "gear mesh",
+      "mesh together"
+    ],
+    "mis": {
+      "bad": "Their ideas meshed to each other.",
+      "good": "Their ideas meshed with each other.",
+      "why": "Use \"mesh with [something]\", not \"mesh to\"."
+    },
+    "fam": [
+      "mesh (noun)"
+    ],
+    "topics": [
+      "work",
+      "tech"
+    ]
+  },
+  {
+    "id": "mess",
+    "w": "mess",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "bagunça / confusão / desordem",
+    "def": "A dirty or untidy state of things or of a place, or a difficult predicament.",
+    "ipa": "/mes/",
+    "ex": "Clean up the mess in your bedroom before our dinner guests arrive this evening.",
+    "form": "mess",
+    "nat": "The canceled merger left the bank's corporate balance sheet in a complete financial mess.",
+    "syn": [
+      "clutter",
+      "disarray"
+    ],
+    "ant": [
+      "order",
+      "tidiness"
+    ],
+    "col": [
+      "make a mess",
+      "clean up a mess",
+      "in a mess"
+    ],
+    "mis": {
+      "bad": "He made a big bagunça in the kitchen.",
+      "good": "He made a big mess in the kitchen.",
+      "why": "Translate Portuguese \"bagunça\" as \"mess\" in English."
+    },
+    "fam": [
+      "messy (adj)",
+      "mess up (verb)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "messy",
+    "w": "messy",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "bagunçado / desarrumado / complicado",
+    "def": "Untidy or dirty, or generating confusion and unpleasant complications.",
+    "ipa": "/ˈmesi/",
+    "ex": "Working at a messy desk cluttered with old coffee mugs hurts your daily creative focus.",
+    "form": "messy",
+    "nat": "The legal divorce proceedings became extraordinarily messy as both parties fought over intellectual property.",
+    "syn": [
+      "untidy",
+      "disorderly"
+    ],
+    "ant": [
+      "neat",
+      "tidy"
+    ],
+    "col": [
+      "messy room",
+      "messy situation",
+      "get messy"
+    ],
+    "mis": {
+      "bad": "His room is very mess.",
+      "good": "His room is very messy.",
+      "why": "Use the adjective \"messy\" after \"is\", not the noun \"mess\"."
+    },
+    "fam": [
+      "mess (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "metaphor",
+    "w": "metaphor",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "metáfora",
+    "def": "A figure of speech in which a word or phrase is applied to an object or action.",
+    "ipa": "/ˈmetəfɔːr/",
+    "ex": "The speaker used an extended nautical navigation metaphor to explain company organizational restructuring decisions.",
+    "form": "metaphor",
+    "nat": "Calling life a journey across stormy seas is an ancient and universally recognized literary metaphor.",
+    "syn": [
+      "analogy",
+      "allegory"
+    ],
+    "ant": [],
+    "col": [
+      "mixed metaphor",
+      "visual metaphor",
+      "use a metaphor"
+    ],
+    "mis": {
+      "bad": "It was a metaphoric phrase.",
+      "good": "It was a metaphorical phrase / a metaphor.",
+      "why": "The standard adjective is \"metaphorical\", not \"metaphoric\"."
+    },
+    "fam": [
+      "metaphorical (adj)",
+      "metaphorically (adv)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "meteor",
+    "w": "meteor",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "meteoro / estrela cadente",
+    "def": "A small body of matter from outer space that enters the earth's atmosphere.",
+    "ipa": "/ˈmiːtiər/",
+    "ex": "Campers were thrilled to see a brilliant green meteor streak across the clear midnight sky.",
+    "form": "meteor",
+    "nat": "The annual Perseid meteor shower produces dozens of visible shooting trails every August night.",
+    "syn": [
+      "shooting star",
+      "bolide"
+    ],
+    "ant": [],
+    "col": [
+      "meteor shower",
+      "meteor streak",
+      "falling meteor"
+    ],
+    "mis": {
+      "bad": "We saw a falling meteorite in the sky.",
+      "good": "We saw a meteor streak across the sky.",
+      "why": "A \"meteor\" is the streak of light in the sky; a \"meteorite\" is the rock that hits the ground."
+    },
+    "fam": [
+      "meteoric (adj)",
+      "meteorite (noun)"
+    ],
+    "topics": [
+      "science",
+      "travel"
+    ]
+  },
+  {
+    "id": "methodical",
+    "w": "methodical",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "metódico / sistemático",
+    "def": "Done according to a systematic or established form of procedure.",
+    "ipa": "/məˈθɑːdɪkl/",
+    "ex": "Finding obscure multithreaded software bugs requires a calm, disciplined, and methodical debugging approach.",
+    "form": "methodical",
+    "nat": "The detective conducted a methodical search of the crime scene, collecting microscopic forensic evidence.",
+    "syn": [
+      "systematic",
+      "meticulous"
+    ],
+    "ant": [
+      "chaotic",
+      "disorganized"
+    ],
+    "col": [
+      "methodical approach",
+      "methodical worker",
+      "highly methodical"
+    ],
+    "mis": {
+      "bad": "He works in a methodic way.",
+      "good": "He works in a methodical way / is very methodical.",
+      "why": "Use \"methodical\", not \"methodic\"."
+    },
+    "fam": [
+      "methodically (adv)"
+    ],
+    "topics": [
+      "work",
+      "science"
+    ]
+  },
+  {
+    "id": "metropolis",
+    "w": "metropolis",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "metrópole / grande centro urbano",
+    "def": "The capital or chief city of a country or region; a very large city.",
+    "ipa": "/məˈtrɑːpəlɪs/",
+    "ex": "São Paulo is a sprawling metropolis of over twenty million people with vibrant cultural diversity.",
+    "form": "metropolis",
+    "nat": "High-speed rail links connecting the booming regional metropolis to coastal ports boosted foreign trade.",
+    "syn": [
+      "megacity",
+      "capital"
+    ],
+    "ant": [],
+    "col": [
+      "bustling metropolis",
+      "sprawling metropolis",
+      "modern metropolis"
+    ],
+    "mis": {
+      "bad": "He moved to the big metropole.",
+      "good": "He moved to the big metropolis.",
+      "why": "In English, spell and say \"metropolis\", not \"metropole\"."
+    },
+    "fam": [
+      "metropolitan (adj)"
+    ],
+    "topics": [
+      "travel",
+      "culture"
+    ]
+  },
+  {
+    "id": "midday",
+    "w": "midday",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "meio-dia",
+    "def": "The middle of the day; noon.",
+    "ipa": "/ˌmɪdˈdeɪ/",
+    "ex": "Tourists in Mediterranean coastal towns usually take a quiet indoor rest during the hot midday heat.",
+    "form": "midday",
+    "nat": "The construction crew took their lunch break at midday under the shade of olive trees.",
+    "syn": [
+      "noon",
+      "noontime"
+    ],
+    "ant": [
+      "midnight"
+    ],
+    "col": [
+      "midday sun",
+      "midday heat",
+      "at midday"
+    ],
+    "mis": {
+      "bad": "We had lunch in the midday.",
+      "good": "We had lunch at midday / at noon.",
+      "why": "Always use the preposition \"at\": \"at midday\", not \"in the midday\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "middle",
+    "w": "middle",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "do meio / intermediário / central",
+    "def": "At an equal distance from the extremes or outer limits; central.",
+    "ipa": "/ˈmɪdl/",
+    "ex": "Sitting in the middle seat on a twelve-hour international flight is notoriously uncomfortable for travelers.",
+    "form": "middle",
+    "nat": "The documentary explores the economic struggles of middle class families in changing post-industrial cities.",
+    "syn": [
+      "central",
+      "intermediate"
+    ],
+    "ant": [
+      "outer",
+      "extreme"
+    ],
+    "col": [
+      "middle seat",
+      "middle class",
+      "middle ground"
+    ],
+    "mis": {
+      "bad": "He sat in the center seat of the plane.",
+      "good": "He sat in the middle seat on the plane.",
+      "why": "Use \"middle seat\" on planes or trains, not \"center seat\"."
+    },
+    "fam": [
+      "middle (noun)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "midnight",
+    "w": "midnight",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "meia-noite",
+    "def": "Twelve o'clock at night.",
+    "ipa": "/ˈmɪdnaɪt/",
+    "ex": "Engineers deployed the crucial database software migration patch at midnight when network traffic was lowest.",
+    "form": "midnight",
+    "nat": "The new fantasy novel went on sale at midnight to hundreds of eager waiting fans.",
+    "syn": [
+      "twelve o'clock"
+    ],
+    "ant": [
+      "noon",
+      "midday"
+    ],
+    "col": [
+      "at midnight",
+      "midnight oil",
+      "past midnight"
+    ],
+    "mis": {
+      "bad": "The party ended in the midnight.",
+      "good": "The party ended at midnight.",
+      "why": "Always use the preposition \"at\": \"at midnight\", never \"in the midnight\"."
+    },
+    "fam": [],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "midst",
+    "w": "midst",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "meio / centro / no meio de",
+    "def": "The middle point or part; or used in prepositional phrases meaning surrounded by.",
+    "ipa": "/mɪdst/",
+    "ex": "We found ourselves in the midst of a massive thunderstorm without any waterproof umbrellas.",
+    "form": "midst",
+    "nat": "She remained remarkably calm even in the midst of intense corporate crisis management meetings.",
+    "syn": [
+      "middle",
+      "heart"
+    ],
+    "ant": [],
+    "col": [
+      "in the midst of",
+      "from the midst",
+      "in our midst"
+    ],
+    "mis": {
+      "bad": "He arrived in the middle of our midst.",
+      "good": "He arrived in our midst / in the midst of the crisis.",
+      "why": "Say \"in our midst\" or \"in the midst of [a situation]\"."
+    },
+    "fam": [],
+    "topics": [
+      "abstract",
+      "daily"
+    ]
+  },
+  {
+    "id": "mighty",
+    "w": "mighty",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "poderoso / imponente / formidável",
+    "def": "Possessing great and impressive power or strength, especially on account of size.",
+    "ipa": "/ˈmaɪti/",
+    "ex": "The mighty Amazon River flows thousands of miles through dense tropical rainforests into the Atlantic.",
+    "form": "mighty",
+    "nat": "With one mighty swing of the bat, the baseball player sent the ball into the stands.",
+    "syn": [
+      "powerful",
+      "potent"
+    ],
+    "ant": [
+      "weak",
+      "feeble"
+    ],
+    "col": [
+      "mighty river",
+      "mighty blow",
+      "high and mighty"
+    ],
+    "mis": {
+      "bad": "The river has a mighty flow of water.",
+      "good": "The mighty river flows toward the ocean.",
+      "why": "Use \"mighty\" naturally as an attributive adjective before the noun."
+    },
+    "fam": [
+      "might (noun)",
+      "mightily (adv)"
+    ],
+    "topics": [
+      "culture",
+      "travel"
+    ]
+  },
+  {
+    "id": "migrant",
+    "w": "migrant",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "migrante / trabalhador migrante",
+    "def": "A person who moves from one place to another, especially in order to find work.",
+    "ipa": "/ˈmaɪɡrənt/",
+    "ex": "Thousands of seasonal migrant workers arrive in California each spring to harvest fruit crops.",
+    "form": "migrant",
+    "nat": "The humanitarian charity distributed food, blankets, and clean drinking water to arriving migrant families.",
+    "syn": [
+      "immigrant",
+      "nomad"
+    ],
+    "ant": [],
+    "col": [
+      "migrant worker",
+      "undocumented migrant",
+      "migrant crisis"
+    ],
+    "mis": {
+      "bad": "The migrant arrived in the country yesterday.",
+      "good": "The migrant arrived in the country yesterday / many migrant workers arrived.",
+      "why": "Note: \"migrant\" can be seasonal or temporary, whereas \"immigrant\" usually implies settling permanently."
+    },
+    "fam": [
+      "migrate (verb)",
+      "migration (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "migration",
+    "w": "migration",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "migração / transição de sistemas",
+    "def": "Movement from one part of something to another, or movement of animals or software data.",
+    "ipa": "/maɪˈɡreɪʃn/",
+    "ex": "The scheduled cloud database migration went smoothly with less than five minutes of total downtime.",
+    "form": "migration",
+    "nat": "The seasonal migration of millions of monarch butterflies across North America is an extraordinary spectacle.",
+    "syn": [
+      "relocation",
+      "movement"
+    ],
+    "ant": [],
+    "col": [
+      "data migration",
+      "mass migration",
+      "annual migration"
+    ],
+    "mis": {
+      "bad": "We executed the migration of database.",
+      "good": "We executed the database migration.",
+      "why": "Use the compound noun \"database migration\" in technical contexts."
+    },
+    "fam": [
+      "migrate (verb)",
+      "migrant (noun)"
+    ],
+    "topics": [
+      "tech",
+      "science"
+    ]
+  },
+  {
+    "id": "mild",
+    "w": "mild",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "suave / ameno / moderado",
+    "def": "Not severe, serious, or harsh; gentle and not sharp.",
+    "ipa": "/maɪld/",
+    "ex": "San Diego is famous for its mild winter temperatures and abundant coastal sunny days.",
+    "form": "mild",
+    "nat": "The doctor confirmed that the patient was experiencing only mild seasonal allergy symptoms.",
+    "syn": [
+      "gentle",
+      "moderate"
+    ],
+    "ant": [
+      "severe",
+      "harsh"
+    ],
+    "col": [
+      "mild weather",
+      "mild symptoms",
+      "mild flavor"
+    ],
+    "mis": {
+      "bad": "The climate here is very suave.",
+      "good": "The climate here is very mild.",
+      "why": "Do not translate Portuguese \"suave\" as \"suave\" for weather; use \"mild\"."
+    },
+    "fam": [
+      "mildly (adv)",
+      "mildness (noun)"
+    ],
+    "topics": [
+      "health",
+      "travel"
+    ]
+  },
+  {
+    "id": "militant",
+    "w": "militant",
+    "pos": "adj",
+    "lvl": "B2+",
+    "pt": "militante / combativo / agressivo",
+    "def": "Combative and aggressive in support of a political or social cause.",
+    "ipa": "/ˈmɪlɪtənt/",
+    "ex": "The labor union took a militant stance during wage negotiations, threatening an immediate nationwide strike.",
+    "form": "militant",
+    "nat": "Security agencies monitored militant extremist groups attempting to recruit vulnerable youths online.",
+    "syn": [
+      "aggressive",
+      "combative"
+    ],
+    "ant": [
+      "peaceful",
+      "moderate"
+    ],
+    "col": [
+      "militant group",
+      "militant stance",
+      "militant wing"
+    ],
+    "mis": {
+      "bad": "He is a political militant of the party.",
+      "good": "He is a political activist / militant party member.",
+      "why": "In English, \"militant\" often carries aggressive or extremist connotations; for peaceful activism use \"activist\"."
+    },
+    "fam": [
+      "militancy (noun)"
+    ],
+    "topics": [
+      "culture",
+      "security"
+    ]
+  },
+  {
+    "id": "military",
+    "w": "military",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "militar / das forças armadas",
+    "def": "Relating to or characteristic of soldiers or armed forces.",
+    "ipa": "/ˈmɪləteri/",
+    "ex": "Modern military aircraft utilize advanced radar-absorbent materials to avoid detection by hostile defense systems.",
+    "form": "military",
+    "nat": "She completed four years of honorable military service before enrolling in university software engineering.",
+    "syn": [
+      "armed",
+      "defense"
+    ],
+    "ant": [
+      "civilian"
+    ],
+    "col": [
+      "military service",
+      "military base",
+      "military operation"
+    ],
+    "mis": {
+      "bad": "He served in the army military.",
+      "good": "He served in the military / in the army.",
+      "why": "Say \"in the military\" or \"in the army\", not \"army military\"."
+    },
+    "fam": [
+      "military (noun)"
+    ],
+    "topics": [
+      "security",
+      "work"
+    ]
+  },
+  {
+    "id": "mimic",
+    "w": "mimic",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "imitar / reproduzir / mimetizar",
+    "def": "To imitate someone or their actions or words, especially in order to entertain or ridicule.",
+    "ipa": "/ˈmɪmɪk/",
+    "ex": "Large neural language models can mimic human conversational styles with surprising and nuanced accuracy.",
+    "form": "mimic",
+    "nat": "Chameleons alter their skin pigmentation to mimic the surrounding tree leaves and branches.",
+    "syn": [
+      "imitate",
+      "replicate"
+    ],
+    "ant": [],
+    "col": [
+      "mimic human behavior",
+      "closely mimic",
+      "mimic the sounds"
+    ],
+    "mis": {
+      "bad": "He mimicked to his teacher.",
+      "good": "He mimicked his teacher.",
+      "why": "\"Mimic\" is a transitive verb; do not use the preposition \"to\"."
+    },
+    "fam": [
+      "mimicry (noun)"
+    ],
+    "topics": [
+      "ai",
+      "tech"
+    ]
+  },
+  {
+    "id": "minimize",
+    "w": "minimize",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "minimizar / reduzir ao mínimo",
+    "def": "To reduce something to the smallest possible amount or degree.",
+    "ipa": "/ˈmɪnɪmaɪz/",
+    "ex": "Wearing seatbelts and following the speed limit helps minimize the risk of serious injury.",
+    "form": "minimize",
+    "nat": "The product team decided to minimize latency by deploying edge servers across South America.",
+    "syn": [
+      "reduce",
+      "diminish"
+    ],
+    "ant": [
+      "maximize",
+      "increase"
+    ],
+    "col": [
+      "minimize risk",
+      "minimize damage",
+      "minimize the window"
+    ],
+    "mis": {
+      "bad": "We need to minimize down the costs.",
+      "good": "We need to minimize costs.",
+      "why": "Do not add \"down\" after \"minimize\"."
+    },
+    "fam": [
+      "minimum (noun)",
+      "minimization (noun)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "minimum",
+    "w": "minimum",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "mínimo",
+    "def": "The lowest or smallest quantity, amount, or degree attainable.",
+    "ipa": "/ˈmɪnɪməm/",
+    "ex": "Employees working in the state must receive at least the legal minimum hourly wage.",
+    "form": "minimum",
+    "nat": "The airline requires a minimum connection time of ninety minutes for international passenger transfers.",
+    "syn": [
+      "lowest",
+      "smallest"
+    ],
+    "ant": [
+      "maximum",
+      "highest"
+    ],
+    "col": [
+      "minimum wage",
+      "minimum requirement",
+      "minimum standard"
+    ],
+    "mis": {
+      "bad": "The minimal wage was increased this month.",
+      "good": "The minimum wage was increased this month.",
+      "why": "In English, use \"minimum wage\", not \"minimal wage\"."
+    },
+    "fam": [
+      "minimum (noun)",
+      "minimize (verb)"
+    ],
+    "topics": [
+      "work",
+      "finance"
+    ]
+  },
+  {
+    "id": "ministry",
+    "w": "ministry",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "ministério (governo)",
+    "def": "A government department headed by a minister of state.",
+    "ipa": "/ˈmɪnɪstri/",
+    "ex": "The Ministry of Education announced new public funding for computer programming classes in schools.",
+    "form": "Ministry",
+    "nat": "Representatives from the finance ministry met with regional bankers to discuss inflation management strategies.",
+    "syn": [
+      "department",
+      "agency"
+    ],
+    "ant": [],
+    "col": [
+      "finance ministry",
+      "foreign ministry",
+      "ministry spokesperson"
+    ],
+    "mis": {
+      "bad": "He works in the minister of health.",
+      "good": "He works in the Ministry of Health.",
+      "why": "The government department is the \"Ministry\"; the person heading it is the \"Minister\"."
+    },
+    "fam": [
+      "minister (noun)"
+    ],
+    "topics": [
+      "culture",
+      "work"
+    ]
+  },
+  {
+    "id": "miracle",
+    "w": "miracle",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "milagre",
+    "def": "A surprising and welcome event that is not explicable by natural or scientific laws.",
+    "ipa": "/ˈmɪrəkl/",
+    "ex": "It was an absolute miracle that all passengers walked away unharmed from the crash.",
+    "form": "miracle",
+    "nat": "Modern medical advancements like vaccines are often described as scientific miracles for public health.",
+    "syn": [
+      "wonder",
+      "marvel"
+    ],
+    "ant": [],
+    "col": [
+      "work a miracle",
+      "minor miracle",
+      "medical miracle"
+    ],
+    "mis": {
+      "bad": "It happened by miracle.",
+      "good": "It was a miracle / It happened miraculously.",
+      "why": "Use \"it was a miracle\" or the adverb \"miraculously\", not \"by miracle\"."
+    },
+    "fam": [
+      "miraculous (adj)",
+      "miraculously (adv)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "miraculous",
+    "w": "miraculous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "milagroso / prodigioso",
+    "def": "Of the nature of a miracle; bringing about a very welcome or improbable result.",
+    "ipa": "/mɪˈrækjələs/",
+    "ex": "The injured athlete made a truly miraculous recovery and competed in the finals yesterday.",
+    "form": "miraculous",
+    "nat": "Rescue crews described finding the stranded puppy alive after two weeks as completely miraculous.",
+    "syn": [
+      "extraordinary",
+      "marvelous"
+    ],
+    "ant": [
+      "mundane",
+      "ordinary"
+    ],
+    "col": [
+      "miraculous recovery",
+      "miraculous escape",
+      "truly miraculous"
+    ],
+    "mis": {
+      "bad": "He had a miraculous in his recovery.",
+      "good": "His recovery was miraculous / He made a miraculous recovery.",
+      "why": "Use \"miraculous\" as an adjective, not a standalone noun."
+    },
+    "fam": [
+      "miracle (noun)",
+      "miraculously (adv)"
+    ],
+    "topics": [
+      "health",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mirage",
+    "w": "mirage",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "miragem / ilusão de ótica",
+    "def": "An optical illusion caused by atmospheric conditions, or an unrealistic hope.",
+    "ipa": "/məˈrɑːʒ/",
+    "ex": "Thirsty travelers in the desert were deceived by a shimmering mirage of cool water.",
+    "form": "mirage",
+    "nat": "The promise of overnight wealth from speculative trading turned out to be pure mirage.",
+    "syn": [
+      "illusion",
+      "delusion"
+    ],
+    "ant": [
+      "reality"
+    ],
+    "col": [
+      "desert mirage",
+      "shimmering mirage",
+      "optical mirage"
+    ],
+    "mis": {
+      "bad": "The lake was just an optical mirage.",
+      "good": "The lake was just a mirage.",
+      "why": "Say \"a mirage\" directly without repeating \"optical\" unnecessarily."
+    },
+    "fam": [],
+    "topics": [
+      "travel",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mirror",
+    "w": "mirror",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "espelho / reflexo",
+    "def": "A reflective surface that bounces light to form an image of an object.",
+    "ipa": "/ˈmɪrər/",
+    "ex": "Always adjust your rearview mirror and side mirrors before driving out onto public roads.",
+    "form": "mirror",
+    "nat": "Literature and cinema often function as a cultural mirror reflecting the anxieties of society.",
+    "syn": [
+      "reflector"
+    ],
+    "ant": [],
+    "col": [
+      "rearview mirror",
+      "bathroom mirror",
+      "look in the mirror"
+    ],
+    "mis": {
+      "bad": "Look at the mirror.",
+      "good": "Look in the mirror.",
+      "why": "When looking at your own reflection, say \"look in the mirror\"."
+    },
+    "fam": [
+      "mirror (verb)"
+    ],
+    "topics": [
+      "daily",
+      "travel"
+    ]
+  },
+  {
+    "id": "misbehave",
+    "w": "misbehave",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "comportar-se mal / desobedecer",
+    "def": "To behave badly or in an improper manner.",
+    "ipa": "/ˌmɪsbɪˈheɪv/",
+    "ex": "Parents were warned that children who misbehave during the museum tour would be escorted out.",
+    "form": "misbehave",
+    "nat": "The puppy tends to misbehave and chew up slippers whenever left home alone for hours.",
+    "syn": [
+      "act up",
+      "disobey"
+    ],
+    "ant": [
+      "behave",
+      "obey"
+    ],
+    "col": [
+      "tend to misbehave",
+      "misbehave in public",
+      "children misbehave"
+    ],
+    "mis": {
+      "bad": "He behaved bad at school today.",
+      "good": "He misbehaved at school today / behaved badly.",
+      "why": "Use \"misbehaved\" or \"behaved badly\", never \"behaved bad\"."
+    },
+    "fam": [
+      "behavior (noun)"
+    ],
+    "topics": [
+      "daily",
+      "relationships"
+    ]
+  },
+  {
+    "id": "mischievous",
+    "w": "mischievous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "travesso / brincalhão / arteiro",
+    "def": "Causing or showing a fondness for causing trouble in a playful way.",
+    "ipa": "/ˈmɪstʃɪvəs/",
+    "ex": "The mischievous toddler hid his father's car keys inside a flower pot on the terrace.",
+    "form": "mischievous",
+    "nat": "She gave me a mischievous smile right before revealing the surprise birthday celebration plans.",
+    "syn": [
+      "playful",
+      "naughty"
+    ],
+    "ant": [
+      "well-behaved",
+      "serious"
+    ],
+    "col": [
+      "mischievous smile",
+      "mischievous child",
+      "mischievous glint"
+    ],
+    "mis": {
+      "bad": "He is very mischevious.",
+      "good": "He is very mischievous.",
+      "why": "Watch both the spelling and pronunciation: \"mischievous\" has three syllables, not four."
+    },
+    "fam": [
+      "mischief (noun)",
+      "mischievously (adv)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "misconception",
+    "w": "misconception",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "equívoco / ideia errônea",
+    "def": "A view or opinion that is incorrect because based on faulty thinking or understanding.",
+    "ipa": "/ˌmɪskənˈsepʃn/",
+    "ex": "It is a widespread misconception that speaking English fluently requires completely eliminating your foreign accent.",
+    "form": "misconception",
+    "nat": "The science documentary corrected common misconceptions regarding how black holes behave in deep space.",
+    "syn": [
+      "misunderstanding",
+      "fallacy"
+    ],
+    "ant": [
+      "fact",
+      "truth"
+    ],
+    "col": [
+      "common misconception",
+      "widespread misconception",
+      "clear up a misconception"
+    ],
+    "mis": {
+      "bad": "He has a misconception on that.",
+      "good": "He has a misconception about that.",
+      "why": "Use \"misconception about [a topic]\", not \"on\"."
+    },
+    "fam": [
+      "conceive (verb)",
+      "concept (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "culture"
+    ]
+  },
+  {
+    "id": "misconduct",
+    "w": "misconduct",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "má conduta / improbidade",
+    "def": "Unacceptable or improper behavior, especially by an employee or professional person.",
+    "ipa": "/ˌmɪsˈkɑːndʌkt/",
+    "ex": "The senior executive was immediately fired following an independent internal investigation into corporate financial misconduct.",
+    "form": "misconduct",
+    "nat": "The physician was sued for professional medical misconduct after prescribing unauthorized experimental drugs.",
+    "syn": [
+      "wrongdoing",
+      "impropriety"
+    ],
+    "ant": [
+      "good conduct"
+    ],
+    "col": [
+      "professional misconduct",
+      "gross misconduct",
+      "allegations of misconduct"
+    ],
+    "mis": {
+      "bad": "He committed a serious misconduct.",
+      "good": "He committed serious misconduct / an act of serious misconduct.",
+      "why": "\"Misconduct\" is uncountable; avoid saying \"a misconduct\"."
+    },
+    "fam": [
+      "conduct (noun)"
+    ],
+    "topics": [
+      "work",
+      "security"
+    ]
+  },
+  {
+    "id": "misfire",
+    "w": "misfire",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "falhar (motor, arma, plano)",
+    "def": "To fail to discharge or fire properly, or fail to produce the intended result.",
+    "ipa": "/ˌmɪsˈfaɪər/",
+    "ex": "The marketing campaign misfired badly when consumers criticized the tone-deaf and insensitive advertisements.",
+    "form": "misfired",
+    "nat": "If the car engine begins to misfire on acceleration, check the spark plugs immediately.",
+    "syn": [
+      "fail",
+      "backfire"
+    ],
+    "ant": [
+      "succeed"
+    ],
+    "col": [
+      "engine misfire",
+      "strategy misfire",
+      "badly misfire"
+    ],
+    "mis": {
+      "bad": "His plan misfired of success.",
+      "good": "His plan misfired / backfired.",
+      "why": "\"Misfire\" is intransitive; do not add \"of success\"."
+    },
+    "fam": [
+      "misfire (noun)"
+    ],
+    "topics": [
+      "business",
+      "tech"
+    ]
+  },
+  {
+    "id": "misfortune",
+    "w": "misfortune",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "infortúnio / má sorte / adversidade",
+    "def": "Bad luck; an unfortunate condition or event.",
+    "ipa": "/ˌmɪsˈfɔːrtʃən/",
+    "ex": "He had the terrible misfortune of losing his passport the evening before flying abroad.",
+    "form": "misfortune",
+    "nat": "A series of unexpected financial misfortunes forced the family restaurant to close down permanently.",
+    "syn": [
+      "bad luck",
+      "adversity"
+    ],
+    "ant": [
+      "fortune",
+      "luck"
+    ],
+    "col": [
+      "have the misfortune",
+      "stroke of misfortune",
+      "suffer misfortune"
+    ],
+    "mis": {
+      "bad": "He had bad misfortune with his job.",
+      "good": "He had the misfortune to lose his job / suffered misfortune.",
+      "why": "Avoid saying \"bad misfortune\", as \"misfortune\" already implies bad fortune."
+    },
+    "fam": [
+      "fortunate (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "daily"
+    ]
+  },
+  {
+    "id": "misinterpret",
+    "w": "misinterpret",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "interpretar mal / entender errado",
+    "def": "To interpret something wrongly or incorrectly.",
+    "ipa": "/ˌmɪsɪnˈtɜːrprət/",
+    "ex": "Text messages without emojis can easily cause readers to misinterpret the sender's genuine emotional tone.",
+    "form": "misinterpret",
+    "nat": "The junior analyst misinterpreted the quarterly earnings chart, leading to erroneous financial forecasts.",
+    "syn": [
+      "misunderstand",
+      "misconstrue"
+    ],
+    "ant": [
+      "understand"
+    ],
+    "col": [
+      "easily misinterpret",
+      "misinterpret data",
+      "misinterpret signals"
+    ],
+    "mis": {
+      "bad": "She misinterpreted about my words.",
+      "good": "She misinterpreted my words.",
+      "why": "\"Misinterpret\" takes a direct object without \"about\"."
+    },
+    "fam": [
+      "interpretation (noun)"
+    ],
+    "topics": [
+      "work",
+      "relationships"
+    ]
+  },
+  {
+    "id": "misjudge",
+    "w": "misjudge",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "julgar mal / avaliar incorretamente",
+    "def": "To form a wrong opinion or conclusion about someone or something.",
+    "ipa": "/ˌmɪsˈdʒʌdʒ/",
+    "ex": "The driver misjudged the distance between the two vehicles and scraped the passenger door.",
+    "form": "misjudged",
+    "nat": "Do not misjudge her quiet and thoughtful demeanor as a sign of intellectual weakness.",
+    "syn": [
+      "underestimate",
+      "miscalculate"
+    ],
+    "ant": [
+      "judge correctly"
+    ],
+    "col": [
+      "misjudge the distance",
+      "misjudge character",
+      "badly misjudge"
+    ],
+    "mis": {
+      "bad": "He misjudged about his competitor.",
+      "good": "He misjudged his competitor.",
+      "why": "\"Misjudge\" is transitive; do not use the preposition \"about\"."
+    },
+    "fam": [
+      "judgment (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "daily"
+    ]
+  },
+  {
+    "id": "mislead",
+    "w": "mislead",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "induzir ao erro / enganar",
+    "def": "To cause someone to have a wrong idea or impression about someone or something.",
+    "ipa": "/ˌmɪsˈliːd/",
+    "ex": "Advertisers must never mislead consumers with fabricated claims about dietary supplement health benefits.",
+    "form": "mislead",
+    "nat": "The ambiguous wording in the software contract was deliberately designed to mislead potential buyers.",
+    "syn": [
+      "deceive",
+      "delude"
+    ],
+    "ant": [
+      "guide",
+      "inform"
+    ],
+    "col": [
+      "mislead the public",
+      "deliberately mislead",
+      "mislead investors"
+    ],
+    "mis": {
+      "bad": "The advertisement misled to consumers.",
+      "good": "The advertisement misled consumers.",
+      "why": "\"Mislead\" takes a direct object without \"to\"."
+    },
+    "fam": [
+      "misleading (adj)"
+    ],
+    "topics": [
+      "business",
+      "culture"
+    ]
+  },
+  {
+    "id": "mismatch",
+    "w": "mismatch",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "incompatibilidade / descompasso",
+    "def": "A failure to correspond or match; a discrepancy.",
+    "ipa": "/ˈmɪsmætʃ/",
+    "ex": "There is a serious mismatch between developer skill sets and current employer artificial intelligence demands.",
+    "form": "mismatch",
+    "nat": "The tennis final proved to be a total mismatch between the champion and the novice.",
+    "syn": [
+      "discrepancy",
+      "imbalance"
+    ],
+    "ant": [
+      "match",
+      "balance"
+    ],
+    "col": [
+      "skills mismatch",
+      "glaring mismatch",
+      "mismatch between"
+    ],
+    "mis": {
+      "bad": "There is a mismatch of skills with the job.",
+      "good": "There is a skills mismatch for the job / mismatch between skills and job requirements.",
+      "why": "Use \"mismatch between A and B\", not \"mismatch of A with B\"."
+    },
+    "fam": [
+      "match (noun)"
+    ],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mist",
+    "w": "mist",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "névoa / neblina fina",
+    "def": "A cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface.",
+    "ipa": "/mɪst/",
+    "ex": "A thick morning mist hung over the calm lake until the warm sunshine dispersed it.",
+    "form": "mist",
+    "nat": "Waterfalls create a refreshing fine mist that cools hikers standing along the scenic canyon trails.",
+    "syn": [
+      "fog",
+      "haze"
+    ],
+    "ant": [],
+    "col": [
+      "morning mist",
+      "fine mist",
+      "shrouded in mist"
+    ],
+    "mis": {
+      "bad": "The mountain was covered by a fog mist.",
+      "good": "The mountain was shrouded in mist.",
+      "why": "Do not combine \"fog mist\"; use either \"mist\" (lighter) or \"fog\" (denser)."
+    },
+    "fam": [
+      "misty (adj)"
+    ],
+    "topics": [
+      "travel",
+      "daily"
+    ]
+  },
+  {
+    "id": "mistake",
+    "w": "mistake",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "erro / engano",
+    "def": "An action or judgment that is misguided or wrong.",
+    "ipa": "/mɪˈsteɪk/",
+    "ex": "Making a grammatical mistake while practicing speaking English is completely normal and helps you learn.",
+    "form": "mistake",
+    "nat": "The bank apologized for the billing mistake and credited the fifty-dollar fee back immediately.",
+    "syn": [
+      "error",
+      "blunder"
+    ],
+    "ant": [],
+    "col": [
+      "make a mistake",
+      "by mistake",
+      "grave mistake"
+    ],
+    "mis": {
+      "bad": "I did a mistake in the test.",
+      "good": "I made a mistake on the test.",
+      "why": "Always use the collocation \"make a mistake\", never \"do a mistake\"."
+    },
+    "fam": [
+      "mistake (verb)",
+      "mistaken (adj)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "mistrust",
+    "w": "mistrust",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "desconfiar de / ter receio de",
+    "def": "To be suspicious of; have no confidence in.",
+    "ipa": "/ˌmɪsˈtrʌst/",
+    "ex": "Citizens began to mistrust official statements after conflicting reports emerged from independent journalistic investigators.",
+    "form": "mistrust",
+    "nat": "Consumers often mistrust unfamiliar shopping websites that lack verifiable customer reviews and secure payment options.",
+    "syn": [
+      "distrust",
+      "doubt"
+    ],
+    "ant": [
+      "trust",
+      "rely on"
+    ],
+    "col": [
+      "deeply mistrust",
+      "mistrust the government",
+      "reason to mistrust"
+    ],
+    "mis": {
+      "bad": "I mistrust from that online store.",
+      "good": "I mistrust that online store.",
+      "why": "\"Mistrust\" is a transitive verb; omit the preposition \"from\"."
+    },
+    "fam": [
+      "mistrust (noun)",
+      "mistrustful (adj)"
+    ],
+    "topics": [
+      "relationships",
+      "security"
+    ]
+  },
+  {
+    "id": "moan",
+    "w": "moan",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "gemer / lamuriar-se / queixar-se",
+    "def": "To make a long, low sound expressing physical or mental suffering, or complain.",
+    "ipa": "/moʊn/",
+    "ex": "Coworkers who constantly moan about office trivialities create a toxic and demotivating team environment.",
+    "form": "moan",
+    "nat": "The injured soccer player moaned in pain while holding his twisted right knee tightly.",
+    "syn": [
+      "groan",
+      "whine"
+    ],
+    "ant": [
+      "rejoice",
+      "cheer"
+    ],
+    "col": [
+      "moan about",
+      "moan in pain",
+      "constantly moan"
+    ],
+    "mis": {
+      "bad": "He moaned of the heavy workload.",
+      "good": "He moaned about the heavy workload.",
+      "why": "Use \"moan about [something]\", not \"moan of\"."
+    },
+    "fam": [
+      "moan (noun)"
+    ],
+    "topics": [
+      "daily",
+      "work"
+    ]
+  },
+  {
+    "id": "mob",
+    "w": "mob",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "multidão enfurecida / turba / máfia",
+    "def": "A large crowd of people, especially one that is disorderly and intent on causing trouble.",
+    "ipa": "/mɑːb/",
+    "ex": "An angry mob of protesters gathered outside the embassy gates demanding an immediate formal response.",
+    "form": "mob",
+    "nat": "Security officers escorted the famous movie star safely away from the mob of eager photographers.",
+    "syn": [
+      "crowd",
+      "throng"
+    ],
+    "ant": [],
+    "col": [
+      "angry mob",
+      "mob violence",
+      "the mob"
+    ],
+    "mis": {
+      "bad": "A big mob of people entered.",
+      "good": "An angry mob gathered outside.",
+      "why": "\"Mob\" usually implies disorder or aggression; for a neutral large gathering use \"crowd\"."
+    },
+    "fam": [
+      "mobbed (adj)"
+    ],
+    "topics": [
+      "culture",
+      "security"
+    ]
+  },
+  {
+    "id": "mobile",
+    "w": "mobile",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "móvel / portátil / itinerante",
+    "def": "Able to move or be moved freely or easily.",
+    "ipa": "/ˈmoʊbl/",
+    "ex": "Most online banking users prefer managing their checking and savings accounts through native mobile apps.",
+    "form": "mobile",
+    "nat": "The emergency dental clinic operates a mobile medical van to treat patients in remote villages.",
+    "syn": [
+      "portable",
+      "movable"
+    ],
+    "ant": [
+      "stationary",
+      "fixed"
+    ],
+    "col": [
+      "mobile device",
+      "mobile app",
+      "mobile clinic"
+    ],
+    "mis": {
+      "bad": "I answered from my mobile phone device.",
+      "good": "I answered from my mobile phone / mobile device.",
+      "why": "Say \"mobile phone\" or \"mobile device\", not \"mobile phone device\"."
+    },
+    "fam": [
+      "mobility (noun)"
+    ],
+    "topics": [
+      "tech",
+      "daily"
+    ]
+  },
+  {
+    "id": "mobility",
+    "w": "mobility",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "mobilidade / facilidade de locomoção",
+    "def": "The ability to move or be moved freely and easily.",
+    "ipa": "/moʊˈbɪləti/",
+    "ex": "Performing regular hip mobility exercises helps office workers prevent chronic lower back stiffness and pain.",
+    "form": "mobility",
+    "nat": "Investing in public subway infrastructure improves social mobility and economic opportunity for suburban residents.",
+    "syn": [
+      "flexibility",
+      "movement"
+    ],
+    "ant": [
+      "immobility"
+    ],
+    "col": [
+      "social mobility",
+      "upward mobility",
+      "joint mobility"
+    ],
+    "mis": {
+      "bad": "He has a good mobility of legs.",
+      "good": "He has good leg mobility / good joint mobility.",
+      "why": "Say \"good joint mobility\" or \"leg mobility\" rather than \"mobility of legs\"."
+    },
+    "fam": [
+      "mobile (adj)"
+    ],
+    "topics": [
+      "health",
+      "travel"
+    ]
+  },
+  {
+    "id": "mobilize",
+    "w": "mobilize",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "mobilizar / convocar recursos",
+    "def": "To prepare and organize troops or resources for active service or a campaign.",
+    "ipa": "/ˈmoʊbəlaɪz/",
+    "ex": "The international community acted swiftly to mobilize humanitarian emergency aid for the earthquake victims.",
+    "form": "mobilize",
+    "nat": "Environmental activists managed to mobilize thousands of college students for the worldwide climate strike.",
+    "syn": [
+      "marshal",
+      "rally"
+    ],
+    "ant": [
+      "demobilize"
+    ],
+    "col": [
+      "mobilize resources",
+      "mobilize support",
+      "mobilize troops"
+    ],
+    "mis": {
+      "bad": "The city mobilized to support for the victims.",
+      "good": "The city mobilized support for the victims.",
+      "why": "\"Mobilize\" takes a direct object: \"mobilized support for the victims\"."
+    },
+    "fam": [
+      "mobilization (noun)"
+    ],
+    "topics": [
+      "work",
+      "culture"
+    ]
+  },
+  {
+    "id": "mock",
+    "w": "mock",
+    "pos": "verb",
+    "lvl": "B2",
+    "pt": "zombar de / ridicularizar",
+    "def": "To tease or laugh at in a scornful or contemptuous manner.",
+    "ipa": "/mɑːk/",
+    "ex": "It is cruel and unprofessional to mock colleagues when they make honest language errors.",
+    "form": "mock",
+    "nat": "Comedians frequently mock political figures and absurd cultural trends during their weekly satirical monologues.",
+    "syn": [
+      "ridicule",
+      "taunt"
+    ],
+    "ant": [
+      "praise",
+      "respect"
+    ],
+    "col": [
+      "mock someone",
+      "openly mock",
+      "mock an accent"
+    ],
+    "mis": {
+      "bad": "He mocked of his brother's haircut.",
+      "good": "He mocked his brother's haircut.",
+      "why": "\"Mock\" is a transitive verb; omit the preposition \"of\"."
+    },
+    "fam": [
+      "mock (adj)",
+      "mockery (noun)"
+    ],
+    "topics": [
+      "relationships",
+      "culture"
+    ]
+  },
+  {
+    "id": "mock-up",
+    "w": "mock-up",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "maquete / protótipo visual",
+    "def": "A model or replica of a machine or structure, used for instructional or design purposes.",
+    "ipa": "/ˈmɑːkʌp/",
+    "ex": "The UX designer presented a clickable interactive mock-up of the mobile checkout flow yesterday.",
+    "form": "mock-up",
+    "nat": "Before manufacturing the hardware casing, engineers built a physical wooden mock-up for testing.",
+    "syn": [
+      "prototype",
+      "model"
+    ],
+    "ant": [],
+    "col": [
+      "interactive mock-up",
+      "design mock-up",
+      "build a mock-up"
+    ],
+    "mis": {
+      "bad": "The designer made a mock up of the screen.",
+      "good": "The designer made a mock-up of the screen.",
+      "why": "As a noun, hyphenate as \"mock-up\" (or write \"mockup\")."
+    },
+    "fam": [
+      "mock (verb)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "mode",
+    "w": "mode",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "modo / modalidade / regime de funcionamento",
+    "def": "A way or manner in which something occurs or is experienced; a state of operation.",
+    "ipa": "/moʊd/",
+    "ex": "Switching your smartphone to airplane mode before takeoff saves valuable battery life during flights.",
+    "form": "mode",
+    "nat": "Rail transport remains the most environmentally sustainable mode of intercity passenger and freight travel.",
+    "syn": [
+      "method",
+      "manner"
+    ],
+    "ant": [],
+    "col": [
+      "airplane mode",
+      "dark mode",
+      "mode of transport"
+    ],
+    "mis": {
+      "bad": "Turn the phone in dark mode.",
+      "good": "Turn the phone to dark mode / switch to dark mode.",
+      "why": "Use \"switch to [mode]\" or \"in [mode]\": \"switch to dark mode\"."
+    },
+    "fam": [],
+    "topics": [
+      "tech",
+      "travel"
+    ]
+  },
+  {
+    "id": "moderate",
+    "w": "moderate",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "moderado / razoável",
+    "def": "Average in amount, intensity, quality, or degree; neither small nor large.",
+    "ipa": "/ˈmɑːdərət/",
+    "ex": "Doctors recommend at least one hundred fifty minutes of moderate cardiovascular aerobic exercise weekly.",
+    "form": "moderate",
+    "nat": "The hotel offers clean, comfortable rooms and high-speed Wi-Fi at a very moderate price.",
+    "syn": [
+      "modest",
+      "reasonable"
+    ],
+    "ant": [
+      "extreme",
+      "excessive"
+    ],
+    "col": [
+      "moderate exercise",
+      "moderate amount",
+      "moderate pace"
+    ],
+    "mis": {
+      "bad": "He exercises with a moderate intensely.",
+      "good": "He exercises at a moderate intensity.",
+      "why": "Say \"at a moderate intensity / pace\"."
+    },
+    "fam": [
+      "moderation (noun)",
+      "moderately (adv)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "modernization",
+    "w": "modernization",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "modernização",
+    "def": "The process of adapting something to modern needs or habits.",
+    "ipa": "/ˌmɑːdərnəˈzeɪʃn/",
+    "ex": "The comprehensive modernization of the public subway network significantly reduced daily commuter delay times.",
+    "form": "modernization",
+    "nat": "Banks are spending billions on infrastructure modernization to replace legacy mainframe software with cloud systems.",
+    "syn": [
+      "upgrading",
+      "renovation"
+    ],
+    "ant": [],
+    "col": [
+      "system modernization",
+      "rapid modernization",
+      "modernization program"
+    ],
+    "mis": {
+      "bad": "The modernization of the system was fastly done.",
+      "good": "The modernization of the system was quickly completed.",
+      "why": "Use \"quickly completed\", not \"fastly done\" (\"fastly\" does not exist)."
+    },
+    "fam": [
+      "modern (adj)",
+      "modernize (verb)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "modernize",
+    "w": "modernize",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "modernizar / atualizar",
+    "def": "To adapt something to modern needs or habits, typically by installing modern technology.",
+    "ipa": "/ˈmɑːdərnaɪz/",
+    "ex": "The regional manufacturing plant decided to modernize its assembly line with automated robotic machinery.",
+    "form": "modernize",
+    "nat": "Small business owners must modernize their payment systems to accept contactless credit cards easily.",
+    "syn": [
+      "update",
+      "upgrade"
+    ],
+    "ant": [
+      "outdate"
+    ],
+    "col": [
+      "modernize systems",
+      "modernize infrastructure",
+      "fully modernize"
+    ],
+    "mis": {
+      "bad": "We need to modernizate our tools.",
+      "good": "We need to modernize our tools.",
+      "why": "The correct English verb is \"modernize\", not \"modernizate\"."
+    },
+    "fam": [
+      "modernization (noun)"
+    ],
+    "topics": [
+      "tech",
+      "business"
+    ]
+  },
+  {
+    "id": "modify",
+    "w": "modify",
+    "pos": "verb",
+    "lvl": "B1+",
+    "pt": "modificar / alterar levemente",
+    "def": "To make partial or minor changes to something, typically so as to improve it.",
+    "ipa": "/ˈmɑːdɪfaɪ/",
+    "ex": "You should modify the default database password immediately after installing the software on servers.",
+    "form": "modify",
+    "nat": "The architect had to modify the original blueprints to comply with local earthquake building codes.",
+    "syn": [
+      "alter",
+      "adjust"
+    ],
+    "ant": [
+      "preserve",
+      "maintain"
+    ],
+    "col": [
+      "modify settings",
+      "modify behavior",
+      "subtly modify"
+    ],
+    "mis": {
+      "bad": "We modified about the contract clauses.",
+      "good": "We modified the contract clauses.",
+      "why": "\"Modify\" is a transitive verb; omit the preposition \"about\"."
+    },
+    "fam": [
+      "modification (noun)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "modular",
+    "w": "modular",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "modular / componível",
+    "def": "Employing or involving a module or modules as the basis of design or construction.",
+    "ipa": "/ˈmɑːdʒələr/",
+    "ex": "Writing clean, modular code allows software engineering teams to deploy independent features without system disruptions.",
+    "form": "modular",
+    "nat": "The apartment building was constructed rapidly using prefabricated modular steel and concrete units.",
+    "syn": [
+      "component-based",
+      "sectional"
+    ],
+    "ant": [
+      "monolithic",
+      "unitary"
+    ],
+    "col": [
+      "modular design",
+      "modular architecture",
+      "modular furniture"
+    ],
+    "mis": {
+      "bad": "The program has a very module structure.",
+      "good": "The program has a very modular structure.",
+      "why": "Use the adjective \"modular\", not the noun \"module\", before \"structure\"."
+    },
+    "fam": [
+      "module (noun)"
+    ],
+    "topics": [
+      "tech",
+      "work"
+    ]
+  },
+  {
+    "id": "moisture",
+    "w": "moisture",
+    "pos": "noun",
+    "lvl": "B1+",
+    "pt": "umidade / vapor de água",
+    "def": "Water or other liquid diffused in a small quantity as vapor, within a solid, or on a surface.",
+    "ipa": "/ˈmɔɪstʃər/",
+    "ex": "Excess moisture inside closed basement rooms can encourage dangerous black mold to grow rapidly.",
+    "form": "moisture",
+    "nat": "Using a gentle hydrating face cream locks in essential moisture during dry winter weather.",
+    "syn": [
+      "dampness",
+      "humidity"
+    ],
+    "ant": [
+      "dryness",
+      "aridity"
+    ],
+    "col": [
+      "absorb moisture",
+      "retain moisture",
+      "moisture content"
+    ],
+    "mis": {
+      "bad": "There was too much humidity moisture on the walls.",
+      "good": "There was too much moisture on the walls.",
+      "why": "Do not combine \"humidity moisture\"; use \"moisture\" for physical wetness on surfaces."
+    },
+    "fam": [
+      "moist (adj)",
+      "moisturize (verb)"
+    ],
+    "topics": [
+      "health",
+      "daily"
+    ]
+  },
+  {
+    "id": "monetary",
+    "w": "monetary",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "monetário / financeiro",
+    "def": "Relating to money or to the mechanisms by which money is supplied and circulated.",
+    "ipa": "/ˈmɑːnɪteri/",
+    "ex": "The central bank adjusted its monetary policy by raising benchmark interest rates to combat inflation.",
+    "form": "monetary",
+    "nat": "The antique family violin had little monetary value but carried immense irreplaceable emotional worth.",
+    "syn": [
+      "financial",
+      "fiscal"
+    ],
+    "ant": [],
+    "col": [
+      "monetary policy",
+      "monetary value",
+      "monetary system"
+    ],
+    "mis": {
+      "bad": "The prize had an enormous monetary worth value.",
+      "good": "The prize had enormous monetary value.",
+      "why": "Say \"monetary value\", not \"monetary worth value\"."
+    },
+    "fam": [
+      "money (noun)"
+    ],
+    "topics": [
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "monopoly",
+    "w": "monopoly",
+    "pos": "noun",
+    "lvl": "B2",
+    "pt": "monopólio",
+    "def": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+    "ipa": "/məˈnɑːpəli/",
+    "ex": "Antitrust regulators sued the multinational tech company to prevent it from maintaining an illegal monopoly.",
+    "form": "monopoly",
+    "nat": "The state maintained a strict monopoly on postal mail delivery services for over a century.",
+    "syn": [
+      "exclusive control",
+      "cartel"
+    ],
+    "ant": [
+      "competition"
+    ],
+    "col": [
+      "hold a monopoly",
+      "break up a monopoly",
+      "state monopoly"
+    ],
+    "mis": {
+      "bad": "The firm has a monopoly on the market.",
+      "good": "The firm has a monopoly in / over the market.",
+      "why": "Collocate with \"monopoly over\" or \"monopoly in the market\", or \"monopoly on supply\"."
+    },
+    "fam": [
+      "monopolize (verb)"
+    ],
+    "topics": [
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "monotonous",
+    "w": "monotonous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "monótono / repetitivo e entediante",
+    "def": "Dull, tedious, and repetitious; lacking in variety and interest.",
+    "ipa": "/məˈnɑːtənəs/",
+    "ex": "Listening to a speaker with a monotonous voice for two hours makes staying awake challenging.",
+    "form": "monotonous",
+    "nat": "Data entry can feel painfully monotonous when you are typing identical numbers into spreadsheets daily.",
+    "syn": [
+      "tedious",
+      "repetitive"
+    ],
+    "ant": [
+      "varied",
+      "exciting"
+    ],
+    "col": [
+      "monotonous voice",
+      "monotonous task",
+      "grow monotonous"
+    ],
+    "mis": {
+      "bad": "The work was very monotonously.",
+      "good": "The work was very monotonous.",
+      "why": "Use the adjective \"monotonous\" after \"was\", not the adverb form."
+    },
+    "fam": [
+      "monotony (noun)",
+      "monotonously (adv)"
+    ],
+    "topics": [
+      "work",
+      "daily"
+    ]
+  },
+  {
+    "id": "monstrous",
+    "w": "monstrous",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "monstruoso / hediondo / gigantesco",
+    "def": "Having the ugly or frightening appearance of a monster; or shockingly hideous or wrong.",
+    "ipa": "/ˈmɑːnstrəs/",
+    "ex": "Dumping toxic untreated chemical waste into pristine drinking reservoirs is a monstrous crime against humanity.",
+    "form": "monstrous",
+    "nat": "The hurricane generated monstrous twenty-foot ocean waves that battered the coastal sea wall all night.",
+    "syn": [
+      "hideous",
+      "outrageous"
+    ],
+    "ant": [
+      "beautiful",
+      "admirable"
+    ],
+    "col": [
+      "monstrous crime",
+      "monstrous wave",
+      "monstrous lie"
+    ],
+    "mis": {
+      "bad": "It was a monstrous of an error.",
+      "good": "It was a monstrous error.",
+      "why": "Use \"monstrous\" directly as an adjective before the noun."
+    },
+    "fam": [
+      "monster (noun)"
+    ],
+    "topics": [
+      "abstract",
+      "culture"
+    ]
+  },
+  {
+    "id": "monthly",
+    "w": "monthly",
+    "pos": "adj",
+    "lvl": "B1",
+    "pt": "mensal",
+    "def": "Done, produced, or occurring once every month.",
+    "ipa": "/ˈmʌnθli/",
+    "ex": "Our company holds a monthly all-hands meeting to review product milestones and celebrate achievements.",
+    "form": "monthly",
+    "nat": "Paying your full monthly credit card balance on time prevents costly accumulated interest charges.",
+    "syn": [
+      "every month",
+      "periodic"
+    ],
+    "ant": [],
+    "col": [
+      "monthly fee",
+      "monthly subscription",
+      "monthly report"
+    ],
+    "mis": {
+      "bad": "I pay a fee monthly of fifty dollars.",
+      "good": "I pay a monthly fee of fifty dollars.",
+      "why": "Place the adjective \"monthly\" before the noun: \"monthly fee\"."
+    },
+    "fam": [
+      "month (noun)",
+      "monthly (adv)"
+    ],
+    "topics": [
+      "finance",
+      "daily"
+    ]
+  },
+  {
+    "id": "monumental",
+    "w": "monumental",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "monumental / grandioso / histórico",
+    "def": "Great in importance, extent, or size; or serving as a monument.",
+    "ipa": "/ˌmɑːnjuˈmentl/",
+    "ex": "Mapping the complete human genome was a monumental scientific achievement that revolutionized personalized medical treatments.",
+    "form": "monumental",
+    "nat": "The architecture firm designed a monumental glass tower that transformed the capital's skyline forever.",
+    "syn": [
+      "historic",
+      "immense"
+    ],
+    "ant": [
+      "trivial",
+      "minor"
+    ],
+    "col": [
+      "monumental achievement",
+      "monumental task",
+      "monumental error"
+    ],
+    "mis": {
+      "bad": "It was a monumental of a project.",
+      "good": "It was a monumental project / monumental achievement.",
+      "why": "Use \"monumental\" directly as an adjective: \"a monumental task\"."
+    },
+    "fam": [
+      "monument (noun)"
+    ],
+    "topics": [
+      "culture",
+      "science"
+    ]
+  },
+  {
+    "id": "mood",
+    "w": "mood",
+    "pos": "noun",
+    "lvl": "B1",
+    "pt": "humor / estado de espírito",
+    "def": "A temporary state of mind or feeling.",
+    "ipa": "/muːd/",
+    "ex": "A brisk twenty-minute walk in natural morning sunlight can noticeably lift your overall mood.",
+    "form": "mood",
+    "nat": "I am not in the mood to attend another loud networking party this evening.",
+    "syn": [
+      "temper",
+      "disposition"
+    ],
+    "ant": [],
+    "col": [
+      "in a good mood",
+      "in the mood for",
+      "bad mood"
+    ],
+    "mis": {
+      "bad": "I am not on the mood to go out.",
+      "good": "I am not in the mood to go out.",
+      "why": "Always say \"in the mood\", never \"on the mood\"."
+    },
+    "fam": [
+      "moody (adj)"
+    ],
+    "topics": [
+      "daily",
+      "health"
+    ]
+  },
+  {
+    "id": "moral",
+    "w": "moral",
+    "pos": "adj",
+    "lvl": "B1+",
+    "pt": "moral / ético",
+    "def": "Concerned with the principles of right and wrong behavior and the goodness or badness.",
+    "ipa": "/ˈmɔːrəl/",
+    "ex": "Scientists have a clear moral responsibility to consider the ethical consequences of their technical innovations.",
+    "form": "moral",
+    "nat": "The fable of the tortoise and the hare teaches a timeless moral lesson about perseverance.",
+    "syn": [
+      "ethical",
+      "righteous"
+    ],
+    "ant": [
+      "immoral",
+      "unethical"
+    ],
+    "col": [
+      "moral duty",
+      "moral support",
+      "moral dilemma"
+    ],
+    "mis": {
+      "bad": "He gave me morale support during the exam.",
+      "good": "He gave me moral support during the exam.",
+      "why": "Do not confuse \"moral\" (ethical) with \"morale\" (confidence/spirit)."
+    },
+    "fam": [
+      "morality (noun)",
+      "morally (adv)"
+    ],
+    "topics": [
+      "culture",
+      "abstract"
+    ]
+  },
+  {
+    "id": "moreover",
+    "w": "moreover",
+    "pos": "adv",
+    "lvl": "B2",
+    "pt": "além disso / ademais",
+    "def": "As a further matter; besides; in addition.",
+    "ipa": "/mɔːrˈoʊvər/",
+    "ex": "The proposed software solution is expensive; moreover, it fails to solve our core scalability problems.",
+    "form": "moreover",
+    "nat": "Cycling to work saves daily commuting money; moreover, it provides excellent regular cardiovascular exercise.",
+    "syn": [
+      "furthermore",
+      "in addition"
+    ],
+    "ant": [],
+    "col": [
+      "moreover it is",
+      "moreover the data",
+      "simple and moreover"
+    ],
+    "mis": {
+      "bad": "The project was delayed, more over, it was over budget.",
+      "good": "The project was delayed; moreover, it was over budget.",
+      "why": "Write \"moreover\" as one single word, not two separate words."
+    },
+    "fam": [],
+    "topics": [
+      "work",
+      "abstract"
+    ]
+  },
+  {
+    "id": "mortal",
+    "w": "mortal",
+    "pos": "adj",
+    "lvl": "B2",
+    "pt": "mortal / perecível / fatal",
+    "def": "Living human beings subject to death; causing death; fatal.",
+    "ipa": "/ˈmɔːrtl/",
+    "ex": "Every human being on this earth is mortal, which makes our limited time deeply precious.",
+    "form": "mortal",
+    "nat": "The brave medieval knight sustained a mortal wound during the fierce castle battle yesterday.",
+    "syn": [
+      "fatal",
+      "perishable"
+    ],
+    "ant": [
+      "immortal",
+      "everlasting"
+    ],
+    "col": [
+      "mortal wound",
+      "mortal enemy",
+      "mortal danger"
+    ],
+    "mis": {
+      "bad": "He escaped from a mortally danger.",
+      "good": "He escaped from mortal danger.",
+      "why": "Use the adjective \"mortal\" before the noun \"danger\", not the adverb."
+    },
+    "fam": [
+      "mortality (noun)",
+      "immortal (adj)"
+    ],
+    "topics": [
+      "abstract",
+      "culture"
+    ]
+  }
+]

@@ -4,7 +4,7 @@ const R = (...p) => path.join(__dirname, ...p);
 const J = f => JSON.parse(fs.readFileSync(R('content', f), 'utf8'));
 const XF = pre => fs.readdirSync(R('content')).filter(f => f.startsWith(pre) && f.endsWith('.json')).sort().flatMap(f => J(f));
 const CONTENT = {
-  words: [...J('words_a.json'), ...J('words_b.json'), ...(fs.existsSync(R('content', 'words_c.json')) ? J('words_c.json') : []), ...[1,2,3,4,5,6,7].flatMap(n => fs.existsSync(R('content', 'words_d' + n + '.json')) ? J('words_d' + n + '.json') : [])],
+  words: XF('words_'),
   phr: J('phrasals.json'), gr: [...J('grammar.json'), ...XF('grammar_new')], nat: J('natural.json'), con: J('connectors.json'),
   lis: [...J('listening.json'), ...(fs.existsSync(R('content', 'listening_b.json')) ? J('listening_b.json') : []), ...XF('listening_x')], rd: [...(fs.existsSync(R('content', 'reading.json')) ? J('reading.json') : []), ...XF('reading_x')], spk: J('speaking.json'), rp: [...J('roleplay.json'), ...XF('roleplay_x')], dx: J('diagnostic.json')
 };
