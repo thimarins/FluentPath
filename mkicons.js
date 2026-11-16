@@ -31,7 +31,7 @@ function pixel(u, v, rounded) {
   return [c[0], c[1], c[2], 255];
 }
 function icon(size, rounded) {
-  BOLD = size <= 48;
+  BOLD = size <= 16;
   const S = size <= 64 ? 6 : 3, buf = Buffer.alloc(size * size * 4);
   for (let y = 0; y < size; y++) for (let x = 0; x < size; x++) {
     let r = 0, g = 0, b = 0, a = 0;

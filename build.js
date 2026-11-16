@@ -13,7 +13,7 @@ if (cfg.googleClientId) code = code.replace("const DEFAULT_CLIENT_ID = '';", "co
 const css = fs.readFileSync(R('src', 'style.css'), 'utf8');
 const safe = s => s.split('</script').join('<\\/script').split(String.fromCharCode(8232)).join('\\u2028').split(String.fromCharCode(8233)).join('\\u2029');
 const favicon = 'data:image/png;base64,' + fs.readFileSync(R('assets', 'favicon-128.png')).toString('base64'); // ícone do app (barra de tarefas)
-const faviconLinks = [256, 128, 64, 48, 32].map(n => `<link rel="icon" type="image/png" sizes="${n}x${n}" href="data:image/png;base64,${fs.readFileSync(R('assets', 'favicon-' + n + '.png')).toString('base64')}">`).join('');
+const faviconLinks = `<link rel="icon" type="image/png" sizes="256x256" href="data:image/png;base64,${fs.readFileSync(R('assets', 'favicon-256.png')).toString('base64')}">`;
 const faviconOld = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%233454d1'/%3E%3Cpath d='M9 22c3-9 8-12 14-12' stroke='white' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3Ccircle cx='9' cy='22' r='2.5' fill='white'/%3E%3C/svg%3E";
 const page = (installable) => `<!DOCTYPE html>
 <html lang="en">
