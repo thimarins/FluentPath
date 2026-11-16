@@ -2962,7 +2962,7 @@
     "pt": "computar / calcular",
     "def": "To calculate or reckon an amount or number mathematically or via software.",
     "ipa": "/kəmˈpjuːt/",
-    "ex": "Quantum computers can compute certain mathematical problems exponentially faster than classical machines.",
+    "ex": "Modern GPUs can compute complex matrix operations much faster than older chips.",
     "form": "compute",
     "nat": "Algorithms compute the optimal flight path based on real-time weather data.",
     "syn": [
