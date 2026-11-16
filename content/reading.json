@@ -1418,5 +1418,2893 @@
         "pt": "por padrão"
       }
     ]
+  },
+  {
+    "id": "rd-x1-01",
+    "lvl": "B1+",
+    "topic": "health",
+    "kind": "article",
+    "title": "Sleep and a stronger memory",
+    "text": "Most people know that sleep makes them feel better, but sleep also helps the brain store new information. During the day, we see, hear and learn a huge number of things. At night, the brain sorts through them and decides which ones are worth keeping.\n\nStudents are often surprised by this. Many of them stay awake all night before an exam because they want to study more. However, researchers say that a good night of sleep can be more useful than extra hours with a book. When we are tired, it is harder to concentrate, and we make more mistakes.\n\nThere are a few simple ways to sleep better. Go to bed at about the same time every night, and avoid looking at your phone for the last half hour before sleep. A dark, quiet room also helps. If you follow these habits for a few weeks, you will probably notice that you remember things more easily and wake up with more energy.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Sleep helps the brain keep what we learn.",
+          "Students should never study at night.",
+          "Phones are the only cause of bad sleep.",
+          "Tired people always make the same mistakes."
+        ],
+        "ans": 0,
+        "why": "The text explains that during sleep the brain sorts and stores new information.",
+        "type": "main"
+      },
+      {
+        "q": "According to the text, what should you avoid before going to sleep?",
+        "opts": [
+          "Reading a book",
+          "Looking at your phone",
+          "Sleeping in a dark room",
+          "Going to bed early"
+        ],
+        "ans": 1,
+        "why": "The text says to avoid looking at your phone for the last half hour before sleep.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the writer suggest about studying all night before an exam?",
+        "opts": [
+          "It is the best way to prepare.",
+          "It is only useful for short exams.",
+          "It may not be as helpful as people think.",
+          "It makes students sleep better."
+        ],
+        "ans": 2,
+        "why": "Researchers say a good night of sleep can be more useful than extra hours of study.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"worth keeping\" mean in the first paragraph?",
+        "opts": [
+          "too expensive",
+          "easy to forget",
+          "very loud",
+          "important enough to save"
+        ],
+        "ans": 3,
+        "why": "The brain decides which pieces of information are important enough to store.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "store",
+        "pt": "armazenar"
+      },
+      {
+        "w": "concentrate",
+        "pt": "concentrar-se"
+      },
+      {
+        "w": "habit",
+        "pt": "hábito"
+      },
+      {
+        "w": "exam",
+        "pt": "prova"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-02",
+    "lvl": "B2",
+    "topic": "health",
+    "kind": "blog",
+    "title": "Why I started walking to work",
+    "text": "For years I took the bus to the office, and I never thought much about it. Then my doctor told me that I spent too many hours sitting down, so I decided to try walking instead. The journey takes forty minutes, which is twenty minutes longer than the bus, but I have learned to enjoy every one of them.\n\nThe first week was difficult. My legs felt heavy, and I arrived at work slightly out of breath. By the third week, however, something had changed. I was sleeping more deeply, and I no longer needed a second coffee at eleven o'clock. I also noticed that I had better ideas on the way to work, probably because my mind had time to wander.\n\nI do not want to exaggerate. Walking is not a miracle cure, and it is not practical for everyone. If you live far from your job, you might try getting off the bus a few stops early instead. The important point is to build movement into your normal day, so that it becomes a habit rather than a special effort.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Buses are slower than most people believe.",
+          "Doctors always recommend long walks.",
+          "Walking to work improved the writer's daily life.",
+          "The writer wants everyone to stop using public transport."
+        ],
+        "ans": 2,
+        "why": "The writer describes better sleep, more energy and better ideas after starting to walk to work.",
+        "type": "main"
+      },
+      {
+        "q": "How much longer does the walk take than the bus?",
+        "opts": [
+          "Ten minutes",
+          "Twenty minutes",
+          "Forty minutes",
+          "One hour"
+        ],
+        "ans": 1,
+        "why": "The walk takes forty minutes, which is twenty minutes longer than the bus.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the writer mention getting off the bus a few stops early?",
+        "opts": [
+          "To suggest a more realistic option for people who live far away",
+          "To explain why the bus is cheaper",
+          "To complain about the bus route",
+          "To show that walking is dangerous"
+        ],
+        "ans": 0,
+        "why": "It is offered as an alternative for people who cannot walk the whole way.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"wander\" mean in the second paragraph?",
+        "opts": [
+          "stop completely",
+          "move freely without a fixed direction",
+          "become tired",
+          "work very hard"
+        ],
+        "ans": 1,
+        "why": "A mind that wanders moves freely from one thought to another.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "out of breath",
+        "pt": "sem fôlego"
+      },
+      {
+        "w": "exaggerate",
+        "pt": "exagerar"
+      },
+      {
+        "w": "wander",
+        "pt": "vagar"
+      },
+      {
+        "w": "miracle cure",
+        "pt": "cura milagrosa"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-03",
+    "lvl": "B2",
+    "topic": "health",
+    "kind": "email",
+    "title": "A few changes to our office setup",
+    "text": "Hi everyone,\n\nAfter last week's survey, I want to share what we have learned about how the team feels at work. Almost half of you said that you have back or neck pain at least once a week, and several people mentioned headaches at the end of the day. These problems are common in office jobs, but they are not something we have to accept.\n\nHere is what we are going to do. First, every desk will get a screen stand so that your monitor is at eye level. Second, we will order a few adjustable chairs, and people with pain will have priority. Finally, we are introducing a short stretching break at three o'clock. It lasts only five minutes, and nobody has to take part, but I hope most of you will try it.\n\nPlease tell me if you need something different. Some people may need a footrest, for example, or a larger keyboard. We would rather solve a small problem now than deal with a bigger one later.\n\nThanks for your honest answers.\n\nMaria",
+    "qs": [
+      {
+        "q": "Why is Maria writing this email?",
+        "opts": [
+          "To announce changes after a survey about discomfort at work",
+          "To ask people to work fewer hours",
+          "To invite the team to a sports event",
+          "To report that the office is moving"
+        ],
+        "ans": 0,
+        "why": "She explains the survey results and the actions the company will take.",
+        "type": "main"
+      },
+      {
+        "q": "What will happen at three o'clock?",
+        "opts": [
+          "A team meeting",
+          "A lunch break",
+          "A medical check-up",
+          "A short stretching break"
+        ],
+        "ans": 3,
+        "why": "The email says a five-minute stretching break is being introduced at three o'clock.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about the stretching break?",
+        "opts": [
+          "Everyone must attend.",
+          "It is optional.",
+          "It lasts half an hour.",
+          "It replaces lunch."
+        ],
+        "ans": 1,
+        "why": "Maria writes that nobody has to take part.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"priority\" mean in the second paragraph?",
+        "opts": [
+          "the right to be considered first",
+          "a small cost",
+          "a type of chair",
+          "a polite refusal"
+        ],
+        "ans": 0,
+        "why": "People with pain will be given the adjustable chairs before the others.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "survey",
+        "pt": "pesquisa"
+      },
+      {
+        "w": "adjustable",
+        "pt": "ajustável"
+      },
+      {
+        "w": "footrest",
+        "pt": "apoio para os pés"
+      },
+      {
+        "w": "priority",
+        "pt": "prioridade"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-04",
+    "lvl": "B2+",
+    "topic": "health",
+    "kind": "article",
+    "title": "The puzzle of the placebo effect",
+    "text": "Doctors have known for a long time that patients sometimes feel better after taking a pill that contains no active medicine. This is called the placebo effect, and it is one of the most interesting puzzles in medicine. It does not mean that the patients were imagining their symptoms. Rather, it suggests that expectations can change how the brain processes pain and discomfort.\n\nBecause of this, researchers who test new treatments must be careful. In a typical trial, one group receives the real medicine while another group receives a placebo, and neither group knows which one it has been given. Only if the real treatment performs clearly better can scientists conclude that it works. Without this comparison, a medicine might seem effective simply because people believed in it.\n\nThe placebo effect also raises ethical questions. Should a doctor ever give a patient a treatment that has no active ingredient, even if it might help? Most medical organisations say no, because honesty is essential to trust. Yet the effect shows that care, attention and hope are powerful parts of healing, and that the way a treatment is offered can matter almost as much as the treatment itself.",
+    "qs": [
+      {
+        "q": "What is the main idea of the passage?",
+        "opts": [
+          "Placebos are more effective than real medicine.",
+          "Patients who feel better after a placebo were lying.",
+          "Doctors should prescribe placebos regularly.",
+          "Expectations can influence how patients feel, which affects how treatments are tested."
+        ],
+        "ans": 3,
+        "why": "The text explains the placebo effect and its consequences for trials and ethics.",
+        "type": "main"
+      },
+      {
+        "q": "Why do neither group in a trial know which treatment they received?",
+        "opts": [
+          "So that belief alone cannot explain the results",
+          "Because the medicine is secret",
+          "Because doctors forget the details",
+          "To make the trial cheaper"
+        ],
+        "ans": 0,
+        "why": "Without this, a medicine might seem effective only because people believed in it.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the writer imply in the last sentence?",
+        "opts": [
+          "Treatments are not important.",
+          "The way patients are treated can contribute to their recovery.",
+          "Hope is more expensive than medicine.",
+          "Doctors should avoid paying attention to patients."
+        ],
+        "ans": 1,
+        "why": "Care, attention and hope are described as powerful parts of healing.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"ethical\" mean in the third paragraph?",
+        "opts": [
+          "related to money",
+          "related to science fiction",
+          "related to speed",
+          "related to what is right and wrong"
+        ],
+        "ans": 3,
+        "why": "Ethical questions concern moral choices, such as honesty towards patients.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "placebo",
+        "pt": "placebo"
+      },
+      {
+        "w": "trial",
+        "pt": "ensaio clínico"
+      },
+      {
+        "w": "symptom",
+        "pt": "sintoma"
+      },
+      {
+        "w": "ingredient",
+        "pt": "ingrediente"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-05",
+    "lvl": "B1+",
+    "topic": "science",
+    "kind": "article",
+    "title": "Why the sky is blue",
+    "text": "On a sunny day, the sky looks blue, but the light from the sun is really white. White light is made of many colours, and each colour has a different wavelength. When sunlight enters the atmosphere, it hits tiny particles of gas in the air.\n\nThese particles scatter the light in all directions. Blue light has a short wavelength, so it scatters much more than red light. This means that blue light comes to our eyes from every part of the sky, and that is why we see a blue sky above us.\n\nAt sunrise and sunset, the sky often turns orange or red. At those times, the sun is low, and its light has to travel through much more air before it reaches us. Most of the blue light is scattered away on the way, and the longer red and orange light is left. So the same process explains both the blue sky at noon and the beautiful colours in the evening. It is a good example of how a simple idea in science can explain something we see every day.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "The sun changes its colour during the day.",
+          "The sky is blue because air scatters blue light more than red light.",
+          "Red light is stronger than blue light.",
+          "Sunsets happen because the atmosphere disappears."
+        ],
+        "ans": 1,
+        "why": "The text explains that blue light has a shorter wavelength and scatters more.",
+        "type": "main"
+      },
+      {
+        "q": "What is sunlight made of?",
+        "opts": [
+          "Only blue light",
+          "Gas particles",
+          "Many colours",
+          "Red and orange light"
+        ],
+        "ans": 2,
+        "why": "The text says white light is made of many colours.",
+        "type": "detail"
+      },
+      {
+        "q": "Why is the sky red at sunset?",
+        "opts": [
+          "The air is cleaner.",
+          "Blue light is created by the sun.",
+          "The sun becomes hotter.",
+          "The light travels through more air, so most blue light is lost."
+        ],
+        "ans": 3,
+        "why": "At sunset the light crosses more air, and blue light is scattered away.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"scatter\" mean in the second paragraph?",
+        "opts": [
+          "spread in many directions",
+          "grow bigger",
+          "disappear forever",
+          "become warmer"
+        ],
+        "ans": 0,
+        "why": "Scattered light is sent in all directions.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "wavelength",
+        "pt": "comprimento de onda"
+      },
+      {
+        "w": "atmosphere",
+        "pt": "atmosfera"
+      },
+      {
+        "w": "scatter",
+        "pt": "espalhar"
+      },
+      {
+        "w": "sunset",
+        "pt": "pôr do sol"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-06",
+    "lvl": "B2",
+    "topic": "science",
+    "kind": "article",
+    "title": "Small insects, big responsibility",
+    "text": "Bees are often admired for making honey, but their most important job is pollination. When a bee visits a flower to collect nectar, grains of pollen stick to its body. As the bee moves to the next flower, some of that pollen falls off, and the plant can then produce seeds and fruit.\n\nMany of the foods we eat depend on this process, including apples, almonds and several kinds of berries. Farmers in some regions even rent hives and place them near their crops during the flowering season. Without enough pollinators, harvests can become smaller and food can become more expensive.\n\nUnfortunately, bees face several problems. Cities and farms have replaced many of the wild areas where flowers once grew. Some chemicals used on crops can harm insects, and changing weather can disturb the timing of flowering. Scientists are still studying how these factors interact.\n\nThere are simple actions that ordinary people can take. Planting flowers on a balcony or in a garden gives bees a place to feed. Leaving a small corner of a lawn uncut also helps. These steps will not solve the whole problem, but together they can make a real difference.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Honey is the most valuable product of bees.",
+          "Bees are important for food production and need protection.",
+          "Farmers should stop using hives.",
+          "Flowers can grow without any insects."
+        ],
+        "ans": 1,
+        "why": "The text describes pollination, the threats to bees and how people can help.",
+        "type": "main"
+      },
+      {
+        "q": "What happens when pollen falls onto another flower?",
+        "opts": [
+          "The flower closes.",
+          "The bee stops working.",
+          "The plant can produce seeds and fruit.",
+          "The nectar disappears."
+        ],
+        "ans": 2,
+        "why": "The text says the plant can then produce seeds and fruit.",
+        "type": "detail"
+      },
+      {
+        "q": "Why do some farmers rent hives?",
+        "opts": [
+          "They want to sell honey.",
+          "They need more pollinators near their crops.",
+          "They want to remove wild bees.",
+          "They cannot buy chemicals."
+        ],
+        "ans": 1,
+        "why": "Hives are placed near crops during the flowering season to improve pollination.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"disturb\" mean in the third paragraph?",
+        "opts": [
+          "improve",
+          "copy",
+          "upset or interrupt",
+          "measure"
+        ],
+        "ans": 2,
+        "why": "Changing weather can upset the usual timing of flowering.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "pollination",
+        "pt": "polinização"
+      },
+      {
+        "w": "nectar",
+        "pt": "néctar"
+      },
+      {
+        "w": "harvest",
+        "pt": "colheita"
+      },
+      {
+        "w": "hive",
+        "pt": "colmeia"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-07",
+    "lvl": "B2",
+    "topic": "science",
+    "kind": "story",
+    "title": "The night shift at the observatory",
+    "text": "Elena had worked at the observatory for six years, but she still felt a small thrill whenever the dome opened. Tonight the sky was perfectly clear, and the telescope was aimed at a faint group of stars that she had been studying for months.\n\n\"You never get tired of this, do you?\" asked Paulo, the new technician, as he brought two cups of tea.\n\n\"Not really,\" she said. \"Most of the work is waiting and checking data. But every now and then you see something that no one has seen before, and it makes the waiting worthwhile.\"\n\nAround two in the morning, the computer showed a small change in the brightness of one star. Elena leaned forward and checked the numbers twice. It could be a mistake in the equipment, so she asked Paulo to restart the sensor. The change appeared again.\n\n\"What does it mean?\" he whispered.\n\n\"Perhaps nothing,\" she answered carefully. \"Or perhaps a planet is passing in front of the star. We will need many more nights of observation before we can be sure.\" Then she smiled, wrote the time in her notebook and added, \"Let's keep watching.\"",
+    "qs": [
+      {
+        "q": "What is the main idea of the story?",
+        "opts": [
+          "A technician breaks an expensive sensor.",
+          "Elena decides to leave her job.",
+          "The telescope stops working at night.",
+          "Elena notices an interesting change and decides to continue observing carefully."
+        ],
+        "ans": 3,
+        "why": "She sees a brightness change, checks it and plans more observation.",
+        "type": "main"
+      },
+      {
+        "q": "Why did Elena ask Paulo to restart the sensor?",
+        "opts": [
+          "She wanted to rule out an equipment error.",
+          "She was angry with him.",
+          "The telescope was too hot.",
+          "The dome was closed."
+        ],
+        "ans": 0,
+        "why": "She thought the change could be a mistake in the equipment.",
+        "type": "detail"
+      },
+      {
+        "q": "What does Elena's last answer suggest about her attitude?",
+        "opts": [
+          "She is bored and ready to stop.",
+          "She is sure she has discovered a planet.",
+          "She is careful and does not draw conclusions too early.",
+          "She does not trust her colleagues."
+        ],
+        "ans": 2,
+        "why": "She says \"perhaps nothing\" and that many more nights are needed.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"worthwhile\" mean in Elena's reply?",
+        "opts": [
+          "worth the time and effort",
+          "too difficult",
+          "very quick",
+          "completely silent"
+        ],
+        "ans": 0,
+        "why": "The discovery makes the long waiting feel useful.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "observatory",
+        "pt": "observatório"
+      },
+      {
+        "w": "brightness",
+        "pt": "brilho"
+      },
+      {
+        "w": "sensor",
+        "pt": "sensor"
+      },
+      {
+        "w": "worthwhile",
+        "pt": "que vale a pena"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-08",
+    "lvl": "B2+",
+    "topic": "science",
+    "kind": "article",
+    "title": "Why scientists repeat experiments",
+    "text": "A single experiment, however impressive, rarely settles a scientific question. Results can be affected by small differences in equipment, by the group of people or animals studied, or simply by chance. For this reason, researchers try to repeat important studies, ideally in different laboratories and with different samples.\n\nIn recent years, several fields have realised that some well-known findings were difficult to reproduce. This does not necessarily mean that the original scientists acted dishonestly. More often, the original study was small, or the methods were described too briefly for others to follow exactly. Sometimes an interesting result was simply a coincidence that looked convincing.\n\nIn response, many journals and universities now encourage greater openness. Researchers are asked to share their data, explain their methods in detail and, in some cases, announce their plans before they begin collecting results. These practices make it harder to adjust an analysis afterwards to fit a desired conclusion.\n\nThe lesson is not that science is unreliable. On the contrary, the habit of checking and correcting earlier work is what makes science trustworthy over time. A claim becomes strong not when it is first announced, but when it survives repeated attempts to challenge it.",
+    "qs": [
+      {
+        "q": "What is the main point of the passage?",
+        "opts": [
+          "Scientists often lie about their results.",
+          "Laboratories should avoid sharing data.",
+          "Studies that are repeated and checked make scientific knowledge stronger.",
+          "Small studies are always better than large ones."
+        ],
+        "ans": 2,
+        "why": "The passage argues that checking earlier work is what makes science trustworthy.",
+        "type": "main"
+      },
+      {
+        "q": "According to the passage, what is a common reason that a study is hard to reproduce?",
+        "opts": [
+          "The methods were not described in enough detail.",
+          "The equipment was too modern.",
+          "The journal refused to publish it.",
+          "The researchers were too famous."
+        ],
+        "ans": 0,
+        "why": "The text says methods were sometimes described too briefly for others to follow.",
+        "type": "detail"
+      },
+      {
+        "q": "What can be inferred about announcing plans before collecting results?",
+        "opts": [
+          "It makes experiments cheaper.",
+          "It is required in all countries.",
+          "It slows down the analysis of data.",
+          "It reduces the chance of changing the analysis to suit a hoped-for result."
+        ],
+        "ans": 3,
+        "why": "The text says these practices make it harder to adjust an analysis afterwards.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"reproduce\" mean in the second paragraph?",
+        "opts": [
+          "to obtain the same result again",
+          "to make a copy of a book",
+          "to earn more money",
+          "to explain in public"
+        ],
+        "ans": 0,
+        "why": "A result is reproduced when other researchers get the same finding by repeating the study.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "reproduce",
+        "pt": "reproduzir"
+      },
+      {
+        "w": "coincidence",
+        "pt": "coincidência"
+      },
+      {
+        "w": "openness",
+        "pt": "transparência"
+      },
+      {
+        "w": "trustworthy",
+        "pt": "confiável"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-09",
+    "lvl": "B1+",
+    "topic": "finance",
+    "kind": "blog",
+    "title": "My first emergency fund",
+    "text": "Two years ago my washing machine broke, and I had no money to fix it. I had to borrow from a friend and pay him back slowly, and I did not like the feeling at all. That was the moment when I decided to build an emergency fund.\n\nAn emergency fund is a small amount of money that you keep only for unexpected problems, such as a medical bill or a broken phone. Many experts say that it is a good idea to save enough for about three months of basic costs. That sounded impossible to me, so I started with something much smaller.\n\nEvery payday, I moved a small amount into a separate account before I could spend it. At first it was only a little, but after a few months I could see the total growing. I also stopped buying lunch at work three times a week, and that helped more than I expected.\n\nI am still not at my goal, but I sleep better now. If you are thinking about starting, my advice is simple: begin with any amount, make it automatic, and do not touch it for anything except a real emergency.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "The writer enjoys buying new machines.",
+          "The writer explains how a small habit helped build savings for emergencies.",
+          "Experts say nobody should borrow money.",
+          "Lunch at work is too expensive."
+        ],
+        "ans": 1,
+        "why": "The writer describes starting small and saving regularly for emergencies.",
+        "type": "main"
+      },
+      {
+        "q": "What happened two years ago?",
+        "opts": [
+          "The writer lost a job.",
+          "The writer bought a phone.",
+          "The writer moved to a new city.",
+          "The writer's washing machine stopped working."
+        ],
+        "ans": 3,
+        "why": "The writer's washing machine broke and there was no money to fix it.",
+        "type": "detail"
+      },
+      {
+        "q": "Why did the writer move money to a separate account on payday?",
+        "opts": [
+          "To avoid spending it before saving",
+          "To pay a bank fee",
+          "To impress a friend",
+          "To buy a new machine"
+        ],
+        "ans": 0,
+        "why": "The money was moved before the writer could spend it.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"unexpected\" mean in the second paragraph?",
+        "opts": [
+          "planned long ago",
+          "not known about beforehand",
+          "very cheap",
+          "easy to solve"
+        ],
+        "ans": 1,
+        "why": "Unexpected problems are ones that you do not see coming.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "emergency fund",
+        "pt": "reserva de emergência"
+      },
+      {
+        "w": "borrow",
+        "pt": "pegar emprestado"
+      },
+      {
+        "w": "payday",
+        "pt": "dia de pagamento"
+      },
+      {
+        "w": "goal",
+        "pt": "meta"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-10",
+    "lvl": "B2",
+    "topic": "finance",
+    "kind": "article",
+    "title": "The quiet power of compound interest",
+    "text": "Compound interest is sometimes described as the most important idea in personal finance. The principle is simple. When you save or invest money, you earn interest on your original amount. In the following period, you earn interest on the original amount plus the interest you have already received. Over time, this process can make a balance grow faster and faster.\n\nThe key ingredient is time. Imagine two people who both save the same monthly amount. One starts at twenty-five and the other at thirty-five. Even if the second person saves just as carefully, the first person will usually end up with more, because the money has had ten extra years to grow. Starting early often matters more than saving a large amount later.\n\nHowever, compound interest works in both directions. The same logic applies to debt. If you borrow money at a high rate and pay only a small part each month, the interest is added to what you owe, and the debt can grow quickly. This is one reason why credit card balances can become so difficult to control.\n\nThe practical lesson is clear. Let time work for your savings, and try to avoid letting it work against you through expensive debt.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Interest rates never change.",
+          "Debt is always better than saving.",
+          "Only rich people can use compound interest.",
+          "Compound interest rewards early saving and makes expensive debt dangerous."
+        ],
+        "ans": 3,
+        "why": "The text shows the effect on both savings and debt.",
+        "type": "main"
+      },
+      {
+        "q": "Why will the person who starts at twenty-five usually have more money?",
+        "opts": [
+          "Their salary is higher.",
+          "Their money has more time to grow.",
+          "They pay lower taxes.",
+          "They take more risks."
+        ],
+        "ans": 1,
+        "why": "The text says the money has had ten extra years to grow.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the text suggest about credit card debt?",
+        "opts": [
+          "It can grow quickly if only small payments are made.",
+          "It has no interest.",
+          "It disappears after a year.",
+          "It is cheaper than other debt."
+        ],
+        "ans": 0,
+        "why": "Interest is added to what you owe, so small payments may not reduce the debt.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"key ingredient\" mean in the second paragraph?",
+        "opts": [
+          "a type of food",
+          "a small problem",
+          "the most important element",
+          "an extra cost"
+        ],
+        "ans": 2,
+        "why": "Time is described as the most important element of the process.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "compound interest",
+        "pt": "juros compostos"
+      },
+      {
+        "w": "balance",
+        "pt": "saldo"
+      },
+      {
+        "w": "debt",
+        "pt": "dívida"
+      },
+      {
+        "w": "principle",
+        "pt": "princípio"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-11",
+    "lvl": "B2",
+    "topic": "finance",
+    "kind": "email",
+    "title": "Question about unexpected account fees",
+    "text": "Dear Mr Alves,\n\nThank you for your help on the phone yesterday. As we discussed, I would like to confirm a few details in writing before I make a decision.\n\nWhen I opened my current account three months ago, I understood that there would be no monthly fee. However, my last two statements show a charge of twelve euros under the description \"account maintenance\". I may have misunderstood the conditions, so I would be grateful if you could clarify the following points. First, is the fee connected to the amount of money that I keep in the account? Second, is there a way to avoid it, for example by receiving my salary directly into the account? Finally, if the charge was applied by mistake, would it be possible to have it refunded?\n\nI would prefer to stay with your bank, because the online service has worked well so far. Nevertheless, I will need to compare the costs with other options if the fee cannot be removed.\n\nI look forward to your reply and would appreciate an answer by the end of next week.\n\nKind regards,\n\nClara Moreau",
+    "qs": [
+      {
+        "q": "Why is Clara writing to Mr Alves?",
+        "opts": [
+          "To close her account immediately",
+          "To ask about a fee she did not expect",
+          "To apply for a loan",
+          "To thank him for a gift"
+        ],
+        "ans": 1,
+        "why": "She asks about a twelve-euro charge that she did not expect.",
+        "type": "main"
+      },
+      {
+        "q": "What is one way of avoiding the fee that Clara asks about?",
+        "opts": [
+          "Opening a second account",
+          "Visiting the branch every month",
+          "Paying the salary directly into the account",
+          "Using a different phone"
+        ],
+        "ans": 2,
+        "why": "She asks whether receiving her salary directly into the account would help.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about Clara's attitude to her bank?",
+        "opts": [
+          "She is angry and will leave tomorrow.",
+          "She does not use online banking.",
+          "She has never read her statements.",
+          "She would like to stay but may leave if the fee stays."
+        ],
+        "ans": 3,
+        "why": "She says she prefers to stay but will compare other options if the fee cannot be removed.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"refunded\" mean in the email?",
+        "opts": [
+          "paid back",
+          "sent by post",
+          "explained again",
+          "reduced by half"
+        ],
+        "ans": 0,
+        "why": "A refund returns money that was charged.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "fee",
+        "pt": "taxa"
+      },
+      {
+        "w": "statement",
+        "pt": "extrato"
+      },
+      {
+        "w": "clarify",
+        "pt": "esclarecer"
+      },
+      {
+        "w": "refund",
+        "pt": "reembolsar"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-12",
+    "lvl": "B2+",
+    "topic": "finance",
+    "kind": "article",
+    "title": "What inflation does to your money",
+    "text": "Inflation is the general rise in prices over time. When it is low and stable, most people hardly notice it. When it becomes high, however, the same amount of money buys fewer goods and services than before, and we say that its purchasing power has fallen.\n\nThis affects people in different ways. Someone who keeps savings in cash will find that the money slowly loses value, because prices rise while the amount stays the same. Workers may also be affected if their wages do not increase at the same pace as prices. By contrast, people who owe money at a fixed interest rate can benefit, since they repay the debt with money that is worth less than when they borrowed it.\n\nCentral banks try to keep inflation under control, usually by adjusting interest rates. Higher rates make borrowing more expensive, which tends to reduce spending and slow the rise in prices. The difficulty is that these measures also affect jobs and economic growth, so the decision is rarely straightforward.\n\nFor ordinary households, the most useful habit is to look at savings in real terms. A return of two per cent sounds attractive until prices rise by three per cent, and then the money has actually lost value.",
+    "qs": [
+      {
+        "q": "What is the main idea of the passage?",
+        "opts": [
+          "Inflation reduces what money can buy and affects people differently.",
+          "Central banks cause every price rise.",
+          "Cash is always the safest way to save.",
+          "Wages never change."
+        ],
+        "ans": 0,
+        "why": "The text defines inflation and describes its effects on savers, workers and borrowers.",
+        "type": "main"
+      },
+      {
+        "q": "How do central banks usually try to control inflation?",
+        "opts": [
+          "By printing more cash",
+          "By lowering all wages",
+          "By adjusting interest rates",
+          "By closing banks"
+        ],
+        "ans": 2,
+        "why": "The text says they usually adjust interest rates.",
+        "type": "detail"
+      },
+      {
+        "q": "Why can someone with a fixed-rate debt benefit from inflation?",
+        "opts": [
+          "The bank reduces the interest.",
+          "The debt is automatically cancelled.",
+          "Prices stop rising.",
+          "The repayments are made with money that is worth less."
+        ],
+        "ans": 3,
+        "why": "The text says they repay the debt with money that is worth less than before.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"in real terms\" suggest in the last paragraph?",
+        "opts": [
+          "taking inflation into account",
+          "using only cash",
+          "ignoring the bank",
+          "looking at the past"
+        ],
+        "ans": 0,
+        "why": "The example shows that a return must be compared with the rise in prices.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "purchasing power",
+        "pt": "poder de compra"
+      },
+      {
+        "w": "wages",
+        "pt": "salários"
+      },
+      {
+        "w": "central bank",
+        "pt": "banco central"
+      },
+      {
+        "w": "return",
+        "pt": "retorno"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-13",
+    "lvl": "B1+",
+    "topic": "abstract",
+    "kind": "story",
+    "title": "The teacher who asked better questions",
+    "text": "When Mr Santos started teaching history, he believed that a good teacher gave clear answers. He prepared long lessons, wrote dates on the board and asked his students to copy them. The students were polite, but they looked bored, and their test results were not very good.\n\nOne day he was in a hurry and forgot his notes. Instead of giving the usual lesson, he asked the class a simple question: \"Why do you think people built walls around their cities?\" At first nobody spoke. Then a girl at the back said that it was probably for safety. A boy replied that walls could also show that a city was rich. Soon the whole room was talking.\n\nMr Santos was surprised. He saw that the students remembered more when they had to think for themselves. After that day, he began each class with a question, and he let the students discuss it in small groups before he explained anything.\n\nYears later, one of his former students told him that she could not remember a single date from his classes. \"But I remember how to ask why,\" she said, \"and that has been more useful.\"",
+    "qs": [
+      {
+        "q": "What is the main idea of the story?",
+        "opts": [
+          "Dates are the most important part of history.",
+          "Students should not work in groups.",
+          "Teachers should never prepare lessons.",
+          "Asking questions can help students learn more actively."
+        ],
+        "ans": 3,
+        "why": "Mr Santos learned that questions make students think and remember more.",
+        "type": "main"
+      },
+      {
+        "q": "Why did Mr Santos change his lesson one day?",
+        "opts": [
+          "He forgot his notes.",
+          "A student complained.",
+          "The school asked him to.",
+          "He wanted to give a test."
+        ],
+        "ans": 0,
+        "why": "The text says he was in a hurry and forgot his notes.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the former student's comment suggest?",
+        "opts": [
+          "She did not like history.",
+          "She valued learning how to think more than memorising facts.",
+          "She disliked group work.",
+          "She remembered every date."
+        ],
+        "ans": 1,
+        "why": "She says she remembers how to ask why, which was more useful than dates.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"bored\" mean in the first paragraph?",
+        "opts": [
+          "angry and noisy",
+          "afraid of the teacher",
+          "not interested",
+          "very proud"
+        ],
+        "ans": 2,
+        "why": "Bored students find the lesson uninteresting.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "board",
+        "pt": "quadro"
+      },
+      {
+        "w": "discuss",
+        "pt": "discutir"
+      },
+      {
+        "w": "former",
+        "pt": "antigo / ex-"
+      },
+      {
+        "w": "notes",
+        "pt": "anotações"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-14",
+    "lvl": "B2",
+    "topic": "abstract",
+    "kind": "article",
+    "title": "Learning by testing yourself",
+    "text": "Many students study by reading their notes again and again. It feels productive because the material starts to look familiar. However, researchers in education have found that familiarity is not the same as knowledge. Recognising a page is easy, but explaining its content without looking is much harder.\n\nA more effective method is retrieval practice, which simply means trying to remember information without help. You can close the book and write down everything you remember, answer questions from a friend, or use flashcards. The process is often uncomfortable because you notice what you do not know. Yet that discomfort is useful, since it shows exactly where to focus your next study session.\n\nAnother helpful technique is spacing. Instead of studying one topic for five hours in a single evening, it is usually better to study for one hour on five different days. The brain has time to forget a little between sessions, and the effort of recalling the material makes the memory stronger.\n\nNone of this means that reading is useless. It is a good way to meet new ideas for the first time. The point is that real learning requires active effort, and the most successful students are often the ones who test themselves regularly.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Reading notes is the best way to learn.",
+          "Students should avoid studying at home.",
+          "Flashcards are better than books in every case.",
+          "Active self-testing and spaced study lead to better learning."
+        ],
+        "ans": 3,
+        "why": "The text recommends retrieval practice and spacing over passive rereading.",
+        "type": "main"
+      },
+      {
+        "q": "What is retrieval practice?",
+        "opts": [
+          "Trying to remember information without help",
+          "Copying a text word for word",
+          "Reading faster",
+          "Studying with loud music"
+        ],
+        "ans": 0,
+        "why": "The text defines it as trying to remember information without help.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the writer say that discomfort can be useful?",
+        "opts": [
+          "It makes the lesson shorter.",
+          "It shows which parts you still need to study.",
+          "It means the teacher is strict.",
+          "It helps you sleep."
+        ],
+        "ans": 1,
+        "why": "Noticing what you do not know tells you where to focus next.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"familiar\" mean in the first paragraph?",
+        "opts": [
+          "very difficult",
+          "completely new",
+          "well known to you",
+          "expensive"
+        ],
+        "ans": 2,
+        "why": "Material that looks familiar seems already known because you have seen it before.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "retrieval",
+        "pt": "recuperação (da memória)"
+      },
+      {
+        "w": "spacing",
+        "pt": "espaçamento"
+      },
+      {
+        "w": "flashcard",
+        "pt": "cartão de estudo"
+      },
+      {
+        "w": "recall",
+        "pt": "recordar"
+      }
+    ]
+  },
+  {
+    "id": "rd-x1-15",
+    "lvl": "B2",
+    "topic": "abstract",
+    "kind": "article",
+    "title": "Is it better to specialise or to explore?",
+    "text": "Society often tells young people to choose a career early and to become experts in one narrow field. The idea is attractive because deep knowledge is valuable, and employers usually respect people who have mastered a skill. However, some researchers and writers argue that broad experience can be just as important.\n\nPeople with varied backgrounds often see connections that specialists miss. A person who has worked in both design and engineering, for example, may find it easier to explain a technical problem to a creative team. Broad knowledge can also make it easier to adapt when a profession changes, which happens more and more often as technology develops.\n\nOf course, exploring has costs. It can take longer to reach a high level in any single area, and others may see a varied path as a lack of focus. Some fields, such as medicine, also require many years of focused training before a person can practise at all.\n\nPerhaps the best answer is a balance. Many successful people build one strong skill and then keep adding new ones around it. The real question is not whether to specialise or to explore, but how much of each suits a particular person at a particular stage of life.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Both specialising and exploring have advantages, and a balance may work best.",
+          "Specialists are always more successful.",
+          "Young people should avoid choosing a career.",
+          "Technology makes experts unnecessary."
+        ],
+        "ans": 0,
+        "why": "The text compares the two approaches and ends by suggesting a balance.",
+        "type": "main"
+      },
+      {
+        "q": "Why might someone with a varied background explain technical problems well?",
+        "opts": [
+          "They are older than others.",
+          "They work fewer hours.",
+          "They avoid technology.",
+          "They understand more than one type of work."
+        ],
+        "ans": 3,
+        "why": "The example says someone from design and engineering can explain a technical problem to a creative team.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the writer suggest about medicine?",
+        "opts": [
+          "It does not need any training.",
+          "It is a field where long focused training is necessary.",
+          "It is less important than design.",
+          "It changes more slowly than all other fields."
+        ],
+        "ans": 1,
+        "why": "The text says medicine requires many years of focused training before practice.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"adapt\" mean in the second paragraph?",
+        "opts": [
+          "to leave a job",
+          "to refuse change",
+          "to adjust to new conditions",
+          "to repeat the same task"
+        ],
+        "ans": 2,
+        "why": "To adapt is to adjust to new conditions when a profession changes.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "specialise",
+        "pt": "especializar-se"
+      },
+      {
+        "w": "mastered",
+        "pt": "dominou"
+      },
+      {
+        "w": "adapt",
+        "pt": "adaptar-se"
+      },
+      {
+        "w": "balance",
+        "pt": "equilíbrio"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-01",
+    "lvl": "B2",
+    "topic": "work",
+    "kind": "article",
+    "title": "The case for doing one thing at a time",
+    "text": "Many professionals are proud of their ability to multitask. They answer messages during meetings, write reports while listening to calls, and switch between a dozen tabs without a pause. Researchers who study attention, however, suggest that this habit is less efficient than it feels. Each time we change tasks, the brain needs a short period to refocus, and those small delays add up over a day.\n\nSingle-tasking is the opposite approach. You choose one task, close everything else, and work on it for a fixed period, often between thirty and ninety minutes. Messages can wait until the period ends. People who try this method often report that they make fewer mistakes and feel less exhausted by the afternoon.\n\nThe method is not perfect, of course. Some jobs, such as customer support, require constant availability, and a team cannot simply ignore urgent requests. Even so, most employees can protect a few quiet hours each week. A sensible first step is to tell colleagues when you will be unavailable and when you will reply, so that nobody feels ignored.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Single-tasking can be a better way to work than multitasking.",
+          "Customer support jobs are the most stressful.",
+          "Employees should never answer messages.",
+          "The brain cannot focus for more than thirty minutes."
+        ],
+        "ans": 0,
+        "why": "The text contrasts multitasking with single-tasking and explains why focusing on one task can work better.",
+        "type": "main"
+      },
+      {
+        "q": "According to the text, why do small delays add up?",
+        "opts": [
+          "Colleagues send too many messages.",
+          "The brain needs time to refocus after each change of task.",
+          "Meetings are usually too long.",
+          "Reports are difficult to write."
+        ],
+        "ans": 1,
+        "why": "The text says that each time we change tasks, the brain needs a short period to refocus.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about customer support jobs?",
+        "opts": [
+          "They are not suitable for anyone.",
+          "They do not involve any messages.",
+          "They are easier than other jobs.",
+          "Single-tasking may be hard to apply in them."
+        ],
+        "ans": 3,
+        "why": "They require constant availability, so long periods without answering are difficult.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"add up\" mean in the first paragraph?",
+        "opts": [
+          "disappear slowly",
+          "become a large total",
+          "cause an argument",
+          "become more interesting"
+        ],
+        "ans": 1,
+        "why": "Small delays accumulate and become a significant amount of lost time.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "multitask",
+        "pt": "fazer várias tarefas ao mesmo tempo"
+      },
+      {
+        "w": "refocus",
+        "pt": "refocar"
+      },
+      {
+        "w": "exhausted",
+        "pt": "exausto"
+      },
+      {
+        "w": "availability",
+        "pt": "disponibilidade"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-02",
+    "lvl": "B1+",
+    "topic": "work",
+    "kind": "blog",
+    "title": "My first week as a team leader",
+    "text": "Last Monday I became the leader of a small team of five people. I was excited, but I was also nervous. Until then, I had only worked on my own tasks, and now I was responsible for other people's work as well.\n\nOn the first day, I made a common mistake. I tried to solve every problem myself because I wanted to look strong. By Wednesday I was tired and behind schedule. Then an older colleague, Marta, gave me some simple advice. She said that a good leader does not do everything. A good leader asks questions, listens carefully, and trusts the team.\n\nOn Thursday I changed my approach. I asked each person what they needed from me, and I wrote down their answers. Two people wanted clearer goals, and one person wanted more time to finish a project. These requests were easy to fulfil, and the mood in the office improved immediately. I still have a lot to learn, but I feel more confident now. This week I am going to ask for feedback about my own work, because leaders need advice too.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Marta wants to become the team leader.",
+          "A new leader learned that listening and trusting the team works better than doing everything alone.",
+          "The writer's team was unhappy with the new office.",
+          "Small teams are better than large teams."
+        ],
+        "ans": 1,
+        "why": "The writer describes a mistake and then a better approach based on listening and trust.",
+        "type": "main"
+      },
+      {
+        "q": "Why was the writer tired by Wednesday?",
+        "opts": [
+          "Marta gave too much work.",
+          "The team did not respect the writer.",
+          "The writer tried to solve every problem alone.",
+          "The office was too noisy."
+        ],
+        "ans": 2,
+        "why": "The text says the writer tried to solve every problem personally.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about the writer on Thursday?",
+        "opts": [
+          "The writer felt the new approach was helping.",
+          "The writer wanted to leave the team.",
+          "The writer stopped asking questions.",
+          "The writer ignored Marta's advice."
+        ],
+        "ans": 0,
+        "why": "The mood improved immediately and the writer later feels more confident.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"fulfil\" mean in the fourth paragraph?",
+        "opts": [
+          "refuse politely",
+          "forget",
+          "complete or satisfy",
+          "discuss"
+        ],
+        "ans": 2,
+        "why": "To fulfil a request means to do what was asked.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "nervous",
+        "pt": "nervoso"
+      },
+      {
+        "w": "behind schedule",
+        "pt": "atrasado"
+      },
+      {
+        "w": "approach",
+        "pt": "abordagem"
+      },
+      {
+        "w": "feedback",
+        "pt": "retorno / opinião"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-03",
+    "lvl": "B2+",
+    "topic": "work",
+    "kind": "email",
+    "title": "Request to adjust the project timeline",
+    "text": "Dear Mr Alvarez,\n\nThank you for your message about the delivery date of the new reporting platform. I am writing to explain why we would like to discuss a revised timeline, and to propose a solution that I hope will suit both parties.\n\nDuring last week's testing phase, our engineers identified a problem with the way the system handles large volumes of data. Although the issue is not critical, we believe that releasing the platform without resolving it would damage the experience of your staff. Fixing it properly will take approximately ten additional working days.\n\nWe appreciate that the original date was important to your department, so I would like to suggest a compromise. We could deliver the core features on the agreed date, and release the remaining functions two weeks later, once the improvements have been completed. In this way, your team could begin working with the platform without any further delay.\n\nI would be grateful if we could arrange a short call tomorrow or on Thursday to talk this through. Please let me know which time is more convenient for you.\n\nKind regards,\nHelena Duarte\nProject Manager",
+    "qs": [
+      {
+        "q": "Why is Helena writing to Mr Alvarez?",
+        "opts": [
+          "To cancel the project completely.",
+          "To ask for a higher payment.",
+          "To thank him for the testing.",
+          "To propose a change to the delivery schedule."
+        ],
+        "ans": 3,
+        "why": "She wants to discuss a revised timeline and proposes a compromise.",
+        "type": "main"
+      },
+      {
+        "q": "What problem did the engineers find?",
+        "opts": [
+          "The system handles large volumes of data poorly.",
+          "The staff refused to use the platform.",
+          "Some features were missing from the contract.",
+          "The engineers could not finish the testing."
+        ],
+        "ans": 0,
+        "why": "The text mentions a problem with how the system handles large volumes of data.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about the proposed compromise?",
+        "opts": [
+          "The core features would arrive late.",
+          "Some functions would arrive after the original date.",
+          "Mr Alvarez would receive nothing on the agreed date.",
+          "The project would be cancelled."
+        ],
+        "ans": 1,
+        "why": "Only the core features arrive on time; the remaining functions come two weeks later.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"convenient\" mean in the last paragraph?",
+        "opts": [
+          "expensive",
+          "dangerous",
+          "unusual",
+          "suitable and easy for someone"
+        ],
+        "ans": 3,
+        "why": "A convenient time is one that suits the person.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "revised",
+        "pt": "revisado"
+      },
+      {
+        "w": "resolve",
+        "pt": "resolver"
+      },
+      {
+        "w": "compromise",
+        "pt": "acordo / meio-termo"
+      },
+      {
+        "w": "grateful",
+        "pt": "grato"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-04",
+    "lvl": "B2",
+    "topic": "work",
+    "kind": "story",
+    "title": "The question nobody wanted to ask",
+    "text": "During my first month as an intern, I attended a long meeting about a new customer database. Everyone nodded while the director explained the plan, but I realised halfway through that I did not understand one important point. The plan seemed to depend on a tool that the company did not have.\n\nI hesitated. I was the youngest person in the room, and I did not want to look foolish. However, the doubt kept growing, so eventually I raised my hand and asked, as politely as I could, which tool the team would use. There was a short silence. Then the director frowned, checked her notes, and admitted that she had forgotten to mention it.\n\nTo my surprise, several colleagues thanked me afterwards. One of them confessed that he had wondered about the same thing but had not dared to speak. The team then spent twenty minutes fixing the plan, and the project avoided a costly misunderstanding. Since that day I have remembered something useful. A question that feels embarrassing is often the question that other people are also thinking about. Asking it does not make you look weak. More often, it shows that you are paying attention.",
+    "qs": [
+      {
+        "q": "What is the main lesson of the story?",
+        "opts": [
+          "Interns should never attend meetings.",
+          "Directors always forget important details.",
+          "Asking a question can help everyone, even if it feels embarrassing.",
+          "Databases are too complicated for new employees."
+        ],
+        "ans": 2,
+        "why": "The final paragraph says an embarrassing question is often one that others are also thinking about.",
+        "type": "main"
+      },
+      {
+        "q": "What was unclear about the plan?",
+        "opts": [
+          "The date of the next meeting.",
+          "Which tool the team would use.",
+          "Who would lead the project.",
+          "How much the database cost."
+        ],
+        "ans": 1,
+        "why": "The intern asked which tool the team would use because the company did not have the one the plan needed.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about the colleague who thanked the intern?",
+        "opts": [
+          "He was angry with the director.",
+          "He had already finished the plan.",
+          "He did not understand English.",
+          "He had the same doubt but felt unable to ask."
+        ],
+        "ans": 3,
+        "why": "He confessed that he had wondered about the same thing but had not dared to speak.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"hesitated\" mean in the second paragraph?",
+        "opts": [
+          "paused because of uncertainty",
+          "spoke loudly",
+          "left the room",
+          "agreed immediately"
+        ],
+        "ans": 0,
+        "why": "To hesitate means to pause before acting because you are unsure.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "intern",
+        "pt": "estagiário"
+      },
+      {
+        "w": "frowned",
+        "pt": "franziu a testa"
+      },
+      {
+        "w": "costly",
+        "pt": "caro / custoso"
+      },
+      {
+        "w": "misunderstanding",
+        "pt": "mal-entendido"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-05",
+    "lvl": "B1+",
+    "topic": "relationships",
+    "kind": "blog",
+    "title": "Learning to live with my partner",
+    "text": "Three months ago, my partner Daniel and I moved into the same flat. We had dated for two years, and we thought that living together would be easy. In fact, it taught us a lot about each other.\n\nThe first surprise was the small daily habits. Daniel likes to wake up at six and go for a run, while I prefer to stay in bed until eight. He keeps the windows open all year, but I am always cold. At first, these differences annoyed us, and we argued about silly things such as who forgot to buy milk.\n\nThen we decided to sit down and make a few simple rules. We share the housework equally, we cook dinner together on Fridays, and we each have one evening a week to spend alone or with friends. It sounds almost boring, but it works. Now I understand that love is not only about romantic dinners and holidays. It is also about being patient when the other person leaves a wet towel on the bed. If you are thinking about moving in with someone, my advice is to talk openly before the problems become big.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Living together taught the couple to communicate and make rules.",
+          "Daniel is a better cook than the writer.",
+          "The couple plans to move to a bigger flat.",
+          "Couples should avoid living together."
+        ],
+        "ans": 0,
+        "why": "The couple faced small problems and solved them by talking and setting simple rules.",
+        "type": "main"
+      },
+      {
+        "q": "What do the couple do together on Fridays?",
+        "opts": [
+          "They go for a run.",
+          "They clean the flat.",
+          "They meet friends.",
+          "They cook dinner."
+        ],
+        "ans": 3,
+        "why": "The text says they cook dinner together on Fridays.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about the writer's attitude to the rules?",
+        "opts": [
+          "The writer thinks they are useless.",
+          "The writer finds them a little dull but useful.",
+          "The writer wants to change them every week.",
+          "The writer did not agree to them."
+        ],
+        "ans": 1,
+        "why": "The writer says it sounds almost boring, but it works.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"annoyed\" mean in the second paragraph?",
+        "opts": [
+          "made them laugh",
+          "made them tired",
+          "made them slightly angry",
+          "made them curious"
+        ],
+        "ans": 2,
+        "why": "The differences caused small arguments, so they made the couple a little angry.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "habit",
+        "pt": "hábito"
+      },
+      {
+        "w": "housework",
+        "pt": "trabalho doméstico"
+      },
+      {
+        "w": "patient",
+        "pt": "paciente"
+      },
+      {
+        "w": "openly",
+        "pt": "abertamente"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-06",
+    "lvl": "B2",
+    "topic": "relationships",
+    "kind": "article",
+    "title": "Why friendships get harder after thirty",
+    "text": "Making friends was easy at school. You saw the same people every day, you shared the same problems, and you had plenty of free time. In adult life, those conditions disappear. Jobs, children and long journeys leave little energy for new relationships, and old friends often move to other cities.\n\nSociologists point out that friendship usually grows from repeated contact in a relaxed setting. When that contact becomes rare, even strong friendships can weaken. This does not mean that people stop caring. It simply means that the habit of meeting has been lost, and rebuilding it takes some effort.\n\nFortunately, small actions can make a big difference. A short message to say that you were thinking of someone costs almost nothing, yet it often leads to a longer conversation. Regular activities, such as a weekly football match or a monthly dinner, give friendships a stable structure. They also remove the need to organise something new every time. Perhaps the most important step is to accept that friendships are not always equal. Sometimes one person has more time than the other. If both sides remain patient and generous, a friendship can survive long silences and return stronger than before.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Children are the main reason friendships end.",
+          "Adults should only make friends at school.",
+          "Adult friendships need deliberate effort, but they can last.",
+          "Sociologists disagree about friendship."
+        ],
+        "ans": 2,
+        "why": "The text explains why adult friendships struggle and suggests ways to maintain them.",
+        "type": "main"
+      },
+      {
+        "q": "According to the text, what helps friendships to grow?",
+        "opts": [
+          "Moving to another city.",
+          "Repeated contact in a relaxed setting.",
+          "Writing long emails every day.",
+          "Meeting only on special occasions."
+        ],
+        "ans": 1,
+        "why": "Sociologists say friendship usually grows from repeated contact in a relaxed setting.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the writer recommend regular activities?",
+        "opts": [
+          "They are cheaper than dinners.",
+          "They replace the need for messages.",
+          "They are required by sociologists.",
+          "They remove the need to plan something new each time."
+        ],
+        "ans": 3,
+        "why": "Regular activities give a stable structure so nobody has to organise a new plan every time.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"stable\" mean in the third paragraph?",
+        "opts": [
+          "steady and reliable",
+          "fast and exciting",
+          "expensive",
+          "very short"
+        ],
+        "ans": 0,
+        "why": "A stable structure is one that stays steady and dependable.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "relaxed",
+        "pt": "descontraído"
+      },
+      {
+        "w": "rebuild",
+        "pt": "reconstruir"
+      },
+      {
+        "w": "generous",
+        "pt": "generoso"
+      },
+      {
+        "w": "silence",
+        "pt": "silêncio"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-07",
+    "lvl": "B2+",
+    "topic": "relationships",
+    "kind": "story",
+    "title": "The apology that came too late",
+    "text": "Ines had not spoken to her brother Paulo for six years. The argument that separated them had begun over their father's old house, but over time it had become something much larger, a collection of small resentments that neither of them could name. Each had waited for the other to call first, and the waiting had hardened into habit.\n\nOne evening, while she was tidying a drawer, Ines found a postcard that Paulo had sent her from a trip long ago. On the back he had written only a few words: \"Wish you were here. The sea would make you laugh.\" She sat on the floor for a long time, holding the card, and she realised that she could no longer remember what had made her so angry.\n\nShe wrote a message, deleted it, and wrote another. In the end she sent three simple sentences. She said that she missed him, that she was sorry for her part in the quarrel, and that she hoped they could meet. His reply arrived the next morning. It was short, but it was warm. \"I almost wrote to you last year,\" he said. \"I am glad you did it first.\" Ines read it twice and smiled, aware that pride had cost them far too many years.",
+    "qs": [
+      {
+        "q": "What is the main idea of the story?",
+        "opts": [
+          "Houses always cause family arguments.",
+          "Postcards are better than messages.",
+          "Paulo was the only one at fault.",
+          "Pride kept two siblings apart until one of them chose to reach out."
+        ],
+        "ans": 3,
+        "why": "Both waited for the other to call first, until Ines chose to write.",
+        "type": "main"
+      },
+      {
+        "q": "What did Ines find in the drawer?",
+        "opts": [
+          "A postcard from Paulo.",
+          "Her father's letter.",
+          "A photograph of the house.",
+          "An old phone number."
+        ],
+        "ans": 0,
+        "why": "She found a postcard that Paulo had sent her from a trip long ago.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer from Paulo's reply?",
+        "opts": [
+          "He was still angry about the house.",
+          "He had also thought about contacting her.",
+          "He did not want to meet her.",
+          "He had forgotten who she was."
+        ],
+        "ans": 1,
+        "why": "He says he almost wrote to her the year before.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"resentments\" mean in the first paragraph?",
+        "opts": [
+          "happy memories",
+          "legal documents",
+          "lasting feelings of anger about unfair treatment",
+          "plans for the future"
+        ],
+        "ans": 2,
+        "why": "Resentments are bitter feelings that remain after one feels badly treated.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "quarrel",
+        "pt": "briga"
+      },
+      {
+        "w": "pride",
+        "pt": "orgulho"
+      },
+      {
+        "w": "hardened",
+        "pt": "endureceu"
+      },
+      {
+        "w": "warm",
+        "pt": "caloroso"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-08",
+    "lvl": "B2",
+    "topic": "culture",
+    "kind": "article",
+    "title": "Why tipping customs differ around the world",
+    "text": "Visitors to a new country are often confused about tipping. In some places, leaving extra money at a restaurant is considered a basic duty. In others, it can seem strange or even slightly insulting. These differences are not random. They reflect history, wages and social expectations.\n\nIn countries where servers earn a low basic salary, tips make up a large part of their income, so customers feel responsible for adding to it. In countries where restaurants pay fair wages and include a service charge in the bill, an additional tip is usually seen as a small thank-you rather than an obligation. Some cultures also prefer to keep money and kindness separate, and they consider a friendly smile to be enough.\n\nTravellers can avoid embarrassment with a little research. A guidebook or a quick conversation with a local resident will usually explain what is normal. When in doubt, it is wise to check the bill, because the service may already be included. Understanding these customs is not only about money. It is also a way of showing respect. When we follow local habits, we show that we are guests who care about the place we are visiting.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Tipping customs depend on local wages and social expectations.",
+          "Restaurants should stop accepting tips.",
+          "Servers earn more in some countries than in others because of the weather.",
+          "Travellers should never leave a tip."
+        ],
+        "ans": 0,
+        "why": "The text explains that tipping habits reflect history, wages and expectations.",
+        "type": "main"
+      },
+      {
+        "q": "What should travellers check when they are unsure?",
+        "opts": [
+          "The restaurant's opening hours.",
+          "The language on the menu.",
+          "Whether the service is already included in the bill.",
+          "The server's name."
+        ],
+        "ans": 2,
+        "why": "The text says the service may already be included in the bill.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about countries with fair wages?",
+        "opts": [
+          "Tips are less essential for servers' income.",
+          "Servers refuse all tips.",
+          "Customers are never friendly.",
+          "Restaurants are always cheap."
+        ],
+        "ans": 0,
+        "why": "There, a tip is seen as a small thank-you rather than an obligation.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"obligation\" mean in the second paragraph?",
+        "opts": [
+          "a gift",
+          "something you feel you must do",
+          "a type of tax",
+          "a polite smile"
+        ],
+        "ans": 1,
+        "why": "An obligation is a duty or something one is expected to do.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "tip",
+        "pt": "gorjeta"
+      },
+      {
+        "w": "wage",
+        "pt": "salário"
+      },
+      {
+        "w": "bill",
+        "pt": "conta"
+      },
+      {
+        "w": "custom",
+        "pt": "costume"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-09",
+    "lvl": "B2",
+    "topic": "culture",
+    "kind": "blog",
+    "title": "Why I went back to paper books",
+    "text": "For about ten years I read almost everything on a screen. It was convenient. I could carry hundreds of books in my bag, change the size of the letters, and buy a new title in seconds. Last year, however, I noticed that I was finishing fewer books than ever, and that I rarely remembered what I had read.\n\nOn a whim, I bought a paperback in a small second-hand shop. The pages were slightly yellow, and the cover had a coffee stain, but I enjoyed it more than anything I had read for months. Without notifications or tempting apps, I could simply sit with the story. I also found that I remembered where things happened in the book, for example that a certain scene was near the bottom of a left-hand page.\n\nI have not abandoned my e-reader completely. It is still the best choice for travelling or for reading in the dark. Nevertheless, I now keep a pile of paper books next to my bed, and I treat them as a small ritual at the end of the day. Perhaps the lesson is not that paper is better than screens. It is that the way we read shapes how deeply we read.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "E-readers are more expensive than paperbacks.",
+          "Second-hand shops sell the best books.",
+          "The writer rediscovered the pleasure of paper books while still using an e-reader.",
+          "Reading in the dark is bad for the eyes."
+        ],
+        "ans": 2,
+        "why": "The writer returned to paper books but still keeps the e-reader for some situations.",
+        "type": "main"
+      },
+      {
+        "q": "What did the writer notice last year?",
+        "opts": [
+          "The e-reader had broken.",
+          "Books had become more expensive.",
+          "Fewer books were published.",
+          "They were finishing fewer books and remembering little."
+        ],
+        "ans": 3,
+        "why": "The first paragraph says they finished fewer books and rarely remembered them.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the writer mention notifications and apps?",
+        "opts": [
+          "They distract the reader on a screen.",
+          "They are useful for reading in bed.",
+          "They help with remembering scenes.",
+          "They are cheaper than books."
+        ],
+        "ans": 0,
+        "why": "Without them the writer could concentrate on the story, which suggests they are distracting.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"on a whim\" mean?",
+        "opts": [
+          "after careful planning",
+          "because of a sudden impulse",
+          "because of a friend's advice",
+          "at a special price"
+        ],
+        "ans": 1,
+        "why": "On a whim means acting suddenly without a particular reason.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "paperback",
+        "pt": "livro de bolso"
+      },
+      {
+        "w": "notification",
+        "pt": "notificação"
+      },
+      {
+        "w": "abandon",
+        "pt": "abandonar"
+      },
+      {
+        "w": "ritual",
+        "pt": "ritual"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-10",
+    "lvl": "B2",
+    "topic": "culture",
+    "kind": "story",
+    "title": "Dinner at the Okafors'",
+    "text": "When I moved to a new city for work, my neighbour Mrs Okafor invited me to dinner on my second evening. I accepted at once, although I felt a little shy. I had never visited a Nigerian family, and I was afraid of doing something wrong.\n\nThe table was full of dishes I could not name, and the smell of pepper and spices filled the room. Mrs Okafor's husband explained that it was polite to serve the oldest guest first, so my plate arrived before anyone else's, which made me blush. When I tried to refuse a second helping, the whole family laughed and told me that in their home a guest who stopped eating after one plate was probably unhappy.\n\nBetween courses, they asked about my family, my work and my favourite music. I discovered that their eldest daughter was a doctor and that their son played in a jazz band. By the end of the evening I had forgotten my nervousness completely. Walking back to my flat, I realised that hospitality does not need a common language or a shared background. It needs only an open door and a willingness to share what you have. I have never felt so welcome in a city I barely knew.",
+    "qs": [
+      {
+        "q": "What is the main idea of the story?",
+        "opts": [
+          "The narrator learned to cook Nigerian food.",
+          "A neighbour's warm welcome made the narrator feel at home.",
+          "The narrator disliked spicy dishes.",
+          "The Okafors planned to move away."
+        ],
+        "ans": 1,
+        "why": "The narrator ends by saying he or she felt very welcome in an unfamiliar city.",
+        "type": "main"
+      },
+      {
+        "q": "Why did the narrator's plate arrive first?",
+        "opts": [
+          "The narrator ate quickly.",
+          "The narrator was the youngest guest.",
+          "It is polite to serve the oldest guest first.",
+          "The narrator asked for it."
+        ],
+        "ans": 2,
+        "why": "Mr Okafor explained the custom of serving the oldest guest first.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the family's laughter suggest?",
+        "opts": [
+          "They were offended by the narrator.",
+          "They wanted the narrator to leave.",
+          "They disliked the food.",
+          "They were friendly and wanted the narrator to eat more."
+        ],
+        "ans": 3,
+        "why": "They teased kindly, saying a guest who stops after one plate is probably unhappy.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"hospitality\" mean in the last paragraph?",
+        "opts": [
+          "friendly and generous treatment of guests",
+          "a type of restaurant",
+          "a medical service",
+          "a difficult exam"
+        ],
+        "ans": 0,
+        "why": "Hospitality is welcoming visitors generously.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "helping",
+        "pt": "porção"
+      },
+      {
+        "w": "blush",
+        "pt": "corar"
+      },
+      {
+        "w": "course",
+        "pt": "prato (de uma refeição)"
+      },
+      {
+        "w": "welcome",
+        "pt": "bem-vindo"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-11",
+    "lvl": "B1+",
+    "topic": "security",
+    "kind": "article",
+    "title": "Is public Wi-Fi safe?",
+    "text": "Many cafes, airports and hotels offer free Wi-Fi, and most of us connect without thinking. It is certainly convenient, but public networks can also be risky. Because many strangers use the same connection, a dishonest person may be able to see some of the information that you send.\n\nThe danger is not the same for every activity. Reading the news or watching a video is usually not a problem. Entering a password, checking your bank account or filling in a form with personal details is different, because that information could be useful to a criminal.\n\nFortunately, a few simple habits can reduce the risk. First, check the name of the network with a member of staff, because criminals sometimes create a fake network with a similar name. Second, use websites that start with https, which means that the connection is protected. Third, consider using a VPN, a service that hides your activity from other people on the network. If you must do something important and you are not sure about the network, the safest option is to use your mobile data instead. It may use a little of your allowance, but it can save you a lot of trouble.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Free Wi-Fi is always dangerous.",
+          "Public Wi-Fi is convenient but needs some precautions.",
+          "Mobile data is cheaper than Wi-Fi.",
+          "Airports have the best networks."
+        ],
+        "ans": 1,
+        "why": "The text explains the risks and then gives simple habits to reduce them.",
+        "type": "main"
+      },
+      {
+        "q": "Which activity is described as more risky?",
+        "opts": [
+          "Watching a video.",
+          "Reading the news.",
+          "Entering a password.",
+          "Listening to music."
+        ],
+        "ans": 2,
+        "why": "Entering passwords or personal details can give useful information to criminals.",
+        "type": "detail"
+      },
+      {
+        "q": "Why should you ask staff about the network name?",
+        "opts": [
+          "The staff know the password for your bank.",
+          "The staff can make the connection faster.",
+          "The network is always free.",
+          "A criminal may create a fake network with a similar name."
+        ],
+        "ans": 3,
+        "why": "Fake networks with similar names exist, so staff can confirm the real one.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"reduce\" mean in the third paragraph?",
+        "opts": [
+          "make smaller",
+          "make faster",
+          "make louder",
+          "make older"
+        ],
+        "ans": 0,
+        "why": "To reduce the risk is to make it smaller.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "connection",
+        "pt": "conexão"
+      },
+      {
+        "w": "fake",
+        "pt": "falso"
+      },
+      {
+        "w": "protected",
+        "pt": "protegido"
+      },
+      {
+        "w": "allowance",
+        "pt": "franquia / cota"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-12",
+    "lvl": "B2+",
+    "topic": "security",
+    "kind": "email",
+    "title": "Action required: mandatory security update",
+    "text": "Subject: Action required by Friday: mandatory security update\n\nDear colleagues,\n\nAs part of our ongoing effort to protect company and customer data, the IT department will install an important security update on all laptops this week. The update closes several weaknesses that attackers could otherwise use to gain access to our systems.\n\nTo make the process as smooth as possible, please follow these steps. First, save your work and close all your applications before you leave the office on Thursday. Second, leave your laptop connected to the power supply and to the office network overnight, so that the update can install without interruption. Finally, restart the computer when you arrive on Friday morning and check that the new version number appears on the login screen.\n\nPlease note that we will never ask for your password by email or by telephone. If you receive a message that seems to come from us and requests your login details, do not reply. Forward it to the security team instead.\n\nIf your laptop has not been updated by Friday at noon, or if you notice any problems afterwards, contact the service desk through the internal portal. A technician will help you as soon as possible.\n\nThank you for your cooperation.\n\nBest regards,\nThe IT Security Team",
+    "qs": [
+      {
+        "q": "What is the main purpose of this email?",
+        "opts": [
+          "To announce a new company policy about holidays.",
+          "To explain how to install a security update on laptops.",
+          "To ask employees for their passwords.",
+          "To introduce a new technician."
+        ],
+        "ans": 1,
+        "why": "The email explains the update and the steps employees should follow.",
+        "type": "main"
+      },
+      {
+        "q": "What should employees do on Thursday before leaving the office?",
+        "opts": [
+          "Restart the laptop.",
+          "Contact the service desk.",
+          "Save their work and close all applications.",
+          "Change their passwords."
+        ],
+        "ans": 2,
+        "why": "The first step is to save work and close applications before leaving on Thursday.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about a message that asks for your login details?",
+        "opts": [
+          "It is a normal part of the update.",
+          "It comes from the service desk.",
+          "It is required by Friday.",
+          "It may be a fraud and should be reported."
+        ],
+        "ans": 3,
+        "why": "The IT team says it never asks for passwords this way, so such a message is suspicious.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"weaknesses\" mean in the first paragraph?",
+        "opts": [
+          "weak muscles",
+          "points where a system can be attacked",
+          "old computers",
+          "long delays"
+        ],
+        "ans": 1,
+        "why": "In security, weaknesses are flaws that attackers can exploit.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "update",
+        "pt": "atualização"
+      },
+      {
+        "w": "interruption",
+        "pt": "interrupção"
+      },
+      {
+        "w": "login",
+        "pt": "acesso / entrada no sistema"
+      },
+      {
+        "w": "service desk",
+        "pt": "central de atendimento"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-13",
+    "lvl": "B2",
+    "topic": "ai",
+    "kind": "article",
+    "title": "Machine translation and the human translator",
+    "text": "Only a few years ago, automatic translation often produced sentences that were awkward or even funny. Today the results are much better. Free tools can translate an email, a menu or a webpage in a moment, and the output is usually clear enough to understand. This progress has led many people to ask whether professional translators will still be needed.\n\nThe answer seems to be yes, although their work is changing. Machines handle simple, repetitive text very well, but they struggle with humour, cultural references and subtle differences in tone. A legal contract or a novel requires someone who understands not only the words, but also the situation behind them. A small mistake in such a document can have serious consequences.\n\nMany translators now use the software as an assistant. The machine produces a first version, and the human reviews it, corrects errors and improves the style. This can save time, and it allows translators to concentrate on the parts that need judgement. For language learners, these tools are useful but should be used carefully. They can help you check a word quickly. However, if you rely on them for every sentence, you will have fewer opportunities to practise thinking in the new language.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Free tools make translation completely perfect.",
+          "Translators have already lost their jobs.",
+          "Machine translation is improving, but human translators remain important.",
+          "Learners should never use translation tools."
+        ],
+        "ans": 2,
+        "why": "The text says the tools are better but that human skill is still needed for difficult texts.",
+        "type": "main"
+      },
+      {
+        "q": "According to the text, what do machines find difficult?",
+        "opts": [
+          "Translating simple, repetitive text.",
+          "Understanding humour and cultural references.",
+          "Translating a menu.",
+          "Producing a first version."
+        ],
+        "ans": 1,
+        "why": "The text mentions humour, cultural references and subtle differences in tone.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the writer suggest about relying on translation tools for every sentence?",
+        "opts": [
+          "It helps learners practise more.",
+          "It is the fastest way to become fluent.",
+          "It may reduce a learner's own practice.",
+          "It is required by teachers."
+        ],
+        "ans": 2,
+        "why": "The writer says learners would have fewer opportunities to practise thinking in the language.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"subtle\" mean in the second paragraph?",
+        "opts": [
+          "very large",
+          "obvious",
+          "expensive",
+          "small and not easy to notice"
+        ],
+        "ans": 3,
+        "why": "Subtle differences are slight and difficult to detect.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "awkward",
+        "pt": "estranho / desajeitado"
+      },
+      {
+        "w": "reference",
+        "pt": "referência"
+      },
+      {
+        "w": "judgement",
+        "pt": "julgamento"
+      },
+      {
+        "w": "rely on",
+        "pt": "depender de"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-14",
+    "lvl": "B2",
+    "topic": "ai",
+    "kind": "blog",
+    "title": "What happened when my class used an AI tutor",
+    "text": "This term, I tried an experiment with my class of sixteen-year-olds. Each student could ask an AI assistant for help with their history essays, as long as they told me exactly how they had used it. I expected a disaster, but the results were more interesting than I had imagined.\n\nSome students used the tool to copy whole paragraphs, and their essays sounded strangely similar. I quickly noticed this, because the writing did not match the way they spoke in class. Others, however, used the assistant as a patient partner. They asked it to explain difficult words, suggest questions to research, or point out where an argument was unclear. Their essays improved, and they seemed more confident when we discussed them.\n\nThe difference was not the technology but the habit of the student. Those who treated the tool as a shortcut learned little. Those who treated it as a coach learned a great deal. Based on this, I have changed my rules. Students must now write a first draft without any help, and only then can they ask the assistant for feedback. I still have concerns, but I no longer believe that banning the tool is the best answer. Teaching students to use it wisely seems more realistic.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "Students learn more when they use AI as a coach than as a shortcut.",
+          "Sixteen-year-olds cannot write essays.",
+          "History is difficult to teach.",
+          "AI tools should be banned from schools."
+        ],
+        "ans": 0,
+        "why": "The teacher concludes that the difference lies in how students use the tool.",
+        "type": "main"
+      },
+      {
+        "q": "How did the teacher recognise that some students had copied text?",
+        "opts": [
+          "The essays were all too short.",
+          "The students admitted it at once.",
+          "The software showed a warning.",
+          "The writing did not match how they spoke in class."
+        ],
+        "ans": 3,
+        "why": "The text says the writing did not match the way they spoke in class.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about the teacher's new rule?",
+        "opts": [
+          "The teacher wants students to think for themselves first.",
+          "The teacher wants to ban the assistant.",
+          "The teacher will stop reading essays.",
+          "The teacher believes drafts are unnecessary."
+        ],
+        "ans": 0,
+        "why": "Requiring a first draft without help makes students do their own thinking before using the tool.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"shortcut\" mean in the third paragraph?",
+        "opts": [
+          "a long explanation",
+          "a quick way that avoids the usual effort",
+          "a difficult question",
+          "a type of essay"
+        ],
+        "ans": 1,
+        "why": "A shortcut lets you reach a result with less work, here with less learning.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "assistant",
+        "pt": "assistente"
+      },
+      {
+        "w": "draft",
+        "pt": "rascunho"
+      },
+      {
+        "w": "coach",
+        "pt": "treinador / mentor"
+      },
+      {
+        "w": "ban",
+        "pt": "proibir"
+      }
+    ]
+  },
+  {
+    "id": "rd-x2-15",
+    "lvl": "B1+",
+    "topic": "ai",
+    "kind": "blog",
+    "title": "Using an AI assistant to write my emails",
+    "text": "I work in a small company, and I write about thirty emails every day. Some of them are easy, but others take me a long time, especially when I have to be polite and clear in English. A few weeks ago, a colleague suggested that I try an AI assistant, so I decided to test it.\n\nThe first result was impressive. I gave the assistant a few notes about a late delivery, and it wrote a friendly and professional message in seconds. However, when I read the email carefully, I noticed a problem. The assistant had promised a new delivery date that I had never mentioned. If I had sent it without checking, my customer would have expected something that I could not provide.\n\nSince then, I use the assistant in a different way. I write the main points myself, ask it to improve the style, and always read the final text before I press send. This method saves me about an hour a day, and my emails sound more natural. My conclusion is simple. The tool is a very good helper, but it is not responsible for what I send. I am, so I must always check the details.",
+    "qs": [
+      {
+        "q": "What is the main idea of the text?",
+        "opts": [
+          "An AI assistant can help with emails, but the writer must check the result.",
+          "The writer wants to change jobs.",
+          "AI assistants write perfect emails.",
+          "Customers prefer short emails."
+        ],
+        "ans": 0,
+        "why": "The writer finds the tool useful but stresses checking everything before sending.",
+        "type": "main"
+      },
+      {
+        "q": "What problem did the writer notice in the first email?",
+        "opts": [
+          "The assistant used rude language.",
+          "The email was too short.",
+          "The assistant added a delivery date that the writer had not given.",
+          "The email had the wrong customer name."
+        ],
+        "ans": 2,
+        "why": "The assistant promised a new delivery date that the writer never mentioned.",
+        "type": "detail"
+      },
+      {
+        "q": "What can we infer about the writer's current method?",
+        "opts": [
+          "The writer lets the assistant send emails alone.",
+          "The writer keeps control of the content and uses the tool for style.",
+          "The writer no longer writes emails.",
+          "The writer avoids using English."
+        ],
+        "ans": 1,
+        "why": "The writer provides the main points and checks the final text before sending.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"impressive\" mean in the second paragraph?",
+        "opts": [
+          "boring",
+          "confusing",
+          "causing admiration",
+          "very expensive"
+        ],
+        "ans": 2,
+        "why": "An impressive result makes you admire how good it is.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "delivery",
+        "pt": "entrega"
+      },
+      {
+        "w": "professional",
+        "pt": "profissional"
+      },
+      {
+        "w": "natural",
+        "pt": "natural"
+      },
+      {
+        "w": "responsible",
+        "pt": "responsável"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-01",
+    "lvl": "B2",
+    "topic": "security",
+    "kind": "article",
+    "title": "Why passkeys are replacing passwords",
+    "text": "For decades, passwords have been the weakest link in personal cybersecurity. Most people either reuse the same memorable phrase across dozens of websites or rely on slight variations that automated tools can guess in seconds. Password managers helped, yet phishing pages still trick even careful users into typing their credentials on fake login screens.\n\nPasskeys offer a fundamentally different approach. Instead of sending a shared secret over the internet, your device creates a cryptographic key pair. The public key lives on the website's server, while the private key never leaves your phone or laptop and is unlocked locally using biometrics or a device PIN.\n\nThis design solves two stubborn problems at once. First, if a website suffers a database breach, attackers only steal public keys, which are useless on their own. Second, passkeys are bound to the exact domain name where they were created, meaning your device simply refuses to sign in on a lookalike phishing domain.\n\nAdoption is not instant, however. Users still worry about losing access if a phone breaks, so cloud backup and cross-device recovery remain essential before passwords disappear completely.",
+    "qs": [
+      {
+        "q": "What is the main advantage of passkeys described in the article?",
+        "opts": [
+          "They are easier to memorize than passwords.",
+          "They eliminate shared secrets and resist phishing and breaches.",
+          "They work without any device or PIN.",
+          "They allow websites to store your private key safely."
+        ],
+        "ans": 1,
+        "why": "Passkeys keep the private key on the device and bind it to the exact domain, protecting against breaches and phishing.",
+        "type": "main"
+      },
+      {
+        "q": "Where is the private key stored?",
+        "opts": [
+          "On the website's server",
+          "In a public directory",
+          "Locally on the user's device",
+          "Inside an email"
+        ],
+        "ans": 2,
+        "why": "The text states that the private key never leaves your phone or laptop.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the author mention losing a phone at the end?",
+        "opts": [
+          "To show passkeys are less secure than passwords",
+          "To explain why recovery mechanisms are still needed",
+          "To advise against using biometrics",
+          "To argue that phones are unreliable"
+        ],
+        "ans": 1,
+        "why": "Users worry about losing access if a device breaks, so backup and recovery remain essential.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"stubborn\" mean in the third paragraph?",
+        "opts": [
+          "easy to ignore",
+          "persistent and hard to solve",
+          "brand new",
+          "expensive to build"
+        ],
+        "ans": 1,
+        "why": "Breaches and phishing have been persistent, difficult problems for decades.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "weakest link",
+        "pt": "elo mais fraco"
+      },
+      {
+        "w": "key pair",
+        "pt": "par de chaves"
+      },
+      {
+        "w": "lookalike",
+        "pt": "falso / parecido (site clone)"
+      },
+      {
+        "w": "recovery",
+        "pt": "recuperação"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-02",
+    "lvl": "B1+",
+    "topic": "work",
+    "kind": "blog",
+    "title": "The hidden cost of constant notifications",
+    "text": "When our team switched to remote work, we installed three chat channels and turned on desktop alerts for every message. At first, fast replies felt like a sign of dedication. Whenever someone asked a question, someone else answered within two minutes.\n\nAfter a few months, though, everyone felt exhausted even on days without long meetings. Developers complained that they could not finish a single complex feature without being interrupted five or six times. Even a quick glance at a message broke their train of thought, and getting back into the problem took another fifteen minutes.\n\nWe decided to run a two-week experiment. Everyone kept their chat status on silent during morning focus blocks and checked messages only at ten and noon. Urgent production alerts still went to a separate channel that bypassed silent mode.\n\nThe result surprised us. Response times to ordinary questions went up slightly, from two minutes to about forty minutes, yet the number of completed tasks rose noticeably. People also wrote clearer, more complete messages because they no longer expected an instant back-and-forth chat.",
+    "qs": [
+      {
+        "q": "What is the main point of the blog post?",
+        "opts": [
+          "Remote workers should stop using chat.",
+          "Reducing notification interruptions improved productivity and message clarity.",
+          "Two-minute replies are always better.",
+          "Morning meetings should be longer."
+        ],
+        "ans": 1,
+        "why": "Silent focus blocks increased completed tasks and led to clearer messages.",
+        "type": "main"
+      },
+      {
+        "q": "How did the team handle urgent production alerts during the experiment?",
+        "opts": [
+          "They ignored them until noon.",
+          "They used a separate channel that bypassed silent mode.",
+          "They called each other on the phone.",
+          "They disabled all alerts completely."
+        ],
+        "ans": 1,
+        "why": "Urgent production alerts went to a separate channel that bypassed silent mode.",
+        "type": "detail"
+      },
+      {
+        "q": "Why did people write clearer messages during the experiment?",
+        "opts": [
+          "Management required longer emails.",
+          "They knew the other person would not reply immediately.",
+          "They had fewer tasks to do.",
+          "They used a new chat app."
+        ],
+        "ans": 1,
+        "why": "Because they no longer expected an instant back-and-forth chat, they included full context upfront.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"train of thought\" mean in paragraph two?",
+        "opts": [
+          "a commute to work",
+          "a connected sequence of ideas",
+          "a list of bugs",
+          "a weekly schedule"
+        ],
+        "ans": 1,
+        "why": "'Train of thought' means the flow of ideas when concentrating on a problem.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "dedication",
+        "pt": "dedicação"
+      },
+      {
+        "w": "train of thought",
+        "pt": "linha de raciocínio"
+      },
+      {
+        "w": "back-and-forth",
+        "pt": "vai e vem (troca rápida de mensagens)"
+      },
+      {
+        "w": "noticeably",
+        "pt": "notavelmente"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-03",
+    "lvl": "B2+",
+    "topic": "ai",
+    "kind": "article",
+    "title": "Why small language models are gaining ground",
+    "text": "In the early rush of generative AI, bigger almost always meant better. Companies competed to train massive models with hundreds of billions of parameters, assuming that only giant cloud clusters could handle real-world tasks. Recently, however, engineering teams have started moving in the opposite direction.\n\nSmall, specialized models—running locally on a laptop or a modest single server—have become surprisingly capable. When a model only needs to classify support tickets, extract dates from invoices, or summarize internal notes, it does not need encyclopedic knowledge of nineteenth-century poetry. Trimming the scope allows teams to cut inference costs dramatically while slashing response times.\n\nPrivacy is an equally compelling driver. Healthcare clinics, banks, and legal departments are often reluctant to send sensitive records to third-party APIs. Running a compact model inside a private network eliminates external data exposure and simplifies compliance audits.\n\nGiant models still lead on open-ended reasoning and creative synthesis. Yet for predictable, high-volume workflows, the industry is realizing that right-sized intelligence often beats sheer scale.",
+    "qs": [
+      {
+        "q": "What trend does the article describe?",
+        "opts": [
+          "Giant models are being banned.",
+          "Teams are increasingly adopting smaller, task-specific AI models.",
+          "Laptops can now train billion-parameter models.",
+          "Cloud providers are shutting down AI clusters."
+        ],
+        "ans": 1,
+        "why": "The article explains why engineering teams are moving toward smaller, specialized models.",
+        "type": "main"
+      },
+      {
+        "q": "Which advantage of compact models is especially important for banks and clinics?",
+        "opts": [
+          "Knowledge of history",
+          "Keeping sensitive data inside a private network",
+          "Writing creative poetry",
+          "Free cloud hosting"
+        ],
+        "ans": 1,
+        "why": "Running locally eliminates external data exposure and simplifies compliance.",
+        "type": "detail"
+      },
+      {
+        "q": "When would a giant model still be the better choice?",
+        "opts": [
+          "Extracting dates from invoices",
+          "Classifying routine tickets",
+          "Complex, open-ended reasoning",
+          "Running offline on a laptop"
+        ],
+        "ans": 2,
+        "why": "The final paragraph states giant models still lead on open-ended reasoning and creative synthesis.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"sheer scale\" mean in the last sentence?",
+        "opts": [
+          "low cost",
+          "pure size alone",
+          "fast speed",
+          "strict security"
+        ],
+        "ans": 1,
+        "why": "'Sheer scale' refers to massive size by itself.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "compelling",
+        "pt": "convincente / forte"
+      },
+      {
+        "w": "reluctant",
+        "pt": "relutante"
+      },
+      {
+        "w": "open-ended",
+        "pt": "aberto / sem resposta única"
+      },
+      {
+        "w": "sheer scale",
+        "pt": "escala pura / tamanho bruto"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-04",
+    "lvl": "B2",
+    "topic": "science",
+    "kind": "article",
+    "title": "The surprising power of sleep on memory",
+    "text": "Students often stay up until three in the morning cramming before an exam, convinced that every extra hour of reading adds to what they know. Yet neuroscience has repeatedly shown that this strategy backfires. Learning does not end when you close your book; a crucial part of the process happens while you sleep.\n\nDuring deep sleep, the brain replays patterns of activity from the day, transferring fragile short-term memories from the hippocampus to more permanent storage in the cortex. Without that overnight consolidation, much of what you studied simply fades within forty-eight hours.\n\nSleep also acts as a filter. Rather than keeping every trivial detail, the brain strengthens connections that seem useful or emotionally relevant while letting noise drop away. That is why people often wake up with a clearer solution to a problem that felt impossible the night before.\n\nIf your schedule is tight, studying for forty-five minutes and getting a full night's rest will almost always outperform studying for three hours on four hours of sleep.",
+    "qs": [
+      {
+        "q": "What is the main message of the article?",
+        "opts": [
+          "Reading late at night improves focus.",
+          "Sleep is essential for turning short-term study into lasting memory.",
+          "Short-term memory lasts for weeks without sleep.",
+          "Exams should always be taken in the morning."
+        ],
+        "ans": 1,
+        "why": "Sleep consolidates fragile memories into permanent storage.",
+        "type": "main"
+      },
+      {
+        "q": "What happens in the brain during deep sleep?",
+        "opts": [
+          "All memories are erased.",
+          "Patterns from the day are replayed and moved to permanent storage.",
+          "The hippocampus shuts down completely.",
+          "Only emotional memories are kept."
+        ],
+        "ans": 1,
+        "why": "The brain replays activity and transfers memories from the hippocampus to the cortex.",
+        "type": "detail"
+      },
+      {
+        "q": "Why might someone solve a tough problem more easily after sleeping?",
+        "opts": [
+          "The brain forgets the entire problem.",
+          "Sleep filters out noise and strengthens useful connections.",
+          "People read faster in the morning.",
+          "Cramming only works after lunch."
+        ],
+        "ans": 1,
+        "why": "Sleep filters trivial noise and strengthens relevant connections.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"backfires\" mean in the first paragraph?",
+        "opts": [
+          "works better than expected",
+          "produces the opposite, unwanted result",
+          "costs too much money",
+          "happens very slowly"
+        ],
+        "ans": 1,
+        "why": "Staying up all night hurts retention instead of helping it.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "cramming",
+        "pt": "estudar tudo de última hora"
+      },
+      {
+        "w": "backfire",
+        "pt": "sair pela culatra"
+      },
+      {
+        "w": "fragile",
+        "pt": "frágil"
+      },
+      {
+        "w": "outperform",
+        "pt": "superar"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-05",
+    "lvl": "B1+",
+    "topic": "business",
+    "kind": "email",
+    "title": "How to write a status update people actually read",
+    "text": "Every Friday afternoon, thousands of project managers spend an hour writing long status emails that nobody finishes reading. The problem is rarely a lack of effort; it is usually poor structure. When the key risk or decision is buried in paragraph four, busy colleagues simply skim the first two lines and move on.\n\nA better format starts with a one-sentence headline: is the project on track, at risk, or blocked? Immediately after that, list three short bullet points covering what shipped this week, what happens next, and where you need help.\n\nIf you need a decision from a director, put their name in bold right at the top next to the deadline. People are far more likely to respond when the request is specific and takes less than thirty seconds to understand.\n\nLeave deep technical logs, chart screenshots, and meeting notes in a linked document. Anyone who wants the full history can click through, while everyone else gets the exact picture in half a minute.",
+    "qs": [
+      {
+        "q": "Why do colleagues often miss important points in status emails?",
+        "opts": [
+          "The emails are sent on Mondays.",
+          "Key risks and decisions are buried deep in long paragraphs.",
+          "Managers forget to attach files.",
+          "Colleagues dislike bullet points."
+        ],
+        "ans": 1,
+        "why": "Busy readers skim the top and miss details buried in later paragraphs.",
+        "type": "main"
+      },
+      {
+        "q": "What should come first in the recommended format?",
+        "opts": [
+          "A list of meeting attendees",
+          "A one-sentence headline showing project status",
+          "Screenshots of charts",
+          "A full technical log"
+        ],
+        "ans": 1,
+        "why": "Start with a one-sentence headline: on track, at risk, or blocked.",
+        "type": "detail"
+      },
+      {
+        "q": "Where does the author suggest putting detailed technical notes?",
+        "opts": [
+          "In a linked document",
+          "At the very top of the email",
+          "In the subject line",
+          "In a separate phone call"
+        ],
+        "ans": 0,
+        "why": "Leave deep logs and notes in a linked document for anyone who wants the full history.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"skim\" mean in paragraph one?",
+        "opts": [
+          "read every word carefully",
+          "read quickly, looking only at the main points",
+          "delete without opening",
+          "forward to someone else"
+        ],
+        "ans": 1,
+        "why": "'Skim' means reading quickly without reading every detail.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "buried",
+        "pt": "enterrado / escondido no meio"
+      },
+      {
+        "w": "skim",
+        "pt": "passar os olhos"
+      },
+      {
+        "w": "on track",
+        "pt": "no caminho certo / no prazo"
+      },
+      {
+        "w": "shipped",
+        "pt": "entregue / publicado"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-06",
+    "lvl": "B2",
+    "topic": "tech",
+    "kind": "article",
+    "title": "The trap of premature optimization",
+    "text": "Software engineers love building elegant, high-speed systems. Sometimes, however, that instinct leads teams to spend weeks tuning a feature before anyone has even proven that users want it. In engineering, this habit is known as premature optimization.\n\nImagine a startup building a local food-delivery app. Before launching in a single neighborhood, the team spends two months designing a distributed cache capable of handling a million orders per minute. Meanwhile, competitors launch a simple version in two weeks, gather real feedback, and discover that customers actually care more about accurate delivery estimates than sub-millisecond page loads.\n\nThe smarter sequence is straightforward: first make it work cleanly, then make it right, and only then make it fast where measurements show a real bottleneck. Profiling actual production traffic almost always reveals that ninety percent of the slowdown lives in one or two unexpected queries—not in the places engineers guessed upfront.\n\nGood architecture still matters, of course. Keeping modules decoupled makes it easy to swap out a slow component later, without betting the whole schedule on hypothetical scale.",
+    "qs": [
+      {
+        "q": "What is \"premature optimization\" according to the text?",
+        "opts": [
+          "Fixing bugs after launch",
+          "Spending time tuning performance before knowing if it is needed",
+          "Using simple tools to launch quickly",
+          "Measuring production traffic"
+        ],
+        "ans": 1,
+        "why": "It means tuning performance before proving users want the feature or where bottlenecks actually are.",
+        "type": "main"
+      },
+      {
+        "q": "What did the competitor in the example focus on instead?",
+        "opts": [
+          "Handling a million orders per minute",
+          "Launching quickly and learning what customers cared about",
+          "Building a distributed cache",
+          "Rewriting their database"
+        ],
+        "ans": 1,
+        "why": "They launched a simple version in two weeks and gathered real user feedback.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the author still recommend decoupled modules?",
+        "opts": [
+          "They run faster automatically.",
+          "They make it easier to replace slow parts later.",
+          "They eliminate all bugs.",
+          "They prevent competitors from copying you."
+        ],
+        "ans": 1,
+        "why": "Decoupled modules let you swap out a slow component later when measurements show a real bottleneck.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"bottleneck\" mean in paragraph three?",
+        "opts": [
+          "a type of container",
+          "a point that slows down the whole process",
+          "a security key",
+          "a design guideline"
+        ],
+        "ans": 1,
+        "why": "A bottleneck is a narrow point that limits overall speed or capacity.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "premature",
+        "pt": "prematuro"
+      },
+      {
+        "w": "bottleneck",
+        "pt": "gargalo"
+      },
+      {
+        "w": "decoupled",
+        "pt": "desacoplado / independente"
+      },
+      {
+        "w": "upfront",
+        "pt": "antecipadamente / de início"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-07",
+    "lvl": "B2+",
+    "topic": "culture",
+    "kind": "essay",
+    "title": "Why directness sounds different across cultures",
+    "text": "When Brazilian professionals begin working with international teams in English, one of the biggest surprises has nothing to do with grammar. It is how differently cultures handle saying \"no\" or pointing out a mistake.\n\nIn Brazil, softening a refusal with warmth and extra context is a sign of respect. Saying simply \"That won't work\" can feel abrupt or cold. Yet in parts of Northern Europe or in fast-paced US engineering teams, overly indirect phrasing can create confusion. If someone says \"Maybe we could look at another option later,\" a colleague might assume the current proposal was approved.\n\nOn the other hand, translating Brazilian Portuguese warmth literally into English—or adopting blunt directness without softening words—can miss the mark in British workplaces, where polite understatement is common. A British colleague who says \"That's an interesting approach\" may actually mean \"I have serious doubts.\"\n\nThe practical solution is to separate clarity from tone. State your position clearly—\"I don't think this timeline is realistic\"—and follow it immediately with a constructive reason or alternative. Clear, respectful, and impossible to misread.",
+    "qs": [
+      {
+        "q": "What is the central theme of the essay?",
+        "opts": [
+          "Grammar rules vary by country.",
+          "Cultural differences in directness can cause misunderstandings at work.",
+          "Brazilians should never use polite phrases in English.",
+          "British English is harder than American English."
+        ],
+        "ans": 1,
+        "why": "The essay explores how different cultures interpret directness and indirectness.",
+        "type": "main"
+      },
+      {
+        "q": "What might happen if you use overly indirect phrasing with a US engineering team?",
+        "opts": [
+          "They will think you are rude.",
+          "They might misunderstand and think you agreed.",
+          "They will switch to email.",
+          "They will stop asking questions."
+        ],
+        "ans": 1,
+        "why": "A colleague might assume the current proposal was approved.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the example \"That's an interesting approach\" illustrate?",
+        "opts": [
+          "British colleagues love creative ideas.",
+          "Polite understatement can hide strong doubts.",
+          "Directness is universal in Europe.",
+          "Tone matters more than facts."
+        ],
+        "ans": 1,
+        "why": "In British workplaces, polite understatement can mask serious doubts.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"blunt\" mean in paragraph three?",
+        "opts": [
+          "very polite",
+          "direct without trying to be gentle",
+          "hard to understand",
+          "grammatically wrong"
+        ],
+        "ans": 1,
+        "why": "'Blunt' means direct in a plain, unsoftened way.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "abrupt",
+        "pt": "brusco / seco"
+      },
+      {
+        "w": "understatement",
+        "pt": "atenuação / eufemismo"
+      },
+      {
+        "w": "blunt",
+        "pt": "direto demais / seco"
+      },
+      {
+        "w": "misread",
+        "pt": "interpretar mal"
+      }
+    ]
+  },
+  {
+    "id": "rd-x3-08",
+    "lvl": "B1+",
+    "topic": "daily",
+    "kind": "blog",
+    "title": "The thirty-minute rule for learning a language",
+    "text": "Most people who start studying a language seriously begin with huge enthusiasm. During the first weekend, they download four apps, watch two movies with English subtitles, and study for three hours straight. By the following Wednesday, work gets busy and they skip a day. Two weeks later, the streak is gone.\n\nLanguage acquisition behaves much more like going to the gym than cramming for a test. Doing twenty to thirty minutes every single day beats doing three hours once a week. Your brain needs regular exposure followed by sleep so that new words move into long-term memory.\n\nThe secret is tying your study habit to an existing routine. Review flashcards right after morning coffee, or listen to a ten-minute English podcast while walking the dog. When the habit has a fixed trigger, you stop negotiating with yourself every evening about whether you feel motivated.\n\nConsistency feels slow in week one, almost invisible in week two, and unmistakable by month three.",
+    "qs": [
+      {
+        "q": "Why does the author compare language learning to going to the gym?",
+        "opts": [
+          "Both require expensive equipment.",
+          "Regular short sessions beat rare intense marathons.",
+          "Both are best done on weekends.",
+          "You need a coach for both."
+        ],
+        "ans": 1,
+        "why": "Doing 20-30 minutes every day beats three hours once a week.",
+        "type": "main"
+      },
+      {
+        "q": "What happens to many learners who start with three-hour weekend sessions?",
+        "opts": [
+          "They reach fluency in two weeks.",
+          "Work gets busy and they soon lose consistency.",
+          "They remember everything permanently.",
+          "They only need one app."
+        ],
+        "ans": 1,
+        "why": "When work gets busy, they skip days and lose the streak.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does tying study to morning coffee help?",
+        "opts": [
+          "Coffee improves pronunciation.",
+          "A fixed trigger removes the need to rely on motivation.",
+          "Mornings are always quiet.",
+          "Podcasts are shorter in the morning."
+        ],
+        "ans": 1,
+        "why": "With a fixed trigger, you stop negotiating with yourself about motivation.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"unmistakable\" mean in the last sentence?",
+        "opts": [
+          "impossible to doubt or miss",
+          "easy to forget",
+          "too difficult",
+          "slightly disappointing"
+        ],
+        "ans": 0,
+        "why": "By month three, the progress is clear and impossible to miss.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "straight",
+        "pt": "seguido / sem parar"
+      },
+      {
+        "w": "trigger",
+        "pt": "gatilho"
+      },
+      {
+        "w": "negotiate with yourself",
+        "pt": "ficar discutindo consigo mesmo"
+      },
+      {
+        "w": "unmistakable",
+        "pt": "inconfundível / evidente"
+      }
+    ]
   }
 ]

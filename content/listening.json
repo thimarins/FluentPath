@@ -1,26 +1,3936 @@
 [
-{"id":"lis-01","lvl":"B1","speed":"slow","accent":"us","topic":"daily","kind":"conversation","script":"Anna: Hi, Tom. You look tired.\nTom: Yeah. My neighbors had a party last night, and I couldn't sleep.\nAnna: That's terrible. Did you talk to them?\nTom: Not yet. I'm going to knock on their door tonight, but I don't want to sound angry.\nAnna: Maybe you could take them some cookies. People are usually friendlier when you're nice.\nTom: That's actually a good idea. However, if the noise continues, I'll call the building manager.\nAnna: Good plan. Let me know how it goes.","qs":[{"q":"What is Tom's problem?","opts":["His neighbors were too noisy at night","He lost his keys","He argued with the building manager","He had a party and cleaned up late"],"ans":0,"why":"He says the neighbors had a party and he couldn't sleep."},{"q":"What will Tom do tonight?","opts":["Call the building manager","Knock on his neighbors' door","Bake cookies for a party","Move to another building"],"ans":1,"why":"He says he is going to knock on their door tonight. Calling the manager is only a backup plan."},{"q":"What does Anna imply with 'People are usually friendlier when you're nice'?","opts":["Neighbors never listen to complaints","Tom should call the manager first","A kind approach may work better than anger","Cookies are cheap"],"ans":2,"why":"She suggests being nice is more effective than sounding angry."}],"vocab":["knock on the door","building manager","let me know"]},
-{"id":"lis-02","lvl":"B1","speed":"slow","accent":"gb","topic":"travel","kind":"announcement","script":"Attention, please, passengers travelling to Edinburgh on flight BA 214. Due to a technical problem, the departure gate has changed from gate twelve to gate twenty-five. The flight will now leave at ten forty instead of ten fifteen. Please make your way to the new gate as soon as possible. Passengers who need help can ask any member of staff. Boarding will begin in thirty minutes. We apologise for the delay and thank you for your patience.","qs":[{"q":"What is the announcement mainly about?","opts":["A change of gate and departure time","A cancelled flight","A lost bag","A new boarding rule"],"ans":0,"why":"The gate and the departure time have both changed."},{"q":"What time will the flight now leave?","opts":["10:15","10:25","10:40","11:00"],"ans":2,"why":"It will leave at ten forty instead of ten fifteen."},{"q":"What does 'make your way to' mean?","opts":["build","go to","pay for","look for"],"ans":1,"why":"'Make your way to' means to go to a place."}],"vocab":["departure gate","boarding","due to"]},
-{"id":"lis-03","lvl":"B1","speed":"normal","accent":"us","topic":"business","kind":"voicemail","script":"Hi Sara, it's Dave from the IT team. I'm calling about your laptop. We tried to fix the problem remotely, but it didn't work, so I'm afraid you'll have to bring it to the help desk. It's on the second floor, next to the cafeteria. We're open from nine to five, but don't come at lunchtime because it gets really busy. Also, please back up your files before you come. Otherwise, you might lose some of them. Call me back if you have any questions. Thanks.","qs":[{"q":"Why is Dave calling?","opts":["To say Sara's laptop was repaired remotely","To ask Sara to bring her laptop to the help desk","To borrow Sara's laptop","To tell her the help desk is closing"],"ans":1,"why":"The remote fix failed, so she must bring the laptop in."},{"q":"When should Sara avoid going to the help desk?","opts":["Before nine","After four","At lunchtime","On the second floor"],"ans":2,"why":"Dave says it gets really busy at lunchtime."},{"q":"What will happen if Sara doesn't back up her files?","opts":["She might lose some of them","The laptop will be replaced","Dave will call her again","The help desk will close"],"ans":0,"why":"'Otherwise, you might lose some of them.'"}],"vocab":["help desk","back up","remotely"]},
-{"id":"lis-04","lvl":"B1","speed":"normal","accent":"gb","topic":"daily","kind":"monologue","script":"I used to hate mornings, but things have changed since I started running. I get up at six, put on my trainers and run for thirty minutes before work. At first, it was hard, so I gave up after three days. Then my sister joined me, and we kept each other going. Now I feel more energetic, and I even enjoy breakfast! The only problem is the winter. When it's dark and cold, it's tempting to stay in bed.","qs":[{"q":"What is the speaker mainly talking about?","opts":["Why she dislikes winter","A sister who runs marathons","How to cook a better breakfast","How running changed her mornings"],"ans":3,"why":"She describes how her mornings improved after she started running."},{"q":"What helped the speaker keep running?","opts":["A fitness app","Her sister joined her","Warmer weather","A new job"],"ans":1,"why":"Her sister joined her, and they kept each other going."},{"q":"What does the speaker imply about winter?","opts":["She runs more in winter","She will stop eating breakfast","It is the hardest season to keep the habit","Dark mornings are exciting for her"],"ans":2,"why":"Dark, cold mornings make her tempted to stay in bed."}],"vocab":["give up","keep each other going","energetic"]},
-{"id":"lis-05","lvl":"B1","speed":"slow","accent":"us","topic":"relationships","kind":"conversation","script":"Lisa: Are you free on Saturday? It's Maria's birthday, and I'm planning a surprise.\nJake: Sure! What's the plan?\nLisa: We're meeting at my place at six. Her husband will bring her at seven, so we have to be quiet.\nJake: Should I bring a gift?\nLisa: You don't have to, but a small card would be nice. Oh, and don't mention it to Maria. She finds out about everything.\nJake: Don't worry. My lips are sealed.","qs":[{"q":"What is Lisa organizing?","opts":["A surprise birthday party","A farewell dinner","A wedding","A work meeting"],"ans":0,"why":"It's Maria's birthday and Lisa is planning a surprise."},{"q":"What does Jake mean by 'My lips are sealed'?","opts":["I'm too tired to talk","I will keep the secret","I disagree with you","I forgot the plan"],"ans":1,"why":"It is an idiom meaning he won't tell anyone."},{"q":"What does Lisa imply about Maria?","opts":["She is rarely late","She dislikes birthdays","She hates gifts","She often discovers secrets"],"ans":3,"why":"'She finds out about everything' suggests she usually discovers secrets."}],"vocab":["find out","surprise","my lips are sealed"]},
-{"id":"lis-06","lvl":"B1","speed":"normal","accent":"us","topic":"news","kind":"news","script":"The city council has approved a plan to build twenty-five miles of new bike lanes over the next two years. The mayor said the project will cost around twelve million dollars, and most of the money will come from the national government. Supporters say the lanes will reduce traffic and pollution. However, some shop owners are worried because they might lose parking spaces in front of their stores. The first lanes will open next spring, as long as the weather allows construction to start on time.","qs":[{"q":"What is the news mainly about?","opts":["The council approved a plan for new bike lanes","The mayor resigned","Shops are closing downtown","A bike race will be held"],"ans":0,"why":"The first sentence gives the main news."},{"q":"Where will most of the money come from?","opts":["Shop owners","The national government","Local taxes","Bike companies"],"ans":1,"why":"'Most of the money will come from the national government.'"},{"q":"What does 'as long as the weather allows' suggest about the opening date?","opts":["It is guaranteed","It will be earlier","It could be delayed","It depends on shop owners"],"ans":2,"why":"'As long as' sets a condition, so bad weather could cause a delay."}],"vocab":["city council","approve","construction"]},
-{"id":"lis-07","lvl":"B1+","speed":"normal","accent":"us","topic":"business","kind":"conversation","script":"Karen: I've just heard the client wants the report by Thursday instead of Friday.\nPaul: Thursday? That's impossible. We still have to finish the charts.\nKaren: I know. But if we split the work, we might pull it off. I'll handle the summary if you take care of the data.\nPaul: Fine, although I'll probably have to stay late tonight.\nKaren: Let's go through the numbers together first thing tomorrow, so there are no surprises.\nPaul: Agreed. Otherwise we'll end up redoing everything.","qs":[{"q":"What is the problem?","opts":["The client moved the deadline earlier","The client cancelled the project","The charts contain errors","Paul is on holiday"],"ans":0,"why":"The client wants the report Thursday instead of Friday."},{"q":"What does 'pull it off' mean?","opts":["complain about it","succeed in doing something difficult","delay it","cancel it"],"ans":1,"why":"To pull something off is to succeed despite difficulty."},{"q":"What does Paul imply with 'Otherwise we'll end up redoing everything'?","opts":["The client will pay extra","The numbers are already wrong","Checking the numbers early avoids mistakes later","He wants to skip tomorrow's meeting"],"ans":2,"why":"Without an early check, errors could force them to start over."}],"vocab":["pull it off","go through","take care of"]},
-{"id":"lis-08","lvl":"B1+","speed":"fast","accent":"us","topic":"tech","kind":"monologue","script":"So, here's the thing about passwords. Most people reuse the same one everywhere, and that's a huge risk. If one website gets hacked, criminals can try it on your email, your bank, everything. That's why I'd strongly recommend using a password manager. It creates a different password for each site, and you only have to remember one. Sure, it takes a bit of time to set up, but it's worth it. And turn on two-step verification too. Even if somebody figures out your password, they still can't get in.","qs":[{"q":"What is the speaker's main point?","opts":["Why passwords should be short","How hackers build websites","How to remember many passwords by heart","Why a password manager and two-step verification improve security"],"ans":3,"why":"He recommends both tools to protect accounts."},{"q":"What does a password manager do?","opts":["It blocks hackers' emails","It shares passwords with banks","It creates a different password for each site","It removes the need for an email account"],"ans":2,"why":"It creates a different password for each site."},{"q":"What does 'figures out' mean in 'Even if somebody figures out your password'?","opts":["discovers","forgets","changes","sells"],"ans":0,"why":"To figure out something is to discover or understand it."}],"vocab":["password manager","two-step verification","figure out"]},
-{"id":"lis-09","lvl":"B1+","speed":"slow","accent":"gb","topic":"travel","kind":"conversation","script":"Receptionist: Good evening. How can I help you?\nGuest: Hi, I have a reservation under Ramos. Two nights.\nReceptionist: Let me check. I'm sorry, but I can only see a booking for one night.\nGuest: That's strange. I booked two nights online, and I have the confirmation email here.\nReceptionist: Oh, I see. The system made a mistake. Let me sort it out. Your room is ready, and I'll add the second night now.\nGuest: Thank you. Is breakfast included?\nReceptionist: Yes, from seven until ten.","qs":[{"q":"What is the problem at the start?","opts":["The reservation shows one night, not two","The room is dirty","The guest lost his key","Breakfast is not included"],"ans":0,"why":"The receptionist can only see one night."},{"q":"What does 'sort it out' mean?","opts":["clean the room","cancel the booking","fix the problem","change the price"],"ans":2,"why":"'Sort out' means to solve a problem."},{"q":"What does the guest use as proof of his booking?","opts":["A receipt","A confirmation email","A letter","A card statement"],"ans":1,"why":"He says he has the confirmation email."}],"vocab":["reservation","sort out","included"]},
-{"id":"lis-10","lvl":"B1+","speed":"normal","accent":"us","topic":"news","kind":"news","script":"A new survey of two thousand workers suggests that remote work is here to stay. Almost sixty percent of employees said they would look for a new job if their company forced them to return to the office full time. Managers, on the other hand, worry that teams lose creativity when people don't meet in person. As a result, many firms are trying a hybrid model, with three days at the office and two at home. Experts say the key is flexibility, since every team works differently.","qs":[{"q":"What is the report mainly about?","opts":["Many workers want remote work, and firms are trying hybrid models","Managers want everyone at home","Workers are leaving the country","Offices are closing for good"],"ans":0,"why":"The report covers worker preferences and the hybrid response."},{"q":"What percentage of employees would look for a new job?","opts":["Almost forty percent","Almost sixty percent","About twenty percent","More than eighty percent"],"ans":1,"why":"'Almost sixty percent' would look for a new job."},{"q":"What does 'on the other hand' introduce?","opts":["A conclusion","An example","A time reference","A contrasting view"],"ans":3,"why":"It introduces managers' opposite concern."}],"vocab":["remote work","hybrid model","flexibility"]},
-{"id":"lis-11","lvl":"B1+","speed":"fast","accent":"gb","topic":"relationships","kind":"voicemail","script":"Hey Ben, it's Chloe. Listen, I'm really sorry, but I'm gonna have to cancel tonight. My boss just asked me to stay late to sort out a problem with a client, and I can't get out of it. I feel awful because I know you've been looking forward to this. Look, how about we meet on Sunday instead? There's that new Thai place we've been meaning to try. I'll book a table for one o'clock if that works for you. Just text me back. Anyway, talk soon. Bye!","qs":[{"q":"Why is Chloe calling?","opts":["Ben is cancelling dinner","Chloe wants to quit her job","Chloe is cancelling tonight and suggesting Sunday","Chloe is inviting Ben to a party"],"ans":2,"why":"She cancels tonight's plan and proposes Sunday."},{"q":"Why can't Chloe come tonight?","opts":["She has to work late because of a client problem","She is ill","She has no money","She forgot"],"ans":0,"why":"Her boss asked her to stay late to sort out a client problem."},{"q":"What does 'I can't get out of it' mean?","opts":["I can't go outside","I can't avoid something I have to do","I can't feel sad about it","I can't finish it quickly"],"ans":1,"why":"It means she has no way to avoid the obligation."}],"vocab":["cancel","get out of","look forward to","meaning to"]},
-{"id":"lis-12","lvl":"B1+","speed":"normal","accent":"us","topic":"daily","kind":"announcement","script":"Good afternoon, shoppers. Welcome to Greenfield Market. Today only, all fresh fruit and vegetables are thirty percent off, except for organic products. If you're looking for fresh bread, our bakery has just taken a new batch out of the oven. Please remember that our parking lot will be closed from eight tonight because of maintenance work, so make sure to move your car before then. Finally, we're still collecting donations for the local food bank. Just drop them off at the front desk. Thank you for shopping with us.","qs":[{"q":"What is this announcement about?","opts":["Special offers and notices at a supermarket","A job offer","A fire alarm","A new bakery opening next year"],"ans":0,"why":"It lists a discount, fresh bread, parking and donations."},{"q":"How much are the non-organic fruit and vegetables discounted?","opts":["Twenty percent","Thirty percent","Forty percent","Fifty percent"],"ans":1,"why":"All fresh fruit and vegetables are thirty percent off, except organic."},{"q":"Why should shoppers move their cars before eight?","opts":["The store closes at eight","A concert is starting","The bakery needs the space","The parking lot will be closed"],"ans":3,"why":"The lot closes at eight for maintenance work."}],"vocab":["take out","drop off","donation","except for"]},
-{"id":"lis-13","lvl":"B2","speed":"normal","accent":"us","topic":"tech","kind":"conversation","script":"Anna: Did you see the alert this morning?\nMark: Yes. The database stopped responding around nine, and half the app went down with it.\nAnna: Do we know why?\nMark: At first we blamed a bad deployment, so we rolled it back. That didn't help. It turned out to be a network issue between two data centers.\nAnna: So the root cause wasn't our code. As long as the backups are fine, we haven't lost anything.\nMark: Well, the last full backup was Sunday, so I wouldn't say that just yet.","qs":[{"q":"What was the main problem?","opts":["A bad deployment crashed the app","A network issue stopped the database from responding","Someone deleted the backups","The provider changed its prices"],"ans":1,"why":"The database stopped responding because of a network issue."},{"q":"What does 'turned out' mean when Mark says 'It turned out to be a network issue'?","opts":["was meant to be","was expected to be","was found to be in the end","was fixed immediately"],"ans":2,"why":"'Turn out' means something is discovered to be true eventually."},{"q":"What does Mark imply about the backup?","opts":["Some recent data may have been lost","The backup was deleted on purpose","Backups are not necessary","The backup was made today"],"ans":0,"why":"The last full backup was Sunday, so newer data might be missing."}],"vocab":["root cause","roll back","turn out","as long as"]},
-{"id":"lis-14","lvl":"B2","speed":"fast","accent":"us","topic":"business","kind":"monologue","script":"When we started the company, we thought raising money would be the hard part. Turns out, it wasn't. What really caught us off guard was hiring. We'd get a fantastic candidate, and then they'd turn us down because a bigger firm offered them double. So we had to rethink our approach. Instead of competing on salary, we put the emphasis on ownership and learning. People could work on real projects from day one. It's not for everyone, but the folks who stayed are some of the most committed I've ever worked with.","qs":[{"q":"What was the hardest part for the company?","opts":["Raising money","Hiring good people","Finding customers","Paying taxes"],"ans":1,"why":"Hiring caught them off guard, not fundraising."},{"q":"What does 'turn us down' mean?","opts":["join us","thank us","reject our offer","interview us"],"ans":2,"why":"Candidates rejected the job offers."},{"q":"What does the speaker imply about the people who stayed?","opts":["They are very committed","They earn more than others","They left soon after","They prefer big firms"],"ans":0,"why":"He calls them some of the most committed people he has worked with."}],"vocab":["catch off guard","turn down","emphasis on","committed"]},
-{"id":"lis-15","lvl":"B2","speed":"normal","accent":"gb","topic":"news","kind":"news","script":"Thousands of passengers face disruption this weekend after pilots at a major European airline voted to go on strike. The union says the walkout, which is due to begin on Friday, is a response to stalled talks over pay and working hours. The airline insists it has made a fair offer and has urged the union to come back to the table. Meanwhile, travellers have been advised to check their flight status before heading to the airport. Analysts warn that if the dispute drags on, it could cost the company millions.","qs":[{"q":"What is the news mainly about?","opts":["Pilots plan a strike over pay and working hours","A new airline is launching","Airports will close for a week","Passengers won compensation"],"ans":0,"why":"Pilots voted to strike after stalled talks."},{"q":"When is the strike due to begin?","opts":["Thursday","Friday","Saturday","Sunday"],"ans":1,"why":"The walkout is due to begin on Friday."},{"q":"What does 'drags on' suggest about the dispute?","opts":["The talks end quickly","The airline wins easily","It continues for a long time","The union grows"],"ans":2,"why":"'Drag on' means to continue for too long."}],"vocab":["go on strike","walkout","stalled talks","drag on"]},
-{"id":"lis-16","lvl":"B2","speed":"normal","accent":"us","topic":"relationships","kind":"conversation","script":"Emma: Can we talk? I've been putting this off for weeks.\nDan: Sure. Is everything okay?\nEmma: Well, I've been offered a job in Seattle, and I'm seriously thinking about taking it.\nDan: Wow. I didn't see that coming. What about us?\nEmma: That's what's been keeping me up at night. I don't want to break up, but I can't turn this down either.\nDan: Look, I'm not going to pretend I'm thrilled. But I'd never ask you to give up something you've worked so hard for.\nEmma: Thank you. Maybe we could try long-distance for a year and see how it goes.","qs":[{"q":"What is the main topic of the conversation?","opts":["Emma has a job offer in another city","Emma is breaking up with Dan","Dan is moving to Seattle","Emma lost her job"],"ans":0,"why":"Emma has been offered a job in Seattle."},{"q":"What does Dan mean by 'I didn't see that coming'?","opts":["I expected it","I was surprised","I was angry at once","I didn't care"],"ans":1,"why":"The phrase means the news was unexpected."},{"q":"How does Dan feel?","opts":["Completely thrilled","Indifferent","Supportive although unhappy","Angry and ready to end it"],"ans":2,"why":"He's not thrilled but says he'd never ask her to give up the job."}],"vocab":["put off","see it coming","turn down","give up"]},
-{"id":"lis-17","lvl":"B2","speed":"slow","accent":"gb","topic":"daily","kind":"voicemail","script":"Hello, this is a message for Mr Patel from Swift Couriers. We tried to deliver your parcel this morning, but unfortunately nobody was home. We'll attempt delivery again tomorrow between two and six in the afternoon. If you can't be there, you can either arrange for a neighbour to sign for it or collect it from our depot on Hill Road until Friday. After that, the parcel will be sent back to the sender. To reschedule, please call us on the number on your delivery card, quoting reference seven-four-one-nine.","qs":[{"q":"What is the main purpose of the message?","opts":["To say a parcel was lost","To explain a failed delivery and the options available","To say the driver is on strike","To report a damaged parcel"],"ans":1,"why":"The delivery failed, and Mr Patel is given options."},{"q":"Until when can Mr Patel collect the parcel from the depot?","opts":["Tuesday","Wednesday","Thursday","Friday"],"ans":3,"why":"He can collect it until Friday; after that it goes back."},{"q":"What does 'sign for it' mean?","opts":["pay for it","send it back","write a name to confirm receipt","look at the label"],"ans":2,"why":"A neighbour can confirm receipt with a signature."}],"vocab":["sign for","depot","reschedule","quote a reference"]},
-{"id":"lis-18","lvl":"B2","speed":"fast","accent":"us","topic":"tech","kind":"monologue","script":"I've been using AI assistants at work for about a year now, and honestly, my opinion keeps changing. At first I was blown away. It could draft emails, summarize reports, even write code in seconds. But then I noticed I was relying on it too much, and I'd stopped double-checking its answers. That came back to bite me when a made-up statistic ended up in a client presentation. These days I treat it like a smart intern: great for a first draft, but nothing leaves my desk until I've gone over it myself.","qs":[{"q":"How does the speaker describe his experience?","opts":["He stopped using AI","His view became more careful over time","He wants to build AI tools","AI replaced his job"],"ans":1,"why":"His opinion changed from amazement to careful use."},{"q":"What does 'came back to bite me' mean?","opts":["was a lucky surprise","made me famous","was a funny joke","caused a problem later"],"ans":3,"why":"His lack of checking later caused trouble."},{"q":"What does 'a smart intern' suggest about how he treats AI output?","opts":["He checks it before using it","He trusts it fully","He ignores it","He sends it straight to clients"],"ans":0,"why":"Nothing leaves his desk until he has reviewed it."}],"vocab":["blown away","rely on","come back to bite","go over"]},
-{"id":"lis-19","lvl":"B2+","speed":"fast","accent":"gb","topic":"business","kind":"conversation","script":"Helen: I appreciate you meeting us at such short notice.\nOmar: Not at all. I'll be upfront, though. The figures you sent over are well above our budget.\nHelen: I understand. That said, the price reflects the level of support we provide, which is round the clock.\nOmar: Right, but we barely need that. Could you come down on the price if we dropped it to office hours only?\nHelen: I'd have to run that by my director, but I don't see why not. Realistically, we could knock around fifteen percent off.\nOmar: That would make it easier to sell internally. Let's put something in writing by Friday.","qs":[{"q":"What are Helen and Omar discussing?","opts":["The price of a support contract","A holiday plan","A job interview","An argument about a bill"],"ans":0,"why":"They negotiate the price of round-the-clock support."},{"q":"What does 'run that by my director' mean?","opts":["ignore her director's opinion","check it with her director first","tell her director afterwards","cancel her director's meeting"],"ans":1,"why":"She needs her director's approval before agreeing."},{"q":"What does 'I don't see why not' imply?","opts":["She refuses firmly","She will probably agree","She wants to cancel the meeting","She dislikes the idea"],"ans":1,"why":"It signals she expects the director to accept."}],"vocab":["upfront","come down on the price","run it by","knock off"]},
-{"id":"lis-20","lvl":"B2+","speed":"normal","accent":"us","topic":"news","kind":"news","script":"Housing costs continue to outpace wages in most major cities, according to a report released on Tuesday. Researchers found that the average renter now spends nearly forty percent of their income on housing, which is well above the level economists consider sustainable. The report attributes the trend largely to a shortage of new construction, compounded by rising interest rates. Some officials are pushing to relax zoning laws so that developers can build more apartments. Critics, however, caution that without stronger tenant protections, such measures may do little to ease the burden on lower-income families.","qs":[{"q":"What is the report's main finding?","opts":["Rents have dropped in most cities","Housing costs are rising faster than wages","Wages have doubled","Interest rates have fallen"],"ans":1,"why":"'Outpace' means housing costs are growing faster than wages."},{"q":"What share of income does the average renter spend on housing?","opts":["About twenty percent","About thirty percent","Nearly forty percent","Over half"],"ans":2,"why":"The report says nearly forty percent."},{"q":"What do the critics imply?","opts":["Easing zoning alone may not help poorer families enough","Zoning laws should be stricter","Tenants already have strong protections","Developers should build fewer apartments"],"ans":0,"why":"They say relaxed zoning may do little without tenant protections."}],"vocab":["outpace","attribute to","compounded by","ease the burden"]},
-{"id":"lis-21","lvl":"B2+","speed":"slow","accent":"gb","topic":"travel","kind":"monologue","script":"People often ask me how I manage to see so many countries on a budget. The truth is, I don't try to see everything. I used to rush from city to city, ticking off sights, and I came home exhausted. Now I stay in one place for at least a week. That way, I get to know the neighbourhood, find the cheap local restaurants and even pick up a little of the language. Admittedly, I miss out on some famous attractions, but I'd rather understand one place properly than glance at ten.","qs":[{"q":"How has the speaker's way of travelling changed?","opts":["He visits ten cities a week","He stopped travelling","He only travels for work","He now stays longer in each place"],"ans":3,"why":"He now stays at least a week in one place."},{"q":"What is the minimum time he stays in one place?","opts":["Three days","A week","Two weeks","A month"],"ans":1,"why":"He says he stays for at least a week."},{"q":"What does 'miss out on' suggest?","opts":["He enjoys all the attractions","He doesn't get to experience some attractions","He skips cheap restaurants","He always has spare time"],"ans":1,"why":"'Miss out on' means lose the chance to experience something."}],"vocab":["on a budget","tick off","pick up","miss out on"]},
-{"id":"lis-22","lvl":"B2+","speed":"fast","accent":"us","topic":"relationships","kind":"voicemail","script":"Hey Priya, it's Marcus. I've been meaning to call you ever since the other night, because I think I owe you an apology. I shouldn't have brought up your job situation in front of everyone. I was trying to be helpful, but looking back, it came across as patronizing. You'd have every right to be annoyed. Anyway, I'd love to make it up to you. Dinner's on me if you're up for it. And if you'd rather not talk for a while, I totally get it. Just know I'm sorry.","qs":[{"q":"Why is Marcus calling?","opts":["He wants Priya's job","He is apologizing for something he said","Priya is apologizing to him","He is cancelling dinner"],"ans":1,"why":"He apologizes for mentioning her job situation in public."},{"q":"What does 'came across as' mean?","opts":["arrived suddenly","met by chance","seemed to other people","was forced to"],"ans":2,"why":"'Come across as' means to give a certain impression."},{"q":"What does Marcus offer to do?","opts":["Pay for dinner","Help her find a new job","Call her every day","Move to another city"],"ans":0,"why":"'Dinner's on me' means he will pay."}],"vocab":["owe someone an apology","come across as","make it up to","up for it"]},
-{"id":"lis-23","lvl":"B2+","speed":"normal","accent":"gb","topic":"tech","kind":"conversation","script":"Priya: I've gone through the migration proposal, and frankly, I'm not convinced.\nTom: Which part concerns you?\nPriya: The timeline. Moving everything to the cloud in six weeks seems wildly optimistic, especially with half the team on leave in August.\nTom: Fair point. We could phase it, starting with the non-critical services, and leave the payment system until last.\nPriya: That would reduce the risk considerably. But I'd want a rollback plan for every phase, not just a vague promise.\nTom: Understood. I'll revise the proposal and circulate it before Thursday's review.","qs":[{"q":"What is Priya's main concern?","opts":["The proposal is too expensive","The team is too large","She wants to hire more people","The timeline is unrealistic"],"ans":3,"why":"She thinks six weeks is wildly optimistic."},{"q":"What does Tom suggest?","opts":["Moving everything at once","Migrating in phases, with the payment system last","Skipping the review","Delaying until August"],"ans":1,"why":"He proposes a phased approach, payment system last."},{"q":"What does 'not just a vague promise' imply Priya wants?","opts":["A bigger budget","A shorter timeline","A concrete rollback plan for each phase","More days off"],"ans":2,"why":"She wants a specific, documented plan, not a general assurance."}],"vocab":["migration","rollback plan","phase","circulate"]},
-{"id":"lis-24","lvl":"B2+","speed":"normal","accent":"us","topic":"travel","kind":"announcement","script":"Attention, passengers on the Northeast Regional to Boston. Due to a signal failure near New Haven, all services on this line are suspended until further notice. Engineers are working to fix the problem, but we cannot yet say when trains will resume. Replacement buses are waiting outside the main entrance and will take you to Providence, where you can continue by rail. Should you prefer to wait, please keep an eye on the display boards. Tickets will remain valid for travel tomorrow. We apologize for the inconvenience.","qs":[{"q":"What is the announcement mainly about?","opts":["The train will be five minutes late","Trains are suspended because of a signal failure","The station will close for the year","Ticket prices are rising"],"ans":1,"why":"All services are suspended due to a signal failure."},{"q":"Where will the replacement buses take passengers?","opts":["New Haven","Boston","Providence","New York"],"ans":2,"why":"Buses go to Providence, where passengers continue by rail."},{"q":"What does 'keep an eye on' mean?","opts":["ignore","pay for","close","watch regularly"],"ans":3,"why":"It means to watch something carefully for updates."}],"vocab":["suspended","until further notice","resume","keep an eye on"]}
+  {
+    "id": "lis-01",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "daily",
+    "kind": "conversation",
+    "script": "Anna: Hi, Tom. You look tired.\nTom: Yeah. My neighbors had a party last night, and I couldn't sleep.\nAnna: That's terrible. Did you talk to them?\nTom: Not yet. I'm going to knock on their door tonight, but I don't want to sound angry.\nAnna: Maybe you could take them some cookies. People are usually friendlier when you're nice.\nTom: That's actually a good idea. However, if the noise continues, I'll call the building manager.\nAnna: Good plan. Let me know how it goes.",
+    "qs": [
+      {
+        "q": "What is Tom's problem?",
+        "opts": [
+          "His neighbors were too noisy at night",
+          "He lost his keys",
+          "He argued with the building manager",
+          "He had a party and cleaned up late"
+        ],
+        "ans": 0,
+        "why": "He says the neighbors had a party and he couldn't sleep."
+      },
+      {
+        "q": "What will Tom do tonight?",
+        "opts": [
+          "Call the building manager",
+          "Knock on his neighbors' door",
+          "Bake cookies for a party",
+          "Move to another building"
+        ],
+        "ans": 1,
+        "why": "He says he is going to knock on their door tonight. Calling the manager is only a backup plan."
+      },
+      {
+        "q": "What does Anna imply with 'People are usually friendlier when you're nice'?",
+        "opts": [
+          "Neighbors never listen to complaints",
+          "Tom should call the manager first",
+          "A kind approach may work better than anger",
+          "Cookies are cheap"
+        ],
+        "ans": 2,
+        "why": "She suggests being nice is more effective than sounding angry."
+      }
+    ],
+    "vocab": [
+      "knock on the door",
+      "building manager",
+      "let me know"
+    ]
+  },
+  {
+    "id": "lis-02",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "gb",
+    "topic": "travel",
+    "kind": "announcement",
+    "script": "Attention, please, passengers travelling to Edinburgh on flight BA 214. Due to a technical problem, the departure gate has changed from gate twelve to gate twenty-five. The flight will now leave at ten forty instead of ten fifteen. Please make your way to the new gate as soon as possible. Passengers who need help can ask any member of staff. Boarding will begin in thirty minutes. We apologise for the delay and thank you for your patience.",
+    "qs": [
+      {
+        "q": "What is the announcement mainly about?",
+        "opts": [
+          "A change of gate and departure time",
+          "A cancelled flight",
+          "A lost bag",
+          "A new boarding rule"
+        ],
+        "ans": 0,
+        "why": "The gate and the departure time have both changed."
+      },
+      {
+        "q": "What time will the flight now leave?",
+        "opts": [
+          "10:15",
+          "10:25",
+          "10:40",
+          "11:00"
+        ],
+        "ans": 2,
+        "why": "It will leave at ten forty instead of ten fifteen."
+      },
+      {
+        "q": "What does 'make your way to' mean?",
+        "opts": [
+          "build",
+          "go to",
+          "pay for",
+          "look for"
+        ],
+        "ans": 1,
+        "why": "'Make your way to' means to go to a place."
+      }
+    ],
+    "vocab": [
+      "departure gate",
+      "boarding",
+      "due to"
+    ]
+  },
+  {
+    "id": "lis-03",
+    "lvl": "B1",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "business",
+    "kind": "voicemail",
+    "script": "Hi Sara, it's Dave from the IT team. I'm calling about your laptop. We tried to fix the problem remotely, but it didn't work, so I'm afraid you'll have to bring it to the help desk. It's on the second floor, next to the cafeteria. We're open from nine to five, but don't come at lunchtime because it gets really busy. Also, please back up your files before you come. Otherwise, you might lose some of them. Call me back if you have any questions. Thanks.",
+    "qs": [
+      {
+        "q": "Why is Dave calling?",
+        "opts": [
+          "To say Sara's laptop was repaired remotely",
+          "To ask Sara to bring her laptop to the help desk",
+          "To borrow Sara's laptop",
+          "To tell her the help desk is closing"
+        ],
+        "ans": 1,
+        "why": "The remote fix failed, so she must bring the laptop in."
+      },
+      {
+        "q": "When should Sara avoid going to the help desk?",
+        "opts": [
+          "Before nine",
+          "After four",
+          "At lunchtime",
+          "On the second floor"
+        ],
+        "ans": 2,
+        "why": "Dave says it gets really busy at lunchtime."
+      },
+      {
+        "q": "What will happen if Sara doesn't back up her files?",
+        "opts": [
+          "She might lose some of them",
+          "The laptop will be replaced",
+          "Dave will call her again",
+          "The help desk will close"
+        ],
+        "ans": 0,
+        "why": "'Otherwise, you might lose some of them.'"
+      }
+    ],
+    "vocab": [
+      "help desk",
+      "back up",
+      "remotely"
+    ]
+  },
+  {
+    "id": "lis-04",
+    "lvl": "B1",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "daily",
+    "kind": "monologue",
+    "script": "I used to hate mornings, but things have changed since I started running. I get up at six, put on my trainers and run for thirty minutes before work. At first, it was hard, so I gave up after three days. Then my sister joined me, and we kept each other going. Now I feel more energetic, and I even enjoy breakfast! The only problem is the winter. When it's dark and cold, it's tempting to stay in bed.",
+    "qs": [
+      {
+        "q": "What is the speaker mainly talking about?",
+        "opts": [
+          "Why she dislikes winter",
+          "A sister who runs marathons",
+          "How to cook a better breakfast",
+          "How running changed her mornings"
+        ],
+        "ans": 3,
+        "why": "She describes how her mornings improved after she started running."
+      },
+      {
+        "q": "What helped the speaker keep running?",
+        "opts": [
+          "A fitness app",
+          "Her sister joined her",
+          "Warmer weather",
+          "A new job"
+        ],
+        "ans": 1,
+        "why": "Her sister joined her, and they kept each other going."
+      },
+      {
+        "q": "What does the speaker imply about winter?",
+        "opts": [
+          "She runs more in winter",
+          "She will stop eating breakfast",
+          "It is the hardest season to keep the habit",
+          "Dark mornings are exciting for her"
+        ],
+        "ans": 2,
+        "why": "Dark, cold mornings make her tempted to stay in bed."
+      }
+    ],
+    "vocab": [
+      "give up",
+      "keep each other going",
+      "energetic"
+    ]
+  },
+  {
+    "id": "lis-05",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "relationships",
+    "kind": "conversation",
+    "script": "Lisa: Are you free on Saturday? It's Maria's birthday, and I'm planning a surprise.\nJake: Sure! What's the plan?\nLisa: We're meeting at my place at six. Her husband will bring her at seven, so we have to be quiet.\nJake: Should I bring a gift?\nLisa: You don't have to, but a small card would be nice. Oh, and don't mention it to Maria. She finds out about everything.\nJake: Don't worry. My lips are sealed.",
+    "qs": [
+      {
+        "q": "What is Lisa organizing?",
+        "opts": [
+          "A surprise birthday party",
+          "A farewell dinner",
+          "A wedding",
+          "A work meeting"
+        ],
+        "ans": 0,
+        "why": "It's Maria's birthday and Lisa is planning a surprise."
+      },
+      {
+        "q": "What does Jake mean by 'My lips are sealed'?",
+        "opts": [
+          "I'm too tired to talk",
+          "I will keep the secret",
+          "I disagree with you",
+          "I forgot the plan"
+        ],
+        "ans": 1,
+        "why": "It is an idiom meaning he won't tell anyone."
+      },
+      {
+        "q": "What does Lisa imply about Maria?",
+        "opts": [
+          "She is rarely late",
+          "She dislikes birthdays",
+          "She hates gifts",
+          "She often discovers secrets"
+        ],
+        "ans": 3,
+        "why": "'She finds out about everything' suggests she usually discovers secrets."
+      }
+    ],
+    "vocab": [
+      "find out",
+      "surprise",
+      "my lips are sealed"
+    ]
+  },
+  {
+    "id": "lis-06",
+    "lvl": "B1",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "news",
+    "kind": "news",
+    "script": "The city council has approved a plan to build twenty-five miles of new bike lanes over the next two years. The mayor said the project will cost around twelve million dollars, and most of the money will come from the national government. Supporters say the lanes will reduce traffic and pollution. However, some shop owners are worried because they might lose parking spaces in front of their stores. The first lanes will open next spring, as long as the weather allows construction to start on time.",
+    "qs": [
+      {
+        "q": "What is the news mainly about?",
+        "opts": [
+          "The council approved a plan for new bike lanes",
+          "The mayor resigned",
+          "Shops are closing downtown",
+          "A bike race will be held"
+        ],
+        "ans": 0,
+        "why": "The first sentence gives the main news."
+      },
+      {
+        "q": "Where will most of the money come from?",
+        "opts": [
+          "Shop owners",
+          "The national government",
+          "Local taxes",
+          "Bike companies"
+        ],
+        "ans": 1,
+        "why": "'Most of the money will come from the national government.'"
+      },
+      {
+        "q": "What does 'as long as the weather allows' suggest about the opening date?",
+        "opts": [
+          "It is guaranteed",
+          "It will be earlier",
+          "It could be delayed",
+          "It depends on shop owners"
+        ],
+        "ans": 2,
+        "why": "'As long as' sets a condition, so bad weather could cause a delay."
+      }
+    ],
+    "vocab": [
+      "city council",
+      "approve",
+      "construction"
+    ]
+  },
+  {
+    "id": "lis-07",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "business",
+    "kind": "conversation",
+    "script": "Karen: I've just heard the client wants the report by Thursday instead of Friday.\nPaul: Thursday? That's impossible. We still have to finish the charts.\nKaren: I know. But if we split the work, we might pull it off. I'll handle the summary if you take care of the data.\nPaul: Fine, although I'll probably have to stay late tonight.\nKaren: Let's go through the numbers together first thing tomorrow, so there are no surprises.\nPaul: Agreed. Otherwise we'll end up redoing everything.",
+    "qs": [
+      {
+        "q": "What is the problem?",
+        "opts": [
+          "The client moved the deadline earlier",
+          "The client cancelled the project",
+          "The charts contain errors",
+          "Paul is on holiday"
+        ],
+        "ans": 0,
+        "why": "The client wants the report Thursday instead of Friday."
+      },
+      {
+        "q": "What does 'pull it off' mean?",
+        "opts": [
+          "complain about it",
+          "succeed in doing something difficult",
+          "delay it",
+          "cancel it"
+        ],
+        "ans": 1,
+        "why": "To pull something off is to succeed despite difficulty."
+      },
+      {
+        "q": "What does Paul imply with 'Otherwise we'll end up redoing everything'?",
+        "opts": [
+          "The client will pay extra",
+          "The numbers are already wrong",
+          "Checking the numbers early avoids mistakes later",
+          "He wants to skip tomorrow's meeting"
+        ],
+        "ans": 2,
+        "why": "Without an early check, errors could force them to start over."
+      }
+    ],
+    "vocab": [
+      "pull it off",
+      "go through",
+      "take care of"
+    ]
+  },
+  {
+    "id": "lis-08",
+    "lvl": "B1+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "tech",
+    "kind": "monologue",
+    "script": "So, here's the thing about passwords. Most people reuse the same one everywhere, and that's a huge risk. If one website gets hacked, criminals can try it on your email, your bank, everything. That's why I'd strongly recommend using a password manager. It creates a different password for each site, and you only have to remember one. Sure, it takes a bit of time to set up, but it's worth it. And turn on two-step verification too. Even if somebody figures out your password, they still can't get in.",
+    "qs": [
+      {
+        "q": "What is the speaker's main point?",
+        "opts": [
+          "Why passwords should be short",
+          "How hackers build websites",
+          "How to remember many passwords by heart",
+          "Why a password manager and two-step verification improve security"
+        ],
+        "ans": 3,
+        "why": "He recommends both tools to protect accounts."
+      },
+      {
+        "q": "What does a password manager do?",
+        "opts": [
+          "It blocks hackers' emails",
+          "It shares passwords with banks",
+          "It creates a different password for each site",
+          "It removes the need for an email account"
+        ],
+        "ans": 2,
+        "why": "It creates a different password for each site."
+      },
+      {
+        "q": "What does 'figures out' mean in 'Even if somebody figures out your password'?",
+        "opts": [
+          "discovers",
+          "forgets",
+          "changes",
+          "sells"
+        ],
+        "ans": 0,
+        "why": "To figure out something is to discover or understand it."
+      }
+    ],
+    "vocab": [
+      "password manager",
+      "two-step verification",
+      "figure out"
+    ]
+  },
+  {
+    "id": "lis-09",
+    "lvl": "B1+",
+    "speed": "slow",
+    "accent": "gb",
+    "topic": "travel",
+    "kind": "conversation",
+    "script": "Receptionist: Good evening. How can I help you?\nGuest: Hi, I have a reservation under Ramos. Two nights.\nReceptionist: Let me check. I'm sorry, but I can only see a booking for one night.\nGuest: That's strange. I booked two nights online, and I have the confirmation email here.\nReceptionist: Oh, I see. The system made a mistake. Let me sort it out. Your room is ready, and I'll add the second night now.\nGuest: Thank you. Is breakfast included?\nReceptionist: Yes, from seven until ten.",
+    "qs": [
+      {
+        "q": "What is the problem at the start?",
+        "opts": [
+          "The reservation shows one night, not two",
+          "The room is dirty",
+          "The guest lost his key",
+          "Breakfast is not included"
+        ],
+        "ans": 0,
+        "why": "The receptionist can only see one night."
+      },
+      {
+        "q": "What does 'sort it out' mean?",
+        "opts": [
+          "clean the room",
+          "cancel the booking",
+          "fix the problem",
+          "change the price"
+        ],
+        "ans": 2,
+        "why": "'Sort out' means to solve a problem."
+      },
+      {
+        "q": "What does the guest use as proof of his booking?",
+        "opts": [
+          "A receipt",
+          "A confirmation email",
+          "A letter",
+          "A card statement"
+        ],
+        "ans": 1,
+        "why": "He says he has the confirmation email."
+      }
+    ],
+    "vocab": [
+      "reservation",
+      "sort out",
+      "included"
+    ]
+  },
+  {
+    "id": "lis-10",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "news",
+    "kind": "news",
+    "script": "A new survey of two thousand workers suggests that remote work is here to stay. Almost sixty percent of employees said they would look for a new job if their company forced them to return to the office full time. Managers, on the other hand, worry that teams lose creativity when people don't meet in person. As a result, many firms are trying a hybrid model, with three days at the office and two at home. Experts say the key is flexibility, since every team works differently.",
+    "qs": [
+      {
+        "q": "What is the report mainly about?",
+        "opts": [
+          "Many workers want remote work, and firms are trying hybrid models",
+          "Managers want everyone at home",
+          "Workers are leaving the country",
+          "Offices are closing for good"
+        ],
+        "ans": 0,
+        "why": "The report covers worker preferences and the hybrid response."
+      },
+      {
+        "q": "What percentage of employees would look for a new job?",
+        "opts": [
+          "Almost forty percent",
+          "Almost sixty percent",
+          "About twenty percent",
+          "More than eighty percent"
+        ],
+        "ans": 1,
+        "why": "'Almost sixty percent' would look for a new job."
+      },
+      {
+        "q": "What does 'on the other hand' introduce?",
+        "opts": [
+          "A conclusion",
+          "An example",
+          "A time reference",
+          "A contrasting view"
+        ],
+        "ans": 3,
+        "why": "It introduces managers' opposite concern."
+      }
+    ],
+    "vocab": [
+      "remote work",
+      "hybrid model",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "lis-11",
+    "lvl": "B1+",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "relationships",
+    "kind": "voicemail",
+    "script": "Hey Ben, it's Chloe. Listen, I'm really sorry, but I'm gonna have to cancel tonight. My boss just asked me to stay late to sort out a problem with a client, and I can't get out of it. I feel awful because I know you've been looking forward to this. Look, how about we meet on Sunday instead? There's that new Thai place we've been meaning to try. I'll book a table for one o'clock if that works for you. Just text me back. Anyway, talk soon. Bye!",
+    "qs": [
+      {
+        "q": "Why is Chloe calling?",
+        "opts": [
+          "Ben is cancelling dinner",
+          "Chloe wants to quit her job",
+          "Chloe is cancelling tonight and suggesting Sunday",
+          "Chloe is inviting Ben to a party"
+        ],
+        "ans": 2,
+        "why": "She cancels tonight's plan and proposes Sunday."
+      },
+      {
+        "q": "Why can't Chloe come tonight?",
+        "opts": [
+          "She has to work late because of a client problem",
+          "She is ill",
+          "She has no money",
+          "She forgot"
+        ],
+        "ans": 0,
+        "why": "Her boss asked her to stay late to sort out a client problem."
+      },
+      {
+        "q": "What does 'I can't get out of it' mean?",
+        "opts": [
+          "I can't go outside",
+          "I can't avoid something I have to do",
+          "I can't feel sad about it",
+          "I can't finish it quickly"
+        ],
+        "ans": 1,
+        "why": "It means she has no way to avoid the obligation."
+      }
+    ],
+    "vocab": [
+      "cancel",
+      "get out of",
+      "look forward to",
+      "meaning to"
+    ]
+  },
+  {
+    "id": "lis-12",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "daily",
+    "kind": "announcement",
+    "script": "Good afternoon, shoppers. Welcome to Greenfield Market. Today only, all fresh fruit and vegetables are thirty percent off, except for organic products. If you're looking for fresh bread, our bakery has just taken a new batch out of the oven. Please remember that our parking lot will be closed from eight tonight because of maintenance work, so make sure to move your car before then. Finally, we're still collecting donations for the local food bank. Just drop them off at the front desk. Thank you for shopping with us.",
+    "qs": [
+      {
+        "q": "What is this announcement about?",
+        "opts": [
+          "Special offers and notices at a supermarket",
+          "A job offer",
+          "A fire alarm",
+          "A new bakery opening next year"
+        ],
+        "ans": 0,
+        "why": "It lists a discount, fresh bread, parking and donations."
+      },
+      {
+        "q": "How much are the non-organic fruit and vegetables discounted?",
+        "opts": [
+          "Twenty percent",
+          "Thirty percent",
+          "Forty percent",
+          "Fifty percent"
+        ],
+        "ans": 1,
+        "why": "All fresh fruit and vegetables are thirty percent off, except organic."
+      },
+      {
+        "q": "Why should shoppers move their cars before eight?",
+        "opts": [
+          "The store closes at eight",
+          "A concert is starting",
+          "The bakery needs the space",
+          "The parking lot will be closed"
+        ],
+        "ans": 3,
+        "why": "The lot closes at eight for maintenance work."
+      }
+    ],
+    "vocab": [
+      "take out",
+      "drop off",
+      "donation",
+      "except for"
+    ]
+  },
+  {
+    "id": "lis-13",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "tech",
+    "kind": "conversation",
+    "script": "Anna: Did you see the alert this morning?\nMark: Yes. The database stopped responding around nine, and half the app went down with it.\nAnna: Do we know why?\nMark: At first we blamed a bad deployment, so we rolled it back. That didn't help. It turned out to be a network issue between two data centers.\nAnna: So the root cause wasn't our code. As long as the backups are fine, we haven't lost anything.\nMark: Well, the last full backup was Sunday, so I wouldn't say that just yet.",
+    "qs": [
+      {
+        "q": "What was the main problem?",
+        "opts": [
+          "A bad deployment crashed the app",
+          "A network issue stopped the database from responding",
+          "Someone deleted the backups",
+          "The provider changed its prices"
+        ],
+        "ans": 1,
+        "why": "The database stopped responding because of a network issue."
+      },
+      {
+        "q": "What does 'turned out' mean when Mark says 'It turned out to be a network issue'?",
+        "opts": [
+          "was meant to be",
+          "was expected to be",
+          "was found to be in the end",
+          "was fixed immediately"
+        ],
+        "ans": 2,
+        "why": "'Turn out' means something is discovered to be true eventually."
+      },
+      {
+        "q": "What does Mark imply about the backup?",
+        "opts": [
+          "Some recent data may have been lost",
+          "The backup was deleted on purpose",
+          "Backups are not necessary",
+          "The backup was made today"
+        ],
+        "ans": 0,
+        "why": "The last full backup was Sunday, so newer data might be missing."
+      }
+    ],
+    "vocab": [
+      "root cause",
+      "roll back",
+      "turn out",
+      "as long as"
+    ]
+  },
+  {
+    "id": "lis-14",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "business",
+    "kind": "monologue",
+    "script": "When we started the company, we thought raising money would be the hard part. Turns out, it wasn't. What really caught us off guard was hiring. We'd get a fantastic candidate, and then they'd turn us down because a bigger firm offered them double. So we had to rethink our approach. Instead of competing on salary, we put the emphasis on ownership and learning. People could work on real projects from day one. It's not for everyone, but the folks who stayed are some of the most committed I've ever worked with.",
+    "qs": [
+      {
+        "q": "What was the hardest part for the company?",
+        "opts": [
+          "Raising money",
+          "Hiring good people",
+          "Finding customers",
+          "Paying taxes"
+        ],
+        "ans": 1,
+        "why": "Hiring caught them off guard, not fundraising."
+      },
+      {
+        "q": "What does 'turn us down' mean?",
+        "opts": [
+          "join us",
+          "thank us",
+          "reject our offer",
+          "interview us"
+        ],
+        "ans": 2,
+        "why": "Candidates rejected the job offers."
+      },
+      {
+        "q": "What does the speaker imply about the people who stayed?",
+        "opts": [
+          "They are very committed",
+          "They earn more than others",
+          "They left soon after",
+          "They prefer big firms"
+        ],
+        "ans": 0,
+        "why": "He calls them some of the most committed people he has worked with."
+      }
+    ],
+    "vocab": [
+      "catch off guard",
+      "turn down",
+      "emphasis on",
+      "committed"
+    ]
+  },
+  {
+    "id": "lis-15",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "news",
+    "kind": "news",
+    "script": "Thousands of passengers face disruption this weekend after pilots at a major European airline voted to go on strike. The union says the walkout, which is due to begin on Friday, is a response to stalled talks over pay and working hours. The airline insists it has made a fair offer and has urged the union to come back to the table. Meanwhile, travellers have been advised to check their flight status before heading to the airport. Analysts warn that if the dispute drags on, it could cost the company millions.",
+    "qs": [
+      {
+        "q": "What is the news mainly about?",
+        "opts": [
+          "Pilots plan a strike over pay and working hours",
+          "A new airline is launching",
+          "Airports will close for a week",
+          "Passengers won compensation"
+        ],
+        "ans": 0,
+        "why": "Pilots voted to strike after stalled talks."
+      },
+      {
+        "q": "When is the strike due to begin?",
+        "opts": [
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "ans": 1,
+        "why": "The walkout is due to begin on Friday."
+      },
+      {
+        "q": "What does 'drags on' suggest about the dispute?",
+        "opts": [
+          "The talks end quickly",
+          "The airline wins easily",
+          "It continues for a long time",
+          "The union grows"
+        ],
+        "ans": 2,
+        "why": "'Drag on' means to continue for too long."
+      }
+    ],
+    "vocab": [
+      "go on strike",
+      "walkout",
+      "stalled talks",
+      "drag on"
+    ]
+  },
+  {
+    "id": "lis-16",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "relationships",
+    "kind": "conversation",
+    "script": "Emma: Can we talk? I've been putting this off for weeks.\nDan: Sure. Is everything okay?\nEmma: Well, I've been offered a job in Seattle, and I'm seriously thinking about taking it.\nDan: Wow. I didn't see that coming. What about us?\nEmma: That's what's been keeping me up at night. I don't want to break up, but I can't turn this down either.\nDan: Look, I'm not going to pretend I'm thrilled. But I'd never ask you to give up something you've worked so hard for.\nEmma: Thank you. Maybe we could try long-distance for a year and see how it goes.",
+    "qs": [
+      {
+        "q": "What is the main topic of the conversation?",
+        "opts": [
+          "Emma has a job offer in another city",
+          "Emma is breaking up with Dan",
+          "Dan is moving to Seattle",
+          "Emma lost her job"
+        ],
+        "ans": 0,
+        "why": "Emma has been offered a job in Seattle."
+      },
+      {
+        "q": "What does Dan mean by 'I didn't see that coming'?",
+        "opts": [
+          "I expected it",
+          "I was surprised",
+          "I was angry at once",
+          "I didn't care"
+        ],
+        "ans": 1,
+        "why": "The phrase means the news was unexpected."
+      },
+      {
+        "q": "How does Dan feel?",
+        "opts": [
+          "Completely thrilled",
+          "Indifferent",
+          "Supportive although unhappy",
+          "Angry and ready to end it"
+        ],
+        "ans": 2,
+        "why": "He's not thrilled but says he'd never ask her to give up the job."
+      }
+    ],
+    "vocab": [
+      "put off",
+      "see it coming",
+      "turn down",
+      "give up"
+    ]
+  },
+  {
+    "id": "lis-17",
+    "lvl": "B2",
+    "speed": "slow",
+    "accent": "gb",
+    "topic": "daily",
+    "kind": "voicemail",
+    "script": "Hello, this is a message for Mr Patel from Swift Couriers. We tried to deliver your parcel this morning, but unfortunately nobody was home. We'll attempt delivery again tomorrow between two and six in the afternoon. If you can't be there, you can either arrange for a neighbour to sign for it or collect it from our depot on Hill Road until Friday. After that, the parcel will be sent back to the sender. To reschedule, please call us on the number on your delivery card, quoting reference seven-four-one-nine.",
+    "qs": [
+      {
+        "q": "What is the main purpose of the message?",
+        "opts": [
+          "To say a parcel was lost",
+          "To explain a failed delivery and the options available",
+          "To say the driver is on strike",
+          "To report a damaged parcel"
+        ],
+        "ans": 1,
+        "why": "The delivery failed, and Mr Patel is given options."
+      },
+      {
+        "q": "Until when can Mr Patel collect the parcel from the depot?",
+        "opts": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "ans": 3,
+        "why": "He can collect it until Friday; after that it goes back."
+      },
+      {
+        "q": "What does 'sign for it' mean?",
+        "opts": [
+          "pay for it",
+          "send it back",
+          "write a name to confirm receipt",
+          "look at the label"
+        ],
+        "ans": 2,
+        "why": "A neighbour can confirm receipt with a signature."
+      }
+    ],
+    "vocab": [
+      "sign for",
+      "depot",
+      "reschedule",
+      "quote a reference"
+    ]
+  },
+  {
+    "id": "lis-18",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "tech",
+    "kind": "monologue",
+    "script": "I've been using AI assistants at work for about a year now, and honestly, my opinion keeps changing. At first I was blown away. It could draft emails, summarize reports, even write code in seconds. But then I noticed I was relying on it too much, and I'd stopped double-checking its answers. That came back to bite me when a made-up statistic ended up in a client presentation. These days I treat it like a smart intern: great for a first draft, but nothing leaves my desk until I've gone over it myself.",
+    "qs": [
+      {
+        "q": "How does the speaker describe his experience?",
+        "opts": [
+          "He stopped using AI",
+          "His view became more careful over time",
+          "He wants to build AI tools",
+          "AI replaced his job"
+        ],
+        "ans": 1,
+        "why": "His opinion changed from amazement to careful use."
+      },
+      {
+        "q": "What does 'came back to bite me' mean?",
+        "opts": [
+          "was a lucky surprise",
+          "made me famous",
+          "was a funny joke",
+          "caused a problem later"
+        ],
+        "ans": 3,
+        "why": "His lack of checking later caused trouble."
+      },
+      {
+        "q": "What does 'a smart intern' suggest about how he treats AI output?",
+        "opts": [
+          "He checks it before using it",
+          "He trusts it fully",
+          "He ignores it",
+          "He sends it straight to clients"
+        ],
+        "ans": 0,
+        "why": "Nothing leaves his desk until he has reviewed it."
+      }
+    ],
+    "vocab": [
+      "blown away",
+      "rely on",
+      "come back to bite",
+      "go over"
+    ]
+  },
+  {
+    "id": "lis-19",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "business",
+    "kind": "conversation",
+    "script": "Helen: I appreciate you meeting us at such short notice.\nOmar: Not at all. I'll be upfront, though. The figures you sent over are well above our budget.\nHelen: I understand. That said, the price reflects the level of support we provide, which is round the clock.\nOmar: Right, but we barely need that. Could you come down on the price if we dropped it to office hours only?\nHelen: I'd have to run that by my director, but I don't see why not. Realistically, we could knock around fifteen percent off.\nOmar: That would make it easier to sell internally. Let's put something in writing by Friday.",
+    "qs": [
+      {
+        "q": "What are Helen and Omar discussing?",
+        "opts": [
+          "The price of a support contract",
+          "A holiday plan",
+          "A job interview",
+          "An argument about a bill"
+        ],
+        "ans": 0,
+        "why": "They negotiate the price of round-the-clock support."
+      },
+      {
+        "q": "What does 'run that by my director' mean?",
+        "opts": [
+          "ignore her director's opinion",
+          "check it with her director first",
+          "tell her director afterwards",
+          "cancel her director's meeting"
+        ],
+        "ans": 1,
+        "why": "She needs her director's approval before agreeing."
+      },
+      {
+        "q": "What does 'I don't see why not' imply?",
+        "opts": [
+          "She refuses firmly",
+          "She will probably agree",
+          "She wants to cancel the meeting",
+          "She dislikes the idea"
+        ],
+        "ans": 1,
+        "why": "It signals she expects the director to accept."
+      }
+    ],
+    "vocab": [
+      "upfront",
+      "come down on the price",
+      "run it by",
+      "knock off"
+    ]
+  },
+  {
+    "id": "lis-20",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "news",
+    "kind": "news",
+    "script": "Housing costs continue to outpace wages in most major cities, according to a report released on Tuesday. Researchers found that the average renter now spends nearly forty percent of their income on housing, which is well above the level economists consider sustainable. The report attributes the trend largely to a shortage of new construction, compounded by rising interest rates. Some officials are pushing to relax zoning laws so that developers can build more apartments. Critics, however, caution that without stronger tenant protections, such measures may do little to ease the burden on lower-income families.",
+    "qs": [
+      {
+        "q": "What is the report's main finding?",
+        "opts": [
+          "Rents have dropped in most cities",
+          "Housing costs are rising faster than wages",
+          "Wages have doubled",
+          "Interest rates have fallen"
+        ],
+        "ans": 1,
+        "why": "'Outpace' means housing costs are growing faster than wages."
+      },
+      {
+        "q": "What share of income does the average renter spend on housing?",
+        "opts": [
+          "About twenty percent",
+          "About thirty percent",
+          "Nearly forty percent",
+          "Over half"
+        ],
+        "ans": 2,
+        "why": "The report says nearly forty percent."
+      },
+      {
+        "q": "What do the critics imply?",
+        "opts": [
+          "Easing zoning alone may not help poorer families enough",
+          "Zoning laws should be stricter",
+          "Tenants already have strong protections",
+          "Developers should build fewer apartments"
+        ],
+        "ans": 0,
+        "why": "They say relaxed zoning may do little without tenant protections."
+      }
+    ],
+    "vocab": [
+      "outpace",
+      "attribute to",
+      "compounded by",
+      "ease the burden"
+    ]
+  },
+  {
+    "id": "lis-21",
+    "lvl": "B2+",
+    "speed": "slow",
+    "accent": "gb",
+    "topic": "travel",
+    "kind": "monologue",
+    "script": "People often ask me how I manage to see so many countries on a budget. The truth is, I don't try to see everything. I used to rush from city to city, ticking off sights, and I came home exhausted. Now I stay in one place for at least a week. That way, I get to know the neighbourhood, find the cheap local restaurants and even pick up a little of the language. Admittedly, I miss out on some famous attractions, but I'd rather understand one place properly than glance at ten.",
+    "qs": [
+      {
+        "q": "How has the speaker's way of travelling changed?",
+        "opts": [
+          "He visits ten cities a week",
+          "He stopped travelling",
+          "He only travels for work",
+          "He now stays longer in each place"
+        ],
+        "ans": 3,
+        "why": "He now stays at least a week in one place."
+      },
+      {
+        "q": "What is the minimum time he stays in one place?",
+        "opts": [
+          "Three days",
+          "A week",
+          "Two weeks",
+          "A month"
+        ],
+        "ans": 1,
+        "why": "He says he stays for at least a week."
+      },
+      {
+        "q": "What does 'miss out on' suggest?",
+        "opts": [
+          "He enjoys all the attractions",
+          "He doesn't get to experience some attractions",
+          "He skips cheap restaurants",
+          "He always has spare time"
+        ],
+        "ans": 1,
+        "why": "'Miss out on' means lose the chance to experience something."
+      }
+    ],
+    "vocab": [
+      "on a budget",
+      "tick off",
+      "pick up",
+      "miss out on"
+    ]
+  },
+  {
+    "id": "lis-22",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "relationships",
+    "kind": "voicemail",
+    "script": "Hey Priya, it's Marcus. I've been meaning to call you ever since the other night, because I think I owe you an apology. I shouldn't have brought up your job situation in front of everyone. I was trying to be helpful, but looking back, it came across as patronizing. You'd have every right to be annoyed. Anyway, I'd love to make it up to you. Dinner's on me if you're up for it. And if you'd rather not talk for a while, I totally get it. Just know I'm sorry.",
+    "qs": [
+      {
+        "q": "Why is Marcus calling?",
+        "opts": [
+          "He wants Priya's job",
+          "He is apologizing for something he said",
+          "Priya is apologizing to him",
+          "He is cancelling dinner"
+        ],
+        "ans": 1,
+        "why": "He apologizes for mentioning her job situation in public."
+      },
+      {
+        "q": "What does 'came across as' mean?",
+        "opts": [
+          "arrived suddenly",
+          "met by chance",
+          "seemed to other people",
+          "was forced to"
+        ],
+        "ans": 2,
+        "why": "'Come across as' means to give a certain impression."
+      },
+      {
+        "q": "What does Marcus offer to do?",
+        "opts": [
+          "Pay for dinner",
+          "Help her find a new job",
+          "Call her every day",
+          "Move to another city"
+        ],
+        "ans": 0,
+        "why": "'Dinner's on me' means he will pay."
+      }
+    ],
+    "vocab": [
+      "owe someone an apology",
+      "come across as",
+      "make it up to",
+      "up for it"
+    ]
+  },
+  {
+    "id": "lis-23",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "tech",
+    "kind": "conversation",
+    "script": "Priya: I've gone through the migration proposal, and frankly, I'm not convinced.\nTom: Which part concerns you?\nPriya: The timeline. Moving everything to the cloud in six weeks seems wildly optimistic, especially with half the team on leave in August.\nTom: Fair point. We could phase it, starting with the non-critical services, and leave the payment system until last.\nPriya: That would reduce the risk considerably. But I'd want a rollback plan for every phase, not just a vague promise.\nTom: Understood. I'll revise the proposal and circulate it before Thursday's review.",
+    "qs": [
+      {
+        "q": "What is Priya's main concern?",
+        "opts": [
+          "The proposal is too expensive",
+          "The team is too large",
+          "She wants to hire more people",
+          "The timeline is unrealistic"
+        ],
+        "ans": 3,
+        "why": "She thinks six weeks is wildly optimistic."
+      },
+      {
+        "q": "What does Tom suggest?",
+        "opts": [
+          "Moving everything at once",
+          "Migrating in phases, with the payment system last",
+          "Skipping the review",
+          "Delaying until August"
+        ],
+        "ans": 1,
+        "why": "He proposes a phased approach, payment system last."
+      },
+      {
+        "q": "What does 'not just a vague promise' imply Priya wants?",
+        "opts": [
+          "A bigger budget",
+          "A shorter timeline",
+          "A concrete rollback plan for each phase",
+          "More days off"
+        ],
+        "ans": 2,
+        "why": "She wants a specific, documented plan, not a general assurance."
+      }
+    ],
+    "vocab": [
+      "migration",
+      "rollback plan",
+      "phase",
+      "circulate"
+    ]
+  },
+  {
+    "id": "lis-24",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "travel",
+    "kind": "announcement",
+    "script": "Attention, passengers on the Northeast Regional to Boston. Due to a signal failure near New Haven, all services on this line are suspended until further notice. Engineers are working to fix the problem, but we cannot yet say when trains will resume. Replacement buses are waiting outside the main entrance and will take you to Providence, where you can continue by rail. Should you prefer to wait, please keep an eye on the display boards. Tickets will remain valid for travel tomorrow. We apologize for the inconvenience.",
+    "qs": [
+      {
+        "q": "What is the announcement mainly about?",
+        "opts": [
+          "The train will be five minutes late",
+          "Trains are suspended because of a signal failure",
+          "The station will close for the year",
+          "Ticket prices are rising"
+        ],
+        "ans": 1,
+        "why": "All services are suspended due to a signal failure."
+      },
+      {
+        "q": "Where will the replacement buses take passengers?",
+        "opts": [
+          "New Haven",
+          "Boston",
+          "Providence",
+          "New York"
+        ],
+        "ans": 2,
+        "why": "Buses go to Providence, where passengers continue by rail."
+      },
+      {
+        "q": "What does 'keep an eye on' mean?",
+        "opts": [
+          "ignore",
+          "pay for",
+          "close",
+          "watch regularly"
+        ],
+        "ans": 3,
+        "why": "It means to watch something carefully for updates."
+      }
+    ],
+    "vocab": [
+      "suspended",
+      "until further notice",
+      "resume",
+      "keep an eye on"
+    ]
+  },
+  {
+    "id": "lis-25",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "daily",
+    "kind": "conversation",
+    "script": "Clerk: Hello, how can I help you?\nCustomer: Hi. I bought this jacket last week, but it's too small. Can I exchange it for a bigger size?\nClerk: Of course. Do you have the receipt?\nCustomer: Yes, here it is.\nClerk: Thank you. Unfortunately, we don't have a large in this color. We have it in blue or black, though.\nCustomer: Oh, that's a pity. I'll take the black one, then.\nClerk: Great. Since the black one is ten dollars cheaper, I'll give you the difference back.",
+    "qs": [
+      {
+        "q": "What does the customer want to do?",
+        "opts": [
+          "Exchange a jacket for a larger size",
+          "Buy a second jacket",
+          "Complain about the price",
+          "Get a refund for a lost receipt"
+        ],
+        "ans": 0,
+        "why": "The jacket is too small, so the customer asks to exchange it for a bigger size."
+      },
+      {
+        "q": "Why can't the customer get the same jacket in a bigger size?",
+        "opts": [
+          "The store is closing",
+          "There is no large in that color",
+          "The receipt is too old",
+          "The jacket is out of fashion"
+        ],
+        "ans": 1,
+        "why": "The clerk says there is no large in this color."
+      },
+      {
+        "q": "What will the clerk give back to the customer?",
+        "opts": [
+          "The full price",
+          "A discount coupon",
+          "Ten dollars",
+          "Nothing"
+        ],
+        "ans": 2,
+        "why": "The black jacket is ten dollars cheaper, so the clerk returns the difference."
+      }
+    ],
+    "vocab": [
+      "exchange",
+      "receipt",
+      "it's a pity"
+    ]
+  },
+  {
+    "id": "lis-26",
+    "lvl": "B1",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "travel",
+    "kind": "conversation",
+    "script": "Guest: Excuse me, I'm calling from room 305. The air conditioning isn't working, and it's very hot.\nReception: I'm sorry to hear that, sir. I'll send someone up right away.\nGuest: Thank you. Also, the people next door are playing loud music.\nReception: I apologise. I'll call them and ask them to turn it down. If you'd prefer, we can move you to a quieter room on the fifth floor.\nGuest: Actually, I'd like that. Could you sort it out as soon as possible?\nReception: Certainly. A porter will bring your new key in ten minutes.",
+    "qs": [
+      {
+        "q": "Why is the guest calling reception?",
+        "opts": [
+          "To check out early",
+          "To report problems in his room",
+          "To book a table",
+          "To ask about his lost key"
+        ],
+        "ans": 1,
+        "why": "He reports a broken air conditioner and loud music."
+      },
+      {
+        "q": "Where could the guest move to?",
+        "opts": [
+          "A room on the fifth floor",
+          "A room next door",
+          "The ground floor",
+          "Another hotel"
+        ],
+        "ans": 0,
+        "why": "Reception offers a quieter room on the fifth floor, and he accepts."
+      },
+      {
+        "q": "What does 'turn it down' mean in this conversation?",
+        "opts": [
+          "refuse it",
+          "play it again",
+          "take it away",
+          "make it quieter"
+        ],
+        "ans": 3,
+        "why": "Asking the neighbors to turn the music down means making it quieter."
+      }
+    ],
+    "vocab": [
+      "air conditioning",
+      "porter",
+      "sort it out"
+    ]
+  },
+  {
+    "id": "lis-27",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "business",
+    "kind": "voicemail",
+    "script": "Hi, Maria, this is David from Delta Supplies. I'm calling about your order of two hundred office chairs. Unfortunately, there's been a delay at the factory, so the chairs won't arrive on Friday as planned. They should be here by next Wednesday instead. I'm really sorry about that. If you need them sooner, we can send fifty chairs by express delivery at no extra cost. Please call me back before three o'clock today so I can arrange it. My number is five five five, oh one four two. Thanks, and talk soon.",
+    "qs": [
+      {
+        "q": "Why is David calling?",
+        "opts": [
+          "To tell Maria about a delay in her order",
+          "To ask for payment",
+          "To offer a new product",
+          "To cancel the order"
+        ],
+        "ans": 0,
+        "why": "There is a delay at the factory."
+      },
+      {
+        "q": "When will the chairs probably arrive?",
+        "opts": [
+          "On Friday",
+          "Next Monday",
+          "Tomorrow",
+          "Next Wednesday"
+        ],
+        "ans": 3,
+        "why": "They should be there by next Wednesday."
+      },
+      {
+        "q": "What does David offer to do?",
+        "opts": [
+          "Give a discount on the whole order",
+          "Send part of the order by express delivery at no extra cost",
+          "Send fifty extra chairs for free",
+          "Refund the order"
+        ],
+        "ans": 1,
+        "why": "He can send fifty chairs by express delivery at no extra cost."
+      }
+    ],
+    "vocab": [
+      "order",
+      "delay",
+      "call me back"
+    ]
+  },
+  {
+    "id": "lis-28",
+    "lvl": "B1",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "relationships",
+    "kind": "monologue",
+    "script": "My best friend Laura is moving to Canada next month, and I'm feeling quite sad about it. We've known each other since primary school, and we've never lived in different cities. Of course, I'm happy for her because she got a great job. But I'll miss our Saturday coffees. We've promised to keep in touch by video call every Sunday. Although the time difference might be a problem, I think we'll work it out. And I'm planning to visit her next summer, so I have something to look forward to.",
+    "qs": [
+      {
+        "q": "How does the speaker feel about Laura's move?",
+        "opts": [
+          "Angry and jealous",
+          "Completely happy",
+          "Sad but supportive",
+          "Worried about money"
+        ],
+        "ans": 2,
+        "why": "She is sad, but also happy for Laura."
+      },
+      {
+        "q": "Why is Laura moving to Canada?",
+        "opts": [
+          "To study",
+          "To start a new job",
+          "To live with her family",
+          "To get married"
+        ],
+        "ans": 1,
+        "why": "She got a great job."
+      },
+      {
+        "q": "What does 'work it out' mean here?",
+        "opts": [
+          "find a solution",
+          "cancel the plan",
+          "exercise together",
+          "ask for help"
+        ],
+        "ans": 0,
+        "why": "They will find a way to deal with the time difference."
+      }
+    ],
+    "vocab": [
+      "keep in touch",
+      "time difference",
+      "look forward to"
+    ]
+  },
+  {
+    "id": "lis-29",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "daily",
+    "kind": "conversation",
+    "script": "Agent: So, this is the living room. As you can see, it gets plenty of natural light.\nTenant: It's lovely. How much is the rent again?\nAgent: It's fourteen hundred a month, and utilities are not included. You'd also need to pay a deposit equal to one month's rent.\nTenant: That's a bit more than I expected. Is there any room for negotiation?\nAgent: I can't lower the rent, but the landlord might be willing to include parking, provided you sign a two-year lease.\nTenant: Hmm. I'll think it over and call you tomorrow.",
+    "qs": [
+      {
+        "q": "What are the speakers mainly discussing?",
+        "opts": [
+          "The conditions for renting an apartment",
+          "How to decorate a living room",
+          "Buying a house",
+          "A problem with the landlord"
+        ],
+        "ans": 0,
+        "why": "The agent shows the apartment and talks about rent, deposit and lease."
+      },
+      {
+        "q": "What is needed to get parking included?",
+        "opts": [
+          "Paying a larger deposit",
+          "Paying the utilities",
+          "Signing a two-year lease",
+          "Calling the landlord today"
+        ],
+        "ans": 2,
+        "why": "Parking may be included provided the tenant signs a two-year lease."
+      },
+      {
+        "q": "What does 'think it over' mean?",
+        "opts": [
+          "reject it immediately",
+          "pay it off",
+          "ask the landlord",
+          "consider it carefully"
+        ],
+        "ans": 3,
+        "why": "The tenant will consider the offer and call tomorrow."
+      }
+    ],
+    "vocab": [
+      "utilities",
+      "deposit",
+      "lease"
+    ]
+  },
+  {
+    "id": "lis-30",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "tech",
+    "kind": "news",
+    "script": "In technology news today, a European company has unveiled a battery that, it says, can charge a smartphone in just five minutes. The company says the battery will be available in phones from next spring. Experts, however, are cautious. They point out that very fast charging can wear out batteries more quickly, which means users might have to replace their phones sooner. The firm insists that its new design solves this problem and has promised to publish independent test results by the end of the year.",
+    "qs": [
+      {
+        "q": "What is the news mainly about?",
+        "opts": [
+          "A cheaper smartphone",
+          "A very fast-charging battery",
+          "A phone recycling programme",
+          "A new app for saving energy"
+        ],
+        "ans": 1,
+        "why": "A new battery charges a phone in five minutes."
+      },
+      {
+        "q": "What has the company promised to do by the end of the year?",
+        "opts": [
+          "Lower its prices",
+          "Launch a new phone",
+          "Publish independent test results",
+          "Replace old batteries for free"
+        ],
+        "ans": 2,
+        "why": "It promised to publish independent test results."
+      },
+      {
+        "q": "Why are experts cautious?",
+        "opts": [
+          "Fast charging may shorten battery life",
+          "The battery is too heavy",
+          "The battery is very expensive",
+          "It only works in Europe"
+        ],
+        "ans": 0,
+        "why": "They say fast charging can wear out batteries more quickly."
+      }
+    ],
+    "vocab": [
+      "wear out",
+      "replace",
+      "insist"
+    ]
+  },
+  {
+    "id": "lis-31",
+    "lvl": "B1+",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "travel",
+    "kind": "announcement",
+    "script": "May I have your attention, please. The eight-fifteen train to Boston has been cancelled because of a signal failure near Providence. Passengers holding tickets for this service can board the nine o'clock train instead, which will stop at all stations. If you'd rather not travel today, you can get a full refund at the ticket office or online. Please note that seat reservations on the nine o'clock train are not required, but it may be crowded. We apologise for the inconvenience and appreciate your understanding.",
+    "qs": [
+      {
+        "q": "What is the announcement about?",
+        "opts": [
+          "A delay of one hour",
+          "A new ticket price",
+          "A cancelled train and the options available",
+          "A change of platform"
+        ],
+        "ans": 2,
+        "why": "The train is cancelled, and the announcement explains alternatives."
+      },
+      {
+        "q": "What caused the cancellation?",
+        "opts": [
+          "A staff strike",
+          "Bad weather",
+          "A lack of drivers",
+          "A signal failure"
+        ],
+        "ans": 3,
+        "why": "It was cancelled because of a signal failure near Providence."
+      },
+      {
+        "q": "Why might the nine o'clock train be crowded?",
+        "opts": [
+          "It will also carry passengers from the cancelled train",
+          "It has no free seats",
+          "It is a holiday weekend",
+          "It goes to more cities"
+        ],
+        "ans": 0,
+        "why": "The announcement says it may be crowded; the likely reason is that ticket holders from the cancelled train can also board it."
+      }
+    ],
+    "vocab": [
+      "signal failure",
+      "refund",
+      "ticket office"
+    ]
+  },
+  {
+    "id": "lis-32",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "business",
+    "kind": "conversation",
+    "script": "Interviewer: Thanks for coming in, Priya. Could you tell me about your previous job?\nPriya: Of course. For three years I worked as a customer service agent at a telecom company. I dealt with around fifty calls a day.\nInterviewer: And what was the biggest challenge?\nPriya: Probably angry customers. At first I found it stressful, but I learnt to stay calm and listen carefully. In the end, I received the employee of the year award.\nInterviewer: Impressive. Why do you want to leave?\nPriya: I'm looking for more responsibility, and I'd love to lead a team one day.",
+    "qs": [
+      {
+        "q": "What kind of conversation is this?",
+        "opts": [
+          "A performance review",
+          "A job interview",
+          "A customer complaint",
+          "A training session"
+        ],
+        "ans": 1,
+        "why": "The interviewer asks about her previous job and why she wants to leave."
+      },
+      {
+        "q": "What was the biggest challenge in Priya's previous job?",
+        "opts": [
+          "Long working hours",
+          "Learning new software",
+          "Dealing with angry customers",
+          "Working in a team"
+        ],
+        "ans": 2,
+        "why": "She says the biggest challenge was angry customers."
+      },
+      {
+        "q": "Why does Priya want to leave her job?",
+        "opts": [
+          "Her salary was low",
+          "She disliked her colleagues",
+          "She was fired",
+          "She wants more responsibility"
+        ],
+        "ans": 3,
+        "why": "She is looking for more responsibility and wants to lead a team."
+      }
+    ],
+    "vocab": [
+      "customer service",
+      "deal with",
+      "challenge"
+    ]
+  },
+  {
+    "id": "lis-33",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "business",
+    "kind": "conversation",
+    "script": "Manager: Okay, let's go through what happened. Ravi, can you walk us through the timeline?\nRavi: Sure. At two in the morning, the payment service started timing out. Monitoring picked it up, but the alert went to a mailbox nobody checks overnight, so we only found out at six.\nManager: So the outage lasted four hours?\nRavi: Roughly, yes. The root cause was an expired certificate. We've renewed it, and we're setting up automatic renewals so this doesn't crop up again.\nManager: Good. Let's also fix the alert routing. Otherwise, we'll be in the same boat next time.",
+    "qs": [
+      {
+        "q": "What is the meeting mainly about?",
+        "opts": [
+          "Planning a new payment feature",
+          "Hiring an engineer",
+          "Choosing a monitoring vendor",
+          "Reviewing an overnight outage"
+        ],
+        "ans": 3,
+        "why": "They review the timeline and cause of an outage."
+      },
+      {
+        "q": "Why did the team find out about the problem late?",
+        "opts": [
+          "The alert went to a mailbox no one checks at night",
+          "The monitoring tool failed completely",
+          "Ravi was on holiday",
+          "Customers did not complain"
+        ],
+        "ans": 0,
+        "why": "The alert was sent to a mailbox nobody checks overnight."
+      },
+      {
+        "q": "What does 'we'll be in the same boat' mean?",
+        "opts": [
+          "We'll be on a trip together",
+          "We'll be very busy",
+          "We'll face the same difficult situation",
+          "We'll agree on everything"
+        ],
+        "ans": 2,
+        "why": "It means they will be in the same bad situation if the routing isn't fixed."
+      }
+    ],
+    "vocab": [
+      "timeline",
+      "root cause",
+      "crop up"
+    ]
+  },
+  {
+    "id": "lis-34",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "tech",
+    "kind": "monologue",
+    "script": "If you're still using the same password for several accounts, you're taking a serious risk. Here's the thing: when one website gets hacked, criminals try those stolen details everywhere else. That's why I'd strongly recommend a password manager. It generates long, random passwords and fills them in for you, so you only need to remember one master password. Admittedly, it takes a little while to set up, but once you've got the hang of it, you'll wonder how you managed without. Also, switch on two-factor authentication wherever possible, because even the best password can be stolen.",
+    "qs": [
+      {
+        "q": "What is the speaker's main message?",
+        "opts": [
+          "Why websites get hacked",
+          "How to protect your online accounts",
+          "How to memorise passwords without any tools",
+          "How to choose an antivirus"
+        ],
+        "ans": 1,
+        "why": "He recommends a password manager and two-factor authentication."
+      },
+      {
+        "q": "Why is reusing a password risky?",
+        "opts": [
+          "Passwords expire quickly",
+          "Websites delete old accounts",
+          "Criminals try stolen details on other sites",
+          "Password managers share them"
+        ],
+        "ans": 2,
+        "why": "When one site is hacked, criminals try the same details elsewhere."
+      },
+      {
+        "q": "What does 'get the hang of it' mean?",
+        "opts": [
+          "learn how to do it well",
+          "get tired of it",
+          "hang it up",
+          "find it by accident"
+        ],
+        "ans": 0,
+        "why": "It means becoming comfortable and skilled at using something."
+      }
+    ],
+    "vocab": [
+      "password manager",
+      "two-factor authentication",
+      "hacked"
+    ]
+  },
+  {
+    "id": "lis-35",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "news",
+    "kind": "news",
+    "script": "A major retailer in the United States has announced that it will trial a four-day working week for its office staff, without cutting salaries. The company says the pilot, which will run for six months, is aimed at improving morale and cutting staff turnover. Critics argue that employees may simply cram the same workload into fewer days, leading to burnout. Nevertheless, some similar experiments abroad have reported that productivity stays the same or even rises. The results will be reviewed in March before any permanent decision is made.",
+    "qs": [
+      {
+        "q": "What has the retailer announced?",
+        "opts": [
+          "Salary cuts for store workers",
+          "Shorter shifts for shop assistants",
+          "A trial of a four-day week for office staff",
+          "A new law on working hours"
+        ],
+        "ans": 2,
+        "why": "The trial is for office staff, without cutting salaries."
+      },
+      {
+        "q": "How long will the trial last?",
+        "opts": [
+          "Three months",
+          "Six months",
+          "One year",
+          "Two years"
+        ],
+        "ans": 1,
+        "why": "The pilot will run for six months."
+      },
+      {
+        "q": "What worry do critics have?",
+        "opts": [
+          "Salaries will fall",
+          "Staff will quit",
+          "Productivity abroad has dropped",
+          "Staff may be exhausted by the same work in fewer days"
+        ],
+        "ans": 3,
+        "why": "They fear employees will cram the same workload into fewer days and burn out."
+      }
+    ],
+    "vocab": [
+      "trial",
+      "staff turnover",
+      "burnout"
+    ]
+  },
+  {
+    "id": "lis-36",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "relationships",
+    "kind": "conversation",
+    "script": "Sam: Listen, Jo, there's something I need to get off my chest. The dishes have been piling up in the sink for days.\nJo: Oh, I'm sorry. I've been swamped with deadlines at work.\nSam: I get that, but it's not the first time. I don't want this to turn into a row.\nJo: No, you're right. I should have said something sooner. Why don't we draw up a cleaning rota?\nSam: That would make things much easier. As long as we both stick to it, I think we'll avoid this in future.\nJo: Agreed. I'll start tonight and do the washing-up.",
+    "qs": [
+      {
+        "q": "How does the conversation end?",
+        "opts": [
+          "They decide to find a new flat",
+          "They agree on a plan to share chores",
+          "They argue and stop talking",
+          "They plan a party"
+        ],
+        "ans": 1,
+        "why": "They agree to make a cleaning rota."
+      },
+      {
+        "q": "Why hasn't Jo done the dishes?",
+        "opts": [
+          "Jo was away",
+          "Jo dislikes cleaning",
+          "The sink is broken",
+          "Jo has been very busy at work"
+        ],
+        "ans": 3,
+        "why": "Jo says deadlines at work have kept Jo swamped."
+      },
+      {
+        "q": "What does 'get something off my chest' mean?",
+        "opts": [
+          "carry something heavy",
+          "feel unwell",
+          "say what has been bothering me",
+          "clean up quickly"
+        ],
+        "ans": 2,
+        "why": "Sam wants to talk about something that has been bothering Sam."
+      }
+    ],
+    "vocab": [
+      "pile up",
+      "rota",
+      "stick to"
+    ]
+  },
+  {
+    "id": "lis-37",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "business",
+    "kind": "monologue",
+    "script": "Good morning, everyone. Let me give you a quick rundown of where we stand at the end of the third quarter. Revenue came in at twelve percent above forecast, largely thanks to the new subscription model. However, we shouldn't get carried away: customer churn has ticked up slightly, and our support costs have risen as a result. Going forward, we'll be prioritising retention over acquisition. That means investing in onboarding, and, if necessary, putting the planned expansion into Asia on the back burner until next year. I'll send out the detailed figures after this call.",
+    "qs": [
+      {
+        "q": "What is the speaker doing?",
+        "opts": [
+          "Announcing layoffs",
+          "Launching a product",
+          "Interviewing a candidate",
+          "Summarising results and changing priorities"
+        ],
+        "ans": 3,
+        "why": "The speaker reviews the quarter and says the company will prioritise retention."
+      },
+      {
+        "q": "What helped revenue exceed the forecast?",
+        "opts": [
+          "The new subscription model",
+          "The expansion into Asia",
+          "Lower support costs",
+          "Fewer customers leaving"
+        ],
+        "ans": 0,
+        "why": "Revenue was up largely thanks to the new subscription model."
+      },
+      {
+        "q": "What does 'put on the back burner' mean?",
+        "opts": [
+          "accelerate",
+          "postpone",
+          "cancel completely",
+          "fund generously"
+        ],
+        "ans": 1,
+        "why": "The expansion would wait until next year."
+      }
+    ],
+    "vocab": [
+      "quarter",
+      "churn",
+      "get carried away"
+    ]
+  },
+  {
+    "id": "lis-38",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "tech",
+    "kind": "news",
+    "script": "Welcome back to Tech Weekly. This week, European lawmakers have agreed on stricter proposed rules for companies that build artificial intelligence systems. Under the new framework, firms will have to disclose what data their models were trained on, and high-risk applications, such as those used in hiring, will face mandatory audits. Industry groups have pushed back, claiming the requirements could stifle innovation, particularly among start-ups that lack legal teams. Supporters counter that without clear safeguards, public trust will erode. Whether the rules strike the right balance remains to be seen, as enforcement would not begin until two years after approval.",
+    "qs": [
+      {
+        "q": "What is the main topic of the podcast?",
+        "opts": [
+          "Tech companies laying off staff",
+          "New European rules for AI companies",
+          "A ban on using AI in hiring",
+          "A start-up winning new funding"
+        ],
+        "ans": 1,
+        "why": "Lawmakers agreed on stricter rules for AI companies."
+      },
+      {
+        "q": "Why do industry groups object to the rules?",
+        "opts": [
+          "The rules start immediately",
+          "They want audits only for start-ups",
+          "They dislike public trust",
+          "They fear the rules could hold back innovation, especially in start-ups"
+        ],
+        "ans": 3,
+        "why": "They say the requirements could stifle innovation, particularly for start-ups."
+      },
+      {
+        "q": "What does 'remains to be seen' suggest?",
+        "opts": [
+          "It has been proven",
+          "It no longer matters",
+          "It is still uncertain",
+          "It was widely praised"
+        ],
+        "ans": 2,
+        "why": "The effect of the rules is not yet known, since enforcement would start only years from now."
+      }
+    ],
+    "vocab": [
+      "disclose",
+      "push back",
+      "stifle"
+    ]
+  },
+  {
+    "id": "lis-39",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "travel",
+    "kind": "voicemail",
+    "script": "Hello, Mr. Alvarez, it's Karen from Horizon Travel. I'm afraid I have some bad news. Your connecting flight in Chicago has been pushed back by three hours due to a storm, which means you'll miss your onward flight to Denver. I've already rebooked you on the last flight tonight, departing at ten-forty, and I've also arranged a hotel voucher in case that one gets cancelled as well. Should you prefer to fly out tomorrow morning, just let me know by seven this evening, and I'll switch it. Don't hesitate to call me back, since I'll be in the office until eight.",
+    "qs": [
+      {
+        "q": "Why is Karen calling?",
+        "opts": [
+          "To confirm a hotel booking",
+          "To offer a discount",
+          "To explain a flight disruption and the new arrangements",
+          "To ask for payment"
+        ],
+        "ans": 2,
+        "why": "A storm delays his connection, and she explains what she has done."
+      },
+      {
+        "q": "What has Karen already done?",
+        "opts": [
+          "Rebooked him on a later flight",
+          "Cancelled his trip",
+          "Booked him on a morning flight",
+          "Refunded his ticket"
+        ],
+        "ans": 0,
+        "why": "She rebooked him on the last flight tonight."
+      },
+      {
+        "q": "Why did Karen arrange a hotel voucher?",
+        "opts": [
+          "He asked for one",
+          "Hotels in Denver are cheap",
+          "He lives in Chicago",
+          "The later flight might also be cancelled"
+        ],
+        "ans": 3,
+        "why": "The voucher is in case the later flight gets cancelled too."
+      }
+    ],
+    "vocab": [
+      "connecting flight",
+      "rebook",
+      "voucher"
+    ]
+  },
+  {
+    "id": "lis-40",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "daily",
+    "kind": "conversation",
+    "script": "Member: Hi, I'd like to cancel my membership, please.\nAdvisor: Oh, I'm sorry to hear that. May I ask why?\nMember: Mainly because I've been travelling so much for work that I hardly ever come in.\nAdvisor: I see. Well, rather than cancelling outright, we could freeze your membership for up to six months at a reduced fee.\nMember: That's tempting, but I'd rather make a clean break. Besides, I've signed up for a cheaper gym near the office.\nAdvisor: Understood. Bear in mind that you'll need to give thirty days' notice, so your last payment will be next month.\nMember: Fair enough. Where do I sign?",
+    "qs": [
+      {
+        "q": "What does the member want to do?",
+        "opts": [
+          "Upgrade the plan",
+          "Cancel the membership",
+          "Freeze the membership",
+          "Move to another branch"
+        ],
+        "ans": 1,
+        "why": "The member asks to cancel at the start and insists on it later."
+      },
+      {
+        "q": "Why does the member hardly ever use the gym?",
+        "opts": [
+          "Work trips keep the member away",
+          "The member was injured",
+          "It is too expensive",
+          "It is too far away"
+        ],
+        "ans": 0,
+        "why": "The member travels a lot for work."
+      },
+      {
+        "q": "What does 'make a clean break' mean here?",
+        "opts": [
+          "pause temporarily",
+          "repair something",
+          "end it completely",
+          "pay less"
+        ],
+        "ans": 2,
+        "why": "The member refuses the freeze option and prefers to end the membership entirely."
+      }
+    ],
+    "vocab": [
+      "membership",
+      "freeze",
+      "give notice"
+    ]
+  },
+  {
+    "id": "lis-x1-01",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "health",
+    "kind": "conversation",
+    "script": "Nina: Hi, Paul. Are you okay? You look pale.\nPaul: I've had a headache for three days, and I can't focus at work.\nNina: Have you been drinking enough water?\nPaul: Not really. I usually have coffee in the morning and tea in the afternoon.\nNina: That might be the problem. Many people get headaches when they don't drink enough water.\nPaul: Maybe you're right. I also sleep only five hours a night.\nNina: Then you should try to go to bed earlier. If the headache doesn't go away by Friday, you should see a doctor.\nPaul: Okay. I'll drink more water and sleep more tonight. Thanks for the advice.",
+    "qs": [
+      {
+        "q": "How long has Paul had a headache?",
+        "opts": [
+          "One day",
+          "Three days",
+          "Five days",
+          "A week"
+        ],
+        "ans": 1,
+        "why": "Paul says he has had a headache for three days."
+      },
+      {
+        "q": "What does Nina think may be causing the problem?",
+        "opts": [
+          "Too much work",
+          "Too much tea",
+          "Not enough water",
+          "Not enough coffee"
+        ],
+        "ans": 2,
+        "why": "Nina says many people get headaches when they don't drink enough water."
+      },
+      {
+        "q": "When should Paul see a doctor?",
+        "opts": [
+          "Right now",
+          "Tonight",
+          "Tomorrow morning",
+          "If the headache continues until Friday"
+        ],
+        "ans": 3,
+        "why": "Nina says he should see a doctor if the headache doesn't go away by Friday."
+      }
+    ],
+    "vocab": [
+      "headache",
+      "get enough sleep",
+      "go away"
+    ]
+  },
+  {
+    "id": "lis-x1-02",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "health",
+    "kind": "monologue",
+    "script": "Good morning, everyone, and welcome to this week's health talk. Today I'd like to talk about walking. Many people think they need to join a gym to stay fit, but a brisk walk of thirty minutes a day can make a real difference. Walking is free, it doesn't need any special equipment, and most people can do it at almost any age. Doctors often say that regular walking is good for the heart and can improve your mood. If you work in an office, try getting off the bus one stop earlier, or take the stairs instead of the lift. You could also take a short walk during your lunch break. Start slowly, and increase the time as you feel stronger. The most important thing is to be consistent.",
+    "qs": [
+      {
+        "q": "What is the main message of the talk?",
+        "opts": [
+          "Walking is a simple way to stay fit",
+          "Everyone should join a gym",
+          "Doctors dislike exercise",
+          "Lifts are bad for your health"
+        ],
+        "ans": 0,
+        "why": "The speaker explains that regular walking is free, simple and good for your health."
+      },
+      {
+        "q": "What does the speaker say about gyms?",
+        "opts": [
+          "They are the only way to get fit",
+          "You don't have to join one to stay fit",
+          "They are too expensive for adults",
+          "They are good for the heart only"
+        ],
+        "ans": 1,
+        "why": "She says many people think they need a gym, but a daily walk can make a real difference."
+      },
+      {
+        "q": "What does the speaker suggest for people who work in an office?",
+        "opts": [
+          "Walk for two hours every day",
+          "Work standing up",
+          "Get off the bus one stop earlier",
+          "Avoid lunch breaks"
+        ],
+        "ans": 2,
+        "why": "She suggests getting off the bus one stop earlier, taking the stairs, or walking at lunch."
+      }
+    ],
+    "vocab": [
+      "brisk walk",
+      "stay fit",
+      "be consistent"
+    ]
+  },
+  {
+    "id": "lis-x1-03",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "health",
+    "kind": "conversation",
+    "script": "Ellen: How was your appointment with the nutritionist, Marcus?\nMarcus: Better than I expected, actually. I thought she'd put me on a strict diet, but she barely mentioned cutting anything out.\nEllen: Really? So what did she focus on?\nMarcus: Mostly on my habits. Apparently, I skip breakfast and then eat a huge dinner late at night, which isn't ideal for digestion.\nEllen: That sounds familiar. I do the same thing when I'm busy.\nMarcus: She said I don't need to change everything at once. She suggested I start by having a small breakfast and finishing dinner at least two hours before bed.\nEllen: That seems manageable. Did she recommend any supplements?\nMarcus: No. She said most people get what they need from a balanced diet, and she'd rather I focus on that first.",
+    "qs": [
+      {
+        "q": "What surprised Marcus about the appointment?",
+        "opts": [
+          "The nutritionist was late",
+          "The nutritionist gave him a very strict diet",
+          "The nutritionist did not ask him to cut out foods",
+          "The appointment was very short"
+        ],
+        "ans": 2,
+        "why": "He expected a strict diet, but she barely mentioned cutting anything out."
+      },
+      {
+        "q": "Which habits does Marcus have that the nutritionist mentioned?",
+        "opts": [
+          "Skipping breakfast and eating a big late dinner",
+          "Eating too much sugar at lunch",
+          "Drinking too little water",
+          "Eating too fast"
+        ],
+        "ans": 0,
+        "why": "He skips breakfast and eats a huge dinner late at night."
+      },
+      {
+        "q": "What did the nutritionist say about supplements?",
+        "opts": [
+          "He should take several each day",
+          "He should avoid all of them",
+          "Only his friends need them",
+          "He should focus on a balanced diet first"
+        ],
+        "ans": 3,
+        "why": "She said most people get what they need from a balanced diet and preferred that he focus on that first."
+      }
+    ],
+    "vocab": [
+      "nutritionist",
+      "digestion",
+      "balanced diet"
+    ]
+  },
+  {
+    "id": "lis-x1-04",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "health",
+    "kind": "news",
+    "script": "A new study from a group of British researchers suggests that spending time in green spaces may help reduce stress in city dwellers. The researchers followed more than two thousand adults for a year and asked them to report how often they visited parks and how stressed they felt. Those who spent at least two hours a week in green spaces said they felt noticeably calmer than those who rarely went outside. The scientists stressed, however, that the study only shows a link and cannot prove that parks directly cause lower stress. People who feel calmer may simply be more likely to visit parks. Even so, local councils have welcomed the findings, and several have promised to invest more in public gardens and walking paths over the next five years.",
+    "qs": [
+      {
+        "q": "What did the people who visited green spaces regularly report?",
+        "opts": [
+          "They felt calmer than the others",
+          "They slept longer",
+          "They exercised more",
+          "They moved out of the city"
+        ],
+        "ans": 0,
+        "why": "Those who spent at least two hours a week in green spaces felt noticeably calmer."
+      },
+      {
+        "q": "What warning did the scientists give?",
+        "opts": [
+          "Parks can be dangerous",
+          "The study was too expensive",
+          "The study cannot prove that parks cause lower stress",
+          "Most people don't visit parks"
+        ],
+        "ans": 2,
+        "why": "They said the study only shows a link and cannot prove a direct cause."
+      },
+      {
+        "q": "How have local councils responded?",
+        "opts": [
+          "They have ignored the study",
+          "Several have promised to invest in gardens and paths",
+          "They have closed some parks",
+          "They have asked for another study"
+        ],
+        "ans": 1,
+        "why": "Several councils promised more investment in public gardens and walking paths."
+      }
+    ],
+    "vocab": [
+      "green spaces",
+      "city dwellers",
+      "a link between"
+    ]
+  },
+  {
+    "id": "lis-x1-05",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "gb",
+    "topic": "science",
+    "kind": "monologue",
+    "script": "Today I'm going to explain how rain is made. First, the sun heats the water in oceans, lakes, and rivers. Some of this water turns into vapor, which is a gas, and rises into the air. This process is called evaporation. High in the sky, the air is much colder, so the vapor cools down and turns back into tiny drops of water. These drops come together to form clouds. When the drops become big and heavy, they fall to the ground as rain. Later, the water flows into rivers and lakes, and the whole process starts again. This is why scientists call it the water cycle.",
+    "qs": [
+      {
+        "q": "What does the sun do at the start of the process?",
+        "opts": [
+          "It freezes the water",
+          "It heats the water so that some of it rises as vapor",
+          "It makes the clouds heavy",
+          "It creates new rivers"
+        ],
+        "ans": 1,
+        "why": "The sun heats the water, and some of it turns into vapor and rises."
+      },
+      {
+        "q": "Why does the vapor turn back into drops?",
+        "opts": [
+          "The air is much colder high in the sky",
+          "The wind is very strong",
+          "The sun is too hot",
+          "The drops are too light"
+        ],
+        "ans": 0,
+        "why": "High in the sky the air is colder, so the vapor cools and turns into drops."
+      },
+      {
+        "q": "When does rain fall?",
+        "opts": [
+          "When the sun is very bright",
+          "When the clouds are very small",
+          "When the drops are big and heavy",
+          "When the rivers are full"
+        ],
+        "ans": 2,
+        "why": "The drops fall as rain when they become big and heavy."
+      }
+    ],
+    "vocab": [
+      "vapor",
+      "evaporation",
+      "water cycle"
+    ]
+  },
+  {
+    "id": "lis-x1-06",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "science",
+    "kind": "conversation",
+    "script": "Dana: So, did your plants grow the way you predicted?\nRavi: Not exactly. My hypothesis was that the plants near the window would grow faster, but the results were more complicated than that.\nDana: How so?\nRavi: Well, the plants near the window grew taller, but their leaves were smaller and paler than the others.\nDana: Interesting. Could it be that they got too much direct sunlight?\nRavi: That's what my professor suggested. She said I should repeat the experiment with a thin curtain to filter the light.\nDana: Are you going to change anything else?\nRavi: I'll use more plants this time. With only six in each group, I can't be sure the differences weren't just random.\nDana: Good thinking. A bigger sample would make your conclusions much stronger.",
+    "qs": [
+      {
+        "q": "What happened to the plants near the window?",
+        "opts": [
+          "They died quickly",
+          "They grew taller, but their leaves were smaller and paler",
+          "They did not grow at all",
+          "They grew exactly as predicted"
+        ],
+        "ans": 1,
+        "why": "Ravi says they grew taller but had smaller, paler leaves."
+      },
+      {
+        "q": "What does the professor recommend?",
+        "opts": [
+          "Moving the plants outdoors",
+          "Giving the plants more water",
+          "Repeating the experiment with a curtain to filter the light",
+          "Writing a new hypothesis"
+        ],
+        "ans": 2,
+        "why": "She suggested repeating the experiment with a thin curtain to filter the light."
+      },
+      {
+        "q": "Why does Ravi want to use more plants?",
+        "opts": [
+          "The first plants were too expensive",
+          "He wants to finish sooner",
+          "His professor asked for exactly twelve",
+          "Six plants per group are too few to rule out random differences"
+        ],
+        "ans": 3,
+        "why": "With only six in each group, he can't be sure the differences weren't random."
+      }
+    ],
+    "vocab": [
+      "hypothesis",
+      "sample",
+      "direct sunlight"
+    ]
+  },
+  {
+    "id": "lis-x1-07",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "science",
+    "kind": "news",
+    "script": "Astronomers have announced that a new telescope has captured some of the sharpest images ever taken of a distant galaxy cluster. By measuring how the light from faraway galaxies is slightly bent by the gravity of closer ones, the team was able to map where the invisible material known as dark matter is concentrated. Although nobody has directly observed dark matter, scientists infer its existence from its gravitational effects on visible objects. One researcher described the new data as a significant step forward, but she cautioned that it would take several more years of observation before the team could draw firm conclusions about how dark matter is distributed across the universe. The results will be published next month in a scientific journal.",
+    "qs": [
+      {
+        "q": "How did the team map the dark matter?",
+        "opts": [
+          "By photographing it directly",
+          "By measuring how gravity bends light from distant galaxies",
+          "By sending a probe into the cluster",
+          "By counting the stars in the cluster"
+        ],
+        "ans": 1,
+        "why": "They measured how the light from faraway galaxies is bent by the gravity of closer ones."
+      },
+      {
+        "q": "Why do scientists believe that dark matter exists?",
+        "opts": [
+          "They have seen it directly",
+          "It gives off a bright light",
+          "They infer it from its gravitational effects",
+          "It was found in a laboratory"
+        ],
+        "ans": 2,
+        "why": "Nobody has directly observed it, so scientists infer it from its effects on visible objects."
+      },
+      {
+        "q": "What is the researcher's attitude toward the new data?",
+        "opts": [
+          "Disappointed and critical",
+          "Completely certain about the results",
+          "Uninterested in further study",
+          "Positive, but careful about drawing conclusions"
+        ],
+        "ans": 3,
+        "why": "She called it a significant step forward but said more years of observation are needed."
+      }
+    ],
+    "vocab": [
+      "galaxy cluster",
+      "dark matter",
+      "infer"
+    ]
+  },
+  {
+    "id": "lis-x1-08",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "finance",
+    "kind": "conversation",
+    "script": "Lisa: Hey, Ben. Do you have a minute? I want to start saving money, but I don't know how.\nBen: Sure. First, you should write down everything you spend in a month.\nLisa: Everything? Even coffee?\nBen: Yes, even coffee. Small costs add up quickly. Then you can see what you really need and what you can cut.\nLisa: That makes sense. I spend a lot on food delivery.\nBen: Then you could cook at home more often. After that, try to put aside ten percent of your salary on payday.\nLisa: Ten percent sounds possible. Should I open a special account?\nBen: Yes, a separate savings account is a good idea. It's harder to spend money you can't see every day.",
+    "qs": [
+      {
+        "q": "What does Ben say Lisa should do first?",
+        "opts": [
+          "Open a savings account",
+          "Write down everything she spends in a month",
+          "Ask her boss for a raise",
+          "Stop drinking coffee"
+        ],
+        "ans": 1,
+        "why": "Ben says to write down everything she spends in a month."
+      },
+      {
+        "q": "Where does Lisa spend a lot of money?",
+        "opts": [
+          "On clothes",
+          "On travel",
+          "On food delivery",
+          "On rent"
+        ],
+        "ans": 2,
+        "why": "She says she spends a lot on food delivery."
+      },
+      {
+        "q": "Why does Ben recommend a separate savings account?",
+        "opts": [
+          "It pays a very high salary",
+          "It is free to open",
+          "Banks require it",
+          "It's harder to spend money you don't see every day"
+        ],
+        "ans": 3,
+        "why": "He says it is harder to spend money you can't see every day."
+      }
+    ],
+    "vocab": [
+      "add up",
+      "put aside",
+      "payday"
+    ]
+  },
+  {
+    "id": "lis-x1-09",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "finance",
+    "kind": "voicemail",
+    "script": "Hello, Mr. Patel, this is Sarah Collins from Northside Bank. I'm calling about the credit card application you submitted last week. We've reviewed your documents, and everything looks fine except for one thing. We still need a recent proof of address, such as a utility bill from the last three months. You can send it by email or bring it to any of our branches. Once we receive it, the process usually takes two or three working days. If you have any questions, please call me back at the number on your application, either before five o'clock today or tomorrow morning after nine. Thank you, and have a good day.",
+    "qs": [
+      {
+        "q": "Why is Sarah calling Mr. Patel?",
+        "opts": [
+          "His card has been stolen",
+          "His application is missing one document",
+          "His account has been closed",
+          "He owes the bank money"
+        ],
+        "ans": 1,
+        "why": "Everything is fine except that the bank still needs a proof of address."
+      },
+      {
+        "q": "Which document would be acceptable?",
+        "opts": [
+          "A passport photo",
+          "A bank statement from last year",
+          "A utility bill from the last three months",
+          "A letter from his employer"
+        ],
+        "ans": 2,
+        "why": "She mentions a utility bill from the last three months as an example."
+      },
+      {
+        "q": "How long does the process usually take after the bank receives the document?",
+        "opts": [
+          "One hour",
+          "One week",
+          "A month",
+          "Two or three working days"
+        ],
+        "ans": 3,
+        "why": "She says the process usually takes two or three working days."
+      }
+    ],
+    "vocab": [
+      "proof of address",
+      "utility bill",
+      "branch"
+    ]
+  },
+  {
+    "id": "lis-x1-10",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "finance",
+    "kind": "monologue",
+    "script": "Let's talk about inflation, because it affects everyone, even if we don't always notice it. Inflation simply means that, over time, prices rise, so the same amount of money buys fewer goods and services. If prices go up by three percent a year, something that costs a hundred dollars today will cost about a hundred and three dollars next year. This is why keeping all your savings in a drawer isn't a good long-term strategy. Your money loses purchasing power, even though the number on the bills stays the same. Many people try to protect their savings by investing, but investing comes with risk, and returns are never guaranteed. A sensible approach is to spread your money across different options and to think carefully about how long you can leave it untouched.",
+    "qs": [
+      {
+        "q": "What does inflation mean, according to the speaker?",
+        "opts": [
+          "Salaries rise faster than prices",
+          "Banks give higher interest rates",
+          "Prices rise, so the same money buys less",
+          "Goods become cheaper over time"
+        ],
+        "ans": 2,
+        "why": "She explains that prices rise over time, so the same amount of money buys fewer goods."
+      },
+      {
+        "q": "Why is keeping all your savings in a drawer a poor long-term strategy?",
+        "opts": [
+          "Someone might steal it",
+          "The money loses purchasing power",
+          "Banks charge a fee for it",
+          "The bills become damaged"
+        ],
+        "ans": 1,
+        "why": "The number on the bills stays the same, but their purchasing power falls."
+      },
+      {
+        "q": "What does the speaker say about investing?",
+        "opts": [
+          "It always protects savings",
+          "It is illegal for most people",
+          "It is only for experts",
+          "It involves risk, so spreading money out is sensible"
+        ],
+        "ans": 3,
+        "why": "She says investing comes with risk and returns are not guaranteed, so spreading money is a sensible approach."
+      }
+    ],
+    "vocab": [
+      "inflation",
+      "purchasing power",
+      "spread your money"
+    ]
+  },
+  {
+    "id": "lis-x1-11",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "finance",
+    "kind": "conversation",
+    "script": "Chloe: Have you sorted out your tax return yet, Oliver?\nOliver: Not yet. Since I started freelancing, it's been much more complicated than I'd imagined.\nChloe: I know what you mean. The key is to keep every receipt for anything related to work.\nOliver: I've been doing that, but I'm not sure which expenses I can actually claim.\nChloe: Generally, you can claim costs that are directly related to your work, such as software or part of your internet bill. But the rules depend on where you live, so it's worth checking.\nOliver: Maybe I should hire an accountant.\nChloe: It's not cheap, but it could save you a lot of stress, and they might find deductions you'd have missed.\nOliver: You've convinced me. I'll book an appointment this week.",
+    "qs": [
+      {
+        "q": "Why has Oliver's tax return become more complicated?",
+        "opts": [
+          "He moved to another country",
+          "He started working as a freelancer",
+          "He lost his receipts",
+          "He changed his bank"
+        ],
+        "ans": 1,
+        "why": "He says it has been more complicated since he started freelancing."
+      },
+      {
+        "q": "According to Chloe, which expenses can generally be claimed?",
+        "opts": [
+          "Any expense at all",
+          "Only travel costs",
+          "Costs that are directly related to work",
+          "Only costs above a certain amount"
+        ],
+        "ans": 2,
+        "why": "She says you can generally claim costs that are directly related to your work."
+      },
+      {
+        "q": "What does Oliver decide to do?",
+        "opts": [
+          "Ignore the tax return this year",
+          "Ask Chloe to fill in the forms",
+          "Stop freelancing",
+          "Book an appointment with an accountant"
+        ],
+        "ans": 3,
+        "why": "Chloe convinces him, and he says he'll book an appointment this week."
+      }
+    ],
+    "vocab": [
+      "tax return",
+      "freelance",
+      "deductions"
+    ]
+  },
+  {
+    "id": "lis-x1-12",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "abstract",
+    "kind": "monologue",
+    "script": "I think trust is one of the most important things in any relationship, whether it's with a friend, a coworker, or a partner. It takes a long time to build, but it can disappear in a single moment. When I started my first job, my manager gave me a big project, even though I had very little experience. At first, I was nervous, but I realized that she trusted me, and that made me work harder. I didn't want to let her down. Since then, I've tried to treat other people the same way. Of course, trusting someone always involves some risk, because they might disappoint you. However, I believe that the risk is worth taking, because without trust, it's hard to build anything lasting.",
+    "qs": [
+      {
+        "q": "How does the speaker describe trust?",
+        "opts": [
+          "Quick to build and quick to lose",
+          "Slow to build but easy to lose",
+          "Easy to build and hard to lose",
+          "Not very important"
+        ],
+        "ans": 1,
+        "why": "He says it takes a long time to build but can disappear in a single moment."
+      },
+      {
+        "q": "Why did the speaker work harder in his first job?",
+        "opts": [
+          "He wanted a higher salary",
+          "He was afraid of losing the job",
+          "He didn't want to disappoint a manager who trusted him",
+          "He had a lot of experience"
+        ],
+        "ans": 2,
+        "why": "He realized his manager trusted him and he didn't want to let her down."
+      },
+      {
+        "q": "What is the speaker's opinion about the risk of trusting people?",
+        "opts": [
+          "It is too dangerous",
+          "It should be avoided at work",
+          "It only matters in friendships",
+          "It is worth taking"
+        ],
+        "ans": 3,
+        "why": "He believes the risk is worth taking because nothing lasting can be built without trust."
+      }
+    ],
+    "vocab": [
+      "let someone down",
+      "disappoint",
+      "lasting"
+    ]
+  },
+  {
+    "id": "lis-x1-13",
+    "lvl": "B1+",
+    "speed": "slow",
+    "accent": "gb",
+    "topic": "abstract",
+    "kind": "conversation",
+    "script": "Harry: Do you ever think about what makes people happy?\nGrace: All the time. I used to believe that money was the answer, but now I'm not so sure.\nHarry: What changed your mind?\nGrace: My uncle retired last year with plenty of savings, but he told me he felt bored and a little lonely.\nHarry: So he missed having a purpose?\nGrace: Exactly. He started volunteering at an animal shelter, and now he seems much happier.\nHarry: That's interesting. I read somewhere that spending time with other people matters more than owning things.\nGrace: I agree. Things are nice, but memories and friendships last longer.\nHarry: Maybe happiness is about having something to look forward to each day.",
+    "qs": [
+      {
+        "q": "What changed Grace's opinion about money and happiness?",
+        "opts": [
+          "Her uncle's experience after retiring",
+          "A book she read",
+          "Her own recent promotion",
+          "A conversation with Harry"
+        ],
+        "ans": 0,
+        "why": "Her uncle retired with plenty of savings but still felt bored and lonely."
+      },
+      {
+        "q": "How did Grace's uncle become happier?",
+        "opts": [
+          "He bought a new house",
+          "He started working again full time",
+          "He moved to another country",
+          "He began volunteering at an animal shelter"
+        ],
+        "ans": 3,
+        "why": "Volunteering at an animal shelter gave him a purpose, and he now seems happier."
+      },
+      {
+        "q": "What does Harry suggest about happiness at the end?",
+        "opts": [
+          "It depends on having something to look forward to",
+          "It comes only from money",
+          "It is impossible to explain",
+          "It is the same for everyone"
+        ],
+        "ans": 0,
+        "why": "He says maybe happiness is about having something to look forward to each day."
+      }
+    ],
+    "vocab": [
+      "retire",
+      "volunteer",
+      "purpose"
+    ]
+  },
+  {
+    "id": "lis-x1-14",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "abstract",
+    "kind": "monologue",
+    "script": "People often assume that creativity needs complete freedom, but many artists and designers say that the opposite is true. When you can do anything, it's easy to feel overwhelmed by the number of choices. A limit, such as a small budget, a tight deadline, or a strict word count, can actually push you to think more imaginatively. Take poetry, for example. A sonnet has fourteen lines and a fixed pattern, yet poets have written remarkable work within those rules for centuries. Of course, too many restrictions can be frustrating, and the right balance varies from person to person. Still, next time you're stuck on a creative project, it might help to set yourself a challenge rather than waiting for inspiration to arrive.",
+    "qs": [
+      {
+        "q": "What do people often assume about creativity?",
+        "opts": [
+          "That it needs a large budget",
+          "That it needs complete freedom",
+          "That it cannot be taught",
+          "That it only exists in poetry"
+        ],
+        "ans": 1,
+        "why": "The speaker says people assume creativity needs complete freedom."
+      },
+      {
+        "q": "Why does the speaker mention the sonnet?",
+        "opts": [
+          "To show that poetry is outdated",
+          "To prove that poets dislike rules",
+          "To give an example of good work produced within strict rules",
+          "To explain how to write quickly"
+        ],
+        "ans": 2,
+        "why": "A sonnet has a fixed pattern, yet poets have written remarkable work within it for centuries."
+      },
+      {
+        "q": "What does the speaker advise when you feel stuck?",
+        "opts": [
+          "Wait for inspiration",
+          "Remove every restriction",
+          "Ask someone else to finish the project",
+          "Set yourself a challenge"
+        ],
+        "ans": 3,
+        "why": "She suggests setting yourself a challenge rather than waiting for inspiration."
+      }
+    ],
+    "vocab": [
+      "overwhelmed",
+      "imaginatively",
+      "restrictions"
+    ]
+  },
+  {
+    "id": "lis-x1-15",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "abstract",
+    "kind": "conversation",
+    "script": "Julia: I've been thinking about a decision I made years ago, and I can't help wondering whether I'd be happier if I had chosen differently.\nTheo: That's a common trap. We tend to imagine the alternative as better than it would have been, because we only know the version we actually lived.\nJulia: True, but isn't regret also useful? It tells us what we value.\nTheo: I'd say it can be, provided it leads somewhere. If it just keeps you ruminating, it's not teaching you anything.\nJulia: So the distinction lies between reflecting and dwelling.\nTheo: Precisely. Reflection asks what you can learn from the past, whereas dwelling merely replays it.\nJulia: I suppose I should focus on what I can still change.\nTheo: Which, ironically, is usually the part we spend the least time on.",
+    "qs": [
+      {
+        "q": "Why do we tend to imagine the alternative as better, according to Theo?",
+        "opts": [
+          "We have only experienced the life we actually lived",
+          "We are naturally pessimistic",
+          "Other people tell us it was better",
+          "We forget our past mistakes"
+        ],
+        "ans": 0,
+        "why": "He says we only know the version we actually lived, so the alternative seems better."
+      },
+      {
+        "q": "How does Theo distinguish reflection from dwelling?",
+        "opts": [
+          "Reflection is shorter than dwelling",
+          "Dwelling helps us learn, but reflection does not",
+          "Reflection looks for lessons, whereas dwelling just replays the past",
+          "They are essentially the same"
+        ],
+        "ans": 2,
+        "why": "Reflection asks what you can learn from the past, whereas dwelling merely replays it."
+      },
+      {
+        "q": "What is ironic, according to Theo's final comment?",
+        "opts": [
+          "Regret is always useful",
+          "We spend little time on the things we can still change",
+          "Julia has made the wrong decision",
+          "Nobody wants to reflect on the past"
+        ],
+        "ans": 1,
+        "why": "He says the part we can still change is usually the part we spend the least time on."
+      }
+    ],
+    "vocab": [
+      "regret",
+      "ruminate",
+      "dwell on"
+    ]
+  },
+  {
+    "id": "lis-x2-01",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "relationships",
+    "kind": "conversation",
+    "script": "Lena: Jake, we need to talk about the kitchen.\nJake: Oh no. Is it that bad?\nLena: Well, there are dirty dishes in the sink again, and it's your week to clean.\nJake: I'm sorry. I had a long day at work, and I forgot.\nLena: I understand, but I worked late too, and I still washed my cup.\nJake: You're right. How about I do the dishes now and take out the trash tomorrow morning?\nLena: That sounds fair. Maybe we can also make a list of chores and put it on the fridge.\nJake: Good idea. Then nobody has to remind anybody.\nLena: Thanks, Jake. I really appreciate it.",
+    "qs": [
+      {
+        "q": "What is Lena's complaint?",
+        "opts": [
+          "There are dirty dishes in the sink",
+          "Jake plays loud music",
+          "Jake didn't pay the rent",
+          "The trash is outside the door"
+        ],
+        "ans": 0,
+        "why": "She says there are dirty dishes in the sink again."
+      },
+      {
+        "q": "Why does Jake say he forgot?",
+        "opts": [
+          "He was on vacation",
+          "He had a long day at work",
+          "He was feeling sick",
+          "He didn't know it was his week"
+        ],
+        "ans": 1,
+        "why": "Jake says he had a long day at work."
+      },
+      {
+        "q": "What will they put on the fridge?",
+        "opts": [
+          "A shopping list",
+          "A photo of the kitchen",
+          "A note for the neighbors",
+          "A list of chores"
+        ],
+        "ans": 3,
+        "why": "Lena suggests making a list of chores and putting it on the fridge."
+      }
+    ],
+    "vocab": [
+      "chores",
+      "take out the trash",
+      "remind"
+    ]
+  },
+  {
+    "id": "lis-x2-02",
+    "lvl": "B1",
+    "speed": "slow",
+    "accent": "gb",
+    "topic": "work",
+    "kind": "conversation",
+    "script": "Mia: Excuse me, Mr Collins. Do you have a minute?\nMr Collins: Of course, Mia. What's up?\nMia: I'd like to take next Friday off. My sister is getting married, and the wedding is on Saturday in Leeds.\nMr Collins: Congratulations to her! Friday is fine, but we have a team meeting that morning.\nMia: I know. I can send my report on Thursday, so nobody has to wait for me.\nMr Collins: That would be perfect. Please also ask Tom to help with any urgent emails.\nMia: Yes, I'll do that. Thank you so much.\nMr Collins: You're welcome. Enjoy the wedding.",
+    "qs": [
+      {
+        "q": "Why does Mia want Friday off?",
+        "opts": [
+          "She has a doctor's appointment",
+          "She wants to travel for her sister's wedding",
+          "She is moving to a new house",
+          "She needs to finish a report"
+        ],
+        "ans": 1,
+        "why": "Her sister is getting married on Saturday in Leeds."
+      },
+      {
+        "q": "What will Mia do before she leaves?",
+        "opts": [
+          "Send her report on Thursday",
+          "Cancel the team meeting",
+          "Write to the client",
+          "Visit Mr Collins at home"
+        ],
+        "ans": 0,
+        "why": "She offers to send her report on Thursday."
+      },
+      {
+        "q": "Who will help with urgent emails?",
+        "opts": [
+          "Mr Collins",
+          "Mia's sister",
+          "Tom",
+          "Nobody"
+        ],
+        "ans": 2,
+        "why": "Mr Collins asks Mia to ask Tom for help."
+      }
+    ],
+    "vocab": [
+      "take a day off",
+      "urgent",
+      "getting married"
+    ]
+  },
+  {
+    "id": "lis-x2-03",
+    "lvl": "B1",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "culture",
+    "kind": "monologue",
+    "script": "Every September, my town holds a food festival, and it's my favorite weekend of the year. The main street is closed to cars, and hundreds of people walk between the stalls. You can try dishes from many countries, like Mexican tacos, Indian curry, and Italian ice cream. Local families also sell homemade bread and cakes. There is live music in the park, and children can join free cooking classes. My advice is to arrive early, because the lines get long after noon. Also, bring some cash, since a few small stalls don't take cards. Last year I ate so much that I couldn't have dinner. This year I'm going to share dishes with my friends, so we can taste more things.",
+    "qs": [
+      {
+        "q": "When does the festival take place?",
+        "opts": [
+          "Every June",
+          "Every September",
+          "Every December",
+          "Every weekend"
+        ],
+        "ans": 1,
+        "why": "The speaker says the festival is held every September."
+      },
+      {
+        "q": "Why does the speaker suggest arriving early?",
+        "opts": [
+          "The music starts at noon",
+          "The streets close at ten",
+          "The lines are long after noon",
+          "The food is free in the morning"
+        ],
+        "ans": 2,
+        "why": "The lines get long after noon."
+      },
+      {
+        "q": "Why should visitors bring cash?",
+        "opts": [
+          "Parking is expensive",
+          "Some small stalls don't accept cards",
+          "The cooking classes are not free",
+          "There are no banks in town"
+        ],
+        "ans": 1,
+        "why": "A few small stalls don't take cards."
+      }
+    ],
+    "vocab": [
+      "stall",
+      "homemade",
+      "lines"
+    ]
+  },
+  {
+    "id": "lis-x2-04",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "security",
+    "kind": "voicemail",
+    "script": "Hello, this is Rachel from the fraud team at Northern Bank. I'm calling because we noticed an unusual payment on your card this morning. It was for four hundred pounds at an electronics shop in another city. If you made this payment, you don't need to do anything. If you didn't, please call the number on the back of your card as soon as you can, and we will block the card straight away. Please remember that we will never ask you to share your PIN or your full password, either by phone or by email. If anyone asks for that information, hang up. Thank you, and have a good day.",
+    "qs": [
+      {
+        "q": "Why is Rachel calling?",
+        "opts": [
+          "To offer a new credit card",
+          "To report an unusual payment",
+          "To confirm a bank appointment",
+          "To ask for a PIN"
+        ],
+        "ans": 1,
+        "why": "The bank noticed an unusual payment on the card."
+      },
+      {
+        "q": "What should the customer do if they didn't make the payment?",
+        "opts": [
+          "Visit the shop",
+          "Send an email with the PIN",
+          "Wait until tomorrow",
+          "Call the number on the back of the card"
+        ],
+        "ans": 3,
+        "why": "Rachel says to call the number on the back of the card so the bank can block it."
+      },
+      {
+        "q": "What will the bank never ask for?",
+        "opts": [
+          "The customer's PIN",
+          "The customer's opinion",
+          "The date of the payment",
+          "The name of the shop"
+        ],
+        "ans": 0,
+        "why": "The bank will never ask customers to share their PIN or full password."
+      }
+    ],
+    "vocab": [
+      "fraud",
+      "unusual",
+      "straight away"
+    ]
+  },
+  {
+    "id": "lis-x2-05",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "ai",
+    "kind": "conversation",
+    "script": "Carlos: Dana, how do you study for the history exam so quickly?\nDana: I use an AI assistant to summarize my notes. It turns ten pages into one page.\nCarlos: Isn't that risky? What if the summary has mistakes?\nDana: That's true. I always compare it with my textbook. It saves time, but I don't trust it completely.\nCarlos: Does it also help you with writing essays?\nDana: It gives me ideas, but I write the essay myself. My teacher can tell when a student copies a text.\nCarlos: Good point. Maybe I should try it for my notes.\nDana: Just check everything first. Honestly, that's the most important rule.",
+    "qs": [
+      {
+        "q": "How does Dana use the AI assistant?",
+        "opts": [
+          "To write her essays",
+          "To answer exam questions",
+          "To summarize her notes",
+          "To find a teacher"
+        ],
+        "ans": 2,
+        "why": "She says it turns ten pages of notes into one page."
+      },
+      {
+        "q": "What does Dana do to avoid mistakes?",
+        "opts": [
+          "She asks her teacher",
+          "She compares the summary with her textbook",
+          "She reads the summary twice",
+          "She uses two AI tools"
+        ],
+        "ans": 1,
+        "why": "She says she always compares it with her textbook."
+      },
+      {
+        "q": "What does Dana say about essays?",
+        "opts": [
+          "AI writes them better than students",
+          "Teachers never notice copied text",
+          "She writes them herself and only gets ideas from AI",
+          "She doesn't write essays"
+        ],
+        "ans": 2,
+        "why": "The AI gives her ideas, but she writes the essay herself."
+      }
+    ],
+    "vocab": [
+      "summarize",
+      "compare",
+      "trust"
+    ]
+  },
+  {
+    "id": "lis-x2-06",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "culture",
+    "kind": "announcement",
+    "script": "Good evening, visitors, and welcome to the City Art Museum's late-night opening. Tonight, the museum will stay open until eleven o'clock, and entry to all galleries is free. On the second floor, a guide will give a short talk about our new photography exhibition at eight and again at nine thirty. In the main hall, a local band will play jazz from seven o'clock. Please remember that photographs are allowed, but flash photography is not. The café on the ground floor is open until ten, and the gift shop closes at nine. If you need any help, our staff are wearing green badges. We hope you enjoy your evening.",
+    "qs": [
+      {
+        "q": "What is special about tonight?",
+        "opts": [
+          "A new museum is opening",
+          "The museum is open late and entry is free",
+          "The guides are on strike",
+          "Only members can enter"
+        ],
+        "ans": 1,
+        "why": "The museum stays open until eleven, and entry is free."
+      },
+      {
+        "q": "What is not allowed in the museum?",
+        "opts": [
+          "Taking photographs",
+          "Listening to jazz",
+          "Flash photography",
+          "Visiting the café"
+        ],
+        "ans": 2,
+        "why": "Photographs are allowed, but flash photography is not."
+      },
+      {
+        "q": "What closes at nine o'clock?",
+        "opts": [
+          "The gift shop",
+          "The café",
+          "The main hall",
+          "The photography exhibition"
+        ],
+        "ans": 0,
+        "why": "The gift shop closes at nine, while the café stays open until ten."
+      }
+    ],
+    "vocab": [
+      "exhibition",
+      "gallery",
+      "badge"
+    ]
+  },
+  {
+    "id": "lis-x2-07",
+    "lvl": "B1+",
+    "speed": "slow",
+    "accent": "us",
+    "topic": "work",
+    "kind": "monologue",
+    "script": "I've been working from home for two years, and I've learned a few things. First, have a fixed routine. I start at nine and finish at six, and I take a proper lunch break away from my desk. Second, create a separate workspace. When I worked on the sofa, I found it hard to switch off in the evening. Now I have a small desk in the corner of my bedroom, and I close my laptop when the day ends. Third, stay in touch with colleagues. I used to send only emails, but now I call people more often, and it makes teamwork easier. Of course, working from home isn't perfect, but these habits really help me stay productive and relaxed.",
+    "qs": [
+      {
+        "q": "What does the speaker do at lunchtime?",
+        "opts": [
+          "Works at the desk",
+          "Goes back to bed",
+          "Takes a break away from the desk",
+          "Calls colleagues"
+        ],
+        "ans": 2,
+        "why": "He takes a proper lunch break away from his desk."
+      },
+      {
+        "q": "Why did the speaker get a separate desk?",
+        "opts": [
+          "His sofa was uncomfortable",
+          "It was hard to switch off in the evening",
+          "He needed a bigger screen",
+          "His colleagues asked him to"
+        ],
+        "ans": 1,
+        "why": "When he worked on the sofa, he found it hard to switch off."
+      },
+      {
+        "q": "What changed about his communication with colleagues?",
+        "opts": [
+          "He sends more emails",
+          "He avoids calls",
+          "He calls people more often",
+          "He only uses text messages"
+        ],
+        "ans": 2,
+        "why": "He used to send only emails, but now he calls people more often."
+      }
+    ],
+    "vocab": [
+      "routine",
+      "switch off",
+      "productive"
+    ]
+  },
+  {
+    "id": "lis-x2-08",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "security",
+    "kind": "conversation",
+    "script": "Priya: Mike, did you get that email about the payroll update?\nMike: I did. It said I had to confirm my details through a link within twenty-four hours.\nPriya: Exactly. I almost clicked, but the sender's address looked slightly odd. It had an extra letter in the company name.\nMike: Good catch. Those messages are designed to create panic, so people act before they think.\nPriya: That's what worries me. Some of our newer colleagues might fall for it.\nMike: Then we should report it to the security team right away. They can warn everyone and block the sender.\nPriya: Agreed. Should we forward it, or use the report button?\nMike: The report button. Forwarding it could spread the risk, and the button gives the team the technical details they need.",
+    "qs": [
+      {
+        "q": "What made Priya suspicious of the email?",
+        "opts": [
+          "The message was too long",
+          "The sender's address had an extra letter",
+          "The payroll date was wrong",
+          "It came from the security team"
+        ],
+        "ans": 1,
+        "why": "She noticed an extra letter in the company name in the address."
+      },
+      {
+        "q": "Why do these messages usually include a short deadline?",
+        "opts": [
+          "To help the payroll team",
+          "To make people act without thinking",
+          "To save time for the sender",
+          "To test the company's network"
+        ],
+        "ans": 1,
+        "why": "Mike says such messages are designed to create panic so people act before they think."
+      },
+      {
+        "q": "What do Priya and Mike decide to do?",
+        "opts": [
+          "Forward the email to everyone",
+          "Delete it and say nothing",
+          "Use the report button",
+          "Click the link carefully"
+        ],
+        "ans": 2,
+        "why": "Mike recommends the report button instead of forwarding, and Priya agrees."
+      }
+    ],
+    "vocab": [
+      "fall for",
+      "right away",
+      "forward"
+    ]
+  },
+  {
+    "id": "lis-x2-09",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "work",
+    "kind": "conversation",
+    "script": "Hannah: Ross, I've looked at the schedule, and I'm afraid the launch date isn't realistic.\nRoss: That's a problem. The client expects the final version by the end of the month.\nHannah: I know, but two of our developers are off sick, and the testing phase will take longer than planned.\nRoss: Could we deliver the core features first and add the rest later?\nHannah: That might work. If we focus on the essentials, we could meet the original deadline with a slightly smaller product.\nRoss: I'd have to check whether the client agrees to that.\nHannah: Of course. I'll prepare a short summary showing what we can deliver and what would be delayed.\nRoss: Perfect. Send it by lunchtime, and I'll call them this afternoon.",
+    "qs": [
+      {
+        "q": "Why is the launch date unrealistic?",
+        "opts": [
+          "The client changed the requirements",
+          "The budget has run out",
+          "Two developers are sick and testing will take longer",
+          "The software is already finished"
+        ],
+        "ans": 2,
+        "why": "Hannah mentions two developers off sick and a longer testing phase."
+      },
+      {
+        "q": "What does Ross suggest?",
+        "opts": [
+          "Cancelling the project",
+          "Hiring new developers",
+          "Moving the deadline to next year",
+          "Delivering the core features first"
+        ],
+        "ans": 3,
+        "why": "He asks whether they could deliver the core features first and add the rest later."
+      },
+      {
+        "q": "What will Hannah do next?",
+        "opts": [
+          "Call the client herself",
+          "Prepare a summary of what can and can't be delivered",
+          "Test the software tonight",
+          "Ask the developers to return"
+        ],
+        "ans": 1,
+        "why": "She will prepare a short summary and send it by lunchtime."
+      }
+    ],
+    "vocab": [
+      "deadline",
+      "core features",
+      "off sick"
+    ]
+  },
+  {
+    "id": "lis-x2-10",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "relationships",
+    "kind": "monologue",
+    "script": "My closest friend moved abroad five years ago, and I was afraid we would drift apart. At first, we tried to talk every day, but time zones made that exhausting, and we both felt guilty when we missed a call. Eventually, we changed our approach. Now we send short voice messages whenever something funny or important happens, and we answer when we have time. Once a month, we schedule a proper video call. Surprisingly, our friendship feels stronger than before, because we share more honest details of our lives. I've realized that closeness isn't about talking constantly. It's about making the effort to stay interested in each other, even from a distance.",
+    "qs": [
+      {
+        "q": "Why was daily contact difficult at first?",
+        "opts": [
+          "Time zones made it exhausting",
+          "They had nothing to say",
+          "Their phones were expensive",
+          "They argued often"
+        ],
+        "ans": 0,
+        "why": "Time zones made daily calls exhausting, and they felt guilty about missed calls."
+      },
+      {
+        "q": "How do the friends stay in touch now?",
+        "opts": [
+          "Only by email",
+          "With voice messages and a monthly video call",
+          "With daily phone calls",
+          "By visiting each other every month"
+        ],
+        "ans": 1,
+        "why": "They send voice messages and schedule one video call a month."
+      },
+      {
+        "q": "What is the speaker's main point?",
+        "opts": [
+          "Friends should always live nearby",
+          "Technology can replace real friendship",
+          "Closeness comes from effort and interest, not constant contact",
+          "Time zones are not important"
+        ],
+        "ans": 2,
+        "why": "She says closeness is about making the effort to stay interested, not talking constantly."
+      }
+    ],
+    "vocab": [
+      "drift apart",
+      "time zone",
+      "make the effort"
+    ]
+  },
+  {
+    "id": "lis-x2-11",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "ai",
+    "kind": "news",
+    "script": "Education officials have published new guidelines on the use of artificial intelligence in secondary schools. Rather than banning the tools outright, the guidelines ask schools to set clear rules about when students may use them. Teachers will be encouraged to design assignments that require personal reflection, which is harder to generate automatically. Schools will also be asked to teach pupils how to check information and recognise errors in AI-generated answers. Supporters say this approach prepares young people for the modern workplace. Critics, however, worry that some students will still rely on the technology too heavily and neglect basic writing skills. The guidelines will be reviewed again at the end of the next academic year.",
+    "qs": [
+      {
+        "q": "What approach do the guidelines take?",
+        "opts": [
+          "A complete ban on AI",
+          "Clear rules about when AI may be used",
+          "Free use of AI at all times",
+          "Replacing teachers with AI"
+        ],
+        "ans": 1,
+        "why": "Schools are asked to set clear rules rather than ban the tools outright."
+      },
+      {
+        "q": "Why are assignments requiring personal reflection encouraged?",
+        "opts": [
+          "They are shorter to mark",
+          "Students enjoy them more",
+          "They are harder to generate automatically",
+          "They need no teacher feedback"
+        ],
+        "ans": 2,
+        "why": "Personal reflection is harder to generate automatically."
+      },
+      {
+        "q": "What is the critics' concern?",
+        "opts": [
+          "The guidelines are too strict",
+          "Students may neglect basic writing skills",
+          "Schools will not have enough computers",
+          "Teachers will lose their jobs"
+        ],
+        "ans": 1,
+        "why": "Critics worry that some students will rely on the technology too heavily and neglect writing skills."
+      }
+    ],
+    "vocab": [
+      "guidelines",
+      "rely on",
+      "outright"
+    ]
+  },
+  {
+    "id": "lis-x2-12",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "culture",
+    "kind": "conversation",
+    "script": "Nick: I can't believe you watch foreign films with dubbing. You lose the actors' real voices.\nEmma: But if I'm reading subtitles, I miss half of what's happening on screen.\nNick: That's only because you're not used to it. After a few films, your eyes adapt.\nEmma: Maybe, but dubbing lets me relax after a long day. Besides, some dubbed versions are excellent.\nNick: Sure, but the jokes rarely translate well. A phrase can lose its whole meaning.\nEmma: Fair point. Perhaps I'm being lazy.\nNick: Not lazy, just comfortable. Why don't we watch the next one with subtitles, and you can judge for yourself?\nEmma: Deal. But if I hate it, we're going back to dubbing.",
+    "qs": [
+      {
+        "q": "Why does Nick prefer subtitles?",
+        "opts": [
+          "They are easier to read",
+          "Dubbing is always badly done",
+          "They keep the actors' real voices",
+          "They are cheaper"
+        ],
+        "ans": 2,
+        "why": "He says dubbing makes you lose the actors' real voices."
+      },
+      {
+        "q": "What is Emma's objection to subtitles?",
+        "opts": [
+          "She misses what is happening on screen",
+          "The text is too small",
+          "They make films longer",
+          "She can't understand the language"
+        ],
+        "ans": 0,
+        "why": "She says she misses half of what's happening on screen."
+      },
+      {
+        "q": "What do they agree to do?",
+        "opts": [
+          "Stop watching foreign films",
+          "Watch the next film with subtitles",
+          "Buy a new television",
+          "Learn a foreign language together"
+        ],
+        "ans": 1,
+        "why": "Emma accepts Nick's suggestion to try subtitles for the next film."
+      }
+    ],
+    "vocab": [
+      "dubbing",
+      "subtitles",
+      "fair point"
+    ]
+  },
+  {
+    "id": "lis-x2-13",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "security",
+    "kind": "news",
+    "script": "Cybersecurity experts are reminding travellers to be careful when using public Wi-Fi networks in airports, cafés and hotels. These networks are often open, which means other users on the same connection may be able to intercept unprotected data. Experts recommend avoiding online banking or shopping on a public network unless you use a virtual private network, known as a VPN, which encrypts your traffic. They also advise checking the exact name of the network with staff, because criminals sometimes create fake hotspots with similar names. Finally, travellers should keep their phone and laptop software up to date, since updates often fix known security weaknesses. Using your mobile data instead is usually a safer choice for sensitive tasks.",
+    "qs": [
+      {
+        "q": "Why can public Wi-Fi be risky?",
+        "opts": [
+          "It is always very slow",
+          "Other users may intercept unprotected data",
+          "It uses too much battery",
+          "It blocks banking websites"
+        ],
+        "ans": 1,
+        "why": "Open networks may let other users intercept unprotected data."
+      },
+      {
+        "q": "Why should travellers check the network name with staff?",
+        "opts": [
+          "To get a faster connection",
+          "To receive a discount",
+          "To avoid paying for the service",
+          "To avoid fake hotspots with similar names"
+        ],
+        "ans": 3,
+        "why": "Criminals sometimes create fake hotspots with similar names."
+      },
+      {
+        "q": "What does a VPN do, according to the report?",
+        "opts": [
+          "It encrypts your traffic",
+          "It speeds up downloads",
+          "It updates your software",
+          "It blocks all advertisements"
+        ],
+        "ans": 0,
+        "why": "The report says a VPN encrypts your traffic."
+      }
+    ],
+    "vocab": [
+      "intercept",
+      "encrypt",
+      "hotspot"
+    ]
+  },
+  {
+    "id": "lis-x2-14",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "work",
+    "kind": "monologue",
+    "script": "For years, I wore my exhaustion like a badge of honor. I answered emails at midnight, skipped vacations, and believed that being constantly available proved my commitment. Then, one winter, I realized I could no longer concentrate, and small tasks felt overwhelming. It turned out to be burnout, and recovering took months. What surprised me most was how little my absence disrupted the team. The work continued, and my colleagues managed perfectly well. Since returning, I've set firm boundaries: I switch off notifications after six, I take my full vacation, and I say no to projects that I can't realistically finish. Ironically, my performance has improved. I've come to see rest not as a reward for productivity, but as a prerequisite for it.",
+    "qs": [
+      {
+        "q": "What did the speaker used to believe?",
+        "opts": [
+          "Rest is a waste of time",
+          "Being constantly available showed commitment",
+          "Colleagues should work at night",
+          "Vacations improve performance"
+        ],
+        "ans": 1,
+        "why": "He believed that being constantly available proved his commitment."
+      },
+      {
+        "q": "What surprised the speaker most?",
+        "opts": [
+          "The team managed well without him",
+          "His doctor was unhelpful",
+          "The recovery was quick",
+          "His boss was angry"
+        ],
+        "ans": 0,
+        "why": "He was surprised how little his absence disrupted the team."
+      },
+      {
+        "q": "What conclusion does the speaker reach?",
+        "opts": [
+          "Rest is a reward for good results",
+          "Boundaries harm performance",
+          "Projects should never be refused",
+          "Rest is a requirement for productivity"
+        ],
+        "ans": 3,
+        "why": "He sees rest as a prerequisite for productivity, not a reward."
+      }
+    ],
+    "vocab": [
+      "burnout",
+      "boundaries",
+      "prerequisite"
+    ]
+  },
+  {
+    "id": "lis-x2-15",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "relationships",
+    "kind": "conversation",
+    "script": "Nora: I need your advice about Claire. She's cancelled on me three times this month, and each time the excuse sounds a bit thin.\nBen: Have you told her how that makes you feel?\nNora: Not really. I don't want to seem needy, and I'm afraid of starting an argument over something trivial.\nBen: But it clearly isn't trivial if it's bothering you this much. Resentment tends to build quietly until it comes out in an argument.\nNora: True. Still, what if she's going through something difficult and hasn't told me?\nBen: Then asking her directly gives her the chance to open up. You could say you've missed her instead of accusing her of anything.\nNora: That's a much gentler way to put it. I'll message her tonight and suggest a coffee.\nBen: Good. And whatever she says, listen before you respond.",
+    "qs": [
+      {
+        "q": "What is bothering Nora?",
+        "opts": [
+          "Claire has moved away",
+          "Claire has cancelled plans three times this month",
+          "Claire borrowed some money",
+          "Claire stopped answering messages"
+        ],
+        "ans": 1,
+        "why": "Nora says Claire has cancelled on her three times this month."
+      },
+      {
+        "q": "Why hasn't Nora spoken to Claire about it?",
+        "opts": [
+          "She is on holiday",
+          "She doesn't care",
+          "She doesn't want to seem needy or start an argument",
+          "She has already spoken to her"
+        ],
+        "ans": 2,
+        "why": "She doesn't want to seem needy and fears an argument over something trivial."
+      },
+      {
+        "q": "What does Ben suggest?",
+        "opts": [
+          "Ending the friendship",
+          "Ignoring the problem",
+          "Asking Claire's family",
+          "Saying she has missed Claire instead of accusing her"
+        ],
+        "ans": 3,
+        "why": "He suggests saying she's missed her rather than accusing her of anything."
+      }
+    ],
+    "vocab": [
+      "resentment",
+      "open up",
+      "trivial"
+    ]
+  },
+  {
+    "id": "lis-x3-01",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "tech",
+    "kind": "conversation",
+    "script": "Maya: Did you get a chance to look at the pull request I sent this morning?\nCarlos: I just finished reviewing it. The logic is clean, and the tests pass, so that part looks great.\nMaya: Awesome. Is there anything holding it back?\nCarlos: Just one small thing. You left a test API key hardcoded in the config file. Move it to an environment variable before we merge.\nMaya: Oh, good catch! I put it there while debugging locally and completely forgot to remove it. I'll fix that right now.",
+    "qs": [
+      {
+        "q": "What did Carlos think of the logic and tests in Maya's pull request?",
+        "opts": [
+          "They need a full rewrite",
+          "They look good and pass",
+          "They failed in staging",
+          "He hasn't checked them yet"
+        ],
+        "ans": 1,
+        "why": "Carlos says the logic is clean and the tests pass."
+      },
+      {
+        "q": "What issue did Carlos find?",
+        "opts": [
+          "A broken database query",
+          "Missing documentation",
+          "A hardcoded test API key",
+          "A syntax error in the UI"
+        ],
+        "ans": 2,
+        "why": "Carlos noticed a test API key hardcoded in the config file."
+      },
+      {
+        "q": "Why was the key in the file?",
+        "opts": [
+          "Maya put it there while debugging locally",
+          "It was required by the server",
+          "Carlos added it by mistake",
+          "It came from an old branch"
+        ],
+        "ans": 0,
+        "why": "Maya explains she put it there while debugging locally and forgot to remove it."
+      }
+    ],
+    "vocab": [
+      "pull request",
+      "hardcoded",
+      "environment variable"
+    ]
+  },
+  {
+    "id": "lis-x3-02",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "work",
+    "kind": "voicemail",
+    "script": "Hi Thiago, this is Rachel from the London office calling about Thursday's client workshop. Unfortunately, the client's head of operations had to fly to Dublin unexpectedly, so they've asked if we can push the workshop back by one week. That would put us on Thursday the twenty-fourth instead, same time at ten a.m. London time. Could you drop me a quick email before five today to confirm whether that works on your end? Thanks a lot.",
+    "qs": [
+      {
+        "q": "Why does the client want to reschedule the workshop?",
+        "opts": [
+          "The London office is closed",
+          "Their head of operations had to travel unexpectedly",
+          "The slides are not ready",
+          "They want to switch to an online call"
+        ],
+        "ans": 1,
+        "why": "Rachel says the client's head of operations had to fly to Dublin unexpectedly."
+      },
+      {
+        "q": "When is the proposed new date?",
+        "opts": [
+          "Tomorrow at ten",
+          "Monday the twenty-first",
+          "Thursday the twenty-fourth",
+          "Next month"
+        ],
+        "ans": 2,
+        "why": "They asked to push it back by one week to Thursday the twenty-fourth."
+      },
+      {
+        "q": "What does Rachel ask Thiago to do?",
+        "opts": [
+          "Call the client directly",
+          "Send an email before five today",
+          "Book a flight to Dublin",
+          "Cancel the workshop"
+        ],
+        "ans": 1,
+        "why": "She asks him to drop her a quick email before five today to confirm."
+      }
+    ],
+    "vocab": [
+      "push back",
+      "unexpectedly",
+      "on your end"
+    ]
+  },
+  {
+    "id": "lis-x3-03",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "security",
+    "kind": "monologue",
+    "script": "Whenever a company announces a data breach, people assume the attackers used some brilliant zero-day exploit. In reality, most incidents start with something far more ordinary: a reused password, an unpatched server, or a convincing phishing email sent on a busy Friday afternoon. That's why basic security hygiene—multi-factor authentication, timely updates, and least-privilege access—still prevents the vast majority of real-world attacks.",
+    "qs": [
+      {
+        "q": "According to the speaker, what do people often wrongly assume about data breaches?",
+        "opts": [
+          "They only affect small startups",
+          "They always involve advanced zero-day exploits",
+          "They are caused by hardware failures",
+          "They never happen on Fridays"
+        ],
+        "ans": 1,
+        "why": "People assume attackers used a brilliant zero-day exploit, while most incidents start with ordinary mistakes."
+      },
+      {
+        "q": "Which of these is NOT mentioned as a common starting point for breaches?",
+        "opts": [
+          "A reused password",
+          "An unpatched server",
+          "A phishing email",
+          "A stolen laptop"
+        ],
+        "ans": 3,
+        "why": "The speaker mentions reused passwords, unpatched servers, and phishing emails, not stolen laptops."
+      },
+      {
+        "q": "What is the speaker's main point?",
+        "opts": [
+          "Basic security practices stop most attacks",
+          "Zero-day exploits are impossible to block",
+          "Employees should not work on Fridays",
+          "Passwords are no longer needed"
+        ],
+        "ans": 0,
+        "why": "The speaker concludes that basic security hygiene prevents the vast majority of real-world attacks."
+      }
+    ],
+    "vocab": [
+      "data breach",
+      "unpatched",
+      "least-privilege"
+    ]
+  },
+  {
+    "id": "lis-x3-04",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "travel",
+    "kind": "announcement",
+    "script": "Good afternoon, everyone. This is a quick update for passengers booked on flight BA four-one-two to Amsterdam. Boarding will begin in approximately twenty minutes from gate fourteen, which is at the far end of Terminal Five. Please have your boarding pass and passport ready before you reach the desk. Because the flight is completely full today, anyone with a large cabin bag may be asked to check it into the hold free of charge.",
+    "qs": [
+      {
+        "q": "When will boarding begin?",
+        "opts": [
+          "Immediately",
+          "In about twenty minutes",
+          "In one hour",
+          "It has been delayed"
+        ],
+        "ans": 1,
+        "why": "The announcement states boarding will begin in approximately twenty minutes."
+      },
+      {
+        "q": "Where is gate fourteen located?",
+        "opts": [
+          "Near the main entrance",
+          "On the second floor",
+          "At the far end of Terminal Five",
+          "Next to baggage claim"
+        ],
+        "ans": 2,
+        "why": "It is at the far end of Terminal Five."
+      },
+      {
+        "q": "Why might some passengers have to check their cabin bags?",
+        "opts": [
+          "Security rules changed",
+          "The flight is completely full",
+          "There is an extra fee",
+          "The weather is bad"
+        ],
+        "ans": 1,
+        "why": "Because the flight is completely full, large cabin bags may be checked free of charge."
+      }
+    ],
+    "vocab": [
+      "approximately",
+      "boarding pass",
+      "free of charge"
+    ]
+  },
+  {
+    "id": "lis-x3-05",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "ai",
+    "kind": "conversation",
+    "script": "Elena: We've been testing this new AI support bot for three weeks, and the ticket deflection numbers look impressive on paper.\nSam: Look impressive on paper? That sounds like there's a catch.\nElena: There is. Customers whose issues get deflected often end up calling our phone line ten minutes later, twice as frustrated.\nSam: So the bot isn't actually resolving the problem—it's just blocking them from opening a ticket.\nElena: Exactly. If we don't measure repeat contacts alongside deflection, we're just fooling ourselves with a vanity metric.",
+    "qs": [
+      {
+        "q": "Why is Elena skeptical about the AI bot's results?",
+        "opts": [
+          "The bot is too expensive to run",
+          "Customers still call by phone shortly afterward",
+          "The bot takes too long to reply",
+          "Nobody is using the chat widget"
+        ],
+        "ans": 1,
+        "why": "Customers whose tickets are deflected call the phone line ten minutes later, twice as frustrated."
+      },
+      {
+        "q": "What does Sam realize the bot is actually doing?",
+        "opts": [
+          "Solving complex billing issues",
+          "Blocking customers from opening tickets without fixing the issue",
+          "Routing calls to the wrong department",
+          "Translating messages inaccurately"
+        ],
+        "ans": 1,
+        "why": "Sam notes it's just blocking them from opening a ticket rather than resolving the problem."
+      },
+      {
+        "q": "What does Elena recommend measuring?",
+        "opts": [
+          "Average typing speed",
+          "Repeat contacts alongside deflection",
+          "Total chat messages per hour",
+          "Customer age groups"
+        ],
+        "ans": 1,
+        "why": "She says they must measure repeat contacts alongside deflection."
+      }
+    ],
+    "vocab": [
+      "catch",
+      "deflection",
+      "vanity metric"
+    ]
+  },
+  {
+    "id": "lis-x3-06",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "business",
+    "kind": "conversation",
+    "script": "Liam: Before we sign the annual contract with this analytics vendor, have we checked their cancellation terms?\nPriya: Yes, I read the fine print yesterday. The contract auto-renews unless we give sixty days' written notice.\nLiam: Sixty days? That's pretty steep. What if we ask for a thirty-day notice period and an option to downgrade seats mid-year?\nPriya: Good idea. They want to close the deal before the end of the quarter, so we actually have decent leverage right now.",
+    "qs": [
+      {
+        "q": "What did Priya find in the contract's fine print?",
+        "opts": [
+          "A hidden setup fee",
+          "An auto-renewal clause requiring sixty days' notice",
+          "A two-year lock-in",
+          "No support on weekends"
+        ],
+        "ans": 1,
+        "why": "It auto-renews unless they give sixty days' written notice."
+      },
+      {
+        "q": "What two changes does Liam suggest?",
+        "opts": [
+          "A lower price and free training",
+          "A thirty-day notice period and an option to downgrade seats",
+          "Monthly billing and extra storage",
+          "Canceling the deal completely"
+        ],
+        "ans": 1,
+        "why": "Liam suggests a 30-day notice period and the option to downgrade seats mid-year."
+      },
+      {
+        "q": "Why does Priya think they have good leverage?",
+        "opts": [
+          "They are the vendor's biggest client",
+          "The vendor wants to close the deal before quarter-end",
+          "Competitors are cheaper",
+          "The contract is already signed"
+        ],
+        "ans": 1,
+        "why": "She says the vendor wants to close the deal before the end of the quarter."
+      }
+    ],
+    "vocab": [
+      "fine print",
+      "auto-renew",
+      "leverage"
+    ]
+  },
+  {
+    "id": "lis-x3-07",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "science",
+    "kind": "news",
+    "script": "A new study published in Bristol suggests that short afternoon naps may do more than simply reduce tiredness. Researchers tracked over four hundred office workers who took a twenty-minute rest after lunch three times a week. Compared with a control group, the nappers scored fourteen percent higher on memory recall tests in the late afternoon. However, the authors caution that naps longer than forty minutes often triggered grogginess and disrupted nighttime sleep.",
+    "qs": [
+      {
+        "q": "How long were the naps in the study's main group?",
+        "opts": [
+          "Ten minutes",
+          "Twenty minutes",
+          "Forty minutes",
+          "One hour"
+        ],
+        "ans": 1,
+        "why": "Participants took a twenty-minute rest after lunch."
+      },
+      {
+        "q": "What benefit was observed in the late afternoon?",
+        "opts": [
+          "Higher scores on memory recall tests",
+          "Faster typing speed",
+          "Lower blood pressure",
+          "Fewer sick days"
+        ],
+        "ans": 0,
+        "why": "Nappers scored fourteen percent higher on memory recall tests."
+      },
+      {
+        "q": "What warning do the authors give about longer naps?",
+        "opts": [
+          "They have no effect at all",
+          "They can cause grogginess and hurt nighttime sleep",
+          "They reduce appetite",
+          "They only help students"
+        ],
+        "ans": 1,
+        "why": "Naps over 40 minutes triggered grogginess and disrupted nighttime sleep."
+      }
+    ],
+    "vocab": [
+      "control group",
+      "memory recall",
+      "grogginess"
+    ]
+  },
+  {
+    "id": "lis-x3-08",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "daily",
+    "kind": "conversation",
+    "script": "Hannah: Hey, are you still coming to the gym after work?\nMark: I'd love to, but my internet at home went down this afternoon and a technician is coming between five and seven.\nHannah: Oh no, waiting around for a technician is the worst. Do you know what happened?\nMark: Probably the router again—it's been dropping the signal all week. How about we go tomorrow morning before work instead?",
+    "qs": [
+      {
+        "q": "Why can't Mark go to the gym after work?",
+        "opts": [
+          "He has to stay late at the office",
+          "He is waiting for an internet technician",
+          "He is feeling tired",
+          "The gym is closed"
+        ],
+        "ans": 1,
+        "why": "Mark's home internet went down and a technician is coming between five and seven."
+      },
+      {
+        "q": "What does Mark think caused the problem?",
+        "opts": [
+          "An unpaid bill",
+          "His router dropping the signal",
+          "A power outage",
+          "A broken laptop"
+        ],
+        "ans": 1,
+        "why": "He says the router has been dropping the signal all week."
+      },
+      {
+        "q": "When does Mark suggest going to the gym instead?",
+        "opts": [
+          "Tonight at eight",
+          "Tomorrow morning before work",
+          "On Saturday",
+          "Next week"
+        ],
+        "ans": 1,
+        "why": "He suggests going tomorrow morning before work."
+      }
+    ],
+    "vocab": [
+      "go down",
+      "wait around",
+      "drop the signal"
+    ]
+  },
+  {
+    "id": "lis-x3-09",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "finance",
+    "kind": "monologue",
+    "script": "Many freelancers make the mistake of pricing their work strictly by the hour. The problem is that as you get faster and more experienced, an hourly rate actually penalizes your efficiency. A task that used to take you ten hours might now take three, yet you earn less for delivering the exact same value. Moving to project-based pricing aligns your income with the outcome rather than the clock.",
+    "qs": [
+      {
+        "q": "Why does the speaker criticize hourly pricing for experienced freelancers?",
+        "opts": [
+          "Clients refuse to pay hourly rates",
+          "Getting faster means earning less for the same value",
+          "It is hard to track hours",
+          "Taxes are higher on hourly work"
+        ],
+        "ans": 1,
+        "why": "As you get faster, you finish in fewer hours and earn less for the same value."
+      },
+      {
+        "q": "What alternative does the speaker recommend?",
+        "opts": [
+          "Working more hours",
+          "Project-based pricing",
+          "Charging only after delivery",
+          "Lowering rates to get more clients"
+        ],
+        "ans": 1,
+        "why": "The speaker recommends moving to project-based pricing."
+      },
+      {
+        "q": "What does project-based pricing align income with?",
+        "opts": [
+          "The clock",
+          "The outcome",
+          "The client's budget",
+          "The time of year"
+        ],
+        "ans": 1,
+        "why": "It aligns income with the outcome rather than the clock."
+      }
+    ],
+    "vocab": [
+      "penalize",
+      "outcome",
+      "project-based"
+    ]
+  },
+  {
+    "id": "lis-x3-10",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "tech",
+    "kind": "conversation",
+    "script": "Devon: The checkout page is throwing intermittent 502 errors, and customers are complaining on social media.\nNina: Let me pull up the load balancer metrics. Hmm, the error rate spiked right after the 2 p.m. deployment.\nDevon: Should we dig through the logs first, or roll back immediately?\nNina: Roll back first, investigate second. Every minute we spend guessing costs us real orders. Once traffic stabilizes, we can reproduce it in staging.",
+    "qs": [
+      {
+        "q": "When did the 502 errors start spiking?",
+        "opts": [
+          "At midnight",
+          "Right after the 2 p.m. deployment",
+          "During a database backup",
+          "Before the weekend"
+        ],
+        "ans": 1,
+        "why": "Nina sees the error rate spiked right after the 2 p.m. deployment."
+      },
+      {
+        "q": "What does Nina decide to do first?",
+        "opts": [
+          "Read all the logs",
+          "Roll back the deployment",
+          "Restart the database",
+          "Reply on social media"
+        ],
+        "ans": 1,
+        "why": "Nina says: 'Roll back first, investigate second.'"
+      },
+      {
+        "q": "Where will they reproduce the bug after traffic stabilizes?",
+        "opts": [
+          "In production",
+          "In staging",
+          "On a customer's laptop",
+          "In the load balancer"
+        ],
+        "ans": 1,
+        "why": "Once traffic stabilizes, they will reproduce it in staging."
+      }
+    ],
+    "vocab": [
+      "intermittent",
+      "roll back",
+      "staging"
+    ]
+  }
 ]

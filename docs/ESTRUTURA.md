@@ -5,11 +5,7 @@
   - `engine.js`: utilidades, estado inicial, domínio/FSRS, habilidades, requisitos B2, nivelamento.
   - `engine2.js`: geração de exercícios, plano da sessão, análise de texto, caderno de erros.
   - `store.js`: persistência, XP, streak, conquistas, usuário demo.
-- `content/*.json`: conteúdo. Os prefixos são lidos pelo `build.js`:
-  - `words_a/b/c/d1..d7`: vocabulário. `phrasals`, `natural`, `connectors`, `diagnostic`, `speaking`.
-  - `grammar.json` + `grammar_new*.json`: tópicos novos de gramática (somam à lista).
-  - `grammar_x*.json`: **exercícios extras** que se somam a tópicos existentes (não são arquivos órfãos).
-  - `listening.json`, `listening_b.json`, `listening_x*.json`; `reading.json`, `reading_x*.json`; `roleplay.json`, `roleplay_x*.json`.
+- `content/*.json`: 10 arquivos consolidados por categoria (`words`, `phrasals`, `grammar`, `natural`, `connectors`, `listening`, `reading`, `speaking`, `roleplay`, `diagnostic`).
 
 ## Saídas geradas (não edite; `node build.js` recria)
 - `dist/FluentPath.html`: arquivo único.

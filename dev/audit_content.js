@@ -1,7 +1,7 @@
 // Estatísticas objetivas do conteúdo (sem rede). Uso: node dev/audit_content.js
 const fs = require('fs'), path = require('path');
 const J = f => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', f), 'utf8'));
-const words = fs.readdirSync(path.join(__dirname, '..', 'content')).filter(f => f.startsWith('words_') && f.endsWith('.json')).sort().flatMap(J), phr = J('phrasals.json'), gr = J('grammar.json'), nat = J('natural.json'), con = J('connectors.json'), lis = [...J('listening.json'), ...J('listening_b.json')], rd = J('reading.json'), spk = J('speaking.json'), rp = J('roleplay.json'), dx = J('diagnostic.json');
+const words = J('words.json'), phr = J('phrasals.json'), gr = J('grammar.json'), nat = J('natural.json'), con = J('connectors.json'), lis = J('listening.json'), rd = J('reading.json'), spk = J('speaking.json'), rp = J('roleplay.json'), dx = J('diagnostic.json');
 const cnt = (arr, f) => arr.reduce((m, x) => { const k = f(x); m[k] = (m[k] || 0) + 1; return m; }, {});
 const pct = (n, d) => Math.round(n / d * 100) + '%';
 const wc = s => String(s).split(/\s+/).filter(Boolean).length;

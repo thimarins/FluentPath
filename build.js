@@ -2,13 +2,10 @@
 const fs = require('fs'), path = require('path'), crypto = require('crypto');
 const R = (...p) => path.join(__dirname, ...p);
 const J = f => JSON.parse(fs.readFileSync(R('content', f), 'utf8'));
-const XF = pre => fs.readdirSync(R('content')).filter(f => f.startsWith(pre) && f.endsWith('.json')).sort().flatMap(f => J(f));
 const CONTENT = {
-  words: XF('words_'),
-  phr: J('phrasals.json'), gr: [...J('grammar.json'), ...XF('grammar_new')], nat: J('natural.json'), con: J('connectors.json'),
-  lis: [...J('listening.json'), ...(fs.existsSync(R('content', 'listening_b.json')) ? J('listening_b.json') : []), ...XF('listening_x')], rd: [...(fs.existsSync(R('content', 'reading.json')) ? J('reading.json') : []), ...XF('reading_x')], spk: J('speaking.json'), rp: [...J('roleplay.json'), ...XF('roleplay_x')], dx: J('diagnostic.json')
+  words: J('words.json'), phr: J('phrasals.json'), gr: J('grammar.json'), nat: J('natural.json'), con: J('connectors.json'),
+  lis: J('listening.json'), rd: J('reading.json'), spk: J('speaking.json'), rp: J('roleplay.json'), dx: J('diagnostic.json')
 };
-XF('grammar_x').forEach(x => { const g = CONTENT.gr.find(y => y.id === x.id); if (g) g.exercises.push(...x.exercises); });
 let cfg = {}; try { cfg = JSON.parse(fs.readFileSync(R('config.json'), 'utf8')); } catch (e) { }
 const order = ['engine.js', 'engine2.js', 'rules.js', 'store.js', 'speech_ai.js', 'ui_core.js', 'runner.js', 'flows.js', 'pages1.js', 'pages2.js', 'tutor_smart.js', 'wprompts.js', 'engage.js', 'sync.js', 'lookup.js', 'main.js'];
 let code = order.map(f => '/* ===== ' + f + ' ===== */\n' + fs.readFileSync(R('src', f), 'utf8')).join('\n');

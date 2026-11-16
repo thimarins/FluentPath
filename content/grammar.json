@@ -85,6 +85,133 @@
         "q": "Seu irmão mora em Londres?",
         "ans": "Does your brother live in London?",
         "why": "Does + subject + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "My brother ____ work on Saturdays.",
+        "opts": [
+          "don't",
+          "doesn't",
+          "isn't",
+          "not"
+        ],
+        "ans": 1,
+        "why": "He/she/it uses doesn't + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "____ the train leave at 8:15?",
+        "opts": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "ans": 1,
+        "why": "The train = it, so use Does."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "I ____ to the gym three times a week.",
+        "opts": [
+          "go",
+          "goes",
+          "am going",
+          "going"
+        ],
+        "ans": 0,
+        "why": "Habit with I: base verb, no -s."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "She don't like spicy food.",
+          "She doesn't likes spicy food.",
+          "She doesn't like spicy food.",
+          "She not like spicy food."
+        ],
+        "ans": 2,
+        "why": "After doesn't, the verb has no -s."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "He ____ his email every morning.",
+        "opts": [
+          "check",
+          "checks",
+          "is check",
+          "checking"
+        ],
+        "ans": 1,
+        "why": "He + verb with -s for routines."
+      },
+      {
+        "t": "fill",
+        "lvl": "A1",
+        "q": "My manager ____ (not/work) from home on Fridays.",
+        "ans": "doesn't work",
+        "acc": [
+          "doesn't work",
+          "does not work"
+        ],
+        "why": "Negative: doesn't + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "A1",
+        "q": "The server ____ (restart) every night at midnight.",
+        "ans": "restarts",
+        "acc": [
+          "restarts"
+        ],
+        "why": "It + verb-s."
+      },
+      {
+        "t": "fill",
+        "lvl": "A1",
+        "q": "____ your team use Slack at work? (do / does)",
+        "ans": "does",
+        "acc": [
+          "does"
+        ],
+        "why": "Your team is singular (it), so does."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "She ____ (watch) the news every evening.",
+        "ans": "watches",
+        "acc": [
+          "watches"
+        ],
+        "why": "Verbs ending in -ch add -es."
+      },
+      {
+        "t": "order",
+        "lvl": "A1",
+        "q": "Eu não bebo café à noite.",
+        "ans": "I don't drink coffee at night.",
+        "why": "I + don't + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "A1",
+        "q": "Ela trabalha para uma empresa de TI.",
+        "ans": "She works for an IT company.",
+        "why": "She + works; an before a vowel sound (eye-tee)."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "A que horas você acorda?",
+        "ans": "What time do you wake up?",
+        "why": "Question word + do + subject + base verb."
       }
     ]
   },
@@ -174,6 +301,132 @@
         "q": "As suas chaves estão no carro?",
         "ans": "Are your keys in the car?",
         "why": "Be goes before the subject in questions."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "She ____ not at home today.",
+        "opts": [
+          "are",
+          "is",
+          "am",
+          "do"
+        ],
+        "ans": 1,
+        "why": "She takes is."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "____ your parents at the airport?",
+        "opts": [
+          "Is",
+          "Are",
+          "Do",
+          "Am"
+        ],
+        "ans": 1,
+        "why": "Parents is plural, so Are."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "I ____ 30 years old.",
+        "opts": [
+          "have",
+          "am",
+          "are",
+          "is"
+        ],
+        "ans": 1,
+        "why": "English uses be for age, not have (common mistake)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "It is very cold today.",
+          "Is very cold today.",
+          "It are very cold today.",
+          "Have very cold today."
+        ],
+        "ans": 0,
+        "why": "English needs the subject 'It' for weather."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A1",
+        "q": "We ____ late for the meeting. Sorry!",
+        "opts": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "ans": 2,
+        "why": "We takes are."
+      },
+      {
+        "t": "fill",
+        "lvl": "A1",
+        "q": "There ____ a meeting at 3 p.m. today. (is / are)",
+        "ans": "is",
+        "acc": [
+          "is"
+        ],
+        "why": "A meeting is singular."
+      },
+      {
+        "t": "fill",
+        "lvl": "A1",
+        "q": "My colleagues ____ very friendly.",
+        "ans": "are",
+        "acc": [
+          "are"
+        ],
+        "why": "Plural subject: are."
+      },
+      {
+        "t": "fill",
+        "lvl": "A1",
+        "q": "How old ____ your daughter?",
+        "ans": "is",
+        "acc": [
+          "is"
+        ],
+        "why": "Your daughter = she, so is."
+      },
+      {
+        "t": "fill",
+        "lvl": "A1",
+        "q": "I ____ not ready yet. (am / is / are)",
+        "ans": "am",
+        "acc": [
+          "am"
+        ],
+        "why": "I takes am."
+      },
+      {
+        "t": "order",
+        "lvl": "A1",
+        "q": "Eles não estão no escritório.",
+        "ans": "They are not in the office.",
+        "why": "Subject + are + not + place."
+      },
+      {
+        "t": "order",
+        "lvl": "A1",
+        "q": "Está muito quente hoje.",
+        "ans": "It is very hot today.",
+        "why": "English needs the subject It."
+      },
+      {
+        "t": "order",
+        "lvl": "A1",
+        "q": "Quantos anos você tem?",
+        "ans": "How old are you?",
+        "why": "Age uses be: How old are you?"
       }
     ]
   },
@@ -263,6 +516,132 @@
         "q": "O filme que vimos foi incrível.",
         "ans": "The film we saw was amazing.",
         "why": "The film is specific."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "She wants to be ____ doctor.",
+        "opts": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "ans": 0,
+        "why": "Jobs take a/an; doctor starts with a consonant sound."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "I usually go to work by ____ bus.",
+        "opts": [
+          "a",
+          "the",
+          "an",
+          "no article"
+        ],
+        "ans": 3,
+        "why": "By + transport has no article."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "____ life is short.",
+        "opts": [
+          "The",
+          "A",
+          "An",
+          "No article"
+        ],
+        "ans": 3,
+        "why": "General ideas take no article."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "He works for ____ European company.",
+        "opts": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "ans": 0,
+        "why": "European starts with a /y/ sound, so a."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "Can you close ____ window, please? It's cold.",
+        "opts": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "ans": 2,
+        "why": "Both speakers know which window."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "I have ____ hour before the meeting. (a / an)",
+        "ans": "an",
+        "acc": [
+          "an"
+        ],
+        "why": "Hour starts with a vowel sound (silent h)."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "My sister is ____ university student. (a / an)",
+        "ans": "a",
+        "acc": [
+          "a"
+        ],
+        "why": "University starts with a /y/ sound, so a."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "She plays ____ guitar very well. (a / the)",
+        "ans": "the",
+        "acc": [
+          "the"
+        ],
+        "why": "Musical instruments take the."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "There is ____ umbrella under the desk. (a / an)",
+        "ans": "an",
+        "acc": [
+          "an"
+        ],
+        "why": "Umbrella starts with a vowel sound."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Ele é um engenheiro de software.",
+        "ans": "He is a software engineer.",
+        "why": "Jobs need a/an in English."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Eu preciso de um guarda-chuva.",
+        "ans": "I need an umbrella.",
+        "why": "An before a vowel sound."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Eu gosto de música clássica.",
+        "ans": "I like classical music.",
+        "why": "No article for general things."
       }
     ]
   },
@@ -354,6 +733,133 @@
         "q": "Visitamos minha avó em Recife.",
         "ans": "We visited my grandmother in Recife.",
         "why": "Subject + verb-ed + object + place."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "She ____ the meeting because she was sick.",
+        "opts": [
+          "not attended",
+          "didn't attended",
+          "didn't attend",
+          "wasn't attend"
+        ],
+        "ans": 2,
+        "why": "didn't + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "I ____ my keys at the hotel yesterday.",
+        "opts": [
+          "leaved",
+          "left",
+          "leave",
+          "lefted"
+        ],
+        "ans": 1,
+        "why": "Leave is irregular: left."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "____ you see the game last night?",
+        "opts": [
+          "Did",
+          "Do",
+          "Were",
+          "Have"
+        ],
+        "ans": 0,
+        "why": "Past questions use Did + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "He didn't went to work.",
+          "He didn't go to work.",
+          "He not go to work.",
+          "He doesn't went to work."
+        ],
+        "ans": 1,
+        "why": "After didn't, use the base form."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "We ____ for two hours at the airport last Sunday.",
+        "opts": [
+          "waited",
+          "waits",
+          "wait",
+          "were wait"
+        ],
+        "ans": 0,
+        "why": "Regular verb + -ed."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "They ____ (take) a taxi to the hotel.",
+        "ans": "took",
+        "acc": [
+          "took"
+        ],
+        "why": "Take is irregular: took."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "Last year I ____ (not/travel) abroad.",
+        "ans": "didn't travel",
+        "acc": [
+          "didn't travel",
+          "did not travel"
+        ],
+        "why": "didn't + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "____ he finish the project on time? (do / did)",
+        "ans": "did",
+        "acc": [
+          "did"
+        ],
+        "why": "Past question: Did."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "She ____ (write) the report in an hour.",
+        "ans": "wrote",
+        "acc": [
+          "wrote"
+        ],
+        "why": "Write is irregular: wrote."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Eu não dormi bem ontem à noite.",
+        "ans": "I did not sleep well last night.",
+        "why": "did not + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Nós chegamos atrasados.",
+        "ans": "We arrived late.",
+        "why": "Regular verb: arrive + d."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "O que você comeu no almoço?",
+        "ans": "What did you eat for lunch?",
+        "why": "Question word + did + subject + base verb."
       }
     ]
   },
@@ -447,6 +953,136 @@
         "q": "Você me ajuda com isso?",
         "ans": "Will you help me with this?",
         "why": "Will + subject + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "I ____ my parents this weekend. I already bought the tickets.",
+        "opts": [
+          "will visit",
+          "am going to visit",
+          "visit will",
+          "going visit"
+        ],
+        "ans": 1,
+        "why": "A decision already made uses going to."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "I'm cold. - I ____ close the window.",
+        "opts": [
+          "am going to",
+          "will",
+          "am closing",
+          "close"
+        ],
+        "ans": 1,
+        "why": "A spontaneous decision uses will."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "I will to call you later.",
+          "I will call you later.",
+          "I going to call you later.",
+          "I will calling you later."
+        ],
+        "ans": 1,
+        "why": "will + base verb, without to."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "She ____ have a baby in June. She told us yesterday.",
+        "opts": [
+          "will",
+          "is going to",
+          "going to",
+          "is will"
+        ],
+        "ans": 1,
+        "why": "A plan already decided: going to."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "Don't worry, I promise I ____ tell anyone.",
+        "opts": [
+          "won't",
+          "don't",
+          "am not going",
+          "not will"
+        ],
+        "ans": 0,
+        "why": "Promises use will/won't."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "Use will: I'm sure you ____ (like) the new restaurant.",
+        "ans": "will like",
+        "acc": [
+          "will like",
+          "'ll like"
+        ],
+        "why": "Prediction/opinion: will + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "Use going to: Look at the sky! It ____ (snow).",
+        "ans": "is going to snow",
+        "acc": [
+          "is going to snow",
+          "'s going to snow"
+        ],
+        "why": "Evidence now: going to."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "Use going to: I ____ (not/accept) that job offer. I've decided.",
+        "ans": "am not going to accept",
+        "acc": [
+          "am not going to accept",
+          "'m not going to accept"
+        ],
+        "why": "Decision made: am not going to."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "Use will: Don't worry, I ____ (send) you the file in five minutes.",
+        "ans": "will send",
+        "acc": [
+          "will send",
+          "'ll send"
+        ],
+        "why": "Offer/promise: will."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Eu vou viajar para Lisboa no mês que vem.",
+        "ans": "I am going to travel to Lisbon next month.",
+        "why": "Plan: am going to + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Eu não vou me atrasar, prometo.",
+        "ans": "I will not be late, I promise.",
+        "why": "Promise: will not + be."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "O que você vai fazer neste fim de semana?",
+        "ans": "What are you going to do this weekend?",
+        "why": "Question: What are you going to + verb?"
       }
     ]
   },
@@ -538,6 +1174,132 @@
         "q": "Ela é a melhor jogadora do time.",
         "ans": "She is the best player in the team.",
         "why": "The + superlative + noun + in + group."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "My new job is ____ than my old one.",
+        "opts": [
+          "more interesting",
+          "interestinger",
+          "most interesting",
+          "more interesting than"
+        ],
+        "ans": 0,
+        "why": "Long adjectives: more + adjective (than is already in the sentence)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "She is ____ student in the class.",
+        "opts": [
+          "the more intelligent",
+          "the most intelligent",
+          "most intelligent",
+          "the intelligentest"
+        ],
+        "ans": 1,
+        "why": "Superlative of long adjectives: the most + adjective."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "He is more tall than me.",
+          "He is taller than me.",
+          "He is more taller than me.",
+          "He is tall than me."
+        ],
+        "ans": 1,
+        "why": "Short adjective: tall + -er, no more."
+      },
+      {
+        "t": "mcq",
+        "lvl": "A2",
+        "q": "This is ____ hotel I've ever stayed in.",
+        "opts": [
+          "the worst",
+          "the baddest",
+          "the worse",
+          "worst"
+        ],
+        "ans": 0,
+        "why": "Bad - worse - the worst."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "The new software is not ____ the old one.",
+        "opts": [
+          "as fast as",
+          "more fast than",
+          "fast as",
+          "so faster as"
+        ],
+        "ans": 0,
+        "why": "Equality/negative: (not) as + adjective + as."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "Today is ____ (hot) than yesterday.",
+        "ans": "hotter",
+        "acc": [
+          "hotter"
+        ],
+        "why": "Double the final consonant: hotter."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "Brazil is the ____ (big) country in South America.",
+        "ans": "biggest",
+        "acc": [
+          "biggest"
+        ],
+        "why": "Superlative: big - biggest."
+      },
+      {
+        "t": "fill",
+        "lvl": "A2",
+        "q": "This exercise is ____ (easy) than the last one.",
+        "ans": "easier",
+        "acc": [
+          "easier"
+        ],
+        "why": "y becomes i: easier."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "Walking is not as ____ (fast) as driving.",
+        "ans": "fast",
+        "acc": [
+          "fast"
+        ],
+        "why": "as + adjective + as uses the basic form."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Meu escritório é maior do que o seu.",
+        "ans": "My office is bigger than yours.",
+        "why": "big - bigger + than."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Este é o restaurante mais caro da cidade.",
+        "ans": "This is the most expensive restaurant in the city.",
+        "why": "the most + long adjective; in the city."
+      },
+      {
+        "t": "order",
+        "lvl": "A2",
+        "q": "Voar é mais rápido do que dirigir.",
+        "ans": "Flying is faster than driving.",
+        "why": "fast - faster + than."
       }
     ]
   },
@@ -656,6 +1418,135 @@
         "q": "Eu nunca testei esta ferramenta antes.",
         "ans": "I have never tried this tool before.",
         "why": "Have + never + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "I ____ my manager yesterday.",
+        "opts": [
+          "have seen",
+          "saw",
+          "have saw",
+          "see"
+        ],
+        "ans": 1,
+        "why": "Finished time (yesterday) needs past simple."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "We ____ each other for ten years.",
+        "opts": [
+          "know",
+          "are knowing",
+          "have known",
+          "knew"
+        ],
+        "ans": 2,
+        "why": "Unfinished period with for: present perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "I have lost my phone, so I can't call you.",
+          "I have lost my phone yesterday.",
+          "I lost have my phone.",
+          "I has lost my phone."
+        ],
+        "ans": 0,
+        "why": "Present result, no finished time: present perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "____ you ever been to a conference abroad?",
+        "opts": [
+          "Did",
+          "Have",
+          "Are",
+          "Do"
+        ],
+        "ans": 1,
+        "why": "Life experience: Have you ever been...?"
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "They have ____ the project, so we can start testing.",
+        "opts": [
+          "finish",
+          "finished",
+          "finishing",
+          "finishes"
+        ],
+        "ans": 1,
+        "why": "have + past participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "I ____ (never/eat) Japanese food.",
+        "ans": "have never eaten",
+        "acc": [
+          "have never eaten",
+          "'ve never eaten"
+        ],
+        "why": "have + never + past participle (eaten)."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "We ____ (already/send) the invoice.",
+        "ans": "have already sent",
+        "acc": [
+          "have already sent",
+          "'ve already sent"
+        ],
+        "why": "Send is irregular: sent."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "He ____ (be) to Paris twice.",
+        "ans": "has been",
+        "acc": [
+          "has been",
+          "'s been"
+        ],
+        "why": "He + has + been."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "She hasn't ____ (answer) my email yet.",
+        "ans": "answered",
+        "acc": [
+          "answered"
+        ],
+        "why": "Past participle of answer."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Nós ainda não recebemos a resposta.",
+        "ans": "We have not received the answer yet.",
+        "why": "have not + participle + yet."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Ela já fez o check-in.",
+        "ans": "She has already checked in.",
+        "why": "has + already + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Eu perdi minhas chaves.",
+        "ans": "I have lost my keys.",
+        "why": "Present result of a past action."
       }
     ]
   },
@@ -774,6 +1665,136 @@
         "q": "Há quanto tempo você está esperando aqui?",
         "ans": "How long have you been waiting here?",
         "why": "How long + have + subject + been + -ing."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "She ____ for the exam all week.",
+        "opts": [
+          "studies",
+          "has been studying",
+          "is study",
+          "have been studying"
+        ],
+        "ans": 1,
+        "why": "Activity up to now: has been + -ing."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "I ____ for you for an hour!",
+        "opts": [
+          "have been waiting",
+          "am waiting",
+          "waited",
+          "wait"
+        ],
+        "ans": 0,
+        "why": "Duration with for: have been waiting."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "The kids are dirty because they ____ in the garden.",
+        "opts": [
+          "have been playing",
+          "are playing",
+          "played",
+          "play"
+        ],
+        "ans": 0,
+        "why": "Recent activity with a visible result."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "I have been working here since 2021.",
+          "I am working here since 2021.",
+          "I work here since 2021.",
+          "I have been work here since 2021."
+        ],
+        "ans": 0,
+        "why": "since + point in time needs present perfect continuous."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "He ____ three coffees today.",
+        "opts": [
+          "has been drinking",
+          "has drunk",
+          "drinks",
+          "is drinking"
+        ],
+        "ans": 1,
+        "why": "A counted, completed quantity uses present perfect simple."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "We ____ (try) to fix this bug since morning.",
+        "ans": "have been trying",
+        "acc": [
+          "have been trying",
+          "'ve been trying"
+        ],
+        "why": "have been + -ing."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "She is tired because she ____ (run).",
+        "ans": "has been running",
+        "acc": [
+          "has been running",
+          "'s been running"
+        ],
+        "why": "Double n: running."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "It ____ (snow) all night, and the roads are closed.",
+        "ans": "has been snowing",
+        "acc": [
+          "has been snowing",
+          "'s been snowing"
+        ],
+        "why": "Continuous activity up to now."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "I ____ (not/sleep) well lately.",
+        "ans": "haven't been sleeping",
+        "acc": [
+          "haven't been sleeping",
+          "have not been sleeping"
+        ],
+        "why": "Negative: haven't been + -ing."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Eu estou trabalhando neste projeto desde janeiro.",
+        "ans": "I have been working on this project since January.",
+        "why": "Work on a project; since + starting point."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Ela tem estudado alemão por seis meses.",
+        "ans": "She has been studying German for six months.",
+        "why": "for + period of time."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "O que você tem feito ultimamente?",
+        "ans": "What have you been doing lately?",
+        "why": "What have you been doing...?"
       }
     ]
   },
@@ -891,6 +1912,133 @@
         "q": "Eles estavam jogando futebol no parque.",
         "ans": "They were playing football in the park.",
         "why": "Were + verb-ing + place."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "I ____ dinner when you called.",
+        "opts": [
+          "cooked",
+          "was cooking",
+          "am cooking",
+          "were cooking"
+        ],
+        "ans": 1,
+        "why": "Interrupted action: was cooking."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "They ____ when the fire alarm rang.",
+        "opts": [
+          "were having a meeting",
+          "are having a meeting",
+          "was having a meeting",
+          "have a meeting"
+        ],
+        "ans": 0,
+        "why": "They + were + -ing."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "At 8 p.m. yesterday, we ____ the final presentation.",
+        "opts": [
+          "were rehearsing",
+          "rehearse",
+          "was rehearsing",
+          "are rehearsing"
+        ],
+        "ans": 0,
+        "why": "Action in progress at a specific past time."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "She was talk on the phone.",
+          "She were talking on the phone.",
+          "She was talking on the phone.",
+          "She talking on the phone."
+        ],
+        "ans": 2,
+        "why": "She + was + verb-ing."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "The phone rang while I ____ a shower.",
+        "opts": [
+          "was taking",
+          "am taking",
+          "were taking",
+          "have taking"
+        ],
+        "ans": 0,
+        "why": "I + was + -ing for the longer background action."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "I ____ (drive) home when I saw the accident.",
+        "ans": "was driving",
+        "acc": [
+          "was driving"
+        ],
+        "why": "Background action: was driving."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "They ____ (not/pay) attention during the training.",
+        "ans": "weren't paying",
+        "acc": [
+          "weren't paying",
+          "were not paying"
+        ],
+        "why": "Negative: weren't + -ing."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "____ it raining when you left? (was / were)",
+        "ans": "was",
+        "acc": [
+          "was"
+        ],
+        "why": "It + was."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "While we ____ (wait) for the flight, we had dinner.",
+        "ans": "were waiting",
+        "acc": [
+          "were waiting"
+        ],
+        "why": "We + were + -ing."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Eu estava dormindo quando o alarme tocou.",
+        "ans": "I was sleeping when the alarm rang.",
+        "why": "Past continuous + when + past simple."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Nós estávamos trabalhando quando a luz acabou.",
+        "ans": "We were working when the power went out.",
+        "why": "were working + went out."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "O que você estava fazendo na sexta-feira à noite?",
+        "ans": "What were you doing on Friday night?",
+        "why": "What + were + subject + -ing."
       }
     ]
   },
@@ -1010,6 +2158,136 @@
         "q": "Eu nunca tinha visto o mar antes daquela viagem.",
         "ans": "I had never seen the sea before that trip.",
         "why": "Had never + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "When I got to the office, the meeting ____.",
+        "opts": [
+          "had already started",
+          "has already started",
+          "already starts",
+          "was already start"
+        ],
+        "ans": 0,
+        "why": "Earlier past action: had + participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "He ____ never flown before that trip.",
+        "opts": [
+          "has",
+          "had",
+          "was",
+          "did"
+        ],
+        "ans": 1,
+        "why": "Before a past point: had never flown."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "After they ____ dinner, they went for a walk.",
+        "opts": [
+          "had finished",
+          "have finished",
+          "finish",
+          "were finishing"
+        ],
+        "ans": 0,
+        "why": "First action: past perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "I had went home before it rained.",
+          "I had gone home before it rained.",
+          "I have gone home before it rained.",
+          "I had go home before it rained."
+        ],
+        "ans": 1,
+        "why": "had + past participle (gone)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "By 6 p.m., the team ____ all the tests.",
+        "opts": [
+          "had completed",
+          "has completed",
+          "completes",
+          "was completing"
+        ],
+        "ans": 0,
+        "why": "By + past time: past perfect."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "The plane ____ (already/leave) when we reached the gate.",
+        "ans": "had already left",
+        "acc": [
+          "had already left",
+          "'d already left"
+        ],
+        "why": "Leave is irregular: left."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "I ____ (never/hear) that song before yesterday.",
+        "ans": "had never heard",
+        "acc": [
+          "had never heard",
+          "'d never heard"
+        ],
+        "why": "Hear is irregular: heard."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "She was happy because she ____ (pass) the interview.",
+        "ans": "had passed",
+        "acc": [
+          "had passed",
+          "'d passed"
+        ],
+        "why": "The cause happened first."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "We didn't have any food because we ____ (not/go) shopping.",
+        "ans": "hadn't gone",
+        "acc": [
+          "hadn't gone",
+          "had not gone"
+        ],
+        "why": "Negative: hadn't + participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Quando cheguei, ele já tinha saído.",
+        "ans": "When I arrived, he had already left.",
+        "why": "Arrived (past simple) after had left."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Eu tinha trabalhado lá por cinco anos antes de me mudar.",
+        "ans": "I had worked there for five years before I moved.",
+        "why": "Earlier period in the past: had worked."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Ela me disse que já tinha comido.",
+        "ans": "She told me she had already eaten.",
+        "why": "Reported speech shifts to past perfect."
       }
     ]
   },
@@ -1125,6 +2403,132 @@
         "q": "Você morava perto da praia antes?",
         "ans": "Did you use to live near the beach?",
         "why": "Did + subject + use to + verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "I ____ eat meat, but now I'm a vegetarian.",
+        "opts": [
+          "use to",
+          "used to",
+          "am used to",
+          "was used to"
+        ],
+        "ans": 1,
+        "why": "Past habit that stopped: used to."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "When I was a child, I ____ afraid of dogs.",
+        "opts": [
+          "would be",
+          "used to be",
+          "am used to be",
+          "use to be"
+        ],
+        "ans": 1,
+        "why": "Past states need used to, not would."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Did you ____ live in Rio?",
+        "opts": [
+          "used to",
+          "use to",
+          "would",
+          "were used"
+        ],
+        "ans": 1,
+        "why": "After did, the form is use to."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "I am used to wake up early.",
+          "I'm used to waking up early.",
+          "I used to waking up early.",
+          "I use to wake up early."
+        ],
+        "ans": 1,
+        "why": "be used to + verb-ing means you are accustomed."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Every summer, we ____ go to my grandparents' farm.",
+        "opts": [
+          "would",
+          "are used to",
+          "would to",
+          "use to"
+        ],
+        "ans": 0,
+        "why": "Repeated past action: would is possible."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "She ____ to work in a bank, but now she works in IT.",
+        "ans": "used",
+        "acc": [
+          "used"
+        ],
+        "why": "used to + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "We didn't ____ to have a car.",
+        "ans": "use",
+        "acc": [
+          "use"
+        ],
+        "why": "After didn't, use to (no -d)."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "I'm not ____ to getting up so early. (used / use)",
+        "ans": "used",
+        "acc": [
+          "used"
+        ],
+        "why": "be used to + -ing: accustomed."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "People ____ to write letters, but now they send messages.",
+        "ans": "used",
+        "acc": [
+          "used"
+        ],
+        "why": "Past habit: used to."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Eu costumava correr todas as manhãs.",
+        "ans": "I used to run every morning.",
+        "why": "used to + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Eu não estou acostumado com o calor.",
+        "ans": "I am not used to the heat.",
+        "why": "be used to + noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Quando eu era criança, nós costumávamos brincar na rua.",
+        "ans": "When I was a child, we used to play in the street.",
+        "why": "Past habit: used to play."
       }
     ]
   },
@@ -1243,6 +2647,134 @@
         "q": "A menos que você se apresse, vamos perder o voo.",
         "ans": "Unless you hurry, we will miss the flight.",
         "why": "Unless + present simple, will + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "If I ____ the job, I'll move to Berlin.",
+        "opts": [
+          "will get",
+          "get",
+          "got",
+          "am getting"
+        ],
+        "ans": 1,
+        "why": "After if, use present simple, not will."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "If the client ____ the proposal, we will start next week.",
+        "opts": [
+          "will approve",
+          "approves",
+          "approved",
+          "approving"
+        ],
+        "ans": 1,
+        "why": "If + present simple."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "If it will rain, we stay home.",
+          "If it rains, we will stay home.",
+          "If it rain, we will stay home.",
+          "If it rains, we would stay home."
+        ],
+        "ans": 1,
+        "why": "If + present simple, will + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "We won't finish on time ____ we get more help.",
+        "opts": [
+          "if",
+          "unless",
+          "because",
+          "although"
+        ],
+        "ans": 1,
+        "why": "unless = if not."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "I'll tell you the news when I ____ you.",
+        "opts": [
+          "will see",
+          "see",
+          "saw",
+          "am seeing"
+        ],
+        "ans": 1,
+        "why": "After when, use present simple for the future."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "If you ____ (not/back up) your files, you will lose them.",
+        "ans": "don't back up",
+        "acc": [
+          "don't back up",
+          "do not back up"
+        ],
+        "why": "If + present simple negative."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "If the test ____ (fail), the system will send an alert.",
+        "ans": "fails",
+        "acc": [
+          "fails"
+        ],
+        "why": "The test = it, so fails."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "I ____ (call) you if I need help.",
+        "ans": "will call",
+        "acc": [
+          "will call",
+          "'ll call"
+        ],
+        "why": "Result clause: will + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "If she ____ (miss) the flight, she will take the next one.",
+        "ans": "misses",
+        "acc": [
+          "misses"
+        ],
+        "why": "Verbs ending in -ss add -es."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Se você chegar cedo, eu espero por você.",
+        "ans": "If you arrive early, I will wait for you.",
+        "why": "If + present simple, will + verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Se não chover, vamos à praia.",
+        "ans": "If it does not rain, we will go to the beach.",
+        "why": "If + does not + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Eu ligo para você assim que terminar o trabalho.",
+        "ans": "I will call you as soon as I finish work.",
+        "why": "as soon as + present simple."
       }
     ]
   },
@@ -1360,6 +2892,133 @@
         "q": "Conheci uma garota que fala quatro idiomas.",
         "ans": "I met a girl who speaks four languages.",
         "why": "Noun + who + verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "The book ____ I borrowed from you was great.",
+        "opts": [
+          "who",
+          "which",
+          "whose",
+          "where"
+        ],
+        "ans": 1,
+        "why": "Which refers to things."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "She is the person ____ I work with.",
+        "opts": [
+          "which",
+          "whose",
+          "who",
+          "where"
+        ],
+        "ans": 2,
+        "why": "Who refers to people."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "I know a restaurant ____ they serve great feijoada.",
+        "opts": [
+          "which",
+          "where",
+          "who",
+          "whose"
+        ],
+        "ans": 1,
+        "why": "Where refers to places."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "The man which called you is my boss.",
+          "The man who called you is my boss.",
+          "The man who he called you is my boss.",
+          "The man whose called you is my boss."
+        ],
+        "ans": 1,
+        "why": "Who replaces the subject; do not repeat it."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "He is the developer ____ code broke the build.",
+        "opts": [
+          "who",
+          "which",
+          "whose",
+          "that"
+        ],
+        "ans": 2,
+        "why": "Whose shows possession."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "The company ____ I work is in São Paulo. (one word)",
+        "ans": "where",
+        "acc": [
+          "where"
+        ],
+        "why": "Where refers to a place."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "That's the woman ____ daughter is a pilot. (who / whose)",
+        "ans": "whose",
+        "acc": [
+          "whose"
+        ],
+        "why": "Possession: whose."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "Everything ____ he said was true. (that / who)",
+        "ans": "that",
+        "acc": [
+          "that"
+        ],
+        "why": "After everything, use that."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "I met a man ____ speaks six languages. (who / which)",
+        "ans": "who",
+        "acc": [
+          "who",
+          "that"
+        ],
+        "why": "Who refers to people."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "A mulher que mora ao lado é professora.",
+        "ans": "The woman who lives next door is a teacher.",
+        "why": "who + verb for people."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Este é o computador que eu comprei ontem.",
+        "ans": "This is the computer that I bought yesterday.",
+        "why": "that for things."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Eu gosto de pessoas que são honestas.",
+        "ans": "I like people who are honest.",
+        "why": "who + are for people."
       }
     ]
   },
@@ -1477,6 +3136,132 @@
         "q": "Eles continuaram falando durante toda a reunião.",
         "ans": "They kept talking during the whole meeting.",
         "why": "Keep + -ing."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "She is looking forward to ____ you next week.",
+        "opts": [
+          "see",
+          "seeing",
+          "saw",
+          "to see"
+        ],
+        "ans": 1,
+        "why": "After 'look forward to', 'to' is a preposition, so use -ing."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "My manager wants me ____ the report today.",
+        "opts": [
+          "finish",
+          "finishing",
+          "to finish",
+          "finished"
+        ],
+        "ans": 2,
+        "why": "'Want somebody' is followed by to + infinitive."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "I'm not used to ____ up so early.",
+        "opts": [
+          "wake",
+          "waking",
+          "woke",
+          "to wake"
+        ],
+        "ans": 1,
+        "why": "'Be used to' + -ing means being accustomed to something."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "I look forward to meet you.",
+          "I look forward to meeting you.",
+          "I look forward meeting you.",
+          "I look forward to meet with you."
+        ],
+        "ans": 1,
+        "why": "'Look forward to' needs -ing: meeting."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "He promised ____ late for work again.",
+        "opts": [
+          "not to be",
+          "not being",
+          "don't be",
+          "to not being"
+        ],
+        "ans": 0,
+        "why": "'Promise' + (not) to + infinitive."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "Stop ____ (check) your phone every five minutes!",
+        "ans": "checking",
+        "acc": [
+          "checking"
+        ],
+        "why": "'Stop' + -ing means ending an activity."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "We managed ____ (fix) the server before the users noticed.",
+        "ans": "to fix",
+        "acc": [
+          "to fix"
+        ],
+        "why": "'Manage' is followed by to + infinitive."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "She is interested in ____ (learn) Python.",
+        "ans": "learning",
+        "acc": [
+          "learning"
+        ],
+        "why": "After a preposition, use the -ing form."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "I remember ____ (lock) the door, so someone else must have opened it.",
+        "ans": "locking",
+        "acc": [
+          "locking"
+        ],
+        "why": "'Remember' + -ing refers to a past memory."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Estou ansioso para ir para Londres.",
+        "ans": "I am looking forward to going to London.",
+        "why": "'Look forward to' + -ing."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Ele recusou-se a assinar o contrato.",
+        "ans": "He refused to sign the contract.",
+        "why": "'Refuse' + to + infinitive."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Você se importa de fechar a porta?",
+        "ans": "Do you mind closing the door?",
+        "why": "'Mind' is followed by -ing."
       }
     ]
   },
@@ -1593,6 +3378,132 @@
         "q": "As chaves estão na mesa da cozinha.",
         "ans": "The keys are on the table in the kitchen.",
         "why": "On the table (surface), in the kitchen (room)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "She is waiting ____ the bus stop.",
+        "opts": [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        "ans": 0,
+        "why": "Use 'at' for a specific point or place."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "I'm ____ a train to Rio right now.",
+        "opts": [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        "ans": 2,
+        "why": "We say 'on' a train, bus, plane or ship."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "The office is ____ 25 Rose Street.",
+        "opts": [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        "ans": 2,
+        "why": "Use 'at' with a full address including the number."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "I will travel in July on 2025.",
+          "I will travel at July 2025.",
+          "I will travel on July 2025.",
+          "I will travel in July 2025."
+        ],
+        "ans": 3,
+        "why": "Use 'in' for months and years."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "He is very good ____ solving problems.",
+        "opts": [
+          "in",
+          "at",
+          "on",
+          "with"
+        ],
+        "ans": 1,
+        "why": "The fixed expression is 'good at'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "The conference is ____ March.",
+        "ans": "in",
+        "acc": [
+          "in"
+        ],
+        "why": "Use 'in' with months."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "I never work ____ Sundays.",
+        "ans": "on",
+        "acc": [
+          "on"
+        ],
+        "why": "Use 'on' with days of the week."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "She is afraid ____ flying.",
+        "ans": "of",
+        "acc": [
+          "of"
+        ],
+        "why": "The fixed expression is 'afraid of'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "The meeting starts ____ noon.",
+        "ans": "at",
+        "acc": [
+          "at"
+        ],
+        "why": "Use 'at' with clock times and noon."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Nos vemos na segunda-feira de manhã.",
+        "ans": "See you on Monday morning.",
+        "why": "Use 'on' with a day plus part of the day."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "O livro está na prateleira.",
+        "ans": "The book is on the shelf.",
+        "why": "Use 'on' for a surface."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Eu cheguei em casa às oito da noite.",
+        "ans": "I got home at eight in the evening.",
+        "why": "'At' for clock time, 'in' for parts of the day."
       }
     ]
   },
@@ -1713,6 +3624,136 @@
         "q": "Você poderia me ajudar com este relatório?",
         "ans": "Could you help me with this report?",
         "why": "Could + subject + base verb is a polite request."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "She ____ swim when she was five.",
+        "opts": [
+          "can",
+          "could",
+          "may",
+          "must"
+        ],
+        "ans": 1,
+        "why": "'Could' expresses past ability."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "You ____ smoke in the hospital. It is forbidden.",
+        "opts": [
+          "mustn't",
+          "don't have to",
+          "may",
+          "can"
+        ],
+        "ans": 0,
+        "why": "'Mustn't' expresses prohibition."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "____ I borrow your pen, please?",
+        "opts": [
+          "Could",
+          "Must",
+          "Ought",
+          "Would"
+        ],
+        "ans": 0,
+        "why": "'Could I...?' is a polite request for permission."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "He can to drive.",
+          "He cans drive.",
+          "He can drives.",
+          "He can drive."
+        ],
+        "ans": 3,
+        "why": "After a modal, use the base verb with no 'to' and no -s."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "You ____ see a doctor. You look very sick.",
+        "opts": [
+          "should",
+          "would",
+          "might to",
+          "can to"
+        ],
+        "ans": 0,
+        "why": "'Should' gives advice."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "She ____ speak three languages. (ability, present)",
+        "ans": "can",
+        "acc": [
+          "can"
+        ],
+        "why": "'Can' expresses present ability."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "Passengers ____ leave bags unattended. (prohibition, one word)",
+        "ans": "mustn't",
+        "acc": [
+          "mustn't",
+          "can't",
+          "cannot"
+        ],
+        "why": "'Mustn't' means it is forbidden."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "____ you like some tea? (polite offer)",
+        "ans": "Would",
+        "acc": [
+          "Would",
+          "would"
+        ],
+        "why": "'Would you like...?' is a polite offer."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1",
+        "q": "I'm sorry, I ____ come to your party. I have to work. (negative of can)",
+        "ans": "can't",
+        "acc": [
+          "can't",
+          "cannot"
+        ],
+        "why": "Negative of 'can' is can't or cannot."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Posso entrar?",
+        "ans": "May I come in?",
+        "why": "'May I...?' asks for permission politely."
+      },
+      {
+        "t": "order",
+        "lvl": "B1",
+        "q": "Você não precisa pagar agora.",
+        "ans": "You don't have to pay now.",
+        "why": "'Don't have to' means no obligation."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Eu não consegui abrir o arquivo.",
+        "ans": "I couldn't open the file.",
+        "why": "'Couldn't' is the past of 'can't'."
       }
     ]
   },
@@ -1830,6 +3871,134 @@
         "q": "Se eu fosse você, eu falaria com seu gerente.",
         "ans": "If I were you, I would talk to your manager.",
         "why": "If I were you is the classic advice form."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "If I ____ a million dollars, I would travel the world.",
+        "opts": [
+          "had",
+          "have",
+          "would have",
+          "will have"
+        ],
+        "ans": 0,
+        "why": "Second conditional: if + past simple, would + verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "She would be happier if she ____ her job.",
+        "opts": [
+          "changed",
+          "would change",
+          "changes",
+          "will change"
+        ],
+        "ans": 0,
+        "why": "The if-clause uses past simple, not 'would'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "If I would have time, I would help you.",
+          "If I had time, I would help you.",
+          "If I have time, I would help you.",
+          "If I will have time, I would help you."
+        ],
+        "ans": 1,
+        "why": "Never use 'would' in the if-clause: if I had time."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "If the servers ____ faster, users wouldn't complain.",
+        "opts": [
+          "were",
+          "would be",
+          "are",
+          "will be"
+        ],
+        "ans": 0,
+        "why": "Past simple (were) after 'if' for an unreal present."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "What ____ if the internet stopped working for a week?",
+        "opts": [
+          "would you do",
+          "will you do",
+          "did you do",
+          "you would do"
+        ],
+        "ans": 0,
+        "why": "Result clause: would + subject + base verb in questions."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "If I ____ (live) closer to work, I would walk every day.",
+        "ans": "lived",
+        "acc": [
+          "lived"
+        ],
+        "why": "Past simple in the if-clause."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "He ____ (be) much calmer if he slept more.",
+        "ans": "would be",
+        "acc": [
+          "would be"
+        ],
+        "why": "Result clause uses would + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "If it ____ (not/rain), we would go to the beach.",
+        "ans": "didn't rain",
+        "acc": [
+          "didn't rain",
+          "did not rain"
+        ],
+        "why": "Negative past simple in the if-clause."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "If I were rich, I ____ (buy) an island.",
+        "ans": "would buy",
+        "acc": [
+          "would buy",
+          "'d buy"
+        ],
+        "why": "Result clause: would + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Se eu ganhasse na loteria, eu pararia de trabalhar.",
+        "ans": "If I won the lottery, I would stop working.",
+        "why": "If + past simple, would + verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "O que você faria se perdesse o emprego?",
+        "ans": "What would you do if you lost your job?",
+        "why": "What would + subject + do + if + past simple."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Se ele falasse mais devagar, eu entenderia.",
+        "ans": "If he spoke more slowly, I would understand.",
+        "why": "If + past simple, would + base verb."
       }
     ]
   },
@@ -1949,6 +4118,135 @@
         "q": "Ela teria ganhado se tivesse praticado mais.",
         "ans": "She would have won if she had practiced more.",
         "why": "Result clause first, then if-clause: no comma."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "If I ____ harder, I would have passed the exam.",
+        "opts": [
+          "had studied",
+          "studied",
+          "would study",
+          "have studied"
+        ],
+        "ans": 0,
+        "why": "Third conditional: if + past perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "We would have won if we ____ the penalty.",
+        "opts": [
+          "scored",
+          "would score",
+          "had scored",
+          "have scored"
+        ],
+        "ans": 2,
+        "why": "Past perfect in the if-clause."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "If I would have known, I would have called.",
+          "If I had known, I would have called.",
+          "If I knew, I would have called.",
+          "If I have known, I would call."
+        ],
+        "ans": 1,
+        "why": "Do not use 'would have' in the if-clause."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "If the backup ____ properly, we wouldn't have lost the data.",
+        "opts": [
+          "had run",
+          "ran",
+          "would run",
+          "has run"
+        ],
+        "ans": 0,
+        "why": "Unreal past needs past perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "She wouldn't have missed the flight if she ____ earlier.",
+        "opts": [
+          "left",
+          "had left",
+          "would leave",
+          "leaves"
+        ],
+        "ans": 1,
+        "why": "Past perfect in the if-clause."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "If he ____ (not/forget) the password, he would have logged in.",
+        "ans": "hadn't forgotten",
+        "acc": [
+          "hadn't forgotten",
+          "had not forgotten"
+        ],
+        "why": "Negative past perfect: hadn't forgotten."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "They would have bought the house if it ____ (be) cheaper.",
+        "ans": "had been",
+        "acc": [
+          "had been"
+        ],
+        "why": "Past perfect of 'be' is 'had been'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "If you had called, I ____ (pick up).",
+        "ans": "would have picked up",
+        "acc": [
+          "would have picked up",
+          "'d have picked up"
+        ],
+        "why": "Result: would have + past participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "If we had taken a taxi, we ____ (arrive) on time.",
+        "ans": "would have arrived",
+        "acc": [
+          "would have arrived",
+          "'d have arrived"
+        ],
+        "why": "Result: would have + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Se eu tivesse acordado cedo, não teria perdido o ônibus.",
+        "ans": "If I had woken up early, I wouldn't have missed the bus.",
+        "why": "If + past perfect, would have + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Se tivéssemos testado o código, não teríamos tido esse erro.",
+        "ans": "If we had tested the code, we wouldn't have had this error.",
+        "why": "Past perfect, then wouldn't have + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Ela teria ido se tivesse recebido o visto.",
+        "ans": "She would have gone if she had received the visa.",
+        "why": "Would have + participle, if + past perfect."
       }
     ]
   },
@@ -2068,6 +4366,135 @@
         "q": "Se ela fosse mais corajosa, teria pedido aumento.",
         "ans": "If she were braver, she would have asked for a raise.",
         "why": "Past simple + would have + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "If I hadn't skipped breakfast, I ____ hungry now.",
+        "opts": [
+          "wouldn't be",
+          "wouldn't have been",
+          "won't be",
+          "hadn't been"
+        ],
+        "ans": 0,
+        "why": "Past condition, present result: would + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "If she didn't speak English, she ____ the job at the US firm.",
+        "opts": [
+          "wouldn't have got",
+          "wouldn't get",
+          "won't get",
+          "wouldn't have spoken"
+        ],
+        "ans": 0,
+        "why": "Present state, past result: would have + participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "If I were a better driver, I ____ the accident last week.",
+        "opts": [
+          "would have avoided",
+          "would avoid",
+          "avoided",
+          "had avoided"
+        ],
+        "ans": 0,
+        "why": "Present trait (were) with a past result."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "If we ____ the contract last year, we would be in a stronger position today.",
+        "opts": [
+          "had signed",
+          "signed",
+          "would sign",
+          "sign"
+        ],
+        "ans": 0,
+        "why": "Past perfect in the if-clause, would + verb for the present."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Which sentence is a mixed conditional?",
+        "opts": [
+          "If I had gone, I would have seen him.",
+          "If I had gone to the party, I would be tired today.",
+          "If I went, I would see him.",
+          "If I go, I will see him."
+        ],
+        "ans": 1,
+        "why": "Past if-clause with a present result."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "If he ____ (be) more patient, he wouldn't have shouted at the client.",
+        "ans": "were",
+        "acc": [
+          "were",
+          "was"
+        ],
+        "why": "Present unreal trait uses 'were'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "If I hadn't moved to Berlin, I ____ (not/know) my wife now.",
+        "ans": "wouldn't know",
+        "acc": [
+          "wouldn't know",
+          "would not know"
+        ],
+        "why": "Present result: would + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "If she ____ (take) the medicine, she would feel better now.",
+        "ans": "had taken",
+        "acc": [
+          "had taken"
+        ],
+        "why": "Past perfect for the past condition."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "If the team were more experienced, they ____ (make) that mistake yesterday.",
+        "ans": "wouldn't have made",
+        "acc": [
+          "wouldn't have made",
+          "would not have made"
+        ],
+        "why": "Past result: would have + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Se eu tivesse estudado medicina, seria médico agora.",
+        "ans": "If I had studied medicine, I would be a doctor now.",
+        "why": "Past perfect, then would + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Se ele fosse mais cuidadoso, não teria apagado o banco de dados.",
+        "ans": "If he were more careful, he wouldn't have deleted the database.",
+        "why": "Present trait, past result."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Se não tivéssemos perdido o voo, estaríamos na praia agora.",
+        "ans": "If we hadn't missed the flight, we would be on the beach now.",
+        "why": "Past condition, present result."
       }
     ]
   },
@@ -2186,6 +4613,132 @@
         "q": "Os dados estão sendo analisados pela nossa equipe.",
         "ans": "The data is being analyzed by our team.",
         "why": "Present continuous passive: is being + participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "The emails ____ every morning by the system.",
+        "opts": [
+          "are sent",
+          "send",
+          "are sending",
+          "is sent"
+        ],
+        "ans": 0,
+        "why": "Present simple passive: are + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "The bridge ____ built in 1990.",
+        "opts": [
+          "was",
+          "is",
+          "has been",
+          "were"
+        ],
+        "ans": 0,
+        "why": "Past simple passive: was + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "The problem ____ right now.",
+        "opts": [
+          "is being solved",
+          "is solving",
+          "solves",
+          "has solve"
+        ],
+        "ans": 0,
+        "why": "Present continuous passive: is being + participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "The room was cleaned by the staff yesterday.",
+          "The room cleaned by the staff yesterday.",
+          "The room was clean by the staff yesterday.",
+          "The room is cleaned yesterday."
+        ],
+        "ans": 0,
+        "why": "The passive always needs 'be' plus the past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The new policy ____ announced yet.",
+        "opts": [
+          "hasn't been",
+          "wasn't being",
+          "isn't been",
+          "hasn't"
+        ],
+        "ans": 0,
+        "why": "Present perfect passive: has been + participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "The documents ____ (sign) by both parties last week.",
+        "ans": "were signed",
+        "acc": [
+          "were signed"
+        ],
+        "why": "Past simple passive, plural subject."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "The server ____ (update) at the moment.",
+        "ans": "is being updated",
+        "acc": [
+          "is being updated"
+        ],
+        "why": "Present continuous passive."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "The patch ____ before release. (must / test)",
+        "ans": "must be tested",
+        "acc": [
+          "must be tested"
+        ],
+        "why": "Modal passive: modal + be + participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "This building ____ (design) by a famous architect in 1920.",
+        "ans": "was designed",
+        "acc": [
+          "was designed"
+        ],
+        "why": "Past simple passive."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "O contrato foi assinado ontem.",
+        "ans": "The contract was signed yesterday.",
+        "why": "Was + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Meu laptop está sendo consertado.",
+        "ans": "My laptop is being repaired.",
+        "why": "Is being + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Todos os funcionários serão avisados.",
+        "ans": "All employees will be notified.",
+        "why": "Future passive: will be + participle."
       }
     ]
   },
@@ -2303,6 +4856,133 @@
         "q": "Ele me perguntou se eu queria café.",
         "ans": "He asked me if I wanted some coffee.",
         "why": "Asked me + if + subject + verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "'We were late,' they said. They said they ____ late.",
+        "opts": [
+          "had been",
+          "are",
+          "would be",
+          "have been"
+        ],
+        "ans": 0,
+        "why": "Past simple backshifts to past perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "'Don't touch it,' she told me. She told me ____ it.",
+        "opts": [
+          "not to touch",
+          "don't touch",
+          "to not touching",
+          "not touch"
+        ],
+        "ans": 0,
+        "why": "Negative commands: told + object + not to + verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "'Where is the station?' he asked. He asked where ____.",
+        "opts": [
+          "the station was",
+          "was the station",
+          "the station were",
+          "the station be"
+        ],
+        "ans": 0,
+        "why": "Reported questions use statement word order."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "She said me that she was busy.",
+          "She told me that she was busy.",
+          "She told that she was busy me.",
+          "She said to that she was busy."
+        ],
+        "ans": 1,
+        "why": "'Tell' needs an object; 'say' does not take one directly."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "'I'll send it tomorrow,' he said yesterday. He said he ____ it the next day.",
+        "opts": [
+          "would send",
+          "will send",
+          "sent",
+          "sends"
+        ],
+        "ans": 0,
+        "why": "'Will' backshifts to 'would'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "'Do you like sushi?' she asked. She asked me ____ I liked sushi.",
+        "ans": "if",
+        "acc": [
+          "if",
+          "whether"
+        ],
+        "why": "Yes/no questions are reported with if or whether."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "'I have lost my keys,' he said. He said he ____ lost his keys.",
+        "ans": "had",
+        "acc": [
+          "had"
+        ],
+        "why": "Present perfect becomes past perfect."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "'Close the window,' the teacher said. The teacher told us ____ close the window.",
+        "ans": "to",
+        "acc": [
+          "to"
+        ],
+        "why": "Reported commands use to + infinitive."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "'I'm working today,' she said. She said she ____ working that day.",
+        "ans": "was",
+        "acc": [
+          "was"
+        ],
+        "why": "Present continuous backshifts to past continuous."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Ele disse que ligaria mais tarde.",
+        "ans": "He said he would call later.",
+        "why": "'Will' becomes 'would' in reported speech."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Ela me perguntou onde eu trabalhava.",
+        "ans": "She asked me where I worked.",
+        "why": "Reported question: no do-support, backshifted tense."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "O chefe nos pediu para chegar cedo.",
+        "ans": "The boss asked us to arrive early.",
+        "why": "Asked + object + to + infinitive."
       }
     ]
   },
@@ -2423,6 +5103,136 @@
         "q": "Você deveria ter revisado o código primeiro.",
         "ans": "You should have checked the code first.",
         "why": "Should have + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "She hasn't answered the email. She ____ it yet, or she would have replied.",
+        "opts": [
+          "can't have read",
+          "might read",
+          "should read",
+          "must read"
+        ],
+        "ans": 0,
+        "why": "'Can't have' + participle: past deduction of impossibility."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "The data is wrong. Someone ____ it by mistake.",
+        "opts": [
+          "must have changed",
+          "should change",
+          "can have changed",
+          "must change"
+        ],
+        "ans": 0,
+        "why": "'Must have' + participle: strong past deduction."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "We took a taxi, but it was unnecessary. We ____ have taken a taxi.",
+        "opts": [
+          "needn't",
+          "mustn't",
+          "couldn't",
+          "might"
+        ],
+        "ans": 0,
+        "why": "'Needn't have' means it was not necessary but it happened."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "She must to have left.",
+          "She must have left.",
+          "She must has left.",
+          "She must had left."
+        ],
+        "ans": 1,
+        "why": "Modal + have + past participle, with no 'to'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "I deleted the wrong file. I ____ have been more careful.",
+        "opts": [
+          "should",
+          "might not",
+          "can't",
+          "must"
+        ],
+        "ans": 0,
+        "why": "'Should have' expresses regret about the past."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "That ____ be Paul. He is in Paris this week. (impossible)",
+        "ans": "can't",
+        "acc": [
+          "can't",
+          "cannot"
+        ],
+        "why": "'Can't be' expresses a present deduction of impossibility."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "I'm not sure where he is. He ____ have gone to lunch. (possible, one word)",
+        "ans": "might",
+        "acc": [
+          "might",
+          "may",
+          "could"
+        ],
+        "why": "Might/may/could have express past possibility."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "You ____ have bought a gift. It wasn't necessary, but thank you! (one word)",
+        "ans": "needn't",
+        "acc": [
+          "needn't",
+          "shouldn't"
+        ],
+        "why": "'Needn't have' or 'shouldn't have' are polite thanks."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "The ground is wet. It ____ have rained last night. (almost certain)",
+        "ans": "must",
+        "acc": [
+          "must"
+        ],
+        "why": "'Must have' is a strong past deduction."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Ele pode ter esquecido a senha.",
+        "ans": "He might have forgotten the password.",
+        "why": "Might have + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Eu devia ter ligado antes.",
+        "ans": "I should have called earlier.",
+        "why": "Should have + past participle shows regret."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Ela não pode ter feito isso.",
+        "ans": "She can't have done that.",
+        "why": "Can't have + past participle."
       }
     ]
   },
@@ -2541,6 +5351,134 @@
         "q": "Se ao menos tivéssemos saído mais cedo.",
         "ans": "If only we had left earlier.",
         "why": "If only + past perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "I wish I ____ speak French.",
+        "opts": [
+          "could",
+          "can",
+          "would",
+          "will"
+        ],
+        "ans": 0,
+        "why": "Wish + could for an ability you lack."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "I wish it ____ so cold today.",
+        "opts": [
+          "weren't",
+          "isn't",
+          "wouldn't be",
+          "hadn't"
+        ],
+        "ans": 0,
+        "why": "Wish + past form for a present situation."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "I wish I have more money.",
+          "I wish I had more money.",
+          "I wish I would have more money.",
+          "I wish I will have more money."
+        ],
+        "ans": 1,
+        "why": "Wish about the present uses past simple."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "If only we ____ the backup before the crash!",
+        "opts": [
+          "had made",
+          "made",
+          "would make",
+          "have made"
+        ],
+        "ans": 0,
+        "why": "Past regret: past perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "I wish my boss ____ me work from home. He never agrees, and it annoys me.",
+        "opts": [
+          "would let",
+          "lets",
+          "is letting",
+          "will let"
+        ],
+        "ans": 0,
+        "why": "Wish + would for annoying behavior you want to change."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "I wish I ____ (be) taller.",
+        "ans": "were",
+        "acc": [
+          "were",
+          "was"
+        ],
+        "why": "Present wish: were (or was)."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "She wishes she ____ (not/accept) the offer last year.",
+        "ans": "hadn't accepted",
+        "acc": [
+          "hadn't accepted",
+          "had not accepted"
+        ],
+        "why": "Past regret: negative past perfect."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "If only I ____ (have) a car right now!",
+        "ans": "had",
+        "acc": [
+          "had"
+        ],
+        "why": "If only + past simple for a present wish."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "I wish you ____ (stop) interrupting me.",
+        "ans": "would stop",
+        "acc": [
+          "would stop"
+        ],
+        "why": "Wish + would for an annoying habit."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Eu gostaria de saber dirigir.",
+        "ans": "I wish I could drive.",
+        "why": "Wish + could for ability."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Se ao menos eu tivesse estudado mais!",
+        "ans": "If only I had studied more!",
+        "why": "If only + past perfect for a past regret."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Eu queria que ele parasse de fazer barulho.",
+        "ans": "I wish he would stop making noise.",
+        "why": "Wish + would + verb for annoyance."
       }
     ]
   },
@@ -2657,6 +5595,132 @@
         "q": "Esta é a pessoa a quem dei as chaves.",
         "ans": "This is the person to whom I gave the keys.",
         "why": "Preposition + whom + clause."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The woman ____ car was stolen called the police.",
+        "opts": [
+          "whose",
+          "who",
+          "which",
+          "whom"
+        ],
+        "ans": 0,
+        "why": "'Whose' shows possession."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The report, ____ I read yesterday, was excellent.",
+        "opts": [
+          "which",
+          "that",
+          "what",
+          "who"
+        ],
+        "ans": 0,
+        "why": "Non-defining clauses use 'which', never 'that'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "She passed all her exams, ____ surprised everyone.",
+        "opts": [
+          "which",
+          "that",
+          "what",
+          "who"
+        ],
+        "ans": 0,
+        "why": "'Which' can refer to a whole clause."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "The man who I spoke to him is my boss.",
+          "The man who I spoke to is my boss.",
+          "The man which I spoke to is my boss.",
+          "The man what I spoke to is my boss."
+        ],
+        "ans": 1,
+        "why": "Do not repeat the object after the relative pronoun."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The city in ____ I grew up is very small.",
+        "opts": [
+          "which",
+          "that",
+          "where",
+          "whose"
+        ],
+        "ans": 0,
+        "why": "After a preposition use 'which', not 'that'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The engineer, ____ team built the system, got a promotion.",
+        "ans": "whose",
+        "acc": [
+          "whose"
+        ],
+        "why": "'Whose' links a person to what belongs to them."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "He arrived late, ____ made the manager angry.",
+        "ans": "which",
+        "acc": [
+          "which"
+        ],
+        "why": "'Which' refers to the whole previous clause."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The hotel ____ we stayed was near the beach.",
+        "ans": "where",
+        "acc": [
+          "where"
+        ],
+        "why": "'Where' refers to a place."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The people with ____ I work are very friendly.",
+        "ans": "whom",
+        "acc": [
+          "whom"
+        ],
+        "why": "After a preposition, use 'whom' for people."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "O livro cujo autor eu conheci está esgotado.",
+        "ans": "The book whose author I met is sold out.",
+        "why": "'Whose' replaces 'cujo'."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Ela perdeu o voo, o que a deixou muito irritada.",
+        "ans": "She missed her flight, which made her very angry.",
+        "why": "', which' refers to the whole clause."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "A cidade onde nasci fica no sul.",
+        "ans": "The city where I was born is in the south.",
+        "why": "'Where' refers to a place."
       }
     ]
   },
@@ -2775,6 +5839,134 @@
         "q": "A mulher parada perto da porta é minha chefe.",
         "ans": "The woman standing by the door is my boss.",
         "why": "Noun + -ing clause."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "____ the door, he noticed a strange smell.",
+        "opts": [
+          "Opening",
+          "Opened",
+          "Having open",
+          "To opened"
+        ],
+        "ans": 0,
+        "why": "Present participle for simultaneous or active actions."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The students ____ the exam were nervous.",
+        "opts": [
+          "taking",
+          "taken",
+          "took",
+          "take"
+        ],
+        "ans": 0,
+        "why": "Present participle replaces 'who were taking'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The software ____ by our team is very reliable.",
+        "opts": [
+          "developed",
+          "developing",
+          "having developed",
+          "develops"
+        ],
+        "ans": 0,
+        "why": "Past participle has a passive meaning."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Choose the correct sentence (common mistake):",
+        "opts": [
+          "Having finished the report, she went home.",
+          "Having finish the report, she went home.",
+          "Finished the report having, she went home.",
+          "Had finishing the report, she went home."
+        ],
+        "ans": 0,
+        "why": "Having + past participle shows an earlier action."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "____ money, he couldn't buy a ticket.",
+        "opts": [
+          "Having no",
+          "Has no",
+          "Had not",
+          "To having"
+        ],
+        "ans": 0,
+        "why": "Having + noun gives a reason."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "____ (read) the instructions, he started the machine.",
+        "ans": "Having read",
+        "acc": [
+          "Having read",
+          "having read"
+        ],
+        "why": "Having + past participle: the reading came first."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The man ____ (talk) to the manager is my uncle.",
+        "ans": "talking",
+        "acc": [
+          "talking"
+        ],
+        "why": "Present participle for an ongoing action."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "____ (not/know) the password, she called the IT team.",
+        "ans": "Not knowing",
+        "acc": [
+          "Not knowing",
+          "not knowing"
+        ],
+        "why": "Negative: Not + -ing."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The photos ____ (take) at the wedding are beautiful.",
+        "ans": "taken",
+        "acc": [
+          "taken"
+        ],
+        "why": "Past participle with passive meaning."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Sentindo-se doente, ele ficou em casa.",
+        "ans": "Feeling sick, he stayed at home.",
+        "why": "Present participle clause giving a reason."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "A carta escrita por ela chegou ontem.",
+        "ans": "The letter written by her arrived yesterday.",
+        "why": "Past participle replaces 'which was written'."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Tendo perdido o ônibus, ela pegou um táxi.",
+        "ans": "Having missed the bus, she took a taxi.",
+        "why": "Having + past participle for a prior action."
       }
     ]
   },
@@ -2892,6 +6084,133 @@
         "q": "Sob nenhuma circunstância você deve compartilhar sua senha.",
         "ans": "Under no circumstances should you share your password.",
         "why": "Negative phrase + should + subject + verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Rarely ____ such dedication.",
+        "opts": [
+          "have I seen",
+          "I have seen",
+          "I saw",
+          "did I seen"
+        ],
+        "ans": 0,
+        "why": "After negative adverbs, invert auxiliary and subject."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Only after the update ____ the bug.",
+        "opts": [
+          "did we find",
+          "we found",
+          "found we",
+          "we did find"
+        ],
+        "ans": 0,
+        "why": "'Only after' at the start triggers inversion with do-support."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Little ____ that the system would crash.",
+        "opts": [
+          "did he know",
+          "he knew",
+          "knew he",
+          "he did know"
+        ],
+        "ans": 0,
+        "why": "'Little' at the start requires inversion."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Should you need help, ____.",
+        "opts": [
+          "call me",
+          "you call me",
+          "do call to me",
+          "you will call"
+        ],
+        "ans": 0,
+        "why": "'Should you...' replaces 'If you should...'; the main clause is an imperative."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Not until he got home ____ his wallet.",
+        "opts": [
+          "did he realize",
+          "he realized",
+          "realized he",
+          "he did realize"
+        ],
+        "ans": 0,
+        "why": "'Not until' at the start triggers inversion in the main clause."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "Seldom ____ (we/see) such good results.",
+        "ans": "do we see",
+        "acc": [
+          "do we see"
+        ],
+        "why": "'Seldom' + auxiliary + subject."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "Not only ____ she smart, but she is also kind.",
+        "ans": "is",
+        "acc": [
+          "is"
+        ],
+        "why": "'Not only' + inverted verb be."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "At no time ____ the company inform customers of the breach. (past)",
+        "ans": "did",
+        "acc": [
+          "did"
+        ],
+        "why": "'At no time' + did + subject + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ you have any questions, please contact us.",
+        "ans": "Should",
+        "acc": [
+          "Should",
+          "should"
+        ],
+        "why": "Inverted conditional: Should you = If you should."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Nunca vi tanta gente neste escritório.",
+        "ans": "Never have I seen so many people in this office.",
+        "why": "'Never' + have + subject + participle."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Só depois da reunião percebi o erro.",
+        "ans": "Only after the meeting did I notice the mistake.",
+        "why": "'Only after' + did + subject + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Em nenhum momento ele pediu desculpas.",
+        "ans": "At no point did he say sorry.",
+        "why": "'At no point' + did + subject + base verb."
       }
     ]
   },
@@ -2984,6 +6303,135 @@
         "q": "Foi o cliente quem pediu a mudança.",
         "ans": "It was the client who requested the change.",
         "why": "It was + noun + who + verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It is the lack of documentation ____ slows down onboarding.",
+        "opts": [
+          "what",
+          "that",
+          "who",
+          "whom"
+        ],
+        "ans": 1,
+        "why": "Use 'that' (or 'which') for things in an it-cleft sentence, not 'what'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "____ I really appreciate about this team is their honesty.",
+        "opts": [
+          "Which",
+          "That",
+          "What",
+          "It"
+        ],
+        "ans": 2,
+        "why": "Pseudo-cleft sentences start with 'What' (= the thing that)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It was in Berlin ____ they first met at a security conference.",
+        "opts": [
+          "where",
+          "that",
+          "which",
+          "what"
+        ],
+        "ans": 1,
+        "why": "After 'It was + place/time', standard it-clefts use 'that' rather than 'where'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "All I want ____ a clear timeline before we start.",
+        "opts": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "ans": 1,
+        "why": "'All I want' is treated as a singular unit followed by 'is'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Choose the natural cleft sentence:",
+        "opts": [
+          "What I need it is more time.",
+          "What I need is more time.",
+          "That I need is more time.",
+          "It is more time what I need."
+        ],
+        "ans": 1,
+        "why": "Do not repeat 'it' after a 'What...' clause, and do not use 'what' after 'It is...'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "____ matters most is that the service stays reliable.",
+        "ans": "What",
+        "acc": [
+          "What",
+          "what"
+        ],
+        "why": "Use 'What' to mean 'the thing that' at the start of the sentence."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "It was Maria ____ spotted the bug in production.",
+        "ans": "who",
+        "acc": [
+          "who",
+          "that"
+        ],
+        "why": "Use 'who' or 'that' when emphasizing a person."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The reason why we delayed the release ____ (be) a missing security patch.",
+        "ans": "was",
+        "acc": [
+          "was",
+          "is"
+        ],
+        "why": "Delayed is in the past, so 'was' matches the timeframe."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "It wasn't until Friday ____ we received the final approval.",
+        "ans": "that",
+        "acc": [
+          "that"
+        ],
+        "why": "The pattern 'It wasn't until [time] that...' emphasizes when something finally happened."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "O que precisamos fazer agora é testar o sistema.",
+        "ans": "What we need to do now is test the system.",
+        "why": "What + subject + need to do + is + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Foi só ontem que eu percebi o erro.",
+        "ans": "It was only yesterday that I noticed the mistake.",
+        "why": "It was only + time + that + clause."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Tudo o que ela pediu foi um pouco de paciência.",
+        "ans": "All she asked for was a little patience.",
+        "why": "All + subject + verb + was + noun phrase."
       }
     ]
   },
@@ -3076,6 +6524,1594 @@
         "q": "É vital que permaneçamos focados na segurança.",
         "ans": "It is vital that we remain focused on security.",
         "why": "It is vital that + subject + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "The auditor recommended that the company ____ its access logs immediately.",
+        "opts": [
+          "reviews",
+          "review",
+          "reviewed",
+          "to review"
+        ],
+        "ans": 1,
+        "why": "After 'recommend that', formal English uses the bare infinitive (review)."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It is imperative that he ____ notified as soon as the flight lands.",
+        "opts": [
+          "is",
+          "be",
+          "was",
+          "will be"
+        ],
+        "ans": 1,
+        "why": "Use 'be' after 'It is imperative that...' regardless of the subject."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "They demanded that the manager ____ an explanation.",
+        "opts": [
+          "gives",
+          "give",
+          "gave",
+          "giving"
+        ],
+        "ans": 1,
+        "why": "'Demand that' takes the base subjunctive verb without -s."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "It is crucial that the report ____ published without confidential data.",
+        "opts": [
+          "is",
+          "be",
+          "was",
+          "are"
+        ],
+        "ans": 1,
+        "why": "Passive subjunctive uses 'be + past participle' after expressions like 'It is crucial that...'."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Choose the correct formal subjunctive sentence:",
+        "opts": [
+          "I suggest that she stays at home today.",
+          "I suggest that she to stay at home today.",
+          "I suggest that she stay at home today.",
+          "I suggest that she staying at home today."
+        ],
+        "ans": 2,
+        "why": "After 'suggest that', use the base verb 'stay' without -s or 'to'."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The policy requires that every user ____ (change) their password every 90 days.",
+        "ans": "change",
+        "acc": [
+          "change"
+        ],
+        "why": "After 'require that', use the base verb 'change' (not changes)."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "It is important that the contract ____ (be) signed before Friday.",
+        "ans": "be",
+        "acc": [
+          "be"
+        ],
+        "why": "Passive subjunctive uses 'be' + past participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "She requested that her name ____ (not / appear) on the public list.",
+        "ans": "not appear",
+        "acc": [
+          "not appear"
+        ],
+        "why": "Negative subjunctive places 'not' directly before the base verb (no 'do/does')."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "We urge that the committee ____ (consider) all the security risks.",
+        "ans": "consider",
+        "acc": [
+          "consider"
+        ],
+        "why": "After 'urge that', use the base verb 'consider'."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "É essencial que ele chegue na hora.",
+        "ans": "It is essential that he arrive on time.",
+        "why": "It is essential that + he + arrive (base verb, no -s)."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "O médico recomendou que ela descanse por uma semana.",
+        "ans": "The doctor recommended that she rest for a week.",
+        "why": "Recommended that + she + rest (base verb)."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Eles insistiram que o relatório fosse enviado hoje.",
+        "ans": "They insisted that the report be sent today.",
+        "why": "Insisted that + subject + be + past participle."
+      }
+    ]
+  },
+  {
+    "id": "future-perfect-and-continuous",
+    "lvl": "B1+",
+    "name": "Future Perfect and Future Continuous",
+    "prereq": [
+      "future-forms",
+      "present-perfect"
+    ],
+    "pt": "Future continuous (will be + -ing) mostra uma ação em andamento num momento futuro: 'Amanhã a esta hora estarei voando'. Future perfect (will have + particípio) mostra uma ação que já estará concluída até um momento futuro: 'Até sexta terei terminado'. Armadilha comum: usar o futuro simples (will finish) para tudo, ou traduzir 'terei feito' como 'I will have make'. O verbo depois de will have é sempre o particípio passado.",
+    "en": "Use the future continuous for an action in progress at a specific future time. Use the future perfect for an action that will be completed before a specific future time (often with by or by the time).",
+    "form": "will be + verb-ing / will have + past participle",
+    "ex": [
+      "This time tomorrow, I will be flying to London.",
+      "By Friday, we will have finished the report.",
+      "She will have left by the time you arrive."
+    ],
+    "cmp": "Future simple is a decision or prediction (I will call you). Future continuous is in progress at a time (I will be working at 8). Future perfect is finished before a time (I will have finished by 8).",
+    "mistakes": [
+      {
+        "bad": "By next year, I will finish my course.",
+        "good": "By next year, I will have finished my course.",
+        "why": "With 'by' + a future time, use the future perfect for a completed action."
+      },
+      {
+        "bad": "She will have finish the work by noon.",
+        "good": "She will have finished the work by noon.",
+        "why": "After will have, use the past participle."
+      },
+      {
+        "bad": "At 9 tomorrow I will work in the office.",
+        "good": "At 9 tomorrow I will be working in the office.",
+        "why": "An action in progress at a future moment needs the future continuous."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "By next June, I ____ in this company for ten years.",
+        "opts": [
+          "will work",
+          "will have worked",
+          "will be worked",
+          "have worked"
+        ],
+        "ans": 1,
+        "why": "Completed duration up to a future point: will have + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "This time tomorrow, we ____ on a plane to Lisbon.",
+        "opts": [
+          "will sit",
+          "will have sat",
+          "will be sitting",
+          "are sat"
+        ],
+        "ans": 2,
+        "why": "Action in progress at a future time: will be + -ing."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Don't call at 8. I ____ dinner.",
+        "opts": [
+          "will be having",
+          "will having",
+          "would be had",
+          "will be have"
+        ],
+        "ans": 0,
+        "why": "In progress at 8: will be having."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Choose the correct sentence:",
+        "opts": [
+          "She will has finished by five.",
+          "She will have finished by five.",
+          "She will have finish by five."
+        ],
+        "ans": 1,
+        "why": "will have + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "By the time you arrive, the meeting ____.",
+        "opts": [
+          "will already start",
+          "will already have started",
+          "will already be start",
+          "already will started"
+        ],
+        "ans": 1,
+        "why": "The meeting will be completed (started) before your arrival: future perfect."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "In ten years, scientists ____ a cure for many diseases.",
+        "opts": [
+          "will found",
+          "will have found",
+          "will be find",
+          "have found"
+        ],
+        "ans": 1,
+        "why": "Completed before a future time: will have found."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "By 2030, she ____ (graduate) from university.",
+        "ans": "will have graduated",
+        "acc": [
+          "will have graduated"
+        ],
+        "why": "Future perfect: will have + past participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "This time next week, I ____ (lie) on a beach.",
+        "ans": "will be lying",
+        "acc": [
+          "will be lying"
+        ],
+        "why": "Future continuous: will be + -ing."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "By the end of the month, we ____ (not/finish) the project.",
+        "ans": "won't have finished",
+        "acc": [
+          "won't have finished",
+          "will not have finished"
+        ],
+        "why": "Negative future perfect: won't have + past participle."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "This time tomorrow, he ____ (drive) to Rio.",
+        "ans": "will be driving",
+        "acc": [
+          "will be driving"
+        ],
+        "why": "Future continuous: will be + -ing."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Até sexta, terei terminado o relatório.",
+        "ans": "I will have finished the report by Friday.",
+        "why": "Future perfect with by + time."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Amanhã a esta hora, estarei voando para Londres.",
+        "ans": "This time tomorrow, I will be flying to London.",
+        "why": "Future continuous for an action in progress."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Eles já terão saído quando você chegar.",
+        "ans": "They will have left by the time you arrive.",
+        "why": "Future perfect + present simple after by the time."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Ela estará trabalhando às oito.",
+        "ans": "She will be working at eight.",
+        "why": "Future continuous: will be + -ing."
+      }
+    ]
+  },
+  {
+    "id": "causative-have-get",
+    "lvl": "B1+",
+    "name": "Causative: Have / Get Something Done",
+    "prereq": [
+      "past-simple"
+    ],
+    "pt": "Usamos have/get + objeto + particípio passado quando outra pessoa faz o serviço para nós (ou quando algo nos acontece). 'Cortei o cabelo' no salão = 'I had my hair cut', não 'I cut my hair' (que significa que você mesmo cortou). Armadilha comum: dizer 'I cut my hair' ou 'I have cut my hair' por causa do português, que usa o mesmo verbo nos dois casos. 'Get' é mais informal. O verbo principal é que muda de tempo: had, am having, will have.",
+    "en": "We use have or get + object + past participle when someone else does a service for us, or when something happens to us (often something unpleasant).",
+    "form": "have/get + object + past participle",
+    "ex": [
+      "I had my car repaired yesterday.",
+      "We are having the kitchen painted.",
+      "He got his wallet stolen on the train."
+    ],
+    "cmp": "'I repaired my car' means I did it myself. 'I had my car repaired' means someone else did it.",
+    "mistakes": [
+      {
+        "bad": "I cut my hair yesterday at the salon.",
+        "good": "I had my hair cut yesterday at the salon.",
+        "why": "A professional did it, so use the causative."
+      },
+      {
+        "bad": "She had her house to paint.",
+        "good": "She had her house painted.",
+        "why": "Use the past participle, not an infinitive."
+      },
+      {
+        "bad": "I will have repaired my phone tomorrow by a technician.",
+        "good": "I will have my phone repaired tomorrow.",
+        "why": "This is the causative, not the future perfect."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "I ____ my car repaired yesterday.",
+        "opts": [
+          "had",
+          "have",
+          "was",
+          "did"
+        ],
+        "ans": 0,
+        "why": "Past causative: had + object + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "She is going to ____ her hair cut tomorrow.",
+        "opts": [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        "ans": 0,
+        "why": "After going to, use the base form have."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Which sentence is correct?",
+        "opts": [
+          "We had the kitchen painted last week.",
+          "We had the kitchen paint last week.",
+          "We had painted the kitchen by a decorator last week.",
+          "We had the kitchen to paint last week."
+        ],
+        "ans": 0,
+        "why": "had + object + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "I need to ____ my passport renewed.",
+        "opts": [
+          "get",
+          "got",
+          "getting",
+          "gets"
+        ],
+        "ans": 0,
+        "why": "After need to, use the base form get."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "He had his wallet ____ on the train.",
+        "opts": [
+          "stolen",
+          "steal",
+          "stole",
+          "stealing"
+        ],
+        "ans": 0,
+        "why": "Something happened to him: had + object + past participle."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Which sentence means a professional did the work?",
+        "opts": [
+          "I repaired my laptop.",
+          "I got my laptop repaired.",
+          "I am repairing my laptop."
+        ],
+        "ans": 1,
+        "why": "get + object + past participle means someone else did it."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "She ____ (have) her nails done yesterday.",
+        "ans": "had",
+        "acc": [
+          "had"
+        ],
+        "why": "Past simple of have."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "He ____ (get) his hair cut last Friday.",
+        "ans": "got",
+        "acc": [
+          "got"
+        ],
+        "why": "Past simple of get."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "They are having their house ____ (paint) at the moment.",
+        "ans": "painted",
+        "acc": [
+          "painted"
+        ],
+        "why": "Past participle after the object."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "I ____ (not/have) my car washed last week.",
+        "ans": "didn't have",
+        "acc": [
+          "didn't have",
+          "did not have"
+        ],
+        "why": "Negative past: didn't + base verb have."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Eu cortei o cabelo ontem (no salão).",
+        "ans": "I had my hair cut yesterday.",
+        "why": "Causative for a service done by someone else."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Precisamos consertar o telhado (alguém vai fazer).",
+        "ans": "We need to get the roof repaired.",
+        "why": "need to get + object + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Ele mandou lavar o carro.",
+        "ans": "He had his car washed.",
+        "why": "had + object + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Vou mandar consertar meu computador amanhã.",
+        "ans": "I am going to have my computer fixed tomorrow.",
+        "why": "going to + have + object + past participle."
+      }
+    ]
+  },
+  {
+    "id": "quantifiers",
+    "lvl": "B1+",
+    "name": "Quantifiers",
+    "prereq": [
+      "articles"
+    ],
+    "pt": "Quantifiers dizem 'quanto' ou 'quantos'. Com substantivos contáveis: many, few, a few, several. Com incontáveis: much, little, a little. Com ambos: a lot of, plenty of, enough, some. Few e little têm sentido negativo ('quase nenhum'); a few e a little têm sentido positivo ('alguns/um pouco'). Armadilha comum: dizer 'many money' ou 'much people' (em português 'muito' serve para os dois), e confundir 'little' com 'a little'. Enough vem antes do substantivo (enough time) e depois do adjetivo (old enough).",
+    "en": "Use many/few/a few with countable nouns and much/little/a little with uncountable nouns. Few and little mean not enough; a few and a little mean some. Plenty of and enough work with both.",
+    "form": "many/few/a few + plural noun; much/little/a little + uncountable noun",
+    "ex": [
+      "How much money do you have?",
+      "Few people came to the meeting.",
+      "There is plenty of room in the car."
+    ],
+    "cmp": "'I have a little time' means some time, enough to help. 'I have little time' means almost none.",
+    "mistakes": [
+      {
+        "bad": "How many money do you have?",
+        "good": "How much money do you have?",
+        "why": "Money is uncountable, so use much."
+      },
+      {
+        "bad": "I have too much friends.",
+        "good": "I have too many friends.",
+        "why": "Friends is countable, so use many."
+      },
+      {
+        "bad": "I don't have time enough.",
+        "good": "I don't have enough time.",
+        "why": "Enough comes before a noun."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "How ____ money do you have?",
+        "opts": [
+          "much",
+          "many",
+          "few",
+          "a few"
+        ],
+        "ans": 0,
+        "why": "Money is uncountable: much."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "There are only ____ seats left, so hurry.",
+        "opts": [
+          "a little",
+          "few",
+          "much",
+          "a lot"
+        ],
+        "ans": 1,
+        "why": "Seats are countable and the idea is negative: few."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Can I have ____ sugar in my coffee?",
+        "opts": [
+          "a little",
+          "a few",
+          "many",
+          "few"
+        ],
+        "ans": 0,
+        "why": "Sugar is uncountable and the idea is positive: a little."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Which sentence is correct?",
+        "opts": [
+          "I have too much friends.",
+          "I have too many friends.",
+          "I have too few friend."
+        ],
+        "ans": 1,
+        "why": "Friends is countable: too many."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "'I have little patience' means:",
+        "opts": [
+          "I have some patience.",
+          "I have almost no patience.",
+          "I have plenty of patience."
+        ],
+        "ans": 1,
+        "why": "Little without 'a' has a negative meaning."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "There is ____ of room in the car, so bring your bags.",
+        "opts": [
+          "plenty",
+          "many",
+          "few",
+          "a few"
+        ],
+        "ans": 0,
+        "why": "Plenty of works with uncountable nouns like room."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "How ____ people came to the party?",
+        "ans": "many",
+        "acc": [
+          "many"
+        ],
+        "why": "People is countable: many."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "She has very ____ time left, so she can't help us.",
+        "ans": "little",
+        "acc": [
+          "little"
+        ],
+        "why": "Uncountable noun, negative meaning: little."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "Are you old ____ to drive?",
+        "ans": "enough",
+        "acc": [
+          "enough"
+        ],
+        "why": "Enough comes after an adjective."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "I know ____ good restaurants nearby (some, enough to choose from).",
+        "ans": "a few",
+        "acc": [
+          "a few"
+        ],
+        "why": "Countable and positive: a few."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Quanto dinheiro você tem?",
+        "ans": "How much money do you have?",
+        "why": "much with an uncountable noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Poucas pessoas vieram à reunião.",
+        "ans": "Few people came to the meeting.",
+        "why": "few + plural countable noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Há bastante espaço no carro.",
+        "ans": "There is plenty of room in the car.",
+        "why": "plenty of + uncountable noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Não tenho tempo suficiente.",
+        "ans": "I don't have enough time.",
+        "why": "enough before the noun."
+      }
+    ]
+  },
+  {
+    "id": "question-tags-and-indirect-questions",
+    "lvl": "B1+",
+    "name": "Question Tags and Indirect Questions",
+    "prereq": [
+      "present-simple",
+      "to-be",
+      "modals-basic"
+    ],
+    "pt": "Question tags são perguntinhas no fim da frase ('..., não é?'). Frase afirmativa leva tag negativa e vice-versa, repetindo o auxiliar: 'You live here, don't you?'. Casos especiais: 'I am' vira 'aren't I?' e 'Let's' vira 'shall we?'. Já nas perguntas indiretas ('Could you tell me...?'), a ordem volta a ser de afirmação, sem do/does/did: 'Do you know where the bank is?'. Armadilha comum: dizer 'where is the bank' dentro da pergunta indireta e usar 'isn't it?' para tudo, como o 'né?' do português. Para sim/não use if ou whether.",
+    "en": "A question tag is a short question added to a statement. Use a negative tag after a positive statement and a positive tag after a negative one. In indirect questions, use statement word order with no inversion and no do/does/did.",
+    "form": "positive statement, negative tag? / negative statement, positive tag? / Could you tell me + wh-word + subject + verb",
+    "ex": [
+      "You live here, don't you?",
+      "She hasn't called, has she?",
+      "Could you tell me what time it is?"
+    ],
+    "cmp": "Direct: Where is the bank? Indirect: Do you know where the bank is? (the verb moves after the subject).",
+    "mistakes": [
+      {
+        "bad": "You live here, isn't it?",
+        "good": "You live here, don't you?",
+        "why": "The tag repeats the auxiliary and matches the subject."
+      },
+      {
+        "bad": "Could you tell me where is the bank?",
+        "good": "Could you tell me where the bank is?",
+        "why": "Indirect questions use statement word order."
+      },
+      {
+        "bad": "Do you know what time does the train leave?",
+        "good": "Do you know what time the train leaves?",
+        "why": "Do not use does in an indirect question."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "You live in Recife, ____?",
+        "opts": [
+          "don't you",
+          "do you",
+          "aren't you",
+          "isn't it"
+        ],
+        "ans": 0,
+        "why": "Positive statement in present simple: don't you."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "She hasn't called, ____?",
+        "opts": [
+          "has she",
+          "hasn't she",
+          "did she",
+          "is she"
+        ],
+        "ans": 0,
+        "why": "Negative statement with has: positive tag has she."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "I'm late, ____?",
+        "opts": [
+          "aren't I",
+          "am not I",
+          "amn't I",
+          "isn't I"
+        ],
+        "ans": 0,
+        "why": "The tag for I am is aren't I."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Which indirect question is correct?",
+        "opts": [
+          "Could you tell me where is the bank?",
+          "Could you tell me where the bank is?",
+          "Could you tell me where does the bank is?"
+        ],
+        "ans": 1,
+        "why": "Use statement word order."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Do you know ____ the store opens at nine?",
+        "opts": [
+          "if",
+          "what",
+          "where",
+          "how"
+        ],
+        "ans": 0,
+        "why": "Yes/no indirect questions use if or whether."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B1+",
+        "q": "Let's go home, ____?",
+        "opts": [
+          "shall we",
+          "will we",
+          "don't we",
+          "let we"
+        ],
+        "ans": 0,
+        "why": "The tag for Let's is shall we."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "They can swim, ____ they?",
+        "ans": "can't",
+        "acc": [
+          "can't"
+        ],
+        "why": "Positive statement, negative tag with the same modal."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "He doesn't smoke, ____ he?",
+        "ans": "does",
+        "acc": [
+          "does"
+        ],
+        "why": "Negative statement, positive tag."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "Could you tell me what time the train ____ (leave)?",
+        "ans": "leaves",
+        "acc": [
+          "leaves"
+        ],
+        "why": "Statement word order: the train leaves."
+      },
+      {
+        "t": "fill",
+        "lvl": "B1+",
+        "q": "I wonder ____ she is married.",
+        "ans": "if",
+        "acc": [
+          "if",
+          "whether"
+        ],
+        "why": "Use if or whether in a yes/no indirect question."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Você mora aqui, não é?",
+        "ans": "You live here, don't you?",
+        "why": "Positive statement + negative tag."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Você sabe onde fica o banco?",
+        "ans": "Do you know where the bank is?",
+        "why": "Indirect question with statement word order."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Você poderia me dizer que horas são?",
+        "ans": "Could you tell me what time it is?",
+        "why": "Indirect question: what time it is."
+      },
+      {
+        "t": "order",
+        "lvl": "B1+",
+        "q": "Ela não está em casa, está?",
+        "ans": "She isn't at home, is she?",
+        "why": "Negative statement + positive tag."
+      }
+    ]
+  },
+  {
+    "id": "cleft-sentences-advanced",
+    "lvl": "C1",
+    "name": "Cleft Sentences: Advanced Focus",
+    "prereq": [
+      "cleft-sentences",
+      "inversion"
+    ],
+    "pt": "Frases clivadas colocam foco em uma parte da frase. It-cleft: 'It was the manager who approved the budget' (foco em quem) ou 'It was in Paris that I met Ana' (foco em onde). Wh-cleft: 'What I need is a long holiday'. Existem ainda 'All I want is...', 'What happened was that...' e a versão invertida 'A long holiday is what I need'. Armadilha comum: traduzir 'Foi ele que...' com 'was him that' ou esquecer o that/who, e usar 'All what I want'. Depois de what-cleft com verbo de ação, o verbo seguinte fica no infinitivo: 'What she did was resign'.",
+    "en": "Cleft sentences split one idea into two clauses to put focus on one part. Use it + be + focus + that/who, or a wh-clause + be + focus. Use 'All (that) I...' for 'only'.",
+    "form": "It + be + focus + that/who... / What + subject + verb + be + focus",
+    "ex": [
+      "It was in Paris that I met Ana.",
+      "What I need is a good rest.",
+      "What happened was that the power went out."
+    ],
+    "cmp": "It-clefts focus on who, where or when. Wh-clefts focus on the thing, the action or the result.",
+    "mistakes": [
+      {
+        "bad": "All what I want is peace.",
+        "good": "All I want is peace.",
+        "why": "Do not add what after all."
+      },
+      {
+        "bad": "What she did was resigned without notice.",
+        "good": "What she did was resign without notice.",
+        "why": "After 'What ... did was', use the base form or to-infinitive."
+      },
+      {
+        "bad": "What I need are a long holiday.",
+        "good": "What I need is a long holiday.",
+        "why": "A what-clause takes a singular verb with a singular focus."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "It was the manager ____ approved the budget.",
+        "opts": [
+          "who",
+          "what",
+          "whom",
+          "whose"
+        ],
+        "ans": 0,
+        "why": "A person as subject in an it-cleft: who."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "What I need ____ a long holiday.",
+        "opts": [
+          "is",
+          "are",
+          "were",
+          "being"
+        ],
+        "ans": 0,
+        "why": "What-cleft with a singular focus: is."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "What she did ____ to resign without notice.",
+        "opts": [
+          "was",
+          "were",
+          "been",
+          "being"
+        ],
+        "ans": 0,
+        "why": "Past what-cleft: was."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Which sentence emphasises WHERE they met?",
+        "opts": [
+          "It was Ana that I met in Paris.",
+          "It was in Paris that I met Ana.",
+          "What I met was Ana in Paris."
+        ],
+        "ans": 1,
+        "why": "The focus phrase comes right after It was."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Which sentence is correct?",
+        "opts": [
+          "All I want is a quiet evening.",
+          "All what I want is a quiet evening.",
+          "All I want are a quiet evening."
+        ],
+        "ans": 0,
+        "why": "All + clause + is, with no what."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "What happened ____ that the power went out.",
+        "opts": [
+          "was",
+          "did",
+          "had",
+          "does"
+        ],
+        "ans": 0,
+        "why": "What happened was that..."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "It was my sister ____ told me the news.",
+        "ans": "who",
+        "acc": [
+          "who",
+          "that"
+        ],
+        "why": "A person as subject: who or that."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ I really enjoyed was the soundtrack.",
+        "ans": "What",
+        "acc": [
+          "What",
+          "what"
+        ],
+        "why": "A wh-cleft starts with What."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "What we should do ____ talk to the client directly.",
+        "ans": "is",
+        "acc": [
+          "is"
+        ],
+        "why": "What-cleft with present be: is."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "It was not until midnight ____ the guests left.",
+        "ans": "that",
+        "acc": [
+          "that"
+        ],
+        "why": "It was not until + time + that."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Foi o gerente quem aprovou o orçamento.",
+        "ans": "It was the manager who approved the budget.",
+        "why": "It-cleft focusing on the person."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "O que eu preciso é de um bom descanso.",
+        "ans": "What I need is a good rest.",
+        "why": "Wh-cleft."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Foi em 2019 que nos conhecemos.",
+        "ans": "It was in 2019 that we met.",
+        "why": "It-cleft focusing on time."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Tudo o que eu quero é paz e sossego.",
+        "ans": "All I want is peace and quiet.",
+        "why": "All + clause + is."
+      }
+    ]
+  },
+  {
+    "id": "subjunctive-and-formal-structures",
+    "lvl": "C1",
+    "name": "Subjunctive and Formal Structures",
+    "prereq": [
+      "subjunctive-structures",
+      "reported-speech"
+    ],
+    "pt": "Em inglês formal, depois de verbos como suggest, recommend, insist, demand, propose e de adjetivos como essential, vital, important, usamos that + sujeito + verbo na forma base, sem -s e sem to: 'I suggest that he go', 'It is vital that she be here'. A negação é 'not + verbo base'. Armadilha comum: usar infinitivo como no português ('Ele sugeriu mim to go'; 'exigiu ele to pay') ou conjugar o verbo ('that he pays'). Também: 'as if he were' (were para todas as pessoas) e 'Be that as it may' (seja como for).",
+    "en": "After verbs of suggestion, demand or recommendation, and after adjectives like essential or vital, formal English uses that + subject + base verb. The verb does not change for person or tense.",
+    "form": "suggest/insist/demand/recommend + that + subject + base verb; It is vital that + subject + base verb",
+    "ex": [
+      "The doctor recommended that he get more rest.",
+      "It is essential that every employee submit the form.",
+      "She talks as if she were the boss."
+    ],
+    "cmp": "Normal: He suggests that Tom goes. Formal subjunctive: He suggests that Tom go. Both are used, but the second is formal.",
+    "mistakes": [
+      {
+        "bad": "She suggested me to take a taxi.",
+        "good": "She suggested that I take a taxi.",
+        "why": "Suggest is not followed by object + to-infinitive."
+      },
+      {
+        "bad": "I demand that he is here at once.",
+        "good": "I demand that he be here at once.",
+        "why": "The subjunctive uses the base form be."
+      },
+      {
+        "bad": "It is vital that nobody doesn't be late.",
+        "good": "It is vital that nobody be late.",
+        "why": "No do-support in the subjunctive, and no double negative."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "The doctor recommended that he ____ more rest.",
+        "opts": [
+          "get",
+          "gets",
+          "getting",
+          "to get"
+        ],
+        "ans": 0,
+        "why": "Subjunctive: base verb with no -s."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "It is essential that every employee ____ the form by Friday.",
+        "opts": [
+          "submit",
+          "submits",
+          "submitted",
+          "submitting"
+        ],
+        "ans": 0,
+        "why": "Formal subjunctive: base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "In formal English: It is vital that nobody ____ late.",
+        "opts": [
+          "be",
+          "is",
+          "are",
+          "to be"
+        ],
+        "ans": 0,
+        "why": "Subjunctive uses the base form be."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Which sentence is correct?",
+        "opts": [
+          "She suggested that I take a taxi.",
+          "She suggested me to take a taxi.",
+          "She suggested me taking a taxi."
+        ],
+        "ans": 0,
+        "why": "suggest + that + subject + base verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "He talks as if he ____ the boss.",
+        "opts": [
+          "were",
+          "is",
+          "will be",
+          "being"
+        ],
+        "ans": 0,
+        "why": "Unreal comparison: were."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "'Be that as it may' means:",
+        "opts": [
+          "even so, whatever the truth",
+          "because of this",
+          "in the same way"
+        ],
+        "ans": 0,
+        "why": "It accepts a point but moves on to another."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "The judge ordered that the defendant ____ (pay) a fine.",
+        "ans": "pay",
+        "acc": [
+          "pay"
+        ],
+        "why": "Base form after order that."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "I demand that he ____ (be) here at once.",
+        "ans": "be",
+        "acc": [
+          "be"
+        ],
+        "why": "Subjunctive of be is be."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "It is important that she ____ (not/forget) her passport.",
+        "ans": "not forget",
+        "acc": [
+          "not forget"
+        ],
+        "why": "Negative subjunctive: not + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "The committee proposed that the meeting ____ (postpone) until May.",
+        "ans": "be postponed",
+        "acc": [
+          "be postponed"
+        ],
+        "why": "Passive subjunctive: be + past participle."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Ele insistiu que ela pagasse a conta.",
+        "ans": "He insisted that she pay the bill.",
+        "why": "insist that + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "É essencial que todos cheguem a tempo.",
+        "ans": "It is essential that everyone arrive on time.",
+        "why": "essential that + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Ela sugeriu que eu tomasse um táxi.",
+        "ans": "She suggested that I take a taxi.",
+        "why": "suggest that + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Ele fala como se fosse o dono.",
+        "ans": "He talks as if he were the owner.",
+        "why": "as if + were."
+      }
+    ]
+  },
+  {
+    "id": "articles-advanced-and-determiners",
+    "lvl": "B2",
+    "name": "Advanced Articles and Determiners",
+    "prereq": [
+      "articles"
+    ],
+    "pt": "Sem artigo: generalizações com substantivos incontáveis ou plurais ('Life is difficult', 'Dogs are loyal'). Com 'the': coisas únicas, superlativos, ordinais, 'the + adjetivo' para grupos (the rich, the poor), países no plural ou com Republic/Kingdom (the Netherlands, the United States), instrumentos musicais (play the piano). Instituições usadas pela função não levam artigo (in hospital, at school – inglês britânico). Armadilha comum: dizer 'The life is difficult' ou 'I love the music', copiando 'A vida é difícil'. Determinantes: each/every/both/either/neither, 'the whole day' (não 'whole the day'), 'What a beautiful view!'.",
+    "en": "Use no article for general ideas with plural or uncountable nouns. Use the for unique things, superlatives, groups like the rich, and some place names. Choose the right determiner: each, every, both, either, neither, the whole.",
+    "form": "the + superlative / the + adjective / the whole + singular noun / What a(n) + adjective + noun",
+    "ex": [
+      "Life is difficult sometimes.",
+      "She spent the whole day studying.",
+      "What a beautiful view!"
+    ],
+    "cmp": "'I love music' is music in general. 'I love the music in this film' is a specific one.",
+    "mistakes": [
+      {
+        "bad": "The life is full of surprises.",
+        "good": "Life is full of surprises.",
+        "why": "No article for a general abstract noun."
+      },
+      {
+        "bad": "She spent whole the day reading.",
+        "good": "She spent the whole day reading.",
+        "why": "The whole: the comes first."
+      },
+      {
+        "bad": "What beautiful view!",
+        "good": "What a beautiful view!",
+        "why": "What + a + adjective + singular countable noun."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "____ life is full of surprises.",
+        "opts": [
+          "The",
+          "A",
+          "No article",
+          "An"
+        ],
+        "ans": 2,
+        "why": "No article for a general abstract noun."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Of all the cities I visited, Lisbon was ____ best.",
+        "opts": [
+          "the",
+          "a",
+          "no article",
+          "that"
+        ],
+        "ans": 0,
+        "why": "Superlatives take the."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "In British English, 'My brother is in hospital' means:",
+        "opts": [
+          "He is a patient.",
+          "He is visiting someone.",
+          "He works there as a doctor."
+        ],
+        "ans": 0,
+        "why": "No article: the institution is used for its purpose."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "What ____ beautiful view!",
+        "opts": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "ans": 0,
+        "why": "What a + consonant sound: a."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "____ of my two brothers lives in Canada.",
+        "opts": [
+          "Each",
+          "Both",
+          "All",
+          "Every"
+        ],
+        "ans": 0,
+        "why": "Each of + plural noun takes a singular verb."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "She spent ____ day reading.",
+        "opts": [
+          "the whole",
+          "whole the",
+          "all the whole",
+          "a whole the"
+        ],
+        "ans": 0,
+        "why": "The whole + singular noun."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "I'd like ____ umbrella, please.",
+        "ans": "an",
+        "acc": [
+          "an"
+        ],
+        "why": "An before a vowel sound."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "We visited ____ Netherlands last summer.",
+        "ans": "the",
+        "acc": [
+          "the",
+          "The"
+        ],
+        "why": "The Netherlands is a plural name."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "She plays ____ piano very well.",
+        "ans": "the",
+        "acc": [
+          "the",
+          "The"
+        ],
+        "why": "The with musical instruments."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "The rich ____ not always happy.",
+        "ans": "are",
+        "acc": [
+          "are"
+        ],
+        "why": "The + adjective is plural."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "A vida é difícil às vezes.",
+        "ans": "Life is difficult sometimes.",
+        "why": "No article for a general abstract noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Que vista linda!",
+        "ans": "What a beautiful view!",
+        "why": "What a + adjective + noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Ela passou o dia inteiro estudando.",
+        "ans": "She spent the whole day studying.",
+        "why": "the whole + singular noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Eles moram nos Estados Unidos.",
+        "ans": "They live in the United States.",
+        "why": "The United States takes the."
+      }
+    ]
+  },
+  {
+    "id": "emphasis-and-contrast-structures",
+    "lvl": "B2",
+    "name": "Emphasis and Contrast Structures",
+    "prereq": [
+      "present-simple",
+      "past-simple"
+    ],
+    "pt": "Para dar ênfase, use do/does/did antes do verbo base em frases afirmativas: 'I do like your plan' (eu realmente gosto). Para contraste: although/even though + oração ('Although he was tired, he kept working'); despite/in spite of + substantivo ou -ing ('Despite the rain...'); whereas/while para comparar dois fatos; however em outra frase, entre vírgulas ou depois de ponto e vírgula. Armadilhas comuns: 'Although..., but...' (em inglês, só um conectivo), 'despite of' (o certo é despite ou in spite of) e 'Despite he was tired'.",
+    "en": "Use do/does/did + base verb to emphasise a positive statement. Contrast with although + clause, despite + noun/-ing, whereas for two opposite facts, and however to start a new idea.",
+    "form": "do/does/did + base verb / although + clause / despite + noun or -ing / ..., whereas ... / ; however,",
+    "ex": [
+      "I do like your plan, but it is too expensive.",
+      "Although he was tired, he kept working.",
+      "Despite the rain, we went out."
+    ],
+    "cmp": "Although is followed by a clause. Despite is followed by a noun or -ing. However is a linking adverb, not a conjunction.",
+    "mistakes": [
+      {
+        "bad": "Although he was tired, but he kept working.",
+        "good": "Although he was tired, he kept working.",
+        "why": "Do not use although and but together."
+      },
+      {
+        "bad": "Despite of the rain, we went out.",
+        "good": "Despite the rain, we went out.",
+        "why": "Despite is never followed by of; in spite of is the longer form."
+      },
+      {
+        "bad": "Despite it was raining, we went out.",
+        "good": "Although it was raining, we went out.",
+        "why": "Despite cannot be followed by a full clause."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "I ____ like your plan, but it is too expensive.",
+        "opts": [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        "ans": 0,
+        "why": "Emphatic do with I."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "She ____ call you yesterday; maybe she used the wrong number.",
+        "opts": [
+          "did",
+          "does",
+          "do",
+          "was"
+        ],
+        "ans": 0,
+        "why": "Emphatic did for the past."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "____ it was raining, we went for a walk.",
+        "opts": [
+          "Although",
+          "Despite",
+          "However",
+          "Whereas"
+        ],
+        "ans": 0,
+        "why": "Although introduces a clause."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "____ the rain, we went out.",
+        "opts": [
+          "Despite",
+          "Although",
+          "However",
+          "Whereas"
+        ],
+        "ans": 0,
+        "why": "Despite is followed by a noun."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "Which sentence is correct?",
+        "opts": [
+          "Although he was tired, he kept working.",
+          "Although he was tired, but he kept working.",
+          "Despite of being tired, he kept working."
+        ],
+        "ans": 0,
+        "why": "Use only one contrast connector and no 'of' after despite."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2",
+        "q": "My sister loves coffee, ____ I prefer tea.",
+        "opts": [
+          "whereas",
+          "however",
+          "despite",
+          "in spite"
+        ],
+        "ans": 0,
+        "why": "Whereas joins two contrasting clauses."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "He ____ say sorry, but nobody believed him.",
+        "ans": "did",
+        "acc": [
+          "did"
+        ],
+        "why": "Emphatic did + base verb."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "____ the traffic, we arrived on time.",
+        "ans": "Despite",
+        "acc": [
+          "Despite",
+          "In spite of"
+        ],
+        "why": "Despite or in spite of before a noun."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "I like cats; ____, my brother prefers dogs.",
+        "ans": "however",
+        "acc": [
+          "however",
+          "However"
+        ],
+        "why": "However links two sentences, after a semicolon."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2",
+        "q": "____ she studied hard, she failed the exam.",
+        "ans": "Although",
+        "acc": [
+          "Although",
+          "Even though",
+          "Though"
+        ],
+        "why": "Although introduces a clause of contrast."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Embora estivesse cansado, ele continuou trabalhando.",
+        "ans": "Although he was tired, he kept working.",
+        "why": "Although + clause."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Apesar da chuva, nós saímos.",
+        "ans": "Despite the rain, we went out.",
+        "why": "Despite + noun."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Eu realmente gosto do seu plano.",
+        "ans": "I do like your plan.",
+        "why": "Emphatic do + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B2",
+        "q": "Ela é rica; no entanto, não é feliz.",
+        "ans": "She is rich; however, she is not happy.",
+        "why": "however after a semicolon, followed by a comma."
       }
     ]
   }

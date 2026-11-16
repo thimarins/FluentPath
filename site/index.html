@@ -1732,10 +1732,9 @@ let CUR = '/home';
 function nav(path) { if (location.hash.slice(1) === path) render(); else location.hash = path; }
 function curPath() { return location.hash.slice(1) || '/home'; }
 const NAV = [
-  ['Main', [['/home', 'home', 'Home'], ['/session', 'play', 'Daily Session'], ['/learn', 'compass', 'Learn']]],
-  ['Skills', [['/vocab', 'book-open', 'Vocabulary'], ['/phrasals', 'layers', 'Phrasal verbs'], ['/grammar', 'puzzle', 'Grammar'], ['/connectors', 'link', 'Connectors'], ['/natural', 'sparkles', 'Sound natural'], ['/speaking', 'mic', 'Speaking'], ['/listening', 'headphones', 'Listening'], ['/writing', 'pen', 'Writing'], ['/reading', 'book', 'Reading']]],
-  ['Practice', [['/practice', 'zap', 'Practice'], ['/mistakes', 'wrench', 'My Mistakes'], ['/review', 'refresh', 'Review']]],
-  ['You', [['/progress', 'chart', 'Progress'], ['/roadmap', 'map', 'Roadmap'], ['/tutor', 'bot', 'AI Tutor'], ['/achievements', 'trophy', 'Achievements'], ['/settings', 'settings', 'Settings']]]
+  ['Study', [['/home', 'home', 'Home'], ['/session', 'play', 'Daily Session'], ['/learn', 'compass', 'Learn & Skills'], ['/practice', 'zap', 'Practice']]],
+  ['Review', [['/review', 'refresh', 'Review'], ['/mistakes', 'wrench', 'My Mistakes']]],
+  ['You', [['/progress', 'chart', 'Progress'], ['/roadmap', 'map', 'Roadmap'], ['/tutor', 'bot', 'AI Tutor'], ['/settings', 'settings', 'Settings']]]
 ];
 function navHTML() {
   const due = dueCounts();
