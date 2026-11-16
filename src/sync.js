@@ -71,15 +71,24 @@ function loadGsi() {
 }
 async function ensureToken(interactive) {
   if (SYNC.tok && Date.now() < SYNC.exp - 60000) return;
-  if (!interactive) throw new Error('needs-tap');
+  if (!interactive && !syncCfg().consented) throw new Error('needs-tap');
   await loadGsi();
   await new Promise((res, rej) => {
+    let done = false;
+    const timer = !interactive ? setTimeout(() => { if (!done) { done = true; rej(new Error('needs-tap')); } }, 5000) : null;
     const tc = google.accounts.oauth2.initTokenClient({
       client_id: clientId(), scope: SYNC.scope,
-      callback: r => { if (r.error) { rej(new Error(r.error_description || r.error)); return; } SYNC.tok = r.access_token; SYNC.exp = Date.now() + (r.expires_in || 3600) * 1000; setSyncCfg({ consented: true }); res(); },
-      error_callback: e => rej(new Error(e && e.type === 'popup_closed' ? 'Google sign-in was closed' : (e && e.type) || 'Google sign-in failed'))
+      callback: r => {
+        if (done) return; done = true; if (timer) clearTimeout(timer);
+        if (r.error) { rej(new Error(!interactive ? 'needs-tap' : (r.error_description || r.error))); return; }
+        SYNC.tok = r.access_token; SYNC.exp = Date.now() + (r.expires_in || 3600) * 1000; setSyncCfg({ consented: true }); res();
+      },
+      error_callback: e => {
+        if (done) return; done = true; if (timer) clearTimeout(timer);
+        rej(new Error(!interactive ? 'needs-tap' : (e && e.type === 'popup_closed' ? 'Google sign-in was closed' : (e && e.type) || 'Google sign-in failed')));
+      }
     });
-    tc.requestAccessToken({ prompt: syncCfg().consented ? '' : 'consent' });
+    tc.requestAccessToken({ prompt: !interactive ? 'none' : (syncCfg().consented ? '' : 'consent') });
   });
 }
 async function dfetch(url, opt = {}) {
@@ -136,7 +145,11 @@ async function syncNow(opts = {}) {
     if (!opts.silent && !tap) toast(esc(e.message), 'alert');
   } finally { SYNC.busy = false; if (typeof chrome === 'function' && $('#nav')) chrome(); }
 }
-function autoSync() { if (syncConnected() && !S.demo && SYNC.tok && Date.now() < SYNC.exp - 60000 && Date.now() - (syncCfg().last || 0) > 30000) syncNow({ silent: true }); }
+function autoSync() {
+  if (!syncConnected() || S.demo || SYNC.busy) return;
+  if (Date.now() - (syncCfg().last || 0) < 45000) return;
+  if ((SYNC.tok && Date.now() < SYNC.exp - 60000) || syncCfg().consented) syncNow({ silent: true });
+}
 function syncPill() {
   const b = $('#syncBtn'); if (!b) return; const st = SYNC.state; const on = syncConnected();
   b.className = 'iconbtn' + (st === 'busy' ? ' spin' : '') + (on && st === 'ok' ? ' ok' : '') + (st === 'err' ? ' err' : '');

@@ -20,7 +20,7 @@ function load() {
   return S;
 }
 const NOSAVE = (k, v) => k === 'plan' ? undefined : v;
-function save() { try { S.updatedAt = Date.now(); localStorage.setItem(KEY, JSON.stringify(S, NOSAVE)); } catch (e) { console.warn('save failed', e); } srvPush(); }
+function save() { try { S.updatedAt = Date.now(); localStorage.setItem(KEY, JSON.stringify(S, NOSAVE)); } catch (e) { console.warn('save failed', e); } srvPush(); if (typeof autoSync === 'function') autoSync(); }
 /* modo launcher do Windows: grava também em data\progress.json (servidor local) */
 let SERVER = null, _srvT = null;
 const SRV_HDR = { 'X-FluentPath': '1', 'content-type': 'application/json' };

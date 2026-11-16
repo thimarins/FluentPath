@@ -31,7 +31,7 @@ async function serverBoot() {
   Speech.init();
   if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => { });
   if ('serviceWorker' in navigator && /^https?:/.test(location.protocol) && !IS_LOCAL) navigator.serviceWorker.register('sw.js').catch(() => { });
-  if (syncConnected()) SYNC.state = 'idle';
+  if (syncConnected()) { SYNC.state = 'idle'; if (!S.demo && syncCfg().consented) setTimeout(() => syncNow({ silent: true }), 400); }
   if (!location.hash) location.hash = S.onboarded ? '/home' : '/onboarding';
   window.addEventListener('beforeunload', () => { save(); srvPush(true); });
   document.addEventListener('visibilitychange', () => { if (document.hidden) { save(); srvPush(true); } });
