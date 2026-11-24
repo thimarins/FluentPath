@@ -5170,5 +5170,581 @@
         "pt": "avesso a risco"
       }
     ]
+  },
+  {
+    "id": "rd-cur-01",
+    "lvl": "B1+",
+    "topic": "culture",
+    "kind": "article",
+    "title": "Why English has two words for almost everything (Cow vs. Beef)",
+    "text": "Ever wondered why English speakers raise a \"cow\" on a farm, yet eat \"beef\" at a restaurant? Or why \"freedom\" sounds warm and personal while \"liberty\" feels formal and legal? The answer goes back nearly a thousand years to 1066, when French-speaking Normans conquered England.\n\nFor centuries, English peasants worked the land and kept using Germanic words like \"cow,\" \"pig,\" and \"sheep.\" Meanwhile, the French-speaking nobility ate the cooked meat at banquets, calling it \"beef\" (boeuf), \"pork\" (porc), and \"mutton\" (mouton).\n\nThat split still shapes English today. Short, direct words (ask, start, help, house) usually come from Old English and feel warm in daily conversation. Longer, formal synonyms (inquire, commence, assist, residence) come from French or Latin—and knowing when to switch between them is one of the fastest ways to sound natural.",
+    "qs": [
+      {
+        "q": "Why does English use different words for farm animals and cooked meat?",
+        "opts": [
+          "It was a spelling mistake.",
+          "Peasants spoke Old English while French rulers named the food.",
+          "Chefs invented new words.",
+          "Animals changed names in winter."
+        ],
+        "ans": 1,
+        "why": "Germanic farmers named the animals; French-speaking nobility named the meat.",
+        "type": "main"
+      },
+      {
+        "q": "Which words usually sound warmer in everyday speech?",
+        "opts": [
+          "Long Latin words",
+          "Short Old English words like ask and help",
+          "Legal terms",
+          "French banquet words"
+        ],
+        "ans": 1,
+        "why": "Short Germanic words feel warm and direct in daily conversation.",
+        "type": "detail"
+      },
+      {
+        "q": "What does knowing when to switch registers help you do?",
+        "opts": [
+          "Read faster",
+          "Sound natural in both casual and formal settings",
+          "Avoid using verbs",
+          "Speak only French"
+        ],
+        "ans": 1,
+        "why": "Choosing between casual and formal synonyms makes your English sound natural.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"conquered\" mean in paragraph one?",
+        "opts": [
+          "visited briefly",
+          "took control of by force",
+          "traded with",
+          "ignored"
+        ],
+        "ans": 1,
+        "why": "The Normans invaded and took control of England in 1066.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "peasant",
+        "pt": "camponês"
+      },
+      {
+        "w": "nobility",
+        "pt": "nobreza"
+      },
+      {
+        "w": "register",
+        "pt": "nível de formalidade"
+      }
+    ]
+  },
+  {
+    "id": "rd-cur-02",
+    "lvl": "B2",
+    "topic": "business",
+    "kind": "article",
+    "title": "The psychology behind $9.99 prices and decoy options",
+    "text": "Why do so many software plans cost $19 instead of $20, or why do coffee shops offer a tiny gap between medium and large? Behavioral economists call this \"left-digit bias\" and the \"decoy effect.\"\n\nBecause our brains read numbers from left to right, $19.99 feels closer to $10 than to $20—even when we logically know the difference is a single penny. Meanwhile, companies often place an overpriced \"middle\" or \"decoy\" tier right next to the plan they actually want you to buy, making the target plan look like an obvious bargain by comparison.\n\nNext time you compare annual subscriptions or restaurant menus, pause and ask: which option was designed purely to make another one look cheap?",
+    "qs": [
+      {
+        "q": "What is \"left-digit bias\"?",
+        "opts": [
+          "Paying with your left hand",
+          "Focusing more on the first digit of a price than the cents",
+          "Buying only cheap items",
+          "Reading menus backwards"
+        ],
+        "ans": 1,
+        "why": "Our brains anchor on the leftmost digit ($19 vs $20).",
+        "type": "main"
+      },
+      {
+        "q": "Why do companies create a \"decoy\" pricing tier?",
+        "opts": [
+          "To confuse accountants",
+          "To make another target plan look like a great deal",
+          "To lose money",
+          "Because laws require three plans"
+        ],
+        "ans": 1,
+        "why": "A decoy makes the intended plan look like an obvious bargain.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the author advise readers to do when comparing plans?",
+        "opts": [
+          "Always buy the cheapest",
+          "Ask which option is there just to make another look good",
+          "Never buy coffee",
+          "Pay in cash"
+        ],
+        "ans": 1,
+        "why": "Pause and notice how pricing tiers are framed.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"bargain\" mean here?",
+        "opts": [
+          "an argument",
+          "something offered at a very good price",
+          "a hidden tax",
+          "a mistake"
+        ],
+        "ans": 1,
+        "why": "A bargain is a great deal for the price.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "decoy",
+        "pt": "isca / chamariz"
+      },
+      {
+        "w": "penny",
+        "pt": "centavo"
+      },
+      {
+        "w": "bargain",
+        "pt": "pechincha / ótimo negócio"
+      }
+    ]
+  },
+  {
+    "id": "rd-cur-03",
+    "lvl": "B1+",
+    "topic": "daily",
+    "kind": "article",
+    "title": "The \"Actually\" trap: five false friends that trip up Brazilians",
+    "text": "Some of the funniest misunderstandings between Portuguese and English happen with words that look identical yet mean completely different things. Linguists call them \"false friends.\"\n\nTake \"actually\": in English, it does not mean \"atualmente\" (which is \"currently\"); it means \"na verdade,\" often to gently correct someone. Similarly, \"pretend\" means \"fingir,\" never \"pretender\" (use \"intend\" or \"plan\"). If you tell a colleague \"I intend to finish by five,\" you sound organized; if you say \"I pretend to finish by five,\" it sounds like you are faking your work!\n\nOther classics include \"push\" (empurrar, not puxar), \"parents\" (pais, not parentes/relatives), and \"attend\" (participar de, not atender). Mastering these five alone eliminates dozens of embarrassing slips.",
+    "qs": [
+      {
+        "q": "What does \"actually\" mean in English?",
+        "opts": [
+          "currently",
+          "in fact / really",
+          "recently",
+          "never"
+        ],
+        "ans": 1,
+        "why": "\"Actually\" means \"in fact / na verdade\", whereas \"atualmente\" is \"currently\".",
+        "type": "detail"
+      },
+      {
+        "q": "Why would \"I pretend to finish by five\" sound funny to a native speaker?",
+        "opts": [
+          "Because \"pretend\" means \"act/fake\", not \"plan\".",
+          "Because five is too late.",
+          "Because \"finish\" is wrong.",
+          "It sounds totally normal."
+        ],
+        "ans": 0,
+        "why": "\"Pretend\" means fingir; use \"intend\" or \"plan\".",
+        "type": "main"
+      },
+      {
+        "q": "Which word means \"parentes\" (aunts, uncles, cousins) in English?",
+        "opts": [
+          "parents",
+          "relatives",
+          "neighbors",
+          "colleagues"
+        ],
+        "ans": 1,
+        "why": "\"Parents\" means mother and father; \"relatives\" means extended family.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"trip up\" mean in the title?",
+        "opts": [
+          "travel abroad",
+          "cause someone to make a mistake",
+          "celebrate",
+          "run fast"
+        ],
+        "ans": 1,
+        "why": "\"Trip someone up\" means cause them to stumble or slip.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "false friend",
+        "pt": "falso cognato"
+      },
+      {
+        "w": "slip",
+        "pt": "deslize / erro pequeno"
+      },
+      {
+        "w": "relatives",
+        "pt": "parentes"
+      }
+    ]
+  },
+  {
+    "id": "rd-cur-04",
+    "lvl": "B2",
+    "topic": "travel",
+    "kind": "article",
+    "title": "Why airlines legally sell more tickets than seats",
+    "text": "Every frequent traveler dreads hearing at the gate that a flight is \"overbooked.\" It feels like an obvious mistake—how can an airline sell 185 tickets for a plane with 180 seats?\n\nIn reality, overbooking is a deliberate statistical calculation. Based on decades of data, airlines know that on almost every flight, roughly five to eight percent of passengers miss connections, change plans, or simply never show up. Leaving those seats empty would drive ticket prices higher for everyone.\n\nMost of the time, the math works silently. On the rare days when everyone actually arrives at the gate, airlines first offer travel vouchers and hotel stays to volunteers before ever bumping anyone involuntarily.",
+    "qs": [
+      {
+        "q": "Why do airlines intentionally overbook flights?",
+        "opts": [
+          "Their software has a bug.",
+          "Historical data shows a percentage of passengers never show up.",
+          "They want angry customers.",
+          "Planes grow larger."
+        ],
+        "ans": 1,
+        "why": "Roughly 5–8% of passengers miss flights or cancel.",
+        "type": "main"
+      },
+      {
+        "q": "What happens on days when every ticketed passenger shows up?",
+        "opts": [
+          "The flight is canceled.",
+          "Airlines offer vouchers to volunteers first.",
+          "Everyone stands.",
+          "Prices double at the gate."
+        ],
+        "ans": 1,
+        "why": "Airlines seek volunteers with vouchers before bumping anyone.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the author say overbooking keeps ticket prices lower?",
+        "opts": [
+          "Fewer seats fly empty, spreading operating costs.",
+          "Pilots work for free.",
+          "Vouchers are free.",
+          "Airports charge less."
+        ],
+        "ans": 0,
+        "why": "Flying with empty seats would force higher fares to cover costs.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"dreads\" mean in paragraph one?",
+        "opts": [
+          "looks forward to",
+          "fears strongly",
+          "ignores",
+          "laughs at"
+        ],
+        "ans": 1,
+        "why": "To dread something is to fear or dislike the thought of it.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "overbooked",
+        "pt": "com mais reservas que assentos"
+      },
+      {
+        "w": "show up",
+        "pt": "aparecer / comparecer"
+      },
+      {
+        "w": "voucher",
+        "pt": "vale / crédito"
+      }
+    ]
+  },
+  {
+    "id": "rd-cur-05",
+    "lvl": "B2+",
+    "topic": "business",
+    "kind": "article",
+    "title": "The four-second silence rule in international meetings",
+    "text": "If you have ever felt pressured to fill an awkward silence on a video call, you are not alone. In fast-paced Western corporate culture, pauses longer than two seconds can feel uncomfortable—so people rush to talk, often repeating what they just said.\n\nYet seasoned negotiators use silence deliberately. Pausing for three to four seconds after hearing an offer or asking a tough question signals calm confidence and gives the other person space to reveal what they actually care about. Often, the person who breaks the silence first ends up making an unnecessary concession.\n\nFor non-native speakers, a short pause is doubly useful: it buys you two seconds to organize your sentence cleanly instead of translating word for word in panic.",
+    "qs": [
+      {
+        "q": "Why do skilled negotiators pause for three to four seconds?",
+        "opts": [
+          "They forgot their English.",
+          "It projects calm confidence and encourages the other side to open up.",
+          "Their microphone broke.",
+          "They want to end the call."
+        ],
+        "ans": 1,
+        "why": "Silence signals confidence and often prompts useful information.",
+        "type": "main"
+      },
+      {
+        "q": "What often happens to the person who rushes to break a silence?",
+        "opts": [
+          "They win immediately.",
+          "They may make an unnecessary concession.",
+          "They speak faster.",
+          "They get promoted."
+        ],
+        "ans": 1,
+        "why": "Breaking silence nervously often leads to giving away concessions.",
+        "type": "detail"
+      },
+      {
+        "q": "How does pausing help non-native speakers?",
+        "opts": [
+          "It translates automatically.",
+          "It gives time to structure a clear sentence.",
+          "It hides their accent.",
+          "It ends the meeting."
+        ],
+        "ans": 1,
+        "why": "Two seconds helps organize thoughts instead of rushing.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"concession\" mean here?",
+        "opts": [
+          "a coffee break",
+          "something you give up to reach an agreement",
+          "a loud speech",
+          "a contract signature"
+        ],
+        "ans": 1,
+        "why": "A concession is yielding on a point during negotiation.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "negotiator",
+        "pt": "negociador"
+      },
+      {
+        "w": "concession",
+        "pt": "concessão"
+      },
+      {
+        "w": "break the silence",
+        "pt": "quebrar o silêncio"
+      }
+    ]
+  },
+  {
+    "id": "rd-cur-06",
+    "lvl": "B1+",
+    "topic": "daily",
+    "kind": "article",
+    "title": "How the word \"OK\" conquered the entire planet",
+    "text": "You hear \"OK\" in Tokyo, São Paulo, Berlin, and Cairo—making it arguably the most recognized word on Earth. Surprisingly, it started in 1839 as a silly newspaper joke in Boston.\n\nBack then, young journalists loved inventing playful abbreviations with intentional misspellings. \"All correct\" became \"oll korrect\"—or \"O.K.\" A year later, a US presidential campaign adopted \"Old Kinderhook\" (the candidate's nickname, \"O.K.\") as a catchy slogan, and the abbreviation exploded nationwide.\n\nBecause it is short, easy to pronounce in almost any language, and works as \"yes,\" \"fine,\" \"understood,\" or even a question (\"OK?\"), it outlived every other slang joke from the nineteenth century.",
+    "qs": [
+      {
+        "q": "Where did the word \"OK\" originate?",
+        "opts": [
+          "In a London dictionary",
+          "As a playful misspelled joke in a Boston newspaper",
+          "From a Latin legal phrase",
+          "In a radio broadcast"
+        ],
+        "ans": 1,
+        "why": "Boston journalists abbreviated \"oll korrect\" as O.K. in 1839.",
+        "type": "main"
+      },
+      {
+        "q": "What helped \"OK\" spread across the United States in 1840?",
+        "opts": [
+          "A train company",
+          "A presidential campaign slogan",
+          "A movie",
+          "A recipe book"
+        ],
+        "ans": 1,
+        "why": "A campaign used \"Old Kinderhook\" (O.K.) as a catchy slogan.",
+        "type": "detail"
+      },
+      {
+        "q": "Why did \"OK\" survive worldwide?",
+        "opts": [
+          "It is short, easy to say, and fits many everyday meanings.",
+          "Governments required it.",
+          "It was expensive to print.",
+          "Only diplomats used it."
+        ],
+        "ans": 0,
+        "why": "Simplicity and versatility helped it outlive other slang.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"outlived\" mean in the last sentence?",
+        "opts": [
+          "lived outside",
+          "survived longer than",
+          "disappeared before",
+          "copied"
+        ],
+        "ans": 1,
+        "why": "\"Outlived\" means lasted longer than everything else from that era.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "misspelling",
+        "pt": "erro de grafia proposital"
+      },
+      {
+        "w": "catchy",
+        "pt": "pegajoso / fácil de lembrar"
+      },
+      {
+        "w": "outlive",
+        "pt": "sobreviver por mais tempo que"
+      }
+    ]
+  },
+  {
+    "id": "rd-cur-07",
+    "lvl": "B2",
+    "topic": "work",
+    "kind": "article",
+    "title": "Why \"make\" vs. \"do\" follows a simple hidden logic",
+    "text": "Portuguese uses \"fazer\" for almost everything—fazer um bolo, fazer exercício, fazer uma pergunta, fazer um erro. In English, splitting that single verb into \"make\" and \"do\" feels arbitrary until you spot the core pattern.\n\nUse \"do\" for actions, tasks, and repetitive work where nothing physical or new is created: do homework, do the dishes, do business, do your best. Use \"make\" when you create, produce, or trigger a result: make coffee, make a decision, make progress, make a mistake.\n\nNotice how the logic holds even in business: you \"do\" research and \"do\" a favor, yet you \"make\" a deal, \"make\" a profit, and \"make\" a point.",
+    "qs": [
+      {
+        "q": "What is the main rule separating \"do\" and \"make\"?",
+        "opts": [
+          "\"Do\" is for food; \"make\" is for work.",
+          "\"Do\" is for tasks/activities; \"make\" is for creating or producing a result.",
+          "They are 100% interchangeable.",
+          "\"Make\" is only past tense."
+        ],
+        "ans": 1,
+        "why": "\"Do\" covers actions/tasks; \"make\" covers creating or causing a result.",
+        "type": "main"
+      },
+      {
+        "q": "Which phrase uses \"do\" correctly?",
+        "opts": [
+          "do a mistake",
+          "do a decision",
+          "do research",
+          "do a profit"
+        ],
+        "ans": 2,
+        "why": "Research is an activity/task (\"do research\"), while the others create outcomes (\"make\").",
+        "type": "detail"
+      },
+      {
+        "q": "Why do Brazilians often mix up \"make\" and \"do\"?",
+        "opts": [
+          "Portuguese uses \"fazer\" for both.",
+          "English has no \"make\".",
+          "They sound identical.",
+          "Books forbid \"do\"."
+        ],
+        "ans": 0,
+        "why": "Both map to the single Portuguese verb \"fazer\".",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"arbitrary\" mean in paragraph one?",
+        "opts": [
+          "crystal clear",
+          "random without a clear rule",
+          "very fast",
+          "grammatical"
+        ],
+        "ans": 1,
+        "why": "It seems random until you see the underlying pattern.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "repetitive",
+        "pt": "repetitivo"
+      },
+      {
+        "w": "trigger",
+        "pt": "gerar / desencadear"
+      },
+      {
+        "w": "hold",
+        "pt": "valer / continuar válido"
+      }
+    ]
+  },
+  {
+    "id": "rd-cur-08",
+    "lvl": "B2+",
+    "topic": "work",
+    "kind": "article",
+    "title": "Spotting fake urgency in workplace emails",
+    "text": "In busy companies, almost every second email arrives marked \"URGENT\" or \"ASAP.\" When everything is treated as an emergency, teams burn out switching contexts—and genuine crises get lost in the noise.\n\nExperienced leads separate urgency from importance. Before dropping your planned work for an \"ASAP\" request, ask one calm question: \"What breaks if this ships tomorrow morning instead of today at five?\" Half the time, the sender simply wanted reassurance, not instant delivery.\n\nWhen you do need fast action from someone else, skip vague labels like \"ASAP\" and state a concrete reason and time: \"Could you review this by 3 p.m. so we can unlock the client demo?\"",
+    "qs": [
+      {
+        "q": "What happens when too many emails are labeled \"URGENT\"?",
+        "opts": [
+          "Teams finish faster.",
+          "People burn out and real emergencies get ignored.",
+          "Clients pay double.",
+          "Meetings stop."
+        ],
+        "ans": 1,
+        "why": "Constant fake urgency causes burnout and hides real crises.",
+        "type": "main"
+      },
+      {
+        "q": "What question helps test whether a request is truly urgent?",
+        "opts": [
+          "Why are you emailing me?",
+          "What breaks if this ships tomorrow instead of today?",
+          "Who is your manager?",
+          "Can you call me?"
+        ],
+        "ans": 1,
+        "why": "Asking what breaks reveals if there is a real deadline.",
+        "type": "detail"
+      },
+      {
+        "q": "How should you ask for something fast?",
+        "opts": [
+          "Write \"URGENT!!!\" in all caps",
+          "Give a concrete time and reason",
+          "Send five reminders",
+          "Mark it low priority"
+        ],
+        "ans": 1,
+        "why": "State a clear time (\"by 3 p.m.\") and why it matters.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"burn out\" mean here?",
+        "opts": [
+          "catch fire",
+          "become physically and mentally exhausted from stress",
+          "work faster",
+          "change jobs happily"
+        ],
+        "ans": 1,
+        "why": "Burnout is exhaustion from chronic workplace stress.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "ASAP",
+        "pt": "o quanto antes"
+      },
+      {
+        "w": "reassurance",
+        "pt": "tranquilidade / confirmação"
+      },
+      {
+        "w": "burn out",
+        "pt": "esgotar-se"
+      }
+    ]
   }
 ]

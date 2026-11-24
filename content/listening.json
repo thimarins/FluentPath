@@ -4556,5 +4556,421 @@
       "hurdle",
       "etiquette"
     ]
+  },
+  {
+    "id": "lis-cur-01",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "daily",
+    "kind": "conversation",
+    "script": "Barista: Hi there, what can I get started for you?\nThiago: Could I have a medium iced latte with oat milk, please?\nBarista: Sure thing. Would you like any room for cream, or just the lid on top?\nThiago: Just the lid is fine, thanks. And is there Wi-Fi here?\nBarista: Yep, the password is on the bottom of your receipt. We'll call your name at the end of the counter.",
+    "qs": [
+      {
+        "q": "What does \"room for cream\" mean?",
+        "opts": [
+          "A private seating room",
+          "Empty space at the top of the cup",
+          "Extra sugar",
+          "A free refill"
+        ],
+        "ans": 1,
+        "why": "Baristas ask if you want space left in the cup for milk or cream.",
+        "type": "vocab"
+      },
+      {
+        "q": "Where is the Wi-Fi password?",
+        "opts": [
+          "On the front door",
+          "On the bottom of the receipt",
+          "On the cup",
+          "Behind the counter"
+        ],
+        "ans": 1,
+        "why": "The barista says it is on the bottom of the receipt.",
+        "type": "detail"
+      },
+      {
+        "q": "Where will Thiago pick up his drink?",
+        "opts": [
+          "At his table",
+          "At the end of the counter",
+          "Outside",
+          "At the register"
+        ],
+        "ans": 1,
+        "why": "They will call his name at the end of the counter.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "what can I get started",
+      "room for cream",
+      "receipt"
+    ]
+  },
+  {
+    "id": "lis-cur-02",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "culture",
+    "kind": "monologue",
+    "script": "Here is a fun cultural rule if you ever visit a British pub or office: when someone asks \"You alright?\" in passing, they are not asking about your medical history! In British English, \"You alright?\" is just a casual greeting meaning \"Hey, how's it going?\" The natural reply is simply \"Yeah, good thanks, you?\"—no long explanation required.",
+    "qs": [
+      {
+        "q": "What does \"You alright?\" usually mean in British English?",
+        "opts": [
+          "You look sick.",
+          "Hey, how are you?",
+          "Are you angry?",
+          "Can you help me?"
+        ],
+        "ans": 1,
+        "why": "It is a casual greeting, not a concern about health.",
+        "type": "main"
+      },
+      {
+        "q": "How should you reply naturally?",
+        "opts": [
+          "Explain your whole week",
+          "Say \"Yeah, good thanks, you?\"",
+          "Say \"I am not sick!\"",
+          "Stay silent"
+        ],
+        "ans": 1,
+        "why": "A brief casual reply matches the greeting.",
+        "type": "detail"
+      },
+      {
+        "q": "Where might you hear this phrase?",
+        "opts": [
+          "Only in hospitals",
+          "In British pubs and offices",
+          "Only on airplanes",
+          "In dictionaries"
+        ],
+        "ans": 1,
+        "why": "The speaker mentions British pubs and offices.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "in passing",
+      "medical history",
+      "greeting"
+    ]
+  },
+  {
+    "id": "lis-cur-03",
+    "lvl": "B2",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "business",
+    "kind": "conversation",
+    "script": "Mia: Hey, quick sanity check before I send this proposal to the client in Chicago.\nLeo: Shoot.\nMia: I wrote \"We will make a meeting next week.\" Does that sound off?\nLeo: A little, yeah—in English you \"schedule\" or \"set up\" a meeting, never \"make\" one. Try \"Let's set up a quick call next week.\" Much cleaner!",
+    "qs": [
+      {
+        "q": "What is a \"sanity check\"?",
+        "opts": [
+          "A doctor's visit",
+          "A quick review to make sure something makes sense",
+          "A bank payment",
+          "A software crash"
+        ],
+        "ans": 1,
+        "why": "A sanity check is a fast review before sending or shipping.",
+        "type": "vocab"
+      },
+      {
+        "q": "Which verb should replace \"make\" before \"a meeting\"?",
+        "opts": [
+          "do",
+          "schedule or set up",
+          "create",
+          "build"
+        ],
+        "ans": 1,
+        "why": "English uses \"schedule\" or \"set up\" a meeting.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"Shoot\" mean in this dialogue?",
+        "opts": [
+          "Stop talking",
+          "Go ahead / tell me",
+          "Send an email",
+          "Take a photo"
+        ],
+        "ans": 1,
+        "why": "\"Shoot\" is an informal way to say \"Go ahead, ask me.\"",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      "sanity check",
+      "shoot",
+      "sound off"
+    ]
+  },
+  {
+    "id": "lis-cur-04",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "travel",
+    "kind": "conversation",
+    "script": "Guest: Hi, I have a reservation under Silva for three nights. Would it happen to be possible to get a quiet room away from the elevator?\nClerk: Let me check for you, Mr. Silva. Yes, I have a corner room on the fifth floor facing the courtyard—very quiet. Would you like me to move you there?\nGuest: That would be wonderful, thank you so much.",
+    "qs": [
+      {
+        "q": "What does the guest politely ask for?",
+        "opts": [
+          "A free breakfast",
+          "A quiet room away from the elevator",
+          "A late checkout",
+          "A bigger TV"
+        ],
+        "ans": 1,
+        "why": "He asks for a quiet room away from the elevator.",
+        "type": "detail"
+      },
+      {
+        "q": "Which phrase makes his request sound very polite?",
+        "opts": [
+          "Give me a room now.",
+          "Would it happen to be possible to...",
+          "I demand a corner room.",
+          "Move me upstairs."
+        ],
+        "ans": 1,
+        "why": "\"Would it happen to be possible...\" is very polite and natural.",
+        "type": "inference"
+      },
+      {
+        "q": "What room does the clerk offer?",
+        "opts": [
+          "First floor near the lobby",
+          "Fifth floor corner room facing the courtyard",
+          "Basement room",
+          "None available"
+        ],
+        "ans": 1,
+        "why": "A quiet corner room on the fifth floor facing the courtyard.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "away from",
+      "courtyard",
+      "under (a name)"
+    ]
+  },
+  {
+    "id": "lis-cur-05",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "business",
+    "kind": "monologue",
+    "script": "If you want to sound more decisive in English business meetings, watch out for filler words like \"maybe,\" \"just,\" and \"kind of\" when stating a recommendation. Compare \"Maybe we could just kind of try caching\" with \"I recommend we start with caching and measure latency for a week.\" Cutting two softeners turns a hesitant suggestion into clear leadership.",
+    "qs": [
+      {
+        "q": "Which words weaken a recommendation according to the speaker?",
+        "opts": [
+          "recommend and measure",
+          "maybe, just, and kind of",
+          "latency and week",
+          "start and try"
+        ],
+        "ans": 1,
+        "why": "Overusing \"maybe, just, kind of\" makes a proposal sound hesitant.",
+        "type": "detail"
+      },
+      {
+        "q": "What does the speaker advise instead?",
+        "opts": [
+          "Speak louder",
+          "State a clear recommendation and a way to measure it",
+          "Avoid meetings",
+          "Use longer sentences"
+        ],
+        "ans": 1,
+        "why": "Use direct verbs like \"I recommend...\" paired with concrete metrics.",
+        "type": "main"
+      },
+      {
+        "q": "What is a \"filler word\"?",
+        "opts": [
+          "A word with no strong meaning added out of habit",
+          "A technical term",
+          "A password",
+          "A formal title"
+        ],
+        "ans": 0,
+        "why": "Filler words pad sentences without adding clarity.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      "filler word",
+      "decisive",
+      "hesitant"
+    ]
+  },
+  {
+    "id": "lis-cur-06",
+    "lvl": "B1+",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "daily",
+    "kind": "conversation",
+    "script": "Nina: Hey, are we still on for lunch today?\nPedro: Yeah, though I'm running about ten minutes behind—traffic on the bridge is awful.\nNina: No worries at all! Let's play it by ear; text me when you're five minutes out and I'll grab us a table.",
+    "qs": [
+      {
+        "q": "Why is Pedro late?",
+        "opts": [
+          "He forgot.",
+          "Traffic on the bridge is awful.",
+          "He is still in a meeting.",
+          "He went to the wrong restaurant."
+        ],
+        "ans": 1,
+        "why": "He is running ten minutes behind due to bridge traffic.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"play it by ear\" mean?",
+        "opts": [
+          "Listen to music",
+          "Decide flexibly as things happen rather than following a strict plan",
+          "Cancel lunch",
+          "Talk on the phone"
+        ],
+        "ans": 1,
+        "why": "To play it by ear means handle plans flexibly as the situation unfolds.",
+        "type": "vocab"
+      },
+      {
+        "q": "What will Nina do when Pedro texts?",
+        "opts": [
+          "Leave the restaurant",
+          "Grab them a table",
+          "Order for both immediately",
+          "Call a taxi"
+        ],
+        "ans": 1,
+        "why": "She will grab a table when he is five minutes away.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "running behind",
+      "play it by ear",
+      "five minutes out"
+    ]
+  },
+  {
+    "id": "lis-cur-07",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "science",
+    "kind": "news",
+    "script": "Linguists studying bilingual speakers noticed something surprising: people often make slightly more logical, less emotional financial decisions when reading a dilemma in their second language. Researchers call this the \"foreign-language effect.\" Because a second language carries slightly less automatic emotional weight than our mother tongue, it forces the brain to slow down and analyze the numbers more objectively.",
+    "qs": [
+      {
+        "q": "What is the \"foreign-language effect\"?",
+        "opts": [
+          "Forgetting your native language",
+          "Making slightly more analytical, less emotional decisions in a second language",
+          "Speaking faster abroad",
+          "Memorizing numbers better"
+        ],
+        "ans": 1,
+        "why": "A second language triggers less automatic emotion, aiding analytical thinking.",
+        "type": "main"
+      },
+      {
+        "q": "Why does this happen according to researchers?",
+        "opts": [
+          "Second languages have fewer words.",
+          "They carry less automatic emotional weight and slow thinking down.",
+          "People guess randomly.",
+          "Bilinguals are all economists."
+        ],
+        "ans": 1,
+        "why": "Less emotional weight forces slower, more objective analysis.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"mother tongue\" mean?",
+        "opts": [
+          "a strict rule",
+          "your native language",
+          "a family recipe",
+          "an accent"
+        ],
+        "ans": 1,
+        "why": "Mother tongue means native/first language.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      "bilingual",
+      "dilemma",
+      "mother tongue"
+    ]
+  },
+  {
+    "id": "lis-cur-08",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "work",
+    "kind": "conversation",
+    "script": "Sam: Thanks everyone for staying focused—we covered all three items on the agenda. Let's call it a day.\nPriya: Before we drop off, should I send out the action items?\nSam: Yes, please! Just tag each owner with their due date so nothing falls through the cracks.",
+    "qs": [
+      {
+        "q": "What does \"Let's call it a day\" mean?",
+        "opts": [
+          "Let's schedule another meeting today.",
+          "Let's stop working / end this session now.",
+          "Let's work overtime.",
+          "Let's call the client."
+        ],
+        "ans": 1,
+        "why": "To call it a day means to wrap up and finish.",
+        "type": "vocab"
+      },
+      {
+        "q": "What does Priya offer to do?",
+        "opts": [
+          "Cancel the project",
+          "Send out the action items",
+          "Take notes next week",
+          "Call Sam later"
+        ],
+        "ans": 1,
+        "why": "She offers to send out the action items.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"fall through the cracks\" mean?",
+        "opts": [
+          "break a screen",
+          "get forgotten or overlooked",
+          "finish early",
+          "cost too much"
+        ],
+        "ans": 1,
+        "why": "If a task falls through the cracks, nobody notices it got missed.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      "call it a day",
+      "action items",
+      "fall through the cracks"
+    ]
   }
 ]

@@ -1394,5 +1394,261 @@
       "literal-translation",
       "business"
     ]
+  },
+  {
+    "id": "nat-85",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "Atualmente, moro em São Paulo.",
+    "understandable": "Actually, I live in São Paulo.",
+    "natural": "Currently, I live in São Paulo.",
+    "alts": [
+      "Right now, I live in São Paulo."
+    ],
+    "why": "False friend: \"actually\" means \"na verdade\"; for \"atualmente\", use \"currently\" or \"right now\".",
+    "tags": [
+      "false-friend",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-86",
+    "lvl": "B1+",
+    "topic": "work",
+    "pt": "Eu pretendo viajar nas férias.",
+    "understandable": "I pretend to travel on vacation.",
+    "natural": "I plan to travel during my vacation.",
+    "alts": [
+      "I intend to travel on vacation."
+    ],
+    "why": "False friend: \"pretend\" means \"fingir\"! Use \"plan to\" or \"intend to\".",
+    "tags": [
+      "false-friend",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-87",
+    "lvl": "B1",
+    "topic": "daily",
+    "pt": "Você precisa puxar a porta.",
+    "understandable": "You need to push the door.",
+    "natural": "You need to pull the door.",
+    "alts": [
+      "Pull the door toward you."
+    ],
+    "why": "Classic trap: \"push\" = empurrar; \"pull\" = puxar.",
+    "tags": [
+      "false-friend",
+      "daily"
+    ]
+  },
+  {
+    "id": "nat-88",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "Vou visitar meus parentes no domingo.",
+    "understandable": "I will visit my parents on Sunday.",
+    "natural": "I am going to visit my relatives on Sunday.",
+    "alts": [
+      "I am visiting extended family on Sunday."
+    ],
+    "why": "\"Parents\" = pai e mãe; for aunts, uncles, and cousins, use \"relatives\".",
+    "tags": [
+      "false-friend",
+      "daily"
+    ]
+  },
+  {
+    "id": "nat-89",
+    "lvl": "B1+",
+    "topic": "work",
+    "pt": "Eu fiz uma pergunta para ele.",
+    "understandable": "I made a question for him.",
+    "natural": "I asked him a question.",
+    "alts": [
+      "I had a question for him."
+    ],
+    "why": "Never \"make a question\"; always \"ask someone a question\".",
+    "tags": [
+      "collocation",
+      "literal-translation"
+    ]
+  },
+  {
+    "id": "nat-90",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "Vou cortar o cabelo amanhã.",
+    "understandable": "I will cut my hair tomorrow.",
+    "natural": "I am going to get a haircut tomorrow.",
+    "alts": [
+      "I am getting my hair cut tomorrow."
+    ],
+    "why": "Saying \"I will cut my hair\" sounds like you are using scissors yourself!",
+    "tags": [
+      "literal-translation",
+      "daily"
+    ]
+  },
+  {
+    "id": "nat-91",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Vamos decidir na hora conforme for acontecendo.",
+    "understandable": "Let us decide on the hour as it happens.",
+    "natural": "Let us play it by ear.",
+    "alts": [
+      "Let us see how things go and adjust on the fly."
+    ],
+    "why": "\"Play it by ear\" is the exact natural idiom for deciding flexibly as things unfold.",
+    "tags": [
+      "idiom",
+      "conversation"
+    ]
+  },
+  {
+    "id": "nat-92",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Por hoje chega, vamos encerrar.",
+    "understandable": "For today it is enough, let us close.",
+    "natural": "Let us call it a day.",
+    "alts": [
+      "That is a wrap for today."
+    ],
+    "why": "\"Call it a day\" is everyday natural English for stopping work for the day.",
+    "tags": [
+      "idiom",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-93",
+    "lvl": "B2",
+    "topic": "business",
+    "pt": "Eles economizaram cortando etapas importantes.",
+    "understandable": "They saved money cutting important steps.",
+    "natural": "They cut corners on testing to ship faster.",
+    "alts": [
+      "They took shortcuts that hurt quality."
+    ],
+    "why": "\"Cut corners\" means skipping essential steps to save time or money.",
+    "tags": [
+      "idiom",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-94",
+    "lvl": "B2+",
+    "topic": "work",
+    "pt": "Ela começou no novo emprego já entregando resultado rápido.",
+    "understandable": "She started the new job already delivering fast results.",
+    "natural": "She hit the ground running in her new role.",
+    "alts": [
+      "She got up to speed remarkably fast."
+    ],
+    "why": "\"Hit the ground running\" means starting a new job or project with immediate energy and results.",
+    "tags": [
+      "idiom",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-95",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "Estou meio indisposto hoje.",
+    "understandable": "I am a bit indisposed today.",
+    "natural": "I am feeling a bit under the weather today.",
+    "alts": [
+      "I am not feeling 100% today."
+    ],
+    "why": "\"Under the weather\" is the natural everyday way to say you feel slightly sick.",
+    "tags": [
+      "idiom",
+      "daily"
+    ]
+  },
+  {
+    "id": "nat-96",
+    "lvl": "B2",
+    "topic": "business",
+    "pt": "Precisamos quebrar o gelo antes de negociar.",
+    "understandable": "We need to break the ice before negotiating.",
+    "natural": "Let us break the ice with a quick round of introductions.",
+    "alts": [
+      "Let us start with some light small talk to break the ice."
+    ],
+    "why": "\"Break the ice\" works identically in English—pair it with \"small talk\" or \"introductions\".",
+    "tags": [
+      "idiom",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-97",
+    "lvl": "B2+",
+    "topic": "tech",
+    "pt": "Ainda estou tentando entender essa arquitetura nova.",
+    "understandable": "I am still trying to understand this new architecture.",
+    "natural": "I am still trying to wrap my head around this new architecture.",
+    "alts": [
+      "It is taking me a moment to get my head around this design."
+    ],
+    "why": "\"Wrap your head around something\" is super common for understanding complex ideas.",
+    "tags": [
+      "idiom",
+      "tech"
+    ]
+  },
+  {
+    "id": "nat-98",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Ele perdeu o prazo e deixou a tarefa escapar.",
+    "understandable": "He lost the deadline and let the task escape.",
+    "natural": "He missed the deadline and the task fell through the cracks.",
+    "alts": [
+      "The follow-up slipped through the cracks."
+    ],
+    "why": "Use \"miss a deadline\" (never \"lose a deadline\") and \"fall through the cracks\".",
+    "tags": [
+      "collocation",
+      "idiom"
+    ]
+  },
+  {
+    "id": "nat-99",
+    "lvl": "B1+",
+    "topic": "daily",
+    "pt": "A comida estava muito gostosa, comi demais.",
+    "understandable": "The food was very tasty, I ate too much.",
+    "natural": "The food was delicious—I am completely stuffed!",
+    "alts": [
+      "That was amazing; I couldn't eat another bite."
+    ],
+    "why": "\"I am stuffed\" is natural spoken English after a big meal (avoid \"I am full\" if you want variety, though both work; never \"I am pregnant\"!).",
+    "tags": [
+      "idiom",
+      "conversation"
+    ]
+  },
+  {
+    "id": "nat-100",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Vamos manter todo mundo informado para ninguém se perder.",
+    "understandable": "Let us keep everyone informed so nobody gets lost.",
+    "natural": "Let us keep everyone in the loop as things move forward.",
+    "alts": [
+      "Make sure we keep all stakeholders in the loop."
+    ],
+    "why": "\"Keep someone in the loop\" is one of the highest-frequency business idioms in English.",
+    "tags": [
+      "idiom",
+      "business"
+    ]
   }
 ]
