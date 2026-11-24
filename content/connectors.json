@@ -1309,6 +1309,306 @@
       "ans": 3,
       "note": "'Still' works as a concessive adverb meaning 'even so'.",
       "reg": "neutral"
+    },
+    {
+      "id": "con-61",
+      "cat": "contrast",
+      "lvl": "B2+",
+      "s": "The proposal is ambitious; ____, it carries real financial risk.",
+      "opts": [
+        "moreover",
+        "nonetheless",
+        "for instance",
+        "consequently"
+      ],
+      "ans": 1,
+      "note": "Use \"nonetheless\" after a semicolon to contrast with the positive point.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-62",
+      "cat": "concession",
+      "lvl": "B2+",
+      "s": "____ the tight deadline, the security audit finished with zero critical findings.",
+      "opts": [
+        "Although",
+        "Despite",
+        "However",
+        "Whereas"
+      ],
+      "ans": 1,
+      "note": "\"Despite\" takes a noun phrase (\"the tight deadline\"), not a clause.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-63",
+      "cat": "cause",
+      "lvl": "B2+",
+      "s": "The rollout was paused ____ an unexpected spike in database latency.",
+      "opts": [
+        "because",
+        "owing to",
+        "since",
+        "therefore"
+      ],
+      "ans": 1,
+      "note": "\"Owing to\" (like \"due to\") is followed by a noun phrase.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-64",
+      "cat": "result",
+      "lvl": "B2+",
+      "s": "Server costs doubled last quarter; ____, we introduced automated caching.",
+      "opts": [
+        "consequently",
+        "whereas",
+        "although",
+        "for example"
+      ],
+      "ans": 0,
+      "note": "\"Consequently\" introduces a logical result.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-65",
+      "cat": "contrast",
+      "lvl": "B2",
+      "s": "Enterprise clients demand 99.9% uptime, ____ smaller startups prioritize speed.",
+      "opts": [
+        "whereas",
+        "therefore",
+        "moreover",
+        "despite"
+      ],
+      "ans": 0,
+      "note": "\"Whereas\" directly contrasts two opposite preferences.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-66",
+      "cat": "adding",
+      "lvl": "B2+",
+      "s": "The tool automates backups; ____, it encrypts every snapshot before upload.",
+      "opts": [
+        "however",
+        "furthermore",
+        "otherwise",
+        "meanwhile"
+      ],
+      "ans": 1,
+      "note": "\"Furthermore\" adds a strong supporting point.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-67",
+      "cat": "concession",
+      "lvl": "B2+",
+      "s": "____ it sounds simple on paper, cross-team alignment takes daily effort.",
+      "opts": [
+        "Despite",
+        "While",
+        "Therefore",
+        "Due to"
+      ],
+      "ans": 1,
+      "note": "\"While\" at the start of a sentence introduces a concession (\"Even though...\").",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-68",
+      "cat": "sequence",
+      "lvl": "B2",
+      "s": "____ we finalize the scope, we can lock the delivery dates.",
+      "opts": [
+        "Once",
+        "However",
+        "Although",
+        "Besides"
+      ],
+      "ans": 0,
+      "note": "\"Once\" means \"as soon as\" and links stages cleanly.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-69",
+      "cat": "result",
+      "lvl": "B2+",
+      "s": "The new policy clarifies approval limits, ____ reducing review bottlenecks.",
+      "opts": [
+        "thereby",
+        "however",
+        "although",
+        "namely"
+      ],
+      "ans": 0,
+      "note": "\"Thereby + -ing\" is a crisp C1 way to express a direct result.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-70",
+      "cat": "example",
+      "lvl": "B2+",
+      "s": "Several bottlenecks slowed us down—____, manual QA and late spec changes.",
+      "opts": [
+        "namely",
+        "although",
+        "whereas",
+        "therefore"
+      ],
+      "ans": 0,
+      "note": "\"Namely\" introduces the exact examples you mean.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-71",
+      "cat": "contrast",
+      "lvl": "B2+",
+      "s": "I agree with your diagnosis. ____, I think we should delay the rewrite.",
+      "opts": [
+        "That said",
+        "In addition",
+        "For instance",
+        "Therefore"
+      ],
+      "ans": 0,
+      "note": "\"That said\" pivots smoothly after agreeing with part of an argument.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-72",
+      "cat": "cause",
+      "lvl": "B2",
+      "s": "____ we already have local backups, we can test the migration safely.",
+      "opts": [
+        "Since",
+        "Due to",
+        "Despite",
+        "However"
+      ],
+      "ans": 0,
+      "note": "\"Since\" at the beginning of a sentence gives a known reason.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-73",
+      "cat": "concession",
+      "lvl": "B2+",
+      "s": "We missed the initial target; ____, user retention climbed by twelve percent.",
+      "opts": [
+        "even so",
+        "because",
+        "therefore",
+        "for example"
+      ],
+      "ans": 0,
+      "note": "\"Even so\" concedes the negative fact before a positive contrast.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-74",
+      "cat": "adding",
+      "lvl": "B2",
+      "s": "____ cutting latency, the update also simplified the login screen.",
+      "opts": [
+        "Besides",
+        "Although",
+        "Whereas",
+        "Unless"
+      ],
+      "ans": 0,
+      "note": "\"Besides + -ing\" adds another benefit smoothly.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-75",
+      "cat": "result",
+      "lvl": "B2+",
+      "s": "Logs were rotated every hour, ____ no evidence was lost during the incident.",
+      "opts": [
+        "so that",
+        "owing to",
+        "in spite of",
+        "whereas"
+      ],
+      "ans": 0,
+      "note": "\"So that\" expresses purpose or intended result.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-76",
+      "cat": "sequence",
+      "lvl": "B2",
+      "s": "____, let us review the metrics; then we can decide on next quarter's budget.",
+      "opts": [
+        "To begin with",
+        "However",
+        "Consequently",
+        "Although"
+      ],
+      "ans": 0,
+      "note": "\"To begin with\" structures multi-step meetings clearly.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-77",
+      "cat": "contrast",
+      "lvl": "B2+",
+      "s": "Far from hurting productivity, silent focus blocks ____ boosted output by 20%.",
+      "opts": [
+        "actually",
+        "therefore",
+        "despite",
+        "unless"
+      ],
+      "ans": 0,
+      "note": "\"Far from + -ing ..., actually ...\" creates a strong C1 contrast.",
+      "reg": "formal"
+    },
+    {
+      "id": "con-78",
+      "cat": "concession",
+      "lvl": "B2+",
+      "s": "____ how urgent the request looks, never skip peer review on auth code.",
+      "opts": [
+        "Regardless of",
+        "Because of",
+        "In addition to",
+        "As a result of"
+      ],
+      "ans": 0,
+      "note": "\"Regardless of\" means \"no matter...\".",
+      "reg": "formal"
+    },
+    {
+      "id": "con-79",
+      "cat": "example",
+      "lvl": "B2",
+      "s": "Consider small improvements, ____ keyboard shortcuts and clear error messages.",
+      "opts": [
+        "such as",
+        "although",
+        "whereas",
+        "hence"
+      ],
+      "ans": 0,
+      "note": "\"Such as\" introduces natural inline examples.",
+      "reg": "neutral"
+    },
+    {
+      "id": "con-80",
+      "cat": "result",
+      "lvl": "B2+",
+      "s": "Latency dropped below 40 ms; ____, checkout conversion improved immediately.",
+      "opts": [
+        "hence",
+        "although",
+        "meanwhile",
+        "besides"
+      ],
+      "ans": 0,
+      "note": "\"Hence\" is a concise formal result connector.",
+      "reg": "formal"
     }
   ]
 }

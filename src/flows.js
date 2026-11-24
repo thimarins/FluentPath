@@ -115,8 +115,8 @@ function dxResult_() {
 ACT.dxgo = () => { S.plan = null; saveSoon(); nav('/home'); render(); toast('Your first daily session is ready.', 'rocket'); };
 
 /* ---------------------- SIMULADOS CEFR ---------------------- */
-const TEST_SPEC = { B1: [['A2', 6], ['B1', 12], ['B1+', 6]], 'B1+': [['B1', 6], ['B1+', 12], ['B2', 6]], B2: [['B1+', 6], ['B2', 12], ['B2+', 6]], 'B2+': [['B2', 6], ['B2+', 12], ['C1', 6]] };
-const TEST_NAME = { B1: 'B1 Test', 'B1+': 'B1+ Test', B2: 'B2 Test', 'B2+': 'B2 Advanced Test', quick: 'Quick check' };
+const TEST_SPEC = { B1: [['A2', 6], ['B1', 12], ['B1+', 6]], 'B1+': [['B1', 6], ['B1+', 12], ['B2', 6]], B2: [['B1+', 6], ['B2', 12], ['B2+', 6]], 'B2+': [['B2', 6], ['B2+', 12], ['C1', 6]], C1: [['B2', 6], ['B2+', 6], ['C1', 12]] };
+const TEST_NAME = { B1: 'B1 Test', 'B1+': 'B1+ Test', B2: 'B2 Test', 'B2+': 'B2 Advanced Test', C1: 'C1 Test', quick: 'Quick check' };
 route(/^\/test\/([\w+]+)$/, m => { const lvl = m[1]; return { html: '<div class="empty">Loading…</div>', after: () => startTest(lvl) }; });
 function startTest(level) {
   let items;

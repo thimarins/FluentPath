@@ -4306,5 +4306,869 @@
         "pt": "inconfundível / evidente"
       }
     ]
+  },
+  {
+    "id": "rd-ml-01",
+    "lvl": "B2",
+    "topic": "work",
+    "kind": "article",
+    "title": "Why asynchronous communication beats endless status calls",
+    "text": "Many distributed teams try to recreate office life online by scheduling daily video check-ins for every minor update. While synchronous calls feel reassuring, they fragment deep focus and force people in different time zones to join meetings outside normal hours.\n\nHigh-performing remote organizations flip this default. Routine updates, design feedback, and sprint notes move into structured written threads. A well-written update states the context, the decision needed, and a clear deadline for replies.\n\nLive calls do not disappear, of course—they simply become sharper. Teams reserve video meetings for sensitive disagreements, complex brainstorming, or resolving urgent incidents where tone and rapid back-and-forth genuinely matter.",
+    "qs": [
+      {
+        "q": "What problem do daily status video calls create?",
+        "opts": [
+          "They are too cheap.",
+          "They break focus and hurt teams across time zones.",
+          "They replace written specs completely.",
+          "Nobody talks on them."
+        ],
+        "ans": 1,
+        "why": "They fragment deep focus and force inconvenient hours across time zones.",
+        "type": "main"
+      },
+      {
+        "q": "What should a good written update include?",
+        "opts": [
+          "Long personal stories",
+          "Context, decision needed, and deadline",
+          "Only screenshots",
+          "A list of attendees"
+        ],
+        "ans": 1,
+        "why": "It states context, the decision needed, and a clear deadline.",
+        "type": "detail"
+      },
+      {
+        "q": "When are live video calls still the best tool?",
+        "opts": [
+          "Routine status updates",
+          "Sensitive disagreements and urgent incidents",
+          "Sharing simple links",
+          "Reading long reports"
+        ],
+        "ans": 1,
+        "why": "Tone and rapid back-and-forth matter for disagreements and incidents.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"fragment\" mean in paragraph one?",
+        "opts": [
+          "speed up",
+          "break into small pieces",
+          "simplify",
+          "automate"
+        ],
+        "ans": 1,
+        "why": "Constant calls break uninterrupted focus into small fragments.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "asynchronous",
+        "pt": "assíncrono"
+      },
+      {
+        "w": "fragment",
+        "pt": "fragmentar"
+      },
+      {
+        "w": "flip the default",
+        "pt": "inverter o padrão"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-02",
+    "lvl": "B2+",
+    "topic": "business",
+    "kind": "article",
+    "title": "Why global brands fail when they only translate",
+    "text": "Entering a foreign market looks simple on a spreadsheet: translate the website, convert the prices, and launch the same ads that worked at home. Yet dozens of major companies have learned the hard way that linguistic translation is not cultural localization.\n\nA slogan that sounds playful in Chicago can feel arrogant or confusing in Tokyo or São Paulo. Even payment habits, trust signals, and color choices shift dramatically across borders. In some markets, buyers expect live chat support before trusting a new brand; in others, detailed technical specs and local reviews carry far more weight.\n\nSuccessful international teams treat market entry as an experiment. They partner with local speakers early, adapt the core value proposition rather than translating word for word, and test messaging on a small region before scaling.",
+    "qs": [
+      {
+        "q": "What is the main lesson of the article?",
+        "opts": [
+          "Spreadsheets are useless.",
+          "Translating words is not enough without cultural localization.",
+          "Global ads should always be in English.",
+          "Live chat works everywhere."
+        ],
+        "ans": 1,
+        "why": "Brands must localize messaging, trust signals, and habits, not just translate.",
+        "type": "main"
+      },
+      {
+        "q": "What do successful teams do before scaling in a new country?",
+        "opts": [
+          "Copy US ads word for word",
+          "Test adapted messaging in a small region with local input",
+          "Ignore local reviews",
+          "Remove technical specs"
+        ],
+        "ans": 1,
+        "why": "They partner with local speakers and test on a small region first.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does the author mention payment habits and trust signals?",
+        "opts": [
+          "To show localization goes beyond language alone",
+          "To criticize online shopping",
+          "To argue against live chat",
+          "To explain exchange rates"
+        ],
+        "ans": 0,
+        "why": "Market differences affect product trust and checkout, not only slogans.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"word for word\" mean?",
+        "opts": [
+          "creatively",
+          "literally, matching each individual word",
+          "very quickly",
+          "without translation"
+        ],
+        "ans": 1,
+        "why": "Translating word for word ignores cultural nuance.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "localization",
+        "pt": "localização (adaptação cultural)"
+      },
+      {
+        "w": "resonate",
+        "pt": "fazer sentido / conectar"
+      },
+      {
+        "w": "value proposition",
+        "pt": "proposta de valor"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-03",
+    "lvl": "B2",
+    "topic": "relationships",
+    "kind": "article",
+    "title": "Trust at work is built in small moments",
+    "text": "People often assume professional trust comes from dramatic gestures, like rescuing a failing launch at midnight. In practice, long-term credibility is built through dozens of unremarkable daily habits.\n\nDelivering what you promised by Tuesday—or flagging a delay on Monday morning before anyone has to ask—signals reliability faster than any speech. Similarly, giving credit publicly when a project succeeds while taking responsibility quietly when a fix goes wrong earns lasting respect from both peers and leadership.\n\nWhen trust is high, teams move faster because nobody wastes energy writing defensive emails or double-checking every claim.",
+    "qs": [
+      {
+        "q": "According to the text, how is workplace trust mainly built?",
+        "opts": [
+          "Through dramatic midnight rescues",
+          "Through consistent, everyday reliability",
+          "By writing long defensive emails",
+          "By avoiding mistakes completely"
+        ],
+        "ans": 1,
+        "why": "Credibility comes from small daily habits like meeting promises and flagging delays early.",
+        "type": "main"
+      },
+      {
+        "q": "What should you do when you notice a delay?",
+        "opts": [
+          "Wait until someone asks",
+          "Flag it early before anyone has to ask",
+          "Blame another team",
+          "Work silently without updates"
+        ],
+        "ans": 1,
+        "why": "Flagging a delay early signals reliability.",
+        "type": "detail"
+      },
+      {
+        "q": "Why do high-trust teams move faster?",
+        "opts": [
+          "They skip testing",
+          "They spend less time on defensive communication and double-checking",
+          "They have no managers",
+          "They never disagree"
+        ],
+        "ans": 1,
+        "why": "Less energy is wasted on defensive emails and verification.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"unremarkable\" mean here?",
+        "opts": [
+          "bad",
+          "ordinary and quiet",
+          "impossible",
+          "famous"
+        ],
+        "ans": 1,
+        "why": "Everyday habits that do not look dramatic on their own.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "credibility",
+        "pt": "credibilidade"
+      },
+      {
+        "w": "flag a delay",
+        "pt": "sinalizar um atraso"
+      },
+      {
+        "w": "defensive",
+        "pt": "defensivo"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-04",
+    "lvl": "B2+",
+    "topic": "business",
+    "kind": "essay",
+    "title": "Vanity metrics versus real business value",
+    "text": "Startups love celebrating big, round numbers: one million app downloads, ten thousand newsletter subscribers, or a hundred thousand social media impressions. Yet investors and experienced operators quickly learn that impressive top-line figures can hide a fragile business.\n\nIf a hundred thousand people download an app and ninety-five percent delete it within three days, marketing is simply pouring water into a leaky bucket. Meaningful metrics measure sustained value: weekly active users, net retention, customer support resolution time, and referral rate.\n\nShifting focus from vanity metrics to retention metrics can feel uncomfortable at first because growth looks slower on paper—yet it is the only reliable path to durable success.",
+    "qs": [
+      {
+        "q": "What is a \"vanity metric\"?",
+        "opts": [
+          "A financial audit",
+          "A big number that looks good on paper but hides real health",
+          "Weekly active users",
+          "Customer retention"
+        ],
+        "ans": 1,
+        "why": "Downloads or impressions look impressive without showing real sustained usage.",
+        "type": "main"
+      },
+      {
+        "q": "What does the \"leaky bucket\" metaphor describe?",
+        "opts": [
+          "Server memory leaks",
+          "Acquiring users who leave right away",
+          "Spending too little on ads",
+          "Slow internet connections"
+        ],
+        "ans": 1,
+        "why": "95% deleting the app within days wastes acquisition effort.",
+        "type": "inference"
+      },
+      {
+        "q": "Which metric reflects sustained value?",
+        "opts": [
+          "Total impressions",
+          "Net retention",
+          "Page views alone",
+          "Social media likes"
+        ],
+        "ans": 1,
+        "why": "The text lists weekly active users, net retention, resolution time, and referrals.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"durable\" mean in the final sentence?",
+        "opts": [
+          "temporary",
+          "long-lasting",
+          "cheap",
+          "accidental"
+        ],
+        "ans": 1,
+        "why": "Durable success is built to last.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "vanity metric",
+        "pt": "métrica de vaidade"
+      },
+      {
+        "w": "leaky bucket",
+        "pt": "balde furado"
+      },
+      {
+        "w": "retention",
+        "pt": "retenção"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-05",
+    "lvl": "B2",
+    "topic": "work",
+    "kind": "article",
+    "title": "What actually drives job satisfaction in technical roles",
+    "text": "When companies worry about losing engineers or analysts, their first instinct is often to add office perks—free snacks, game rooms, or branded hoodies. Research on workplace motivation consistently shows those perks barely move the needle.\n\nThree factors matter far more once fair pay is in place: autonomy over how to solve problems, visible mastery as skills grow, and a sense of purpose in the work itself. Micromanaging a skilled team destroys motivation faster than almost anything else, whereas clear goals paired with trust unlock both creativity and ownership.",
+    "qs": [
+      {
+        "q": "What do office perks usually fail to do?",
+        "opts": [
+          "Cost money",
+          "Meaningfully improve long-term motivation",
+          "Attract snacks",
+          "Replace laptops"
+        ],
+        "ans": 1,
+        "why": "Perks barely move the needle compared to autonomy, mastery, and purpose.",
+        "type": "main"
+      },
+      {
+        "q": "What are the three core drivers mentioned after fair pay?",
+        "opts": [
+          "Free food, titles, and long hours",
+          "Autonomy, mastery, and purpose",
+          "Game rooms, bonuses, and travel",
+          "Strict rules, scripts, and monitoring"
+        ],
+        "ans": 1,
+        "why": "Autonomy, visible mastery, and purpose.",
+        "type": "detail"
+      },
+      {
+        "q": "What hurts motivation quickly according to the author?",
+        "opts": [
+          "Clear goals",
+          "Micromanagement",
+          "Skill growth",
+          "Fair pay"
+        ],
+        "ans": 1,
+        "why": "Micromanaging skilled people destroys motivation.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"move the needle\" mean?",
+        "opts": [
+          "break a machine",
+          "make a noticeable difference",
+          "waste time",
+          "increase noise"
+        ],
+        "ans": 1,
+        "why": "It is an idiom meaning to produce a measurable impact.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "perks",
+        "pt": "benefícios extras"
+      },
+      {
+        "w": "autonomy",
+        "pt": "autonomia"
+      },
+      {
+        "w": "micromanage",
+        "pt": "microgerenciar"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-06",
+    "lvl": "C1",
+    "topic": "security",
+    "kind": "article",
+    "title": "Calculated risk: why zero risk is bad engineering",
+    "text": "Every technology leader wants zero outages and zero breaches. Ironically, chasing absolute zero risk often paralyzes an organization. If every minor text change requires four approval boards and a two-week freeze, teams stop shipping improvements—and outdated software quietly accumulates far bigger security flaws.\n\nMature engineering cultures distinguish between reversible and irreversible risks. A UI layout tweak can be rolled back in thirty seconds, so it needs lightweight checks and fast deployment. A database schema migration or an authentication change cannot be undone easily, so it warrants rigorous review, staging dry runs, and automated safeguards.\n\nGood risk management is not about eliminating uncertainty; it is about sizing your safeguards to the true blast radius of failure.",
+    "qs": [
+      {
+        "q": "Why can chasing \"zero risk\" backfire?",
+        "opts": [
+          "It makes deployments too fast.",
+          "Heavy bureaucracy stalls updates and leaves software outdated.",
+          "It removes all approval boards.",
+          "It reduces cloud bills."
+        ],
+        "ans": 1,
+        "why": "Slowing every small change to a crawl causes outdated software to accumulate bigger risks.",
+        "type": "main"
+      },
+      {
+        "q": "How should teams treat a reversible change like a UI tweak?",
+        "opts": [
+          "With four approval boards",
+          "With lightweight checks and fast rollback",
+          "Never deploy it",
+          "Wait two weeks"
+        ],
+        "ans": 1,
+        "why": "Reversible changes can be rolled back quickly and need lighter gates.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"blast radius\" mean in the last sentence?",
+        "opts": [
+          "the size of the office",
+          "how much damage a failure can cause",
+          "server temperature",
+          "team size"
+        ],
+        "ans": 1,
+        "why": "In engineering, blast radius means the scope of impact if something breaks.",
+        "type": "vocab"
+      },
+      {
+        "q": "Which change requires rigorous review and dry runs?",
+        "opts": [
+          "A typo fix",
+          "An authentication or schema change",
+          "A button color",
+          "A comment"
+        ],
+        "ans": 1,
+        "why": "Irreversible or high-impact changes warrant heavy safeguards.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "reversible",
+        "pt": "reversível"
+      },
+      {
+        "w": "blast radius",
+        "pt": "raio de impacto"
+      },
+      {
+        "w": "accumulate",
+        "pt": "acumular"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-07",
+    "lvl": "B2",
+    "topic": "work",
+    "kind": "article",
+    "title": "Adapting your management style as a team matures",
+    "text": "A common mistake among newly promoted leads is using the exact same management style with everyone on the team. A junior hire in their first month needs clear step-by-step guidance, frequent feedback, and safe guardrails.\n\nApplying that same tight supervision to a senior specialist, however, feels suffocating and signals a lack of trust. Effective managers shift smoothly between coaching, collaborating, and delegating depending on the person's experience with the specific task at hand.",
+    "qs": [
+      {
+        "q": "What mistake do new managers often make?",
+        "opts": [
+          "Promoting everyone too fast",
+          "Using one identical style for every team member",
+          "Giving too much autonomy to juniors",
+          "Never meeting clients"
+        ],
+        "ans": 1,
+        "why": "Different experience levels require different levels of guidance.",
+        "type": "main"
+      },
+      {
+        "q": "How does tight supervision affect senior specialists?",
+        "opts": [
+          "It makes them feel trusted.",
+          "It feels suffocating and shows distrust.",
+          "It doubles their speed.",
+          "It helps them learn basics."
+        ],
+        "ans": 1,
+        "why": "Seniors experience tight supervision as suffocating.",
+        "type": "detail"
+      },
+      {
+        "q": "What determines the right style according to the author?",
+        "opts": [
+          "The manager's mood",
+          "The person's experience with the specific task",
+          "Company size",
+          "Salary level"
+        ],
+        "ans": 1,
+        "why": "Managers adapt based on experience with the task at hand.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"guardrails\" mean here?",
+        "opts": [
+          "office walls",
+          "safe boundaries that prevent major errors",
+          "software licenses",
+          "strict punishments"
+        ],
+        "ans": 1,
+        "why": "Guardrails keep beginners safe while learning.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "supervision",
+        "pt": "supervisão"
+      },
+      {
+        "w": "suffocating",
+        "pt": "sufocante"
+      },
+      {
+        "w": "guardrails",
+        "pt": "limites de proteção"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-08",
+    "lvl": "B2+",
+    "topic": "work",
+    "kind": "article",
+    "title": "Psychological safety in high-performing teams",
+    "text": "When a team rarely argues in meetings, outsiders sometimes mistake that silence for harmony. Often, however, silence means people are afraid of looking foolish or upsetting a senior voice in the room.\n\nIn high-performing teams, psychological safety means anyone can raise a concern, admit \"I don't know,\" or challenge an assumption without fear of punishment. Disagreements stay focused on evidence and trade-offs rather than ego—and bad news travels fast enough to be fixed before launch.",
+    "qs": [
+      {
+        "q": "What can silence in meetings actually hide?",
+        "opts": [
+          "Total agreement",
+          "Fear of speaking up or looking foolish",
+          "Fast execution",
+          "Too much training"
+        ],
+        "ans": 1,
+        "why": "People may stay silent to avoid upsetting senior voices or looking foolish.",
+        "type": "main"
+      },
+      {
+        "q": "What does psychological safety allow team members to do?",
+        "opts": [
+          "Ignore deadlines",
+          "Admit doubts and challenge assumptions safely",
+          "Avoid code reviews",
+          "Skip meetings"
+        ],
+        "ans": 1,
+        "why": "Anyone can raise concerns or say \"I don't know\" without fear.",
+        "type": "detail"
+      },
+      {
+        "q": "Why does psychological safety help catch bugs earlier?",
+        "opts": [
+          "Bad news travels fast instead of being hidden.",
+          "Nobody writes code.",
+          "Managers fix everything.",
+          "Tests run slower."
+        ],
+        "ans": 0,
+        "why": "Problems are surfaced early before launch.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"trade-offs\" mean?",
+        "opts": [
+          "free gifts",
+          "balances between competing advantages and drawbacks",
+          "secret deals",
+          "office moves"
+        ],
+        "ans": 1,
+        "why": "Every technical or business choice has pros and cons to balance.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "psychological safety",
+        "pt": "segurança psicológica"
+      },
+      {
+        "w": "assumption",
+        "pt": "suposição"
+      },
+      {
+        "w": "trade-off",
+        "pt": "escolha / compensação"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-09",
+    "lvl": "B2+",
+    "topic": "finance",
+    "kind": "article",
+    "title": "Why cash flow matters more than paper profit",
+    "text": "A growing business can look profitable on an annual income statement and still run out of cash to pay salaries on Friday. That paradox happens because revenue is often recorded when an invoice is issued, whereas cash only arrives thirty or sixty days later when the client actually pays.\n\nMeanwhile, payroll, cloud hosting, and vendor bills fall due on fixed dates. Smart founders track cash runway weekly, negotiate shorter payment terms with large clients, and avoid locking too much money into upfront annual contracts.",
+    "qs": [
+      {
+        "q": "How can a profitable company run out of cash?",
+        "opts": [
+          "Revenue is booked before clients actually pay.",
+          "Salaries are free.",
+          "Clients pay too early.",
+          "Cloud bills are zero."
+        ],
+        "ans": 0,
+        "why": "Timing mismatch between invoiced revenue and actual cash collected.",
+        "type": "main"
+      },
+      {
+        "q": "What do smart founders track weekly?",
+        "opts": [
+          "Social likes",
+          "Cash runway",
+          "Office snacks",
+          "Logo colors"
+        ],
+        "ans": 1,
+        "why": "They monitor cash runway and payment terms closely.",
+        "type": "detail"
+      },
+      {
+        "q": "Why might upfront annual vendor contracts hurt cash flow?",
+        "opts": [
+          "They lock cash away early instead of spreading payments.",
+          "They are illegal.",
+          "They lower quality.",
+          "They expire daily."
+        ],
+        "ans": 0,
+        "why": "Paying a full year upfront drains immediate cash reserves.",
+        "type": "inference"
+      },
+      {
+        "q": "What does \"payroll\" mean?",
+        "opts": [
+          "a type of tax",
+          "the total wages paid to employees",
+          "a bank loan",
+          "an invoice number"
+        ],
+        "ans": 1,
+        "why": "Payroll is employee salary payments.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "cash flow",
+        "pt": "fluxo de caixa"
+      },
+      {
+        "w": "invoice",
+        "pt": "fatura / nota"
+      },
+      {
+        "w": "runway",
+        "pt": "fôlego financeiro (meses de caixa)"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-10",
+    "lvl": "B2",
+    "topic": "business",
+    "kind": "article",
+    "title": "Turning a support complaint into long-term loyalty",
+    "text": "Nobody enjoys receiving an angry customer email. Yet service studies reveal a surprising pattern: clients whose urgent problem is resolved quickly and honestly often become more loyal than customers who never experienced an issue at all.\n\nThe secret lies in three steps: acknowledge the frustration immediately without defensive excuses, explain clearly what is being done right now, and follow up once the fix is verified. Hiding behind scripted apologies only deepens anger, whereas transparent ownership turns a bad morning into proof that your team is dependable.",
+    "qs": [
+      {
+        "q": "What surprising pattern do service studies show?",
+        "opts": [
+          "Angry clients never return.",
+          "Fast, honest recovery can build stronger loyalty than zero issues.",
+          "Scripts always calm people down.",
+          "Apologies should be delayed."
+        ],
+        "ans": 1,
+        "why": "Well-handled recovery proves reliability and builds strong loyalty.",
+        "type": "main"
+      },
+      {
+        "q": "What should you avoid when replying to an upset client?",
+        "opts": [
+          "Clear updates",
+          "Defensive excuses and robotic scripts",
+          "Verifying the fix",
+          "Acknowledging frustration"
+        ],
+        "ans": 1,
+        "why": "Scripted apologies and excuses deepen anger.",
+        "type": "detail"
+      },
+      {
+        "q": "What is the final step in the three-step recovery?",
+        "opts": [
+          "Close the ticket silently",
+          "Follow up once the fix is verified",
+          "Send a bill",
+          "Ask for a five-star review immediately"
+        ],
+        "ans": 1,
+        "why": "Follow up after verifying the issue is truly fixed.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"dependable\" mean?",
+        "opts": [
+          "expensive",
+          "trustworthy and reliable",
+          "very fast",
+          "complicated"
+        ],
+        "ans": 1,
+        "why": "Dependable means someone you can count on.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "ownership",
+        "pt": "responsabilidade / assumir o B.O."
+      },
+      {
+        "w": "scripted",
+        "pt": "robotizado / pronto"
+      },
+      {
+        "w": "dependable",
+        "pt": "confiável"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-11",
+    "lvl": "C1",
+    "topic": "security",
+    "kind": "article",
+    "title": "The first sixty minutes of a corporate crisis",
+    "text": "When a major security breach or service outage hits, the first sixty minutes shape public trust far more than the technical cause itself. Companies that go silent while waiting for \"complete certainty\" invite rumors, panic, and regulatory scrutiny.\n\nSeasoned incident commanders follow a disciplined rule: communicate early with verified facts, state clearly what is still under investigation, and never speculate or minimize impact. Saying \"We have isolated the affected server and will update you at 4 p.m.\" projects calm control—whereas silence reads like incompetence or cover-up.",
+    "qs": [
+      {
+        "q": "Why is going silent during the first hour dangerous?",
+        "opts": [
+          "It saves server load.",
+          "It invites rumors, panic, and looks like a cover-up.",
+          "Engineers work slower.",
+          "Customers prefer silence."
+        ],
+        "ans": 1,
+        "why": "Silence breeds rumors and damages trust more than the outage itself.",
+        "type": "main"
+      },
+      {
+        "q": "What should leaders avoid saying in early crisis updates?",
+        "opts": [
+          "Verified facts",
+          "Speculation and minimizing impact",
+          "Next update times",
+          "Containment steps"
+        ],
+        "ans": 1,
+        "why": "Never speculate or downplay impact before facts are confirmed.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"seasoned\" mean in paragraph two?",
+        "opts": [
+          "salty",
+          "highly experienced",
+          "nervous",
+          "newly hired"
+        ],
+        "ans": 1,
+        "why": "\"Seasoned\" means experienced through many real situations.",
+        "type": "vocab"
+      },
+      {
+        "q": "What builds calm control in an early update?",
+        "opts": [
+          "Waiting 24 hours",
+          "Stating verified actions and a concrete time for the next update",
+          "Blaming third parties",
+          "Promising zero future bugs"
+        ],
+        "ans": 1,
+        "why": "Clear actions + exact next update time show control.",
+        "type": "inference"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "scrutiny",
+        "pt": "escrutínio / fiscalização"
+      },
+      {
+        "w": "cover-up",
+        "pt": "encobrimento"
+      },
+      {
+        "w": "seasoned",
+        "pt": "experiente"
+      }
+    ]
+  },
+  {
+    "id": "rd-ml-12",
+    "lvl": "C1",
+    "topic": "business",
+    "kind": "article",
+    "title": "Why most mergers fail after the contract is signed",
+    "text": "On paper, acquiring a competitor looks straightforward: combine two customer lists, eliminate duplicate software tools, and watch profits climb. Yet business research repeatedly finds that over half of corporate mergers fall short of their financial targets.\n\nThe culprit is rarely the math; it is cultural friction and slow integration. When two companies with opposite decision speeds—say, a fast-moving startup and a risk-averse bank—merge without a shared operating rhythm, top performers leave first. Retaining key talent requires clear leadership roles within the first thirty days and honest communication about what will actually change.",
+    "qs": [
+      {
+        "q": "Why do most corporate mergers miss their financial targets?",
+        "opts": [
+          "Bad spreadsheets",
+          "Cultural friction and slow post-merger integration",
+          "Too many customers",
+          "Lower taxes"
+        ],
+        "ans": 1,
+        "why": "Clashing cultures and unclear integration drive away key talent.",
+        "type": "main"
+      },
+      {
+        "q": "Who tends to leave first during a messy merger?",
+        "opts": [
+          "New interns",
+          "Top performers",
+          "Outside vendors",
+          "Shareholders"
+        ],
+        "ans": 1,
+        "why": "Top performers have the most options and leave when direction is unclear.",
+        "type": "detail"
+      },
+      {
+        "q": "What helps retain key talent in the first thirty days?",
+        "opts": [
+          "Hiding upcoming changes",
+          "Clear leadership roles and honest communication",
+          "Cutting salaries",
+          "Banning meetings"
+        ],
+        "ans": 1,
+        "why": "Clarity on roles and honest communication stabilize teams.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"culprit\" mean in paragraph two?",
+        "opts": [
+          "victim",
+          "main cause of the problem",
+          "legal contract",
+          "profit margin"
+        ],
+        "ans": 1,
+        "why": "\"The culprit\" is the root cause responsible for a problem.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      {
+        "w": "merger",
+        "pt": "fusão"
+      },
+      {
+        "w": "culprit",
+        "pt": "culpado / causa raiz"
+      },
+      {
+        "w": "risk-averse",
+        "pt": "avesso a risco"
+      }
+    ]
   }
 ]

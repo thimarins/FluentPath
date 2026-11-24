@@ -1040,5 +1040,413 @@
       "When would be a good time for you?"
     ],
     "model": "Hi, I'm Laura from the apartment next door. Welcome to the building! How are you settling in, and where did you move from? If you like, we could have coffee this weekend, and I can show you the best local shops and a great bakery. Are you free on Saturday around ten? We could meet in the lobby and walk there together. Let me know if that works for you."
+  },
+  {
+    "id": "rp-ml-01",
+    "title": "Communication: clearing up a misunderstanding",
+    "lvl": "B2",
+    "persona": "Product Manager (frustrated about a missed feature)",
+    "situation": "A colleague thinks you promised a feature for Friday, but you only agreed to deliver a prototype. Clarify calmly and align next steps.",
+    "opening": "Hey, I noticed the final checkout feature isn't in staging yet—we told the client it would be ready Friday.",
+    "topic": "work",
+    "objectives": [
+      {
+        "id": "ack",
+        "label": "Acknowledge their concern calmly",
+        "re": "\\b(understand|see why|makes sense|sorry for|confusion|misunderstanding)\\b",
+        "hint": "Say: \"I understand why that looked confusing.\""
+      },
+      {
+        "id": "clarify",
+        "label": "Clarify what was actually agreed",
+        "re": "\\b(prototype|draft|demo|what we agreed|meant|scope|initially)\\b",
+        "hint": "Say: \"What we agreed on was a prototype for Friday.\""
+      },
+      {
+        "id": "plan",
+        "label": "Propose a concrete next step",
+        "re": "\\b(can|deliver|by (monday|tuesday|next)|step|walk through|show)\\b",
+        "hint": "Say: \"We can show the prototype Friday and ship the full version Tuesday.\""
+      }
+    ],
+    "followups": [
+      "That makes sense, though the client is expecting something tangible.",
+      "Okay, how should I explain the timeline to them?"
+    ],
+    "model": "I understand why that caused confusion. What we initially agreed on was a working prototype for Friday, while full production testing needs until Tuesday. We can walk the client through the prototype on Friday and confirm Tuesday for the live release."
+  },
+  {
+    "id": "rp-ml-02",
+    "title": "Marketing: adapting a campaign for a new country",
+    "lvl": "B2",
+    "persona": "Regional Marketing Lead (skeptical about translating ads literally)",
+    "situation": "Your company wants to reuse its US ad campaign in Brazil. Discuss why localizing the message matters more than translating it.",
+    "opening": "Headquarters wants to launch the exact same US slogans in São Paulo next week. What do you think?",
+    "topic": "business",
+    "objectives": [
+      {
+        "id": "hedg",
+        "label": "Disagree diplomatically",
+        "re": "\\b(see your point|not sure|might|slightly|works well|however|though|risky)\\b",
+        "hint": "Say: \"The US slogan is strong, though it might not resonate locally.\""
+      },
+      {
+        "id": "reason",
+        "label": "Explain a cultural or language reason",
+        "re": "\\b(culture|cultural|literal|idiom|tone|local|audience|translate)\\b",
+        "hint": "Mention cultural tone or literal translation."
+      },
+      {
+        "id": "alt",
+        "label": "Suggest testing a localized version",
+        "re": "\\b(test|a\\/b|adapt|local|pilot|feedback|version)\\b",
+        "hint": "Say: \"Let us run a small A/B test with a localized message.\""
+      }
+    ],
+    "followups": [
+      "Interesting—do you think literal translation really hurts conversion?",
+      "What would you suggest before spending the full budget?"
+    ],
+    "model": "The US slogan is clever, though I am not sure a literal translation will resonate with Brazilian customers. Cultural humor rarely translates directly. Could we run a small two-week pilot with two localized versions before committing the full budget?"
+  },
+  {
+    "id": "rp-ml-03",
+    "title": "Networking: building a partnership at a conference",
+    "lvl": "B1+",
+    "persona": "Operations Director at a partner company",
+    "situation": "You meet an operations director during a coffee break at a tech conference. Build rapport and suggest a follow-up call.",
+    "opening": "Quite a packed morning, wasn't it? Which session did you find most useful?",
+    "topic": "business",
+    "objectives": [
+      {
+        "id": "talk",
+        "label": "Share what you found interesting",
+        "re": "\\b(enjoyed|interesting|session|talk|security|ai|cloud|useful|liked)\\b",
+        "hint": "Mention a session or topic you liked."
+      },
+      {
+        "id": "ask",
+        "label": "Ask about their work or challenges",
+        "re": "\\b(what do you|how is|your team|company|working on|focusing)\\b",
+        "hint": "Ask: \"What is your team focusing on this year?\""
+      },
+      {
+        "id": "follow",
+        "label": "Suggest connecting after the event",
+        "re": "\\b(linkedin|email|coffee|call|catch up|next week|touch)\\b",
+        "hint": "Say: \"Let us connect on LinkedIn and set up a quick call next week.\""
+      }
+    ],
+    "followups": [
+      "We're actually modernizing our internal workflows right now.",
+      "Sure, I'd be happy to chat more next week."
+    ],
+    "model": "I really enjoyed the security automation session—very practical examples. What is your team focusing on this year? If you are open to it, let us connect on LinkedIn and grab a virtual coffee next week to compare notes."
+  },
+  {
+    "id": "rp-ml-04",
+    "title": "Pitching: asking for a higher training budget",
+    "lvl": "B2+",
+    "persona": "Finance Director (cost-conscious)",
+    "situation": "You want approval for a $2,000 team training budget. Justify the return on investment and handle cost concerns.",
+    "opening": "We're trying to freeze non-essential spending this quarter. Why should I approve $2,000 for training right now?",
+    "topic": "finance",
+    "objectives": [
+      {
+        "id": "ack",
+        "label": "Acknowledge the budget freeze",
+        "re": "\\b(understand|tight|freeze|cost|budget|conscious)\\b",
+        "hint": "Say: \"I understand we are keeping costs tight.\""
+      },
+      {
+        "id": "roi",
+        "label": "Explain the measurable return",
+        "re": "\\b(save|faster|reduce|errors|hours|roi|return|productivity|retention)\\b",
+        "hint": "Mention saving hours, reducing errors, or retention."
+      },
+      {
+        "id": "scope",
+        "label": "Propose a smaller pilot or milestone",
+        "re": "\\b(pilot|measure|quarter|first|half|review|results)\\b",
+        "hint": "Offer to start with a smaller pilot and measure results."
+      }
+    ],
+    "followups": [
+      "How would we measure whether it actually paid off?",
+      "What if we start with half that amount?"
+    ],
+    "model": "I completely understand the focus on keeping costs tight. However, this training directly reduces deployment errors that currently cost us ten engineering hours a month. If we start with a $1,000 pilot for three engineers and measure incident reduction over sixty days, it will pay for itself."
+  },
+  {
+    "id": "rp-ml-05",
+    "title": "Workload: negotiating priorities with your manager",
+    "lvl": "B2",
+    "persona": "Engineering Manager (assigning urgent tasks)",
+    "situation": "Your manager just added a third urgent project to your week. Push back constructively and agree on what to deprioritize.",
+    "opening": "Hey, I need you to take over the vendor audit by Thursday on top of the API migration.",
+    "topic": "work",
+    "objectives": [
+      {
+        "id": "willing",
+        "label": "Show willingness while flagging capacity",
+        "re": "\\b(happy to|can do|however|capacity|bandwidth|both|deadline|risk)\\b",
+        "hint": "Say: \"I am happy to take it on, however doing both by Thursday risks quality.\""
+      },
+      {
+        "id": "tradeoff",
+        "label": "Ask which task has higher priority",
+        "re": "\\b(priority|prioritize|which|first|move|delay|push back)\\b",
+        "hint": "Ask: \"Which one should take top priority?\""
+      },
+      {
+        "id": "confirm",
+        "label": "Confirm the revised schedule",
+        "re": "\\b(thursday|friday|monday|next week|agree|focus on)\\b",
+        "hint": "Confirm when each task will be delivered."
+      }
+    ],
+    "followups": [
+      "Both feel important, honestly. What would slip if you do the audit first?",
+      "Alright, the vendor audit is more urgent for compliance."
+    ],
+    "model": "I am happy to take on the vendor audit. However, finishing both the audit and the API migration by Thursday would mean rushing testing. If the audit is top priority for compliance, I can deliver that by Thursday and move the migration to Tuesday."
+  },
+  {
+    "id": "rp-ml-06",
+    "title": "Risk: evaluating a risky cloud migration",
+    "lvl": "B2+",
+    "persona": "VP of Technology (eager to migrate fast)",
+    "situation": "Leadership wants to migrate the main database over a single weekend without a dry run. Explain the risks and propose safeguards.",
+    "opening": "Let's just migrate everything this Saturday night and get it over with. Any objections?",
+    "topic": "security",
+    "objectives": [
+      {
+        "id": "risk",
+        "label": "Identify a concrete operational risk",
+        "re": "\\b(risk|downtime|rollback|data loss|fail|outage|backup)\\b",
+        "hint": "Mention downtime, data loss, or rollback risk."
+      },
+      {
+        "id": "hedg",
+        "label": "Use cautious, diplomatic phrasing",
+        "re": "\\b(concerned|wouldn't|might|recommend|prudent|unless|provided)\\b",
+        "hint": "Use \"I would recommend...\" or \"provided that...\"."
+      },
+      {
+        "id": "mitigate",
+        "label": "Propose a dry run or staged rollout",
+        "re": "\\b(dry run|staging|test|phase|staged|canary|gradual)\\b",
+        "hint": "Suggest a dry run in staging or a staged rollout."
+      }
+    ],
+    "followups": [
+      "We're behind schedule already—how much time would a dry run add?",
+      "Okay, what is the minimum safeguard you need?"
+    ],
+    "model": "I understand the urgency, though migrating without a dry run carries a high risk of extended downtime if a schema script fails. I strongly recommend running a full dry run in staging on Thursday and keeping a tested rollback plan ready before Saturday."
+  },
+  {
+    "id": "rp-ml-07",
+    "title": "Management: delegating without micromanaging",
+    "lvl": "B2",
+    "persona": "Mid-level Analyst (unsure about autonomy)",
+    "situation": "You are handing off an important client report to a colleague. Set clear expectations, deadlines, and check-in points.",
+    "opening": "Thanks for trusting me with the Q3 client report. Should I send you every section as I write it?",
+    "topic": "work",
+    "objectives": [
+      {
+        "id": "trust",
+        "label": "Express confidence in their ownership",
+        "re": "\\b(trust|own|autonomy|confident|handle|lead|yours)\\b",
+        "hint": "Say: \"You own this—I trust your judgment.\""
+      },
+      {
+        "id": "criteria",
+        "label": "Define what success looks like",
+        "re": "\\b(focus|include|executive|summary|metrics|clear|format)\\b",
+        "hint": "Mention key sections or metrics to include."
+      },
+      {
+        "id": "checkin",
+        "label": "Set a single check-in milestone",
+        "re": "\\b(wednesday|draft|check in|review|questions|stuck)\\b",
+        "hint": "Set one check-in for a draft review."
+      }
+    ],
+    "followups": [
+      "Got it. What is the single most important part for the client?",
+      "Sounds good—I'll ping you if anything blocks me."
+    ],
+    "model": "No need to send every section—I trust you to lead it. Focus on a crisp one-page executive summary with churn and uptime metrics. Let us do one quick check-in on Wednesday afternoon to review the draft, and reach out anytime if you hit a blocker."
+  },
+  {
+    "id": "rp-ml-08",
+    "title": "Team conflict: mediating a disagreement",
+    "lvl": "B2+",
+    "persona": "Senior Designer (upset with backend team)",
+    "situation": "A designer feels the backend team keeps changing API fields without telling them. Listen, validate, and agree on a process fix.",
+    "opening": "I'm honestly exhausted. Backend changed the response format twice this week and broke my UI again!",
+    "topic": "work",
+    "objectives": [
+      {
+        "id": "empathy",
+        "label": "Validate their frustration",
+        "re": "\\b(frustrating|understand|fair|annoying|right|rework)\\b",
+        "hint": "Say: \"That sounds really frustrating, and you are right to flag it.\""
+      },
+      {
+        "id": "root",
+        "label": "Focus on the process rather than blame",
+        "re": "\\b(process|notify|contract|schema|communicate|handoff|warning)\\b",
+        "hint": "Suggest a process fix like schema notifications."
+      },
+      {
+        "id": "action",
+        "label": "Commit to a concrete change",
+        "re": "\\b(from now on|slack|review|changelog|agree|before merging)\\b",
+        "hint": "Commit to posting API changes before merging."
+      }
+    ],
+    "followups": [
+      "I just want a heads-up before things break.",
+      "That would actually help a lot."
+    ],
+    "model": "That sounds genuinely frustrating—nobody likes redoing finished work. It is clearly a handoff gap on our side, not personal. From now on, let us require tagging design on any API schema change before merging and post a quick heads-up in the shared channel."
+  },
+  {
+    "id": "rp-ml-09",
+    "title": "Finance: negotiating payment terms with a vendor",
+    "lvl": "B2+",
+    "persona": "Enterprise Software Sales Rep",
+    "situation": "A vendor wants full annual payment upfront. Negotiate quarterly billing or a discount.",
+    "opening": "Our standard enterprise plan is $12,000 paid upfront for the year.",
+    "topic": "finance",
+    "objectives": [
+      {
+        "id": "counter",
+        "label": "Make a conditional counteroffer",
+        "re": "\\b(quarterly|monthly|split|discount|if we|provided|in exchange)\\b",
+        "hint": "Say: \"We could pay upfront if you offer a 15% discount, or bill quarterly.\""
+      },
+      {
+        "id": "reason",
+        "label": "Explain your cash-flow or approval reason",
+        "re": "\\b(cash flow|policy|approval|budget|quarter|risk)\\b",
+        "hint": "Mention company policy or quarterly budget."
+      },
+      {
+        "id": "close",
+        "label": "Ask to confirm in writing",
+        "re": "\\b(writing|contract|draft|send|confirm|agree)\\b",
+        "hint": "Ask them to send the updated draft."
+      }
+    ],
+    "followups": [
+      "Upfront keeps our price locked—what discount would make it work?",
+      "Let me check with my manager if we can do semi-annual billing."
+    ],
+    "model": "Our finance policy prefers quarterly billing for new vendors. However, if you can offer a fifteen percent discount on the annual rate, I can push for upfront approval this week. Otherwise, semi-annual billing would work. Could you send both options in writing?"
+  },
+  {
+    "id": "rp-ml-10",
+    "title": "Customer service: calming an upset enterprise client",
+    "lvl": "B2",
+    "persona": "Enterprise Client (angry about a 30-minute outage)",
+    "situation": "A key client lost access during their morning peak. Take ownership, explain what happened simply, and offer prevention steps.",
+    "opening": "We couldn't process orders for thirty minutes this morning! This is completely unacceptable.",
+    "topic": "business",
+    "objectives": [
+      {
+        "id": "own",
+        "label": "Apologize sincerely without excuses",
+        "re": "\\b(sorry|apologize|unacceptable|understand|impact|frustrating)\\b",
+        "hint": "Say: \"I sincerely apologize for the disruption this caused your team.\""
+      },
+      {
+        "id": "explain",
+        "label": "Explain the cause and fix concisely",
+        "re": "\\b(caused by|resolved|fixed|rolled back|config|traffic|root cause)\\b",
+        "hint": "Explain briefly what failed and confirm it is fixed."
+      },
+      {
+        "id": "prevent",
+        "label": "State one concrete safeguard going forward",
+        "re": "\\b(prevent|monitoring|alert|post-mortem|safeguard|ensure|future)\\b",
+        "hint": "Mention automated alerts or a post-mortem report."
+      }
+    ],
+    "followups": [
+      "How do I know this won't happen again next Monday?",
+      "Thank you, I appreciate the direct update."
+    ],
+    "model": "I sincerely apologize for the thirty-minute outage—I know how critical your morning peak is. It was caused by a misconfigured rate limit, which we rolled back within twelve minutes. To prevent a repeat, we added automated pre-deploy checks and will send you the full post-mortem by five today."
+  },
+  {
+    "id": "rp-ml-11",
+    "title": "Crisis: briefing leadership during a security incident",
+    "lvl": "C1",
+    "persona": "CEO (wants immediate clarity without panic)",
+    "situation": "A suspicious login accessed a non-public test server. Brief the CEO accurately: what we know, what we contained, and what comes next.",
+    "opening": "I just heard there's a security alert. Are customer records exposed? Give me the facts.",
+    "topic": "security",
+    "objectives": [
+      {
+        "id": "facts",
+        "label": "Separate confirmed facts from unknowns",
+        "re": "\\b(confirmed|no evidence|production|staging|test|contained|isolated)\\b",
+        "hint": "Confirm whether production/customer data was touched."
+      },
+      {
+        "id": "action",
+        "label": "State immediate containment actions taken",
+        "re": "\\b(revoked|rotated|blocked|locked|disabled|quarantined|logs)\\b",
+        "hint": "Mention revoking tokens, rotating keys, or isolating the server."
+      },
+      {
+        "id": "next",
+        "label": "Give a clear time for the next update",
+        "re": "\\b(update|hour|by \\d|audit|forensic|report|monitor)\\b",
+        "hint": "Promise a concrete next update time."
+      }
+    ],
+    "followups": [
+      "Do we need to notify customers today?",
+      "Good. Keep me posted every two hours until closed."
+    ],
+    "model": "To be clear on the facts: we detected unauthorized access on an isolated staging server, and so far there is no evidence that production or customer data was touched. We immediately revoked all active tokens, isolated the instance, and started a full log audit. I will send you a verified update in two hours."
+  },
+  {
+    "id": "rp-ml-12",
+    "title": "Culture: aligning remote teams across time zones",
+    "lvl": "B2",
+    "persona": "German Tech Lead (very direct, values punctuality & written specs)",
+    "situation": "Your Brazilian team and a German partner team have clashed over informal Slack chats vs. written specs. Bridge the style gap.",
+    "opening": "We need clearer written specifications. Too many decisions are happening in casual chat messages.",
+    "topic": "culture",
+    "objectives": [
+      {
+        "id": "agree",
+        "label": "Acknowledge the value of written clarity",
+        "re": "\\b(agree|fair|written|spec|document|clarity|async|time zone)\\b",
+        "hint": "Agree that written specs help across time zones."
+      },
+      {
+        "id": "bridge",
+        "label": "Explain how quick chats can feed the doc",
+        "re": "\\b(summary|decision|record|update|quick call|combine|balance)\\b",
+        "hint": "Suggest summarizing quick discussions in the doc."
+      },
+      {
+        "id": "propose",
+        "label": "Agree on one shared rule",
+        "re": "\\b(rule|agree|template|always|within|end of day|confirm)\\b",
+        "hint": "Propose logging every decision in the shared spec."
+      }
+    ],
+    "followups": [
+      "Yes, if it's not written down, our morning shift misses it.",
+      "That sounds like a practical compromise."
+    ],
+    "model": "That is a completely fair point—across time zones, casual chat decisions easily get lost. We still like quick calls to brainstorm fast, so how about this rule: brainstorm in chat or call, then always log the final decision in the written spec before end of day?"
   }
 ]

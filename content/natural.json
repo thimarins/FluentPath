@@ -1010,5 +1010,389 @@
       "idiom",
       "collocation"
     ]
+  },
+  {
+    "id": "nat-61",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Discordo completamente de você.",
+    "understandable": "I completely disagree with you.",
+    "natural": "I see your point, though I look at it slightly differently.",
+    "alts": [
+      "I understand your view, though I have a different take."
+    ],
+    "why": "In English meetings, softening disagreement keeps the conversation constructive.",
+    "tags": [
+      "diplomacy",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-62",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Você precisa mudar isso hoje.",
+    "understandable": "You need to change this today.",
+    "natural": "Could we prioritize updating this before end of day?",
+    "alts": [
+      "Would it be possible to adjust this today?"
+    ],
+    "why": "Requests framed as questions sound collaborative rather than bossy.",
+    "tags": [
+      "diplomacy",
+      "register"
+    ]
+  },
+  {
+    "id": "nat-63",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Esse prazo é impossível.",
+    "understandable": "This deadline is impossible.",
+    "natural": "That timeline feels a bit tight given the testing required.",
+    "alts": [
+      "I am not sure that timeline is realistic with full testing."
+    ],
+    "why": "Flagging constraints calmly sounds far more senior than flatly saying \"impossible\".",
+    "tags": [
+      "diplomacy",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-64",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Não entendi o que você falou.",
+    "understandable": "I did not understand what you said.",
+    "natural": "Could you clarify what you meant by that last point?",
+    "alts": [
+      "Sorry, could you walk me through that part again?"
+    ],
+    "why": "Asking for clarification on a specific point sounds confident and attentive.",
+    "tags": [
+      "conversation",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-65",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Vou te mandar o arquivo depois.",
+    "understandable": "I will send you the file later.",
+    "natural": "I will follow up with the file right after our call.",
+    "alts": [
+      "I will share the document with you shortly after we wrap up."
+    ],
+    "why": "\"Follow up with\" + exact timing sounds crisp and reliable.",
+    "tags": [
+      "collocation",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-66",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Tivemos um grande problema no sistema.",
+    "understandable": "We had a big problem in the system.",
+    "natural": "We ran into an unexpected bottleneck in production.",
+    "alts": [
+      "We experienced a brief service disruption this morning."
+    ],
+    "why": "\"Run into a bottleneck\" or \"service disruption\" is standard technical/business register.",
+    "tags": [
+      "register",
+      "tech"
+    ]
+  },
+  {
+    "id": "nat-67",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Me dá um retorno até sexta.",
+    "understandable": "Give me a return until Friday.",
+    "natural": "Could you get back to me by Friday?",
+    "alts": [
+      "Let me know your thoughts by Friday, if possible."
+    ],
+    "why": "Never translate \"dar um retorno\" as \"give a return\"; use \"get back to me\" + \"by\".",
+    "tags": [
+      "literal-translation",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "id": "nat-68",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Precisamos alinhar esse assunto.",
+    "understandable": "We need to align this subject.",
+    "natural": "We should get on the same page about the scope.",
+    "alts": [
+      "Let us make sure we are aligned on the scope."
+    ],
+    "why": "Use \"aligned on [topic]\" or \"get on the same page\".",
+    "tags": [
+      "collocation",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-69",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Eu vou assumir essa tarefa.",
+    "understandable": "I will assume this task.",
+    "natural": "I will take ownership of this task.",
+    "alts": [
+      "I can take the lead on this one."
+    ],
+    "why": "\"Take ownership of\" or \"take the lead on\" sounds natural for responsibilities.",
+    "tags": [
+      "collocation",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-70",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Isso vai dar muito trabalho.",
+    "understandable": "This will give a lot of work.",
+    "natural": "This is going to be fairly labor-intensive.",
+    "alts": [
+      "This will require quite a bit of effort upfront."
+    ],
+    "why": "Avoid \"give work\" from Portuguese; use \"require effort\" or \"be labor-intensive\".",
+    "tags": [
+      "literal-translation",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-71",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Vamos encerrar a reunião por aqui.",
+    "understandable": "Let us close the meeting here.",
+    "natural": "Let us wrap up here and give everyone five minutes back.",
+    "alts": [
+      "I think that covers everything—shall we wrap up?"
+    ],
+    "why": "\"Wrap up\" is the standard natural phrasal verb for ending a meeting.",
+    "tags": [
+      "phrasal-verb",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-72",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Qual é a sua opinião sincera?",
+    "understandable": "What is your sincere opinion?",
+    "natural": "What is your candid take on this proposal?",
+    "alts": [
+      "Be honest—what are your reservations about this?"
+    ],
+    "why": "\"Candid take\" is much more idiomatic in English business discussions than \"sincere opinion\".",
+    "tags": [
+      "collocation",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "nat-73",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Você esqueceu de anexar o PDF.",
+    "understandable": "You forgot to attach the PDF.",
+    "natural": "It looks like the PDF did not come through—could you resend it?",
+    "alts": [
+      "Just a heads-up, I think the attachment got left off."
+    ],
+    "why": "Blaming the file rather than the person is classic English workplace politeness.",
+    "tags": [
+      "diplomacy",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-74",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "A reunião foi muito produtiva.",
+    "understandable": "The meeting was very productive.",
+    "natural": "We made solid headway in today's session.",
+    "alts": [
+      "That was a really constructive discussion."
+    ],
+    "why": "\"Make headway\" or \"constructive discussion\" elevates B1 phrasing to B2+.",
+    "tags": [
+      "collocation",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-75",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Eu concordo em partes.",
+    "understandable": "I agree in parts.",
+    "natural": "I partly agree, though I have one concern.",
+    "alts": [
+      "I am on board with most of this, except for one detail."
+    ],
+    "why": "Never say \"in parts\"; say \"partly agree\" or \"agree to some extent\".",
+    "tags": [
+      "literal-translation",
+      "grammar"
+    ]
+  },
+  {
+    "id": "nat-76",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Vamos focar no que importa.",
+    "understandable": "Let us focus on what matters.",
+    "natural": "Let us zero in on the highest-impact items first.",
+    "alts": [
+      "To keep us focused, let us prioritize the top two issues."
+    ],
+    "why": "\"Zero in on\" is a natural B2+ phrasal verb for focusing sharply.",
+    "tags": [
+      "phrasal-verb",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-77",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Isso não faz parte do meu escopo.",
+    "understandable": "This is not part of my scope.",
+    "natural": "That falls outside the current scope of this sprint.",
+    "alts": [
+      "We did not factor that into the current scope."
+    ],
+    "why": "\"Fall outside the scope\" is the natural collocation.",
+    "tags": [
+      "collocation",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-78",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Precisamos pensar fora da caixa.",
+    "understandable": "We need to think outside the box.",
+    "natural": "We may need a less conventional approach here.",
+    "alts": [
+      "Let us step back and look at this from a fresh angle."
+    ],
+    "why": "Replacing overused clichés like \"outside the box\" sounds sharper and more C1.",
+    "tags": [
+      "register",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-79",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Desculpa a demora para responder.",
+    "understandable": "Sorry for the delay to answer.",
+    "natural": "Thanks for your patience—here is the update you asked for.",
+    "alts": [
+      "Apologies for the delayed reply."
+    ],
+    "why": "\"Thanks for your patience\" or \"Apologies for the delayed reply\" beats \"delay to answer\".",
+    "tags": [
+      "literal-translation",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "nat-80",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "A decisão ainda está em aberto.",
+    "understandable": "The decision is still open.",
+    "natural": "The final call is still up in the air.",
+    "alts": [
+      "We have not finalized that decision yet."
+    ],
+    "why": "\"Up in the air\" is an everyday business idiom for undecided.",
+    "tags": [
+      "idiom",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-81",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Vou verificar com o meu time.",
+    "understandable": "I will verify with my team.",
+    "natural": "Let me double-check with the team and circle back.",
+    "alts": [
+      "I will confirm with my team and let you know."
+    ],
+    "why": "\"Check with\" and \"circle back\" are much more natural in calls than \"verify with\".",
+    "tags": [
+      "register",
+      "phrasal-verb"
+    ]
+  },
+  {
+    "id": "nat-82",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "O cliente reclamou do preço.",
+    "understandable": "The client complained of the price.",
+    "natural": "The client pushed back on pricing during the call.",
+    "alts": [
+      "The client raised concerns about the cost."
+    ],
+    "why": "\"Push back on\" or \"raise concerns about\" fits business negotiations.",
+    "tags": [
+      "phrasal-verb",
+      "business"
+    ]
+  },
+  {
+    "id": "nat-83",
+    "lvl": "B2",
+    "topic": "work",
+    "pt": "Temos que resolver isso urgente.",
+    "understandable": "We have to solve this urgent.",
+    "natural": "We need to address this as a top priority.",
+    "alts": [
+      "This needs immediate attention before anything else."
+    ],
+    "why": "Never use adjective \"urgent\" as an adverb; use \"urgently\" or \"as a top priority\".",
+    "tags": [
+      "grammar",
+      "work"
+    ]
+  },
+  {
+    "id": "nat-84",
+    "lvl": "B2+",
+    "topic": "business",
+    "pt": "Em resumo, o projeto deu certo.",
+    "understandable": "In summary, the project went right.",
+    "natural": "Overall, the rollout exceeded our initial targets.",
+    "alts": [
+      "To sum up, the launch was a clear success."
+    ],
+    "why": "\"Exceeded targets\" or \"was a clear success\" sounds natural rather than \"went right\".",
+    "tags": [
+      "literal-translation",
+      "business"
+    ]
   }
 ]

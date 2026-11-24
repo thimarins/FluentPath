@@ -3932,5 +3932,629 @@
       "roll back",
       "staging"
     ]
+  },
+  {
+    "id": "lis-ml-01",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "work",
+    "kind": "conversation",
+    "script": "Sophie: Thanks for jumping on quickly, Lucas. I read your spec, and overall it looks solid—though I have one concern about the launch date.\nLucas: Sure, what's worrying you?\nSophie: We still haven't heard back from Legal on the privacy terms. If they ask for changes on Thursday, Friday's release could get tight.\nLucas: Good catch. Let's ping Legal today and set a backup release window for Monday morning just in case.",
+    "qs": [
+      {
+        "q": "What is Sophie's main concern?",
+        "opts": [
+          "The code quality",
+          "Waiting on Legal approval before Friday",
+          "Lucas's vacation",
+          "Server cost"
+        ],
+        "ans": 1,
+        "why": "They haven't heard back from Legal on the privacy terms.",
+        "type": "detail"
+      },
+      {
+        "q": "How does Lucas respond?",
+        "opts": [
+          "He cancels the launch.",
+          "He suggests pinging Legal today and setting Monday as backup.",
+          "He blames Legal.",
+          "He ignores the risk."
+        ],
+        "ans": 1,
+        "why": "He proposes contacting Legal today and keeping Monday as a backup window.",
+        "type": "detail"
+      },
+      {
+        "q": "What is the tone of their conversation?",
+        "opts": [
+          "Hostile",
+          "Constructive and calm",
+          "Confused",
+          "Formal legal"
+        ],
+        "ans": 1,
+        "why": "Both stay calm and collaborative.",
+        "type": "inference"
+      }
+    ],
+    "vocab": [
+      "jump on",
+      "get tight",
+      "just in case"
+    ]
+  },
+  {
+    "id": "lis-ml-02",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "business",
+    "kind": "monologue",
+    "script": "When pitching a product in a new country, never assume your strongest feature at home is your best selling point abroad. In the US, buyers might care most about self-service speed. In Germany or Brazil, enterprise buyers often ask first about local support, data compliance, and clear onboarding. Always listen to ten real customer calls before locking your regional marketing copy.",
+    "qs": [
+      {
+        "q": "What does the speaker warn against?",
+        "opts": [
+          "Using self-service software",
+          "Assuming the same selling point works in every country",
+          "Calling customers",
+          "Translating prices"
+        ],
+        "ans": 1,
+        "why": "Different markets value different selling points.",
+        "type": "main"
+      },
+      {
+        "q": "What do enterprise buyers in Germany or Brazil often prioritize?",
+        "opts": [
+          "Free swag",
+          "Local support, compliance, and onboarding",
+          "Self-service speed only",
+          "Short ads"
+        ],
+        "ans": 1,
+        "why": "Local support, data compliance, and clear onboarding.",
+        "type": "detail"
+      },
+      {
+        "q": "What should teams do before finalizing regional copy?",
+        "opts": [
+          "Listen to ten real customer calls",
+          "Hire twenty influencers",
+          "Copy competitors",
+          "Wait a year"
+        ],
+        "ans": 0,
+        "why": "Listen to ten real customer calls first.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "selling point",
+      "compliance",
+      "copy"
+    ]
+  },
+  {
+    "id": "lis-ml-03",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "relationships",
+    "kind": "conversation",
+    "script": "Daniel: Hey Carla, I noticed you stepped in to help the support team during yesterday's outage even though you were off shift.\nCarla: Yeah, they were swamped, and I knew where the log filter was.\nDaniel: I really appreciate that—I'm going to mention it in Friday's team update, and please take tomorrow morning off to balance your hours.",
+    "qs": [
+      {
+        "q": "Why did Carla help the support team?",
+        "opts": [
+          "She was paid double.",
+          "They were overwhelmed and she knew where the log filter was.",
+          "Her manager ordered her to.",
+          "She wanted a promotion."
+        ],
+        "ans": 1,
+        "why": "Support was swamped and she knew how to help.",
+        "type": "detail"
+      },
+      {
+        "q": "What two things does Daniel offer?",
+        "opts": [
+          "Public credit on Friday and tomorrow morning off",
+          "A bonus and a new laptop",
+          "A warning and extra shift",
+          "Nothing"
+        ],
+        "ans": 0,
+        "why": "He will mention it publicly and give her tomorrow morning off.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"swamped\" mean?",
+        "opts": [
+          "bored",
+          "overwhelmed with work",
+          "angry",
+          "offline"
+        ],
+        "ans": 1,
+        "why": "Swamped means flooded with too much work.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      "step in",
+      "swamped",
+      "balance your hours"
+    ]
+  },
+  {
+    "id": "lis-ml-04",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "business",
+    "kind": "news",
+    "script": "A recent survey of two hundred European software firms found that companies tracking fewer than five core metrics grew faster than those monitoring forty-slide dashboards. Executives interviewed said massive dashboards created \"analysis paralysis,\" whereas focusing on weekly retention, error rates, and support response time kept every department aligned.",
+    "qs": [
+      {
+        "q": "What did the survey find?",
+        "opts": [
+          "Bigger dashboards led to faster growth.",
+          "Firms tracking fewer than five core metrics grew faster.",
+          "Software firms ignore metrics.",
+          "Support teams do not use dashboards."
+        ],
+        "ans": 1,
+        "why": "Tracking fewer than five core metrics outperformed massive dashboards.",
+        "type": "main"
+      },
+      {
+        "q": "What problem did 40-slide dashboards cause?",
+        "opts": [
+          "High printing costs",
+          "Analysis paralysis",
+          "Missing data",
+          "Slower laptops"
+        ],
+        "ans": 1,
+        "why": "Too many numbers stalled decisions (\"analysis paralysis\").",
+        "type": "detail"
+      },
+      {
+        "q": "Which metric was NOT mentioned as core?",
+        "opts": [
+          "Weekly retention",
+          "Error rates",
+          "Office attendance",
+          "Support response time"
+        ],
+        "ans": 2,
+        "why": "Office attendance was not mentioned.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "analysis paralysis",
+      "aligned",
+      "retention"
+    ]
+  },
+  {
+    "id": "lis-ml-05",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "work",
+    "kind": "voicemail",
+    "script": "Hi Thiago, this is Amanda from HR. Just following up on the annual engagement survey—thank you for submitting your team's feedback so quickly. Several engineers mentioned wanting clearer career paths and fewer back-to-back afternoon meetings. Leadership is reviewing those two points on Wednesday, and we'll share concrete changes next week.",
+    "qs": [
+      {
+        "q": "Why is Amanda calling?",
+        "opts": [
+          "To schedule an interview",
+          "To follow up on the engagement survey",
+          "To cancel Friday's meeting",
+          "To ask about a bug"
+        ],
+        "ans": 1,
+        "why": "She is following up on the annual engagement survey.",
+        "type": "main"
+      },
+      {
+        "q": "What two requests did engineers mention?",
+        "opts": [
+          "Free lunch and new chairs",
+          "Clearer career paths and fewer back-to-back meetings",
+          "Longer vacations and bonuses",
+          "Working weekends"
+        ],
+        "ans": 1,
+        "why": "Clearer career paths and fewer back-to-back afternoon meetings.",
+        "type": "detail"
+      },
+      {
+        "q": "When will concrete changes be shared?",
+        "opts": [
+          "Today",
+          "Wednesday",
+          "Next week",
+          "Next month"
+        ],
+        "ans": 2,
+        "why": "Leadership meets Wednesday and shares changes next week.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "engagement survey",
+      "back-to-back",
+      "career path"
+    ]
+  },
+  {
+    "id": "lis-ml-06",
+    "lvl": "C1",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "security",
+    "kind": "conversation",
+    "script": "Alex: Should we ship the new payment integration tonight? All unit tests are green.\nNadia: Unit tests are green, yes, but have we tested how it behaves if the third-party gateway times out?\nAlex: Not yet—we assumed their uptime is solid.\nNadia: Never assume an external API won't hang. Let's simulate a five-second timeout in staging first; an extra hour of testing beats waking up at three a.m. with stuck orders.",
+    "qs": [
+      {
+        "q": "What gap does Nadia spot?",
+        "opts": [
+          "Unit tests failed.",
+          "Timeout handling for the external gateway hasn't been tested.",
+          "The UI looks wrong.",
+          "Payments are too slow."
+        ],
+        "ans": 1,
+        "why": "They haven't tested what happens if the third-party gateway times out.",
+        "type": "detail"
+      },
+      {
+        "q": "What does Alex assume?",
+        "opts": [
+          "The third-party API uptime is solid.",
+          "Users will retry manually.",
+          "Staging is down.",
+          "Unit tests are useless."
+        ],
+        "ans": 0,
+        "why": "He assumed their uptime is solid.",
+        "type": "detail"
+      },
+      {
+        "q": "What does Nadia recommend?",
+        "opts": [
+          "Ship tonight anyway",
+          "Simulate a five-second timeout in staging first",
+          "Drop the integration",
+          "Call the vendor"
+        ],
+        "ans": 1,
+        "why": "Simulate a timeout in staging before shipping.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "time out",
+      "hang",
+      "simulate"
+    ]
+  },
+  {
+    "id": "lis-ml-07",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "work",
+    "kind": "monologue",
+    "script": "If you are leading a team for the first time, resist the urge to solve every technical problem yourself. Your job is no longer writing the fastest code—it is making sure your team has clear priorities, removes blockers, and feels safe enough to ask questions early. When someone brings you a problem, try asking \"What options have you considered?\" before jumping in with the answer.",
+    "qs": [
+      {
+        "q": "What mistake should new team leads avoid?",
+        "opts": [
+          "Asking questions",
+          "Trying to solve every technical problem themselves",
+          "Removing blockers",
+          "Setting clear priorities"
+        ],
+        "ans": 1,
+        "why": "New leads should resist solving everything themselves.",
+        "type": "main"
+      },
+      {
+        "q": "What question does the speaker suggest asking first?",
+        "opts": [
+          "Why did you break this?",
+          "What options have you considered?",
+          "When will you resign?",
+          "Did you read the manual?"
+        ],
+        "ans": 1,
+        "why": "Ask \"What options have you considered?\" to coach ownership.",
+        "type": "detail"
+      },
+      {
+        "q": "What is a lead's main responsibility?",
+        "opts": [
+          "Writing all code",
+          "Clarifying priorities, removing blockers, and creating safety",
+          "Attending every client dinner",
+          "Doing QA"
+        ],
+        "ans": 1,
+        "why": "Priorities, removing blockers, and psychological safety.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "resist the urge",
+      "blocker",
+      "jump in"
+    ]
+  },
+  {
+    "id": "lis-ml-08",
+    "lvl": "B2+",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "work",
+    "kind": "conversation",
+    "script": "Elena: Look, I know both teams want to own the analytics pipeline, but duplicating the work makes no sense.\nTom: Fair enough. How do we split responsibilities cleanly?\nElena: Platform handles ingestion and reliability; Product owns the metrics definitions and dashboards. That way nobody steps on anyone's toes.",
+    "qs": [
+      {
+        "q": "What problem are Elena and Tom solving?",
+        "opts": [
+          "Two teams duplicating the analytics pipeline",
+          "Missing budget",
+          "A server crash",
+          "Slow hiring"
+        ],
+        "ans": 0,
+        "why": "Both teams want to own the pipeline and risk duplicating work.",
+        "type": "main"
+      },
+      {
+        "q": "What will Platform own?",
+        "opts": [
+          "Dashboards",
+          "Ingestion and reliability",
+          "Metrics definitions",
+          "Marketing"
+        ],
+        "ans": 1,
+        "why": "Platform handles ingestion and reliability.",
+        "type": "detail"
+      },
+      {
+        "q": "What does \"step on someone's toes\" mean?",
+        "opts": [
+          "hurt someone physically",
+          "interfere in someone else's area of responsibility",
+          "walk too fast",
+          "leave a job"
+        ],
+        "ans": 1,
+        "why": "An idiom meaning to encroach on another person's role.",
+        "type": "vocab"
+      }
+    ],
+    "vocab": [
+      "duplicate",
+      "ingestion",
+      "step on toes"
+    ]
+  },
+  {
+    "id": "lis-ml-09",
+    "lvl": "B2+",
+    "speed": "normal",
+    "accent": "gb",
+    "topic": "finance",
+    "kind": "monologue",
+    "script": "Before signing any multi-year SaaS contract, look closely at three clauses: auto-renewal notice windows, annual price-increase caps, and data export rights if you leave. Vendors frequently offer a tempting year-one discount, then raise prices by fifteen percent in year two when switching away feels painful. Negotiating a five percent cap upfront protects your budget long after the honeymoon period ends.",
+    "qs": [
+      {
+        "q": "Which three clauses should buyers check before signing?",
+        "opts": [
+          "Logos, colors, and fonts",
+          "Auto-renewal notice, price-increase caps, and data export",
+          "Office address, CEO name, and snacks",
+          "Support hours only"
+        ],
+        "ans": 1,
+        "why": "Auto-renewal notice, price caps, and data export rights.",
+        "type": "detail"
+      },
+      {
+        "q": "What common vendor tactic does the speaker warn about?",
+        "opts": [
+          "A year-one discount followed by steep year-two hikes",
+          "Free lifetime access",
+          "Refusing annual billing",
+          "No contracts"
+        ],
+        "ans": 0,
+        "why": "Cheap first year, then 15% price hikes later.",
+        "type": "detail"
+      },
+      {
+        "q": "What does negotiating a 5% cap upfront do?",
+        "opts": [
+          "Protects future budgets",
+          "Cancels the contract",
+          "Lowers year-one discounts",
+          "Deletes data"
+        ],
+        "ans": 0,
+        "why": "It limits future price increases.",
+        "type": "inference"
+      }
+    ],
+    "vocab": [
+      "price cap",
+      "tempting",
+      "honeymoon period"
+    ]
+  },
+  {
+    "id": "lis-ml-10",
+    "lvl": "B2",
+    "speed": "normal",
+    "accent": "us",
+    "topic": "business",
+    "kind": "conversation",
+    "script": "Agent: Thank you for holding, Mr. Alvarez. I checked your account logs and confirmed the duplicate charge happened during yesterday's gateway retry.\nClient: Okay, so when do I get my money back?\nAgent: I've already issued a full refund of four hundred dollars. You'll see it back on your card within two business days, and I've emailed you the confirmation number.",
+    "qs": [
+      {
+        "q": "What caused the billing issue?",
+        "opts": [
+          "A user typo",
+          "A duplicate charge during a gateway retry",
+          "An expired card",
+          "Tax changes"
+        ],
+        "ans": 1,
+        "why": "A duplicate charge occurred during a gateway retry.",
+        "type": "detail"
+      },
+      {
+        "q": "What has the agent already done?",
+        "opts": [
+          "Escalated to legal",
+          "Issued a $400 refund and emailed confirmation",
+          "Asked the client to wait a month",
+          "Canceled the account"
+        ],
+        "ans": 1,
+        "why": "Issued a full $400 refund and sent the confirmation number.",
+        "type": "detail"
+      },
+      {
+        "q": "When will the refund appear on the card?",
+        "opts": [
+          "Instantly",
+          "Within two business days",
+          "Next month",
+          "After Friday"
+        ],
+        "ans": 1,
+        "why": "Within two business days.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "duplicate charge",
+      "issue a refund",
+      "business days"
+    ]
+  },
+  {
+    "id": "lis-ml-11",
+    "lvl": "C1",
+    "speed": "fast",
+    "accent": "us",
+    "topic": "security",
+    "kind": "announcement",
+    "script": "All engineering staff, please note an urgent operational update. At 9:15 a.m., automated monitoring detected unusual traffic on a legacy staging API. We immediately isolated the service and revoked staging tokens as a precaution. Production databases and customer records remain completely unaffected. A brief post-mortem will be shared at 4 p.m.; until then, please avoid deploying non-urgent changes.",
+    "qs": [
+      {
+        "q": "Were customer records affected?",
+        "opts": [
+          "Yes, all of them",
+          "No, production and customer records remain unaffected",
+          "Only European accounts",
+          "The speaker doesn't know"
+        ],
+        "ans": 1,
+        "why": "Production databases and customer records remain completely unaffected.",
+        "type": "detail"
+      },
+      {
+        "q": "What immediate steps were taken?",
+        "opts": [
+          "Deleted the database",
+          "Isolated the staging service and revoked staging tokens",
+          "Shut down the office",
+          "Emailed all customers"
+        ],
+        "ans": 1,
+        "why": "Isolated the service and revoked staging tokens.",
+        "type": "detail"
+      },
+      {
+        "q": "What are engineers asked to do until 4 p.m.?",
+        "opts": [
+          "Deploy immediately",
+          "Avoid deploying non-urgent changes",
+          "Reset personal phones",
+          "Work from home"
+        ],
+        "ans": 1,
+        "why": "Avoid non-urgent deployments until the 4 p.m. post-mortem.",
+        "type": "detail"
+      }
+    ],
+    "vocab": [
+      "as a precaution",
+      "unaffected",
+      "post-mortem"
+    ]
+  },
+  {
+    "id": "lis-ml-12",
+    "lvl": "C1",
+    "speed": "fast",
+    "accent": "gb",
+    "topic": "culture",
+    "kind": "monologue",
+    "script": "Working across cultures is rarely about memorizing etiquette trivia—it is about noticing assumptions. For instance, in high-context cultures, a polite \"That might be difficult\" often means a firm no, whereas in low-context teams, colleagues take it literally as a minor hurdle to solve. Whenever a cross-border call ends with vague agreement, always summarize concrete owners and dates in writing right afterward so everyone leaves with the same reality.",
+    "qs": [
+      {
+        "q": "What does \"That might be difficult\" often mean in high-context cultures?",
+        "opts": [
+          "Let's try harder.",
+          "A polite but firm no.",
+          "It is easy.",
+          "Send more budget."
+        ],
+        "ans": 1,
+        "why": "In high-context cultures, indirect phrasing often signals refusal.",
+        "type": "detail"
+      },
+      {
+        "q": "How might low-context colleagues interpret that same sentence?",
+        "opts": [
+          "As an insult",
+          "Literally, as a small hurdle that can be solved",
+          "As a cancellation",
+          "As praise"
+        ],
+        "ans": 1,
+        "why": "They take it literally as a minor hurdle.",
+        "type": "detail"
+      },
+      {
+        "q": "What practical habit does the speaker recommend after cross-border calls?",
+        "opts": [
+          "Memorize etiquette trivia",
+          "Summarize owners and dates in writing right afterward",
+          "Avoid international calls",
+          "Speak slower"
+        ],
+        "ans": 1,
+        "why": "Write down concrete owners and dates so everyone shares the same understanding.",
+        "type": "main"
+      }
+    ],
+    "vocab": [
+      "high-context",
+      "hurdle",
+      "etiquette"
+    ]
   }
 ]

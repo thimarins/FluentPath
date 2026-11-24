@@ -8114,5 +8114,894 @@
         "why": "however after a semicolon, followed by a comma."
       }
     ]
+  },
+  {
+    "id": "hedging-diplomatic-language",
+    "lvl": "B2+",
+    "name": "Hedging & Diplomatic Language",
+    "prereq": [
+      "modals-advanced",
+      "second-conditional"
+    ],
+    "pt": "Em reuniões e e-mails corporativos, ser direto demais soa ríspido. Use hedging (suavização) para discordar ou pedir mudanças com elegância: \"tend to\", \"seem to\", \"it appears that\", \"I was wondering if\", \"would you mind\", \"could we possibly\", \"a bit / slightly\". Em vez de \"You are wrong\", diga \"I see your point, though I'm not sure that works here\".",
+    "en": "Soften claims, requests, and disagreements in professional settings using hedging verbs (seem, tend, appear), modal past forms (could, might, would), and softeners (slightly, a bit, I was wondering if).",
+    "form": "I was wondering if + could; It seems/tends to + verb; Would you mind + -ing; Not quite / slightly",
+    "ex": [
+      "I was wondering if we could push the deadline back by two days.",
+      "The new rollout tends to slow down older devices slightly.",
+      "With all due respect, I am not sure that timeline is realistic."
+    ],
+    "cmp": "Direct: \"Change this slide.\" Diplomatic: \"Would you mind adjusting this slide slightly before the client call?\"",
+    "mistakes": [
+      {
+        "bad": "I was wondering if you can send the file.",
+        "good": "I was wondering if you could send the file.",
+        "why": "Pair \"I was wondering if\" with past-tense modals (could/would) for polite distance."
+      },
+      {
+        "bad": "Would you mind to open the window?",
+        "good": "Would you mind opening the window?",
+        "why": "\"Would you mind\" is followed by -ing, never \"to + verb\"."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "I was wondering if we ____ reschedule the review for Thursday.",
+        "opts": [
+          "can",
+          "could",
+          "will",
+          "must"
+        ],
+        "ans": 1,
+        "why": "Use \"could\" after \"I was wondering if\" for polite requests."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Would you mind ____ the client summary before noon?",
+        "opts": [
+          "to update",
+          "update",
+          "updating",
+          "updated"
+        ],
+        "ans": 2,
+        "why": "\"Would you mind\" always takes the -ing form."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Which sentence sounds most diplomatic in a meeting?",
+        "opts": [
+          "Your estimate is completely wrong.",
+          "I see what you mean, though that estimate seems slightly optimistic.",
+          "You do not know the numbers.",
+          "That estimate will never work."
+        ],
+        "ans": 1,
+        "why": "Acknowledging the other view and using \"seems slightly\" softens disagreement."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "Large attachments ____ slow down our email server during peak hours.",
+        "opts": [
+          "tend to",
+          "must to",
+          "are used",
+          "force to"
+        ],
+        "ans": 0,
+        "why": "\"Tend to\" hedges a general claim without sounding absolute."
+      },
+      {
+        "t": "mcq",
+        "lvl": "B2+",
+        "q": "____ be possible to review the contract one more time?",
+        "opts": [
+          "Would it",
+          "Will it",
+          "Can it",
+          "Does it"
+        ],
+        "ans": 0,
+        "why": "\"Would it be possible to...\" is a standard polite opener."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "I was ____ (wonder) if you could share the latest budget.",
+        "ans": "wondering",
+        "acc": [
+          "wondering"
+        ],
+        "why": "\"I was wondering if...\" is the fixed polite request frame."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "Would you mind ____ (send) me the slides after the call?",
+        "ans": "sending",
+        "acc": [
+          "sending"
+        ],
+        "why": "\"Would you mind\" is followed by -ing."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "Users ____ (tend) to abandon forms that ask for too many fields.",
+        "ans": "tend",
+        "acc": [
+          "tend"
+        ],
+        "why": "\"Tend to + verb\" softens generalizations."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "The timeline looks ____ (slight) tight for a full security audit.",
+        "ans": "slightly",
+        "acc": [
+          "slightly"
+        ],
+        "why": "Use the adverb \"slightly\" before an adjective (\"slightly tight\")."
+      },
+      {
+        "t": "fill",
+        "lvl": "B2+",
+        "q": "It ____ (appear) that two teams worked on the same ticket.",
+        "ans": "appears",
+        "acc": [
+          "appears",
+          "seems"
+        ],
+        "why": "\"It appears/seems that...\" reports a finding cautiously."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Eu gostaria de saber se poderíamos adiar a reunião.",
+        "ans": "I was wondering if we could postpone the meeting.",
+        "why": "I was wondering if + subject + could + base verb."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Você se importaria de revisar este parágrafo?",
+        "ans": "Would you mind reviewing this paragraph?",
+        "why": "Would you mind + -ing + object."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Essa abordagem parece um pouco arriscada.",
+        "ans": "That approach seems a bit risky.",
+        "why": "Subject + seems + a bit + adjective."
+      },
+      {
+        "t": "order",
+        "lvl": "B2+",
+        "q": "Com todo o respeito, não tenho certeza se isso funciona.",
+        "ans": "With all due respect, I am not sure that works.",
+        "why": "Fixed diplomatic opener before a polite disagreement."
+      }
+    ]
+  },
+  {
+    "id": "discourse-markers-stance",
+    "lvl": "C1",
+    "name": "Discourse Markers & Stance",
+    "prereq": [
+      "emphasis-and-contrast-structures",
+      "hedging-diplomatic-language"
+    ],
+    "pt": "Em nível C1, marcadores de discurso mostram sua postura e estruturam argumentos complexos: \"admittedly\" (reconheço que), \"needless to say\" (nem precisa dizer), \"broadly speaking\" (em linhas gerais), \"that said\" (dito isso), \"on the contrary\" (pelo contrário), \"by and large\" (no geral). Armadilha: não confunda \"on the other hand\" (outro lado da moeda) com \"on the contrary\" (negação direta).",
+    "en": "Use C1 stance and discourse markers to frame arguments, concede points, and pivot cleanly: admittedly, that said, broadly speaking, by and large, on the contrary, nonetheless.",
+    "form": "Admittedly, ...; Broadly speaking, ...; That said, ...; On the contrary, ...",
+    "ex": [
+      "Admittedly, the migration took longer than we had planned.",
+      "Broadly speaking, small models perform well on classification tasks.",
+      "The budget is tight; that said, we can still ship the core features."
+    ],
+    "cmp": "\"On the other hand\" balances two sides; \"On the contrary\" rejects the previous claim as false.",
+    "mistakes": [
+      {
+        "bad": "The app is slow. On the contrary, it is cheap.",
+        "good": "The app is slow. On the other hand, it is cheap.",
+        "why": "\"On the contrary\" contradicts the previous claim; \"on the other hand\" introduces a contrasting advantage."
+      },
+      {
+        "bad": "By and large, I totally disagree with every single word.",
+        "good": "By and large, the new process works well.",
+        "why": "\"By and large\" means \"generally / on the whole\", not \"strongly\"."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____, the initial setup is complex, yet the daily workflow is effortless.",
+        "opts": [
+          "Admittedly",
+          "On the contrary",
+          "Namely",
+          "Respectively"
+        ],
+        "ans": 0,
+        "why": "\"Admittedly\" concedes a drawback before presenting the positive side."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "\"Did the outage hurt sales?\" — \"____, conversions actually rose this week.\"",
+        "opts": [
+          "On the other hand",
+          "On the contrary",
+          "Broadly speaking",
+          "That said"
+        ],
+        "ans": 1,
+        "why": "\"On the contrary\" directly contradicts a negative assumption."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "The tool is not cheap. ____, it saves the team ten hours every week.",
+        "opts": [
+          "That said",
+          "Namely",
+          "In short",
+          "For instance"
+        ],
+        "ans": 0,
+        "why": "\"That said\" pivots to a balancing point after acknowledging a limitation."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____, European clients expect stricter data guarantees than US startups.",
+        "opts": [
+          "Broadly speaking",
+          "Needless to say",
+          "On the contrary",
+          "Nonetheless"
+        ],
+        "ans": 0,
+        "why": "\"Broadly speaking\" introduces a general rule."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____, the merger went smoothly despite a few tense weeks in HR.",
+        "opts": [
+          "By and large",
+          "In contrast",
+          "Namely",
+          "Otherwise"
+        ],
+        "ans": 0,
+        "why": "\"By and large\" means \"overall / on the whole\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (admit), we underestimated how much testing the API needed.",
+        "ans": "Admittedly",
+        "acc": [
+          "Admittedly",
+          "admittedly"
+        ],
+        "why": "Use the sentence adverb \"Admittedly\" to concede a point."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (need) to say, unencrypted backups are unacceptable.",
+        "ans": "Needless",
+        "acc": [
+          "Needless",
+          "needless"
+        ],
+        "why": "\"Needless to say\" means something is obvious."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "The timeline is ambitious; ____ (nonetheless / however) we met every milestone.",
+        "ans": "nonetheless",
+        "acc": [
+          "nonetheless",
+          "however"
+        ],
+        "why": "Both \"nonetheless\" and \"however\" work after a semicolon."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (broad) speaking, automation reduces human error.",
+        "ans": "Broadly",
+        "acc": [
+          "Broadly",
+          "broadly"
+        ],
+        "why": "\"Broadly speaking\" is the fixed phrase."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "Two teams led the project, ____ (name) Platform and Security.",
+        "ans": "namely",
+        "acc": [
+          "namely"
+        ],
+        "why": "\"Namely\" specifies the exact items just mentioned."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Reconhecidamente, o prazo foi curto demais.",
+        "ans": "Admittedly, the deadline was too tight.",
+        "why": "Admittedly + comma + main clause."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Dito isso, ainda podemos entregar na sexta.",
+        "ans": "That said, we can still deliver on Friday.",
+        "why": "That said + comma + main clause."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "No geral, os usuários aprovaram a mudança.",
+        "ans": "By and large, users approved the change.",
+        "why": "By and large + comma + main clause."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Nem precisa dizer que a segurança vem primeiro.",
+        "ans": "Needless to say, security comes first.",
+        "why": "Needless to say + comma + main clause."
+      }
+    ]
+  },
+  {
+    "id": "nominalization-formal-writing",
+    "lvl": "C1",
+    "name": "Nominalization in Formal Writing",
+    "prereq": [
+      "passive-voice",
+      "relative-clauses"
+    ],
+    "pt": "Nominalização é transformar verbos e adjetivos em substantivos para deixar relatórios, e-mails executivos e textos acadêmicos mais concisos e objetivos: \"We decided to expand\" → \"The decision to expand\"; \"Because the server failed\" → \"Following the server failure\"; \"How fast they responded\" → \"The speed of their response\".",
+    "en": "Turn verbs and adjectives into noun phrases to write concise, formal executive summaries and reports: \"the implementation of\", \"a sharp rise in\", \"following the failure of\".",
+    "form": "Verb/Adj → Noun phrase + of/in (e.g. \"implementing X\" → \"the implementation of X\")",
+    "ex": [
+      "The implementation of two-factor login reduced account takeovers by 80%.",
+      "Following the delay in shipping, customer complaints rose sharply.",
+      "Their reluctance to share logs slowed down the audit."
+    ],
+    "cmp": "Conversational: \"Because they failed to test it, the site crashed.\" Formal: \"The failure to test it resulted in a site crash.\"",
+    "mistakes": [
+      {
+        "bad": "The implement of the policy took weeks.",
+        "good": "The implementation of the policy took weeks.",
+        "why": "Use the noun \"implementation\", not the verb \"implement\"."
+      },
+      {
+        "bad": "There was a sharp grow in traffic.",
+        "good": "There was a sharp growth in traffic.",
+        "why": "Use the noun \"growth\" after \"a sharp\"."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "The ____ of strict access controls prevented further leaks.",
+        "opts": [
+          "implement",
+          "implementation",
+          "implementing",
+          "implemented"
+        ],
+        "ans": 1,
+        "why": "After \"The ... of\", use the noun \"implementation\"."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Which sentence uses nominalization naturally for an executive report?",
+        "opts": [
+          "We complained because the delivery was late.",
+          "The delay in delivery led to several customer complaints.",
+          "Delivery late caused complain.",
+          "Because late delivery, they complained."
+        ],
+        "ans": 1,
+        "why": "\"The delay in delivery\" and \"customer complaints\" pack actions into clear noun phrases."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "His ____ to compromise stalled the negotiations for weeks.",
+        "opts": [
+          "reluctant",
+          "reluctance",
+          "reluctantly",
+          "relucted"
+        ],
+        "ans": 1,
+        "why": "After \"His\", use the noun \"reluctance\"."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "There has been a steady ____ in remote engineering roles.",
+        "opts": [
+          "grow",
+          "growing",
+          "growth",
+          "grew"
+        ],
+        "ans": 2,
+        "why": "\"A steady growth in...\" is the natural nominalized pattern."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "The ____ of the new pricing model sparked lively debate.",
+        "opts": [
+          "introduce",
+          "introduction",
+          "introducing",
+          "introduced"
+        ],
+        "ans": 1,
+        "why": "\"The introduction of...\" uses the noun form."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "The ____ (fail) to back up the database proved costly.",
+        "ans": "failure",
+        "acc": [
+          "failure"
+        ],
+        "why": "Noun form of \"fail\" is \"failure\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "We noticed a significant ____ (improve) in response times.",
+        "ans": "improvement",
+        "acc": [
+          "improvement"
+        ],
+        "why": "Noun form of \"improve\" is \"improvement\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "Their ____ (decide) to postpone the launch was wise.",
+        "ans": "decision",
+        "acc": [
+          "decision"
+        ],
+        "why": "Noun form of \"decide\" is \"decision\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "The ____ (analyze) of recent logs revealed a memory leak.",
+        "ans": "analysis",
+        "acc": [
+          "analysis"
+        ],
+        "why": "Noun form of \"analyze\" is \"analysis\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "Lack of ____ (clear) in the brief caused rework.",
+        "ans": "clarity",
+        "acc": [
+          "clarity"
+        ],
+        "why": "Noun form of \"clear\" is \"clarity\"."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "A implementação da nova regra levou duas semanas.",
+        "ans": "The implementation of the new rule took two weeks.",
+        "why": "The + noun + of + noun phrase + verb."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "O atraso na entrega gerou reclamações.",
+        "ans": "The delay in delivery caused complaints.",
+        "why": "Nominalized subject \"The delay in delivery\"."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "A recusa deles em assinar surpreendeu a diretoria.",
+        "ans": "Their refusal to sign surprised the board.",
+        "why": "Their + refusal + to + verb."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Houve uma queda acentuada nos custos.",
+        "ans": "There was a sharp drop in costs.",
+        "why": "There was + a + adj + noun + in + noun."
+      }
+    ]
+  },
+  {
+    "id": "advanced-conditionals",
+    "lvl": "C1",
+    "name": "Advanced Conditionals & Alternatives to If",
+    "prereq": [
+      "third-conditional",
+      "mixed-conditionals",
+      "inversion"
+    ],
+    "pt": "No C1, você varia além do \"if\": \"provided (that) / as long as\" (desde que), \"unless\" (a menos que), \"in case\" (caso/por precaução), \"otherwise\" (senão), e inversão sem \"if\" (\"Should you need...\", \"Were we to launch...\", \"Had they tested...\"). Armadilha: \"in case\" significa prevenção (não é sinônimo de \"if\"), e \"unless\" nunca leva verbo negativo depois.",
+    "en": "Replace basic \"if\" with provided that, as long as, unless, in case, otherwise, and inverted conditionals (Should you..., Were it not for..., Had we...).",
+    "form": "Provided (that) / As long as + clause; Were it not for + noun; Had + S + V3",
+    "ex": [
+      "We can ship on Friday, provided that all integration tests pass.",
+      "Were it not for the automated backup, we would have lost everything.",
+      "Should you notice any suspicious logins, revoke the session immediately."
+    ],
+    "cmp": "\"Take a charger in case the battery dies\" (precaution). \"Charge it if the battery is low\" (condition).",
+    "mistakes": [
+      {
+        "bad": "Unless you don't hurry, we will miss the train.",
+        "good": "Unless you hurry, we will miss the train.",
+        "why": "\"Unless\" already means \"if not\"; never use another negative."
+      },
+      {
+        "bad": "If I would have known, I had called you.",
+        "good": "Had I known, I would have called you.",
+        "why": "Formal 3rd conditional inversion: Had + subject + V3, ... would have + V3."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "We will renew the contract, ____ they match our security requirements.",
+        "opts": [
+          "provided that",
+          "unless",
+          "in case",
+          "otherwise"
+        ],
+        "ans": 0,
+        "why": "\"Provided that\" means \"only if / on condition that\"."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____ you need any help during onboarding, feel free to message me.",
+        "opts": [
+          "Should",
+          "Would",
+          "Had",
+          "Were"
+        ],
+        "ans": 0,
+        "why": "\"Should you need...\" is a polite C1 equivalent of \"If you happen to need...\"."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____ it not for her quick reaction, the outage would have lasted hours.",
+        "opts": [
+          "Had",
+          "Were",
+          "Should",
+          "Was"
+        ],
+        "ans": 1,
+        "why": "\"Were it not for...\" means \"If it weren't for...\"."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Keep a copy of the passport on your phone ____ you lose the physical one.",
+        "opts": [
+          "provided that",
+          "in case",
+          "unless",
+          "even if"
+        ],
+        "ans": 1,
+        "why": "\"In case\" expresses precaution for a possible future event."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Rotate the keys today; ____, the build pipeline will expire tomorrow.",
+        "opts": [
+          "unless",
+          "provided",
+          "otherwise",
+          "in case"
+        ],
+        "ans": 2,
+        "why": "\"Otherwise\" introduces the consequence of not doing the first action."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (should) the server fail again, switch traffic to the secondary node.",
+        "ans": "Should",
+        "acc": [
+          "Should",
+          "should"
+        ],
+        "why": "1st-conditional inversion starts with \"Should + subject + base verb\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (have) we checked the logs earlier, we would have spotted the bug.",
+        "ans": "Had",
+        "acc": [
+          "Had",
+          "had"
+        ],
+        "why": "3rd-conditional inversion: \"Had + subject + past participle\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "You can work remotely ____ (long) as you join the morning stand-up.",
+        "ans": "as long",
+        "acc": [
+          "as long",
+          "long"
+        ],
+        "why": "\"As long as\" means \"on condition that\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (were) we to cut the price by half, margins would collapse.",
+        "ans": "Were",
+        "acc": [
+          "Were",
+          "were"
+        ],
+        "why": "2nd-conditional inversion: \"Were + subject + to + verb\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "Do not merge the branch ____ (unless / if) two reviewers approve it.",
+        "ans": "unless",
+        "acc": [
+          "unless"
+        ],
+        "why": "\"Unless\" means \"except if\"."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Caso precise de ajuda, me avise.",
+        "ans": "Should you need help, let me know.",
+        "why": "Should + subject + base verb, imperative."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Se não fosse pelo backup, teríamos perdido tudo.",
+        "ans": "Were it not for the backup, we would have lost everything.",
+        "why": "Were it not for + noun phrase, would have + V3."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Aprovamos o plano, desde que o custo caia.",
+        "ans": "We approve the plan, provided that the cost drops.",
+        "why": "Provided that + present simple."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Tivéssemos testado antes, o erro não teria acontecido.",
+        "ans": "Had we tested earlier, the error would not have happened.",
+        "why": "Had + subject + V3, would not have + V3."
+      }
+    ]
+  },
+  {
+    "id": "fronting-and-emphasis",
+    "lvl": "C1",
+    "name": "Fronting & Rhetorical Emphasis",
+    "prereq": [
+      "inversion",
+      "cleft-sentences"
+    ],
+    "pt": "Para dar destaque em apresentações, discursos ou textos C1, movemos o elemento principal para o início da frase (fronting) ou usamos estruturas enfáticas: \"What strikes me is...\", \"Much as I admire...\", \"Strange as it may seem...\", \"The last thing we need is...\".",
+    "en": "Bring key ideas to the front of the sentence for rhetorical impact: \"Much as I respect...\", \"Strange though it may sound...\", \"The last thing we need is...\", \"What really matters is...\".",
+    "form": "Adj + as/though + S + may seem; Much as + S + V; The last thing + S + V + is",
+    "ex": [
+      "Much as I respect his experience, I disagree with this timeline.",
+      "Strange though it may sound, slowing down actually helped us ship faster.",
+      "The last thing we need right now is an unannounced pricing change."
+    ],
+    "cmp": "Neutral: \"Although it seems strange, it worked.\" Emphatic: \"Strange as it may seem, it worked.\"",
+    "mistakes": [
+      {
+        "bad": "As strange it may seem, the bug vanished.",
+        "good": "Strange as it may seem, the bug vanished.",
+        "why": "Put the adjective BEFORE \"as/though\": \"Strange as it may seem\"."
+      },
+      {
+        "bad": "Much as I like coffee, but I stopped.",
+        "good": "Much as I like coffee, I stopped.",
+        "why": "Never use \"but\" after a \"Much as...\" concessive clause."
+      }
+    ],
+    "exercises": [
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____ as it may seem, deleting half the features doubled user retention.",
+        "opts": [
+          "Strange",
+          "Strangely",
+          "As strange",
+          "So strange"
+        ],
+        "ans": 0,
+        "why": "Use Adjective + as + subject + may seem."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____ as I appreciate your offer, I have decided to stay in my current role.",
+        "opts": [
+          "Many",
+          "Much",
+          "Very",
+          "So"
+        ],
+        "ans": 1,
+        "why": "\"Much as I appreciate...\" is a fixed C1 concessive opener."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "The ____ thing we want is another outage during Black Friday.",
+        "opts": [
+          "final",
+          "last",
+          "end",
+          "latest"
+        ],
+        "ans": 1,
+        "why": "\"The last thing we want/need is...\" emphasizes what we strongly want to avoid."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "____ really matters in negotiations is listening before making an offer.",
+        "opts": [
+          "That",
+          "Which",
+          "What",
+          "It"
+        ],
+        "ans": 2,
+        "why": "Use \"What\" to front the main point."
+      },
+      {
+        "t": "mcq",
+        "lvl": "C1",
+        "q": "Hard ____ he tried, he could not reproduce the bug locally.",
+        "opts": [
+          "though",
+          "although",
+          "despite",
+          "however"
+        ],
+        "ans": 0,
+        "why": "Use \"Adverb/Adj + though/as + subject + verb\", never \"although\" in this position."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (much) as I admire her work, the proposal needs revisions.",
+        "ans": "Much",
+        "acc": [
+          "Much",
+          "much"
+        ],
+        "why": "\"Much as...\" means \"even though... very much\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "Difficult ____ (as / although) it was, the team delivered on schedule.",
+        "ans": "as",
+        "acc": [
+          "as",
+          "though"
+        ],
+        "why": "Use \"as\" or \"though\" after a fronted adjective."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "The ____ (last) thing we need is a rushed security patch.",
+        "ans": "last",
+        "acc": [
+          "last"
+        ],
+        "why": "\"The last thing we need is...\" expresses strong avoidance."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "____ (surprise) as it may sound, the simplest fix won.",
+        "ans": "Surprising",
+        "acc": [
+          "Surprising",
+          "surprising"
+        ],
+        "why": "Adjective \"Surprising\" goes before \"as it may sound\"."
+      },
+      {
+        "t": "fill",
+        "lvl": "C1",
+        "q": "What ____ (strike) me most was how calm she stayed.",
+        "ans": "struck",
+        "acc": [
+          "struck",
+          "strikes"
+        ],
+        "why": "\"What struck me most was...\" (past tense matches \"was\")."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Por mais estranho que pareça, o teste passou.",
+        "ans": "Strange as it may seem, the test passed.",
+        "why": "Adjective + as + it may seem, main clause."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Por mais que eu goste da ideia, custa caro demais.",
+        "ans": "Much as I like the idea, it costs too much.",
+        "why": "Much as + subject + verb, main clause."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "A última coisa de que precisamos é outro atraso.",
+        "ans": "The last thing we need is another delay.",
+        "why": "The last thing + subject + need + is + noun."
+      },
+      {
+        "t": "order",
+        "lvl": "C1",
+        "q": "Por mais difícil que fosse, eles não desistiram.",
+        "ans": "Hard though it was, they did not give up.",
+        "why": "Hard + though + it was, main clause."
+      }
+    ]
   }
 ]

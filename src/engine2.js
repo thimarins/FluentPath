@@ -87,7 +87,12 @@ const GPROBE = {
   'gerund-infinitive': /\b(enjoy|avoid|suggest|finish|keep|mind|decide|want|hope|plan|manage|refuse|stop|remember|forget)\b/i,
   'past-continuous': /\b(was|were)\s+\w+ing\b/i,
   'future-forms': /\b(will|going to|'ll|'m going|am going|are going|is going)\b/i,
-  'comparatives': /\b(\w+er|more\s+\w+|less\s+\w+)\s+than\b|\bas\s+\w+\s+as\b/i
+  'comparatives': /\b(\w+er|more\s+\w+|less\s+\w+)\s+than\b|\bas\s+\w+\s+as\b/i,
+  'hedging-diplomatic-language': /\b(was wondering if|would you mind|tend to|tends to|appears? that|seems? (a bit|slightly|that)|with all due respect)\b/i,
+  'discourse-markers-stance': /\b(admittedly|needless to say|broadly speaking|that said|on the contrary|by and large|nonetheless)\b/i,
+  'nominalization-formal-writing': /\b(implementation|reluctance|failure|improvement|decision|analysis|clarity|growth|introduction|refusal)\b/i,
+  'advanced-conditionals': /\b(provided that|as long as|should you|were (it|we|they)|had (we|i|they)|in case|otherwise)\b/i,
+  'fronting-and-emphasis': /\b(much as|strange as it may seem|the last thing|what (really matters|strikes me)|hard though)\b/i
 };
 function gramItem(S, g, wantTier) {
   const c = S.c['g:' + g.id]; const tier = wantTier != null ? wantTier : (c ? Math.max(0, c.tier - scaf(S)) : 0);
